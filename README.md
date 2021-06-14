@@ -9,7 +9,11 @@ This is a typescript seeder project.
 1. eslint
 1. docker and docker compose
 
-## Webstorm integration
+# Features
+1. Tests can be performed via docker.
+
+# Integration
+## Webstorm
 ### eslint
 To get eslint working, make sure yarn is selected as package manager.
 ![Webstorm settings node package manager](doc/webstorm_settings_node_package_manager.PNG)
