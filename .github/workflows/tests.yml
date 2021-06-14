@@ -8,10 +8,6 @@ jobs:
       - name: Check Out Repo
         uses: actions/checkout@v2
 
-      - name: Set up Docker Buildx
-        id: buildx
-        uses: docker/setup-buildx-action@v1
-
       - name: compile
         id: app_compile
         run: docker-compose -f docker/docker-compose.yml up compile
