@@ -3,7 +3,7 @@ This is a typescript seeder project.
 
 # Tech stack
 1. typescript
-1. mocha
+1. mocha with chai
 1. prettier
 1. editor config
 1. eslint
