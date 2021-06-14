@@ -15,3 +15,11 @@ jobs:
       - name: compile
         id: app_compile
         run: docker-compose -f docker/docker-compose.yml up compile
+
+      - name: lint
+        id: app_lint
+        run: docker-compose -f docker/docker-compose.yml up lint
+
+      - name: test
+        id: app_test
+        run: docker-compose -f docker/docker-compose.yml up test
