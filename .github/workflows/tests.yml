@@ -8,14 +8,18 @@ jobs:
       - name: Check Out Repo
         uses: actions/checkout@v2
 
-      - name: compile
+      - name: Build docker image
+        id: docker_build
+        run: docker-compose -f docker/docker-compose.yml build
+
+      - name: Compile app
         id: app_compile
         run: docker-compose -f docker/docker-compose.yml up compile
 
-      - name: lint
+      - name: Lint app
         id: app_lint
         run: docker-compose -f docker/docker-compose.yml up lint
 
-      - name: test
+      - name: Run app tests
         id: app_test
         run: docker-compose -f docker/docker-compose.yml up test
