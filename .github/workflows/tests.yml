@@ -14,12 +14,12 @@ jobs:
 
       - name: Compile app
         id: app_compile
-        run: docker-compose -f docker/docker-compose.yml up compile
+        run: docker-compose -f docker/docker-compose.yml run --rm compile
 
       - name: Lint app
         id: app_lint
-        run: docker-compose -f docker/docker-compose.yml up lint
+        run: docker-compose -f docker/docker-compose.yml run --rm lint
 
       - name: Run app tests
         id: app_test
-        run: docker-compose -f docker/docker-compose.yml up test
+        run: docker-compose -f docker/docker-compose.yml run --rm test
