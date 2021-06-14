@@ -14,4 +14,4 @@ jobs:
 
       - name: compile
         id: app_compile
-        run: docker compose -f docker/docker-compose.yml up compile
+        run: docker-compose -f docker/docker-compose.yml up compile
