@@ -1,0 +1,35 @@
+{
+  "name": "typescript-project-seeder",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "compile": "tsc --declaration",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "@types/chai": "^4",
+    "@types/mocha": "^8.2.2",
+    "@types/node": "^15.12.2",
+    "@types/prettier": "^2",
+    "@typescript-eslint/eslint-plugin": "^4.26.1",
+    "@typescript-eslint/parser": "^4.26.1",
+    "assert": "^2.0.0",
+    "chai": "^4.3.4",
+    "eslint": "^7.28.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-import-resolver-node": "^0.3.4",
+    "eslint-plugin-filenames": "^1.3.2",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-security": "^1.4.0",
+    "eslint-plugin-unused-imports": "^1.1.1",
+    "mocha": "^9.0.0",
+    "prettier": "^2.3.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "@types/assert": "^1.5.4"
+  }
+}

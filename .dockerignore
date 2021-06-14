@@ -1,0 +1,26 @@
+# Yarn - same as git ignore
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+node_modules
+
+# Jetbrain - everything
+.idea
+.iml
+
+# OS
+.DS_Store
+
+# Build
+dist
+
+# docker
+docker/Dockerfile
+docker/docker-compose.yml
+
+# Coverage
+coverages
