@@ -1,9 +1,10 @@
 {
   "name": "typescript-project-seeder",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "src/main.ts",
   "license": "MIT",
   "scripts": {
+    "start": "nodemon",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx && yamllint --strict .",
     "compile": "tsc --declaration",
     "test": "mocha"
@@ -25,6 +26,7 @@
     "eslint-plugin-security": "^1.4.0",
     "eslint-plugin-unused-imports": "^1.1.1",
     "mocha": "^9.0.0",
+    "nodemon": "^2.0.9",
     "prettier": "^2.3.1",
     "ts-node": "^10.0.0",
     "typescript": "^4.3.2"
