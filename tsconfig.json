@@ -3,7 +3,9 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "allowJs": false,
-    "target": "es5"
+    "target": "ES2020",
+    "lib": ["ES2020"],
+    "module": "CommonJS",
   },
   "include": ["./src/**/*"],
   "exclude": ["node_modules"],
