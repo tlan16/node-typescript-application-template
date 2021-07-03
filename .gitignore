@@ -1,12 +1,11 @@
-# Yarn
+# Yarn - using zero install
 .yarn/*
+!.yarn/cache
 !.yarn/patches
-!.yarn/releases
 !.yarn/plugins
+!.yarn/releases
 !.yarn/sdks
 !.yarn/versions
-.pnp.*
-node_modules
 
 # Jetbrain
 .idea/workspace.xml
