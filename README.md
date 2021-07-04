@@ -14,10 +14,13 @@ This is a typescript seeder project.
 1. Tests can be performed via docker.
 
 ## Local Development
-1. install nvm or use specified node version described in `.nvmrc`.
+1. install nvm or use specified node version described in [.nvmrc](.nvmrc).
 1. install package manager `pnpm` globally by `npm install --global pnpm`
 1. install node dependencies by `pnpm install`.
 1. run `pnpm run start`.
+
+## Cloud runtime environment
+Please refer to [Dockerfile](docker/Dockerfile).
 
 ## Integration
 ### Webstorm
