@@ -7,7 +7,7 @@
     "start": "nodemon",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx && yamllint --strict .",
     "compile": "tsc --declaration",
-    "test": "env TS_NODE_COMPILER_OPTIONS='{\"module\": \"commonjs\" }' mocha"
+    "test": "mocha"
   },
   "devDependencies": {
     "@types/chai": "^4.2.19",
