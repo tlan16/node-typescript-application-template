@@ -1,11 +1,5 @@
-# Yarn - using zero install
-.yarn/*
-!.yarn/cache
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
+# node packages
+node_modules
 
 # Jetbrain
 .idea/workspace.xml

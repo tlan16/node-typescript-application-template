@@ -1,11 +1,4 @@
-# Yarn - same as git ignore
-.yarn/*
-!.yarn/patches
-!.yarn/releases
-!.yarn/plugins
-!.yarn/sdks
-!.yarn/versions
-.pnp.*
+# node packages
 node_modules
 
 # Jetbrain - everything
