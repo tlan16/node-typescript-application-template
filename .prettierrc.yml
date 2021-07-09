@@ -1,12 +1,16 @@
 ---
-semi: false
-trailingComma: 'all'
-singleQuote: true
-printWidth: 120
-tabWidth: 4
+# Please keep alphabetic order
+bracketSpacing: true
+endOfLine: lf
 overrides:
   - files:
       - .yaml
       - .yml
     options:
       tabWidth: 2
+printWidth: 120
+semi: false
+singleQuote: true
+tabWidth: 4
+trailingComma: 'all'
+useTabs: false
