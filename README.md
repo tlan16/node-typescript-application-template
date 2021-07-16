@@ -1,5 +1,5 @@
 ## Overview
-This is a typescript seeder project.
+This is a typescript seed project.
 
 ## Tech stack
 1. typescript
