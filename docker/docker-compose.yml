@@ -6,11 +6,11 @@ services:
       context: ..
       dockerfile: docker/Dockerfile
     command: 'pnpm run test'
-  compile:
+  build:
     build:
       context: ..
       dockerfile: docker/Dockerfile
-    command: 'pnpm run compile'
+    command: 'pnpm run build'
   lint:
     build:
       context: ..

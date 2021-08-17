@@ -8,7 +8,7 @@
     "lint": "pnpm lint:app && pnpm lint:yaml",
     "lint:app": "eslint . --ext .js,.jsx,.ts,.tsx",
     "lint:yaml": "yamllint --strict .",
-    "compile": "tsc --declaration",
+    "build": "tsc --declaration",
     "test": "mocha"
   },
   "devDependencies": {
