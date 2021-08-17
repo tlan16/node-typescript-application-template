@@ -9,6 +9,7 @@ overrides:
     options:
       tabWidth: 2
 printWidth: 120
+root: true
 semi: false
 singleQuote: true
 tabWidth: 4
