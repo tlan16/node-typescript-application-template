@@ -5,14 +5,19 @@ services:
     build:
       context: ..
       dockerfile: docker/Dockerfile
-    command: 'pnpm run test'
+    command: 'yarn test'
   build:
     build:
       context: ..
       dockerfile: docker/Dockerfile
-    command: 'pnpm run build'
+    command: 'yarn build'
   lint:
     build:
       context: ..
       dockerfile: docker/Dockerfile
-    command: 'pnpm run lint'
+    command: 'yarn lint'
+  lint-yaml:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    command: 'yamllint --strict .'

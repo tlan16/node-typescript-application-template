@@ -1,12 +1,11 @@
 # node packages
-node_modules
+.yarn/*
+!.yarn/cache
+!.yarn/plugins
+!.yarn/releases
 
 # Jetbrain - everything
 .idea
-.iml
-
-# OS
-.DS_Store
 
 # Build
 dist
