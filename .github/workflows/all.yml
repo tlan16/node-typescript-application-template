@@ -18,11 +18,11 @@ jobs:
         run: docker-compose -f docker/docker-compose.yml run --rm build
 
       - name: Lint app
-        id: app_lint
+        id: app_lint_app
         run: docker-compose -f docker/docker-compose.yml run --rm lint
 
       - name: Lint yaml
-        id: app_lint
+        id: app_lint_yaml
         run: docker-compose -f docker/docker-compose.yml run --rm lint-yaml
 
       - name: Run app tests
