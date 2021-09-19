@@ -1,4 +1,5 @@
 # node packages
+node_modules
 .yarn/*
 !.yarn/cache
 !.yarn/plugins
