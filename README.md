@@ -15,15 +15,8 @@ This is a typescript seed project.
 
 ## Local Development
 1. install nvm or use specified node version described in [.nvmrc](.nvmrc).
-1. install package manager `pnpm` globally by `npm install --global pnpm`
-1. install node dependencies by `pnpm install`.
-1. run `pnpm run start`.
+1. use package manager `yarn` to install node dependencies.
+1. run `yarn start`.
 
 ## Cloud runtime environment
 Please refer to [Dockerfile](docker/Dockerfile).
-
-## Integration
-### Webstorm
-#### eslint
-To get eslint working, make sure yarn is selected as package manager.
-![Webstorm settings node package manager](doc/webstorm_settings_node_package_manager.PNG)
