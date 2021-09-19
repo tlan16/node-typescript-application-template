@@ -14,20 +14,9 @@ jobs:
 
       - name: Build docker image
         id: docker_build
-        run: docker-compose -f docker/docker-compose.yml build
-
-      - name: Compile app
-        id: app_compile
-        run: docker-compose -f docker/docker-compose.yml run --rm build
-
-      - name: Lint app
-        id: app_lint_app
-        run: docker-compose -f docker/docker-compose.yml run --rm lint
-
-      - name: Lint yaml
-        id: app_lint_yaml
-        run: docker-compose -f docker/docker-compose.yml run --rm lint-yaml
-
-      - name: Run app tests
-        id: app_test
-        run: docker-compose -f docker/docker-compose.yml run --rm test
+        run: |
+          docker-compose -f docker/docker-compose.yml build
+          docker-compose -f docker/docker-compose.yml run --rm build
+          docker-compose -f docker/docker-compose.yml run --rm lint
+          docker-compose -f docker/docker-compose.yml run --rm lint-yaml
+          docker-compose -f docker/docker-compose.yml run --rm test
