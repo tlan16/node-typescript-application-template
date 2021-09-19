@@ -15,7 +15,7 @@ services:
     build:
       context: ..
       dockerfile: docker/Dockerfile
-    command: 'yarn lint'
+    command: 'yarn lint:app'
   lint-yaml:
     build:
       context: ..
