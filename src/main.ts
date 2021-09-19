@@ -1,2 +1,3 @@
-const str = 'hello world'
-console.log(str)
+import { hello } from './app'
+
+console.log(hello())
