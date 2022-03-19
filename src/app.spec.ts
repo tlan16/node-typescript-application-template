@@ -1,6 +1,6 @@
-import * as assert from 'assert'
+import { equal } from 'assert/strict'
 import { hello } from './app'
 
 it('should pass', () => {
-    assert.equal(hello(), 'hello world')
+    equal(hello(), 'hello world')
 })
