@@ -1,5 +1,5 @@
 ---
-name: GitHub Actions Demo
+name: Continueous integration
 'on':
   - push
 jobs:
