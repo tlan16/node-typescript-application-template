@@ -1,8 +1,8 @@
 {
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
     "extends": [
-        "local>renovate/preset:default",
-        "local>renovate/preset:groupAllNonMajor",
+        "github>tlan16/renovate-preset:default",
+        "github>tlan16/renovate-preset:groupAllNonMajor",
         "schedule:weekly",
         ":automergeMinor",
         ":automergeDigest"
