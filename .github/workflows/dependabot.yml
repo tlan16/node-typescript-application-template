@@ -3,7 +3,9 @@
 name: denpendabot
 
 'on':
-  - pull_request
+  pull_request:
+    branches:
+      - main
 
 jobs:
   auto-merge:
