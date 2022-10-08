@@ -6,4 +6,4 @@ RUN apk add --no-cache --upgrade yamllint
 # App
 WORKDIR /app
 ADD . .
-RUN yarn
+RUN yarn --immutable
