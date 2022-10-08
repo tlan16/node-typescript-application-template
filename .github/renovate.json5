@@ -1,0 +1,15 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "local>renovate/preset:default",
+        "local>renovate/preset:groupAllNonMajor",
+        "schedule:weekly",
+        ":automergeMinor",
+        ":automergeDigest"
+    ],
+    "packageRules": [{
+        "packageNames": ["node"],
+        "matchUpdateTypes": ["minor", "patch", "major"],
+        "groupName": "node",
+    }],
+}
