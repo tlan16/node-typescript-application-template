@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "main": "src/main.ts",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "start": "NODE_ENV=development nodemon",
     "lint": "yarn lint:app && yarn lint:yaml",
@@ -15,7 +16,7 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "@tsconfig/node16": "^1.0.2",
+    "@tsconfig/node18-strictest-esm": "^1.0.1",
     "@types/assert": "^1.5.6",
     "@types/chai": "4.3.3",
     "@types/mocha": "10.0.0",
@@ -39,9 +40,6 @@
     "rimraf": "^3.0.2",
     "ts-node": "10.9.1",
     "typescript": "^4.6.2"
-  },
-  "engines": {
-    "node": "17.7.2"
   },
   "packageManager": "yarn@3.2.4"
 }

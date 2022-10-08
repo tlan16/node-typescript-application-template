@@ -169,6 +169,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@tsconfig/node18-strictest-esm@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "@tsconfig/node18-strictest-esm@npm:1.0.1"
+  checksum: 9da55e6959defe1115996e3360decbf70f83fae925967c418a5a387db52daa005f6b270b858bea42d74c134ff7155157c5cabbfecc9c783fd1129e354ec2f31c
+  languageName: node
+  linkType: hard
+
 "@types/assert@npm:^1.5.6":
   version: 1.5.6
   resolution: "@types/assert@npm:1.5.6"
@@ -2289,7 +2296,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "node-typescript-app-template@workspace:."
   dependencies:
-    "@tsconfig/node16": ^1.0.2
+    "@tsconfig/node18-strictest-esm": ^1.0.1
     "@types/assert": ^1.5.6
     "@types/chai": 4.3.3
     "@types/mocha": 10.0.0
