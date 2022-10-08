@@ -12,5 +12,5 @@
         "matchUpdateTypes": ["minor", "patch", "major"],
         "groupName": "node",
     }],
-    "prHourlyLimit": 0,
+    "prHourlyLimit": 99,
 }
