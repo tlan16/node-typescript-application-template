@@ -5,7 +5,12 @@
         "github>tlan16/renovate-preset:groupAllNonMajor",
 //        "schedule:weekly",
         ":automergeMinor",
-        ":automergeDigest"
+        ":automergeDigest",
+        ":automergeRequireAllStatusChecks",
+        ":automergeTypes",
+        ":automergeTesters",
+        ":automergeLinters",
+        ":rebaseStalePrs",
     ],
     "packageRules": [{
         "packageNames": ["node"],
