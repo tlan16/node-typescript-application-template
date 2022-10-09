@@ -1,0 +1,11 @@
+{
+  "verbose": true,
+  "ignore": [
+    "*.spec.js",
+    "*.spec.mjs",
+    "**/fixtures/**"
+  ],
+  "execMap": {
+    "mts": "ts-node-esm"
+  }
+}
