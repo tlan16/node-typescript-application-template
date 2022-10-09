@@ -1,4 +1,6 @@
-const mjsResolver = (path, options) => {
+import type { JestResolverOptions } from 'jest-pnp-resolver'
+
+const mjsResolver = (path: string, options: JestResolverOptions) => {
     const mjsExtRegex = /\.mjs$/i
     const resolver = options.defaultResolver
     if (mjsExtRegex.test(path)) {
