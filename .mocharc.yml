@@ -1,9 +1,0 @@
----
-"extension": ["ts"]
-"spec":
-  - "src/**/*.spec.ts"
-  - "src/**/*.spec.mts"
-"require": "ts-node/register"
-"node-option":
-  - "experimental-specifier-resolution=node"
-  - "loader=ts-node/esm"
