@@ -1,3 +1,3 @@
-export function hello(): string {
-    return 'hello world'
+export async function hello(): Promise<string> {
+    return Promise.resolve('Hello World!');
 }

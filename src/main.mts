@@ -1,3 +1,4 @@
 import { hello } from './app.mjs'
 
-console.log(hello())
+const str = await hello()
+console.log(str)
