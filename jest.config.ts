@@ -8,7 +8,7 @@ const config: JestConfigWithTsJest = {
     /**
      * @see https://kulshekhar.github.io/ts-jest/docs/guides/esm-support#support-mts-extension
      */
-    resolver: '<rootDir>/mjs-resolver.ts',
+    resolver: '<rootDir>/mjs-resolver.cjs',
     extensionsToTreatAsEsm: ['.ts', '.mts'],
     moduleFileExtensions: ['js', 'ts', 'mts'],
     coverageProvider: 'v8',
