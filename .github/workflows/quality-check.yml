@@ -30,4 +30,4 @@ jobs:
 
       - name: Run app tests
         id: app_test
-        run: docker-compose -f docker/docker-compose.yml run --rm test --collectCoverage
+        run: docker-compose -f docker/docker-compose.yml run --rm test

@@ -5,7 +5,7 @@ services:
     build:
       context: ..
       dockerfile: docker/Dockerfile
-    command: 'yarn test'
+    command: 'yarn test --collectCoverage'
   build:
     build:
       context: ..
