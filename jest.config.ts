@@ -11,6 +11,9 @@ const config: JestConfigWithTsJest = {
     resolver: '<rootDir>/mjs-resolver.ts',
     extensionsToTreatAsEsm: ['.ts', '.mts'],
     moduleFileExtensions: ['js', 'ts', 'mts'],
+    coverageProvider: 'v8',
+    collectCoverageFrom: ['src/**/*.{mts,ts}'],
+    coveragePathIgnorePatterns: ['<rootDir>/node_modules', '<rootDir>/src/main.mts'],
     transform: {
         ...tsjPreset.transform,
         // process esm files with `ts-jest`
