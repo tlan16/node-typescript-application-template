@@ -29,3 +29,9 @@ dist
 # Temp folder
 /temp
 /tmp
+
+# Lint
+.eslintcache
+
+# Typescript
+tsconfig.tsbuildinfo
