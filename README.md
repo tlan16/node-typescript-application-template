@@ -2,16 +2,16 @@
 This is a typescript seed project.
 
 ## Tech stack
-1. typescript
-2. mocha with chai
-3. packages managed by pnpm
+1. typescript with full esm support
+2. testing with jest
+3. packages managed by yarn v3 with zero-install
 4. prettier
 5. editor config
 6. eslint
 7. docker and docker compose
 
 ## Features
-1. Tests can be performed via docker.
+1. Tests can be performed inside docker, so it doesn't rely on CI base image.
 
 ## Local Development
 1. install nvm or use specified node version described in [.nvmrc](.nvmrc).
