@@ -1,5 +1,5 @@
-import type { JestConfigWithTsJest } from 'ts-jest'
-import { defaultsESM as tsjPreset } from 'ts-jest/presets'
+import type { JestConfigWithTsJest } from 'ts-jest';
+import { defaultsESM as tsjPreset } from 'ts-jest/presets';
 
 const config: JestConfigWithTsJest = {
     preset: 'ts-jest/presets/default-esm',
@@ -25,6 +25,6 @@ const config: JestConfigWithTsJest = {
         ],
     },
     testMatch: ['<rootDir>/src/**/*.spec.{mts,ts}'],
-}
+};
 
-export default config
+export default config;

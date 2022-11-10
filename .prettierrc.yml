@@ -10,7 +10,7 @@ overrides:
       tabWidth: 2
 printWidth: 120
 root: true
-semi: false
+semi: true
 singleQuote: true
 tabWidth: 4
 trailingComma: 'all'

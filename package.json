@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "NODE_ENV=development nodemon",
-    "lint": "yarn lint:app && yarn lint:yaml",
-    "lint:app": "eslint . --ext .js,.jsx,.ts,.tsx --cache",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx --cache --fix",
     "lint:yaml": "yarn dcr lint-yaml",
     "build": "rimraf dist && tsc --declaration",
     "dc": "docker-compose -f docker/docker-compose.yml",

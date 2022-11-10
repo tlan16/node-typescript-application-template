@@ -93,9 +93,6 @@ rules:
     - allowTemplateLiterals: true
   security/detect-new-buffer: error
   security/detect-unsafe-regex: error
-  semi:
-    - error
-    - never
   unused-imports/no-unused-imports: error
   unused-imports/no-unused-vars: error
 settings:
