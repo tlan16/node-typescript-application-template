@@ -8,8 +8,12 @@ node_modules
 !.yarn/sdks
 !.yarn/versions
 
-# Jetbrain - everything
+# Editors
 .idea
+.vscode
+
+# OS
+.DS_Store
 
 # Build
 dist
