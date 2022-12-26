@@ -2017,7 +2017,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/rimraf@npm:^3":
+"@types/rimraf@npm:^3.0.2":
   version: 3.0.2
   resolution: "@types/rimraf@npm:3.0.2"
   dependencies:
@@ -5378,7 +5378,7 @@ __metadata:
     "@types/eslint": ^8.4.10
     "@types/jest": ^29.2.4
     "@types/node": ^18.11.17
-    "@types/rimraf": ^3
+    "@types/rimraf": ^3.0.2
     "@typescript-eslint/eslint-plugin": ^5.47.0
     babel-jest: ^29.3.1
     eslint: ^8.30.0
