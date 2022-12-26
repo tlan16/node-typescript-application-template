@@ -2,6 +2,11 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "incremental": true,
-    "declaration": true,
+    "declaration": true
   },
+  "include": [
+    "src/**/*",
+    "jest.config.ts",
+  ],
+  "exclude": []
 }

@@ -1,23 +1,11 @@
 ---
 version: '3.9'
 services:
-  test:
+  app:
     build:
       context: ..
       dockerfile: docker/Dockerfile
-    command: 'yarn test --collect-coverage'
-  build:
-    build:
-      context: ..
-      dockerfile: docker/Dockerfile
-    command: 'yarn build'
-  lint:
-    build:
-      context: ..
-      dockerfile: docker/Dockerfile
-    command: 'yarn lint:app'
-  lint-yaml:
-    build:
-      context: ..
-      dockerfile: docker/Dockerfile
-    command: 'yamllint --strict .'
+      cache_from:
+        - app
+    image: app
+    entrypoint: 'yarn'

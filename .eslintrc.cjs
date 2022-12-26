@@ -17,7 +17,10 @@ const eslintConfig = {
     'unused-imports',
     '@typescript-eslint',
   ],
-  parser: '@babel/eslint-parser',
+  parser: '@typescript-eslint/parser',
+  parserOptions: {
+    project: ['./tsconfig.dev.json'],
+  },
   rules: {
     'semi': ['error', 'always'],
     'comma-dangle': ['error', {
