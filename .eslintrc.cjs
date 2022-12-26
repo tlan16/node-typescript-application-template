@@ -26,6 +26,7 @@ const eslintConfig = {
     'comma-dangle': ['error', {
       arrays: 'always-multiline',
       objects: 'always-multiline',
+      functions: 'always-multiline',
     }],
     'no-unused-vars': 'off', // replaced by unused-imports/no-unused-vars
     "@typescript-eslint/no-unused-vars": "off", // replaced by unused-imports/no-unused-vars
