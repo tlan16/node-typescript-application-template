@@ -1,4 +1,4 @@
 import { hello } from './app';
 
-const str = await hello();
-console.log(str);
+const string_ = await hello();
+console.log(string_);

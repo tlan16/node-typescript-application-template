@@ -11,6 +11,7 @@ const eslintConfig = {
     'plugin:prettier/recommended',
     'plugin:import/recommended',
     'plugin:@typescript-eslint/recommended',
+    'plugin:unicorn/recommended',
   ],
   plugins: [
     'unused-imports',
