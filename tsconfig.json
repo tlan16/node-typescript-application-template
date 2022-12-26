@@ -1,11 +1,9 @@
 {
-  "$schema": "https://json.schemastore.org/tsconfig",
   "extends": "@tsconfig/node18-strictest-esm/tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist",
-    "rootDir": "./src",
-    "incremental": true
+    "outDir": "dist",
+    "rootDir": "src"
   },
-  "include": ["./src/**/*"],
-  "exclude": ["node_modules", "src/**/*.spec.ts"],
+  "include": ["src/**/*"],
+  "exclude": ["src/**/*.spec.ts"],
 }

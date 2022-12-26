@@ -15,7 +15,5 @@ load_nvm() {
             echo "yarn not found, installing yarn"
             npm install -g yarn
         fi
-    else
-        echo "nvm not found"
     fi
 }

@@ -1,1 +1,6 @@
-post-checkout
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+. "$(dirname -- "$0")/_/load_nvm.sh"
+
+load_nvm
+yarn install --immutable
