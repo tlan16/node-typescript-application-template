@@ -10,9 +10,11 @@ const eslintConfig = {
     'eslint:recommended',
     'plugin:prettier/recommended',
     'plugin:import/recommended',
+    'plugin:@typescript-eslint/recommended',
   ],
   plugins: [
     'unused-imports',
+    '@typescript-eslint',
   ],
   parser: '@babel/eslint-parser',
   rules: {
@@ -21,7 +23,8 @@ const eslintConfig = {
       arrays: 'always-multiline',
       objects: 'always-multiline',
     }],
-    'no-unused-vars': 'off',
+    'no-unused-vars': 'off', // replaced by unused-imports/no-unused-vars
+    "@typescript-eslint/no-unused-vars": "off", // replaced by unused-imports/no-unused-vars
     "unused-imports/no-unused-imports": "warn",
     "unused-imports/no-unused-vars": [
       "warn",
