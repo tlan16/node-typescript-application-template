@@ -12,6 +12,7 @@ const eslintConfig = {
     'plugin:import/recommended',
   ],
   plugins: [
+    'unused-imports',
   ],
   parser: '@babel/eslint-parser',
   rules: {
@@ -21,6 +22,11 @@ const eslintConfig = {
       objects: 'always-multiline',
     }],
     'no-unused-vars': 'off',
+    "unused-imports/no-unused-imports": "warn",
+    "unused-imports/no-unused-vars": [
+      "warn",
+      { "vars": "all", "varsIgnorePattern": "^_", "args": "after-used", "argsIgnorePattern": "^_" }
+    ],
   },
   settings: {
     'import/resolver': {
