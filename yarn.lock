@@ -3254,6 +3254,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"dotenv@npm:^16.0.3":
+  version: 16.0.3
+  resolution: "dotenv@npm:16.0.3"
+  checksum: 23c2475b81137d02d03baabe3890b969ddd32ff33df2bc3c5f02ce73b9739b6bc8bef941e82049dedd160038bf7ba6e69934b254d9133c292cc4aa87933c34fd
+  languageName: node
+  linkType: hard
+
 "eastasianwidth@npm:^0.2.0":
   version: 0.2.0
   resolution: "eastasianwidth@npm:0.2.0"
@@ -5758,6 +5765,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": ^5.47.0
     "@typescript-eslint/parser": ^5.47.0
     babel-jest: ^29.3.1
+    dotenv: ^16.0.3
     eslint: ^8.30.0
     eslint-config-prettier: ^8.5.0
     eslint-import-resolver-typescript: ^3.5.2
