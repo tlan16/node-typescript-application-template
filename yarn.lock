@@ -7357,11 +7357,11 @@ __metadata:
 
 "typescript@patch:typescript@^4.9.4#~builtin<compat/typescript>":
   version: 4.9.5
-  resolution: "typescript@patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=23ec76"
+  resolution: "typescript@patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=289587"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 3f329db2d16ff6f735c40233a90a73c00118d1d2bb62f0c28b07f609b3850bb405bc2ff7c76df07e98da9f13125bc2027f015f37607f7b2dbba87f8920075196
+  checksum: 783a5fe0043b899b1203649032d7ee790c8242595378debfb15cf1ffd617a4542e16c8b2464b3811bfb5cca495b7c8b2d584be450b580954c950d4098a192987
   languageName: node
   linkType: hard
 
