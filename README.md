@@ -2,13 +2,14 @@
 This is a typescript seed project.
 
 ## Tech stack
-1. typescript with full esm support
-2. testing with jest
-3. packages managed by yarn v3 with zero-install
-4. prettier
-5. editor config
-6. eslint
-7. docker and docker compose v2
+1. Node v20
+2. typescript v5 with full esm support
+3. testing with jest
+4. packages managed by yarn v3 with zero-install
+5. prettier
+6. editor config
+7. eslint
+8. docker and docker compose v2
 
 ## Features
 1. Tests can be performed inside docker, so it doesn't rely on CI base image.
