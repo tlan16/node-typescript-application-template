@@ -8,26 +8,26 @@ jobs:
     steps:
       - uses: KengoTODA/actions-setup-docker-compose@main
         with:
-          version: '1.29.2'
+          version: '2.14.2'
       - name: Check Out Repo
         uses: actions/checkout@v3
 
       - name: Build docker image
         id: docker_build
-        run: docker-compose -f docker/docker-compose.yml build app
+        run: docker compose -f docker/docker-compose.yml build app
 
       - name: Compile app
         id: app_compile
-        run: docker-compose -f docker/docker-compose.yml run --rm app build
+        run: docker compose -f docker/docker-compose.yml run --rm app build
 
       - name: Lint app
         id: app_lint_app
-        run: docker-compose -f docker/docker-compose.yml run --rm app lint
+        run: docker compose -f docker/docker-compose.yml run --rm app lint
 
       - name: Lint yaml
         id: app_lint_yaml
-        run: docker-compose -f docker/docker-compose.yml run --rm app lint:yaml
+        run: docker compose -f docker/docker-compose.yml run --rm app lint:yaml
 
       - name: Run app tests
         id: app_test
-        run: docker-compose -f docker/docker-compose.yml run --rm app test
+        run: docker compose -f docker/docker-compose.yml run --rm app test

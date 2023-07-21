@@ -12,8 +12,8 @@
     "check-types": "tsc --project tsconfig.dev.json --noEmit",
     "lint:yaml": "yamllint .",
     "build": "trash dist && webpack --mode=production",
-    "dc": "docker-compose -f docker/docker-compose.yml",
-    "dcr": "yarn dc run --rm",
+    "dcp": "docker compose -f docker/docker-compose.yml",
+    "dcpr": "yarn dc run --rm",
     "test": "jest",
     "prepare": "husky install"
   },
