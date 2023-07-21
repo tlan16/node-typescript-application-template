@@ -8,7 +8,7 @@ This is a typescript seed project.
 4. prettier
 5. editor config
 6. eslint
-7. docker and docker compose
+7. docker and docker compose v2
 
 ## Features
 1. Tests can be performed inside docker, so it doesn't rely on CI base image.
