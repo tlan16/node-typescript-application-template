@@ -13,7 +13,7 @@
     "lint:yaml": "yamllint .",
     "build": "trash dist && webpack --mode=production",
     "dcp": "docker compose -f docker/docker-compose.yml",
-    "dcpr": "yarn dcp run --rm",
+    "dcpr": "yarn dcp run --rm --quiet-pull",
     "test": "jest",
     "prepare": "husky install"
   },
