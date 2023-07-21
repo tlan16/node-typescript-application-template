@@ -1949,35 +1949,28 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tsconfig/node10@npm:^1.0.7":
-  version: 1.0.9
-  resolution: "@tsconfig/node10@npm:1.0.9"
-  checksum: a33ae4dc2a621c0678ac8ac4bceb8e512ae75dac65417a2ad9b022d9b5411e863c4c198b6ba9ef659e14b9fb609bbec680841a2e84c1172df7a5ffcf076539df
+"@tsconfig/node14@npm:*":
+  version: 14.1.0
+  resolution: "@tsconfig/node14@npm:14.1.0"
+  checksum: 8342dc30edbfaed11d1659b1a9819779bb69df210974a9e8a337b0624b1d9f5026f37e2dcc1d555adb3e4246a0ec35896b3ae5fe3fc69f3382d3bc11069cecc1
   languageName: node
   linkType: hard
 
-"@tsconfig/node12@npm:^1.0.7":
-  version: 1.0.11
-  resolution: "@tsconfig/node12@npm:1.0.11"
-  checksum: 5ce29a41b13e7897a58b8e2df11269c5395999e588b9a467386f99d1d26f6c77d1af2719e407621412520ea30517d718d5192a32403b8dfcc163bf33e40a338a
+"@tsconfig/node16@npm:*":
+  version: 16.1.0
+  resolution: "@tsconfig/node16@npm:16.1.0"
+  checksum: a0a176492e3802a5340eda1e61eabc8d4767e46496bc080ce9c381993ce8c5fb3df8f65267c3a9af4335bc00a85028845f795ea27545f63d62b93ab6675cf8fa
   languageName: node
   linkType: hard
 
-"@tsconfig/node14@npm:^1.0.0":
-  version: 1.0.3
-  resolution: "@tsconfig/node14@npm:1.0.3"
-  checksum: 19275fe80c4c8d0ad0abed6a96dbf00642e88b220b090418609c4376e1cef81bf16237bf170ad1b341452feddb8115d8dd2e5acdfdea1b27422071163dc9ba9d
+"@tsconfig/node18@npm:*":
+  version: 18.2.0
+  resolution: "@tsconfig/node18@npm:18.2.0"
+  checksum: 04263c931db2f69f5bd421755bae83df5623701bab3ce086fad4a775c14f523d864ef2ca3282fc1f866895914d474fa3871809647dd089259aa66631c1e47a76
   languageName: node
   linkType: hard
 
-"@tsconfig/node16@npm:^1.0.2":
-  version: 1.0.4
-  resolution: "@tsconfig/node16@npm:1.0.4"
-  checksum: 202319785901f942a6e1e476b872d421baec20cf09f4b266a1854060efbf78cde16a4d256e8bc949d31e6cd9a90f1e8ef8fb06af96a65e98338a2b6b0de0a0ff
-  languageName: node
-  linkType: hard
-
-"@tsconfig/node20@npm:^20.1.0":
+"@tsconfig/node20@npm:*, @tsconfig/node20@npm:^20.1.0":
   version: 20.1.0
   resolution: "@tsconfig/node20@npm:20.1.0"
   checksum: be4c29944236c10433bafbbf5763cc26d7a095d894faf9bcefe527f7bd55a0aca56b9178b287579b8ad76af9624e9a0713bc1072e891e676e269fa933677386c
@@ -3399,13 +3392,6 @@ __metadata:
   dependencies:
     browserslist: ^4.21.9
   checksum: 9a16d6992621f4e099169297381a28d5712cdef7df1fa85352a7c285a5885d5d7a117ec2eae9ad715ed88c7cc774787a22cdb8aceababf6775fbc8b0cbeccdb7
-  languageName: node
-  linkType: hard
-
-"create-require@npm:^1.1.0":
-  version: 1.1.1
-  resolution: "create-require@npm:1.1.1"
-  checksum: a9a1503d4390d8b59ad86f4607de7870b39cad43d929813599a23714831e81c520bddf61bcdd1f8e30f05fd3a2b71ae8538e946eb2786dc65c2bbc520f692eff
   languageName: node
   linkType: hard
 
@@ -6396,7 +6382,7 @@ __metadata:
     prettier: ^3.0.0
     trash-cli: ^5.0.0
     ts-loader: ^9.4.4
-    ts-node: ^10.9.1
+    ts-node: "git@github.com:TypeStrong/ts-node.git"
     typescript: ^5.1.6
     webpack: ^5.88.2
     webpack-cli: ^5.1.4
@@ -7911,28 +7897,26 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-node@npm:^10.9.1":
+"ts-node@git@github.com:TypeStrong/ts-node.git":
   version: 10.9.1
-  resolution: "ts-node@npm:10.9.1"
+  resolution: "ts-node@git@github.com:TypeStrong/ts-node.git#commit=47d4f45f35e824a2515e17383a563be7dba7d8ff"
   dependencies:
     "@cspotcode/source-map-support": ^0.8.0
-    "@tsconfig/node10": ^1.0.7
-    "@tsconfig/node12": ^1.0.7
-    "@tsconfig/node14": ^1.0.0
-    "@tsconfig/node16": ^1.0.2
+    "@tsconfig/node14": "*"
+    "@tsconfig/node16": "*"
+    "@tsconfig/node18": "*"
+    "@tsconfig/node20": "*"
     acorn: ^8.4.1
     acorn-walk: ^8.1.1
     arg: ^4.1.0
-    create-require: ^1.1.0
     diff: ^4.0.1
     make-error: ^1.1.1
     v8-compile-cache-lib: ^3.0.1
-    yn: 3.1.1
   peerDependencies:
     "@swc/core": ">=1.2.50"
     "@swc/wasm": ">=1.2.50"
     "@types/node": "*"
-    typescript: ">=2.7"
+    typescript: ">=4.2"
   peerDependenciesMeta:
     "@swc/core":
       optional: true
@@ -7944,8 +7928,7 @@ __metadata:
     ts-node-esm: dist/bin-esm.js
     ts-node-script: dist/bin-script.js
     ts-node-transpile-only: dist/bin-transpile.js
-    ts-script: dist/bin-script-deprecated.js
-  checksum: a528a9148daf8bc68cfa19b00c6120402d606eac50e43f682bbdc5b4e9a28b179b91bc970d628cf9e9f25a8a8e867d5ae202c65e4ecb4a7d76a86cbc04bf15c7
+  checksum: b4ad37a1c1d20a24d183a7be2b13db5f62e536d08496ecc9963f64a8924534717722656413cdc65f92d0ba9eebae7c50212d90d674b66e9c63413cc0c0c1aa02
   languageName: node
   linkType: hard
 
@@ -8530,13 +8513,6 @@ __metadata:
     y18n: ^5.0.5
     yargs-parser: ^21.1.1
   checksum: 205317e93449607fc711bb093ec410fe6af4972f5b21bd337075b41cfcb7909ecbbd6f2c07039c5a36eed4e507f876eb8cb16e0294d4949abd1103c6df42f972
-  languageName: node
-  linkType: hard
-
-"yn@npm:3.1.1":
-  version: 3.1.1
-  resolution: "yn@npm:3.1.1"
-  checksum: 2c487b0e149e746ef48cda9f8bad10fc83693cd69d7f9dcd8be4214e985de33a29c9e24f3c0d6bcf2288427040a8947406ab27f7af67ee9456e6b84854f02dd6
   languageName: node
   linkType: hard
 

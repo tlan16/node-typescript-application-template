@@ -5,7 +5,5 @@ services:
     build:
       context: ..
       dockerfile: docker/Dockerfile
-      cache_from:
-        - app
     image: app
     entrypoint: 'yarn'
