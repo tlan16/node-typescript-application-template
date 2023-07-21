@@ -14,9 +14,9 @@ This is a typescript seed project.
 1. Tests can be performed inside docker, so it doesn't rely on CI base image.
 
 ## Local Development
-1. install nvm or use specified node version described in [.nvmrc](.nvmrc).
+1. install nvm or use specified node version described in [package.json](/package.json).
 2. use package manager `yarn` to install node dependencies.
 3. run `yarn start`.
 
 ## Cloud runtime environment
-Please refer to [Dockerfile](docker/Dockerfile).
+Please refer to [Dockerfile](/docker/Dockerfile).
