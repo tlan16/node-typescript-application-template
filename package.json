@@ -12,7 +12,7 @@
     "check-types": "tsc --project tsconfig.dev.json --noEmit",
     "lint:yaml": "yamllint .",
     "build": "rimraf dist && webpack",
-    "dc": "docker-compose -f docker/docker-compose.yml",
+    "dc": "docker compose -f docker/docker-compose.yml",
     "dcr": "yarn dc run --rm",
     "test": "jest",
     "prepare": "husky install"
