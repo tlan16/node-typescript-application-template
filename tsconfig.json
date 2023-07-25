@@ -6,8 +6,9 @@
   "compilerOptions": {
     "moduleResolution": "node",
     "outDir": "dist",
-    "rootDir": "src"
+    "rootDir": "src",
+    "incremental": true,
+    "declaration": true
   },
-  "include": ["src/**/*"],
-  "exclude": ["src/**/*.spec.ts"],
+  "include": ["src/**/*",  "jest.config.ts"],
 }
