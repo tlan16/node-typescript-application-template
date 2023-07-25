@@ -1,14 +1,18 @@
 {
   "extends": [
     "@tsconfig/node20/tsconfig.json",
-    "@tsconfig/strictest/tsconfig.json",
+    "@tsconfig/strictest/tsconfig.json"
   ],
   "compilerOptions": {
     "moduleResolution": "node",
     "outDir": "dist",
-    "rootDir": "src",
+    "rootDir": ".",
     "incremental": true,
-    "declaration": true
+    "declaration": true,
   },
-  "include": ["src/**/*",  "jest.config.ts"],
+  "include": [
+    "node_modules",
+    "src/**/*",
+    "jest.config.ts"
+  ]
 }

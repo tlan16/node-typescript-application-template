@@ -10,7 +10,3 @@ options="${options} --experimental-specifier-resolution=node"
 
 export NODE_OPTIONS="${options}"
 echo "[INFO] NODE_OPTIONS=${NODE_OPTIONS}"
-
-tsNodeProject="$(realpath "tsconfig.dev.json")"
-export TS_NODE_PROJECT="${tsNodeProject}"
-echo "[INFO] TS_NODE_PROJECT=${TS_NODE_PROJECT}"

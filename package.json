@@ -5,11 +5,10 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "node-options": "./scripts/setNodeOptions.sh",
     "start": "./scripts/start.sh",
     "dev": "./scripts/dev.sh",
     "lint": "./scripts/lint.sh",
-    "check-types": "tsc --project tsconfig.dev.json --noEmit",
+    "check-types": "tsc --noEmit",
     "lint:yaml": "yamllint .",
     "build": "trash dist && webpack --mode=production",
     "dcp": "docker compose -f docker/docker-compose.yml",
@@ -45,6 +44,7 @@
     "trash-cli": "^5.0.0",
     "ts-loader": "^9.4.4",
     "ts-node": "git@github.com:TypeStrong/ts-node.git",
+    "tsconfig-paths-webpack-plugin": "^4.1.0",
     "typescript": "^5.1.6",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4"

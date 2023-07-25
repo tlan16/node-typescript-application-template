@@ -3642,7 +3642,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"enhanced-resolve@npm:^5.0.0, enhanced-resolve@npm:^5.12.0, enhanced-resolve@npm:^5.15.0":
+"enhanced-resolve@npm:^5.0.0, enhanced-resolve@npm:^5.12.0, enhanced-resolve@npm:^5.15.0, enhanced-resolve@npm:^5.7.0":
   version: 5.15.0
   resolution: "enhanced-resolve@npm:5.15.0"
   dependencies:
@@ -6383,6 +6383,7 @@ __metadata:
     trash-cli: ^5.0.0
     ts-loader: ^9.4.4
     ts-node: "git@github.com:TypeStrong/ts-node.git"
+    tsconfig-paths-webpack-plugin: ^4.1.0
     typescript: ^5.1.6
     webpack: ^5.88.2
     webpack-cli: ^5.1.4
@@ -7932,6 +7933,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"tsconfig-paths-webpack-plugin@npm:^4.1.0":
+  version: 4.1.0
+  resolution: "tsconfig-paths-webpack-plugin@npm:4.1.0"
+  dependencies:
+    chalk: ^4.1.0
+    enhanced-resolve: ^5.7.0
+    tsconfig-paths: ^4.1.2
+  checksum: 9463c0264a5642d8cfec10b738f69cc8ea92e849ee2672a0b1ffb03d8cf192bda9adeef6447d519d9dd67b843dd30232275ba03e3e0dbb516a37555c04c1ce36
+  languageName: node
+  linkType: hard
+
 "tsconfig-paths@npm:^3.14.1":
   version: 3.14.2
   resolution: "tsconfig-paths@npm:3.14.2"
@@ -7941,6 +7953,17 @@ __metadata:
     minimist: ^1.2.6
     strip-bom: ^3.0.0
   checksum: 9f8a0e97e25523e258dd0e6d71150d78924d1baf85c44ba7b19fdb8108f1686fd7bd8fe02c5d8aa9ebdbddf77e7986c3e92b8ebbfd9174e669c8cabe38af9460
+  languageName: node
+  linkType: hard
+
+"tsconfig-paths@npm:^4.1.2":
+  version: 4.2.0
+  resolution: "tsconfig-paths@npm:4.2.0"
+  dependencies:
+    json5: ^2.2.2
+    minimist: ^1.2.6
+    strip-bom: ^3.0.0
+  checksum: 948dc84f119433d0014fcf371ad221a2a7a8afb982b030e273ecdd71e867b0801bc654138e1d1437f9f9cfec43629211c2fd15ebf91d24c1ffecf63f0b522033
   languageName: node
   linkType: hard
 

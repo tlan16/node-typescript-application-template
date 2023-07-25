@@ -1,4 +1,5 @@
 const path = require('path');
+const TsconfigPathsPlugin = require('tsconfig-paths-webpack-plugin');
 
 module.exports = {
   entry: './src/main.ts',
@@ -13,12 +14,17 @@ module.exports = {
         test: /\.tsx?$/,
         use: 'ts-loader',
         type: "javascript/esm",
-        exclude: /node_modules/,
+        exclude: [
+          /node_modules/,
+          /dist/,
+          /jest\.config\..*/,
+        ]
       },
     ],
   },
   resolve: {
     extensions: ['.tsx', '.ts', '.js'],
+    plugins: [new TsconfigPathsPlugin({ configFile: "./tsconfig.dist.json" })],
   },
   experiments: {
     topLevelAwait: true,
