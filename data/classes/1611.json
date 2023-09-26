@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1611",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1610",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1612",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2767",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 588193,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODE5MyJ9",
+        "sku": 1347525131,
+        "title": "Illustrate House Plants in Procreate",
+        "project_title": "The class project for this class is to draw and paint along with me throughout the class - then to post your plants in the class project. However if you'd like to draw your own houseplants that are di",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9c7249eecd0882bebee104a0533b519b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9c7249eecd0882bebee104a0533b519b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9c7249eecd0882bebee104a0533b519b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Illustrate-House-Plants-in-Procreate/1347525131",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "1h 25m",
+        "total_videos_duration_seconds": 5098,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 114,
+        "num_projects": 8,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 6, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1347525131",
+            "title": "Illustrate House Plants in Procreate"
+          },
+          "teacher": {
+            "href": "/users/8762016",
+            "title": "Nikki Hess - Artist | Educator | Lavender And Sea"
+          },
+          "units": {
+            "href": "/classes/1347525131/units",
+            "title": "Units for Class: 1347525131"
+          },
+          "sessions": {
+            "href": "/classes/1347525131/sessions",
+            "title": "Sessions for Class: 1347525131"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1347525131/students",
+            "title": "Students for Class: 1347525131"
+          },
+          "projects": {
+            "href": "/classes/1347525131/projects",
+            "title": "Projects for Class: 1347525131"
+          },
+          "reviews": {
+            "href": "/classes/1347525131/reviews",
+            "title": "Reviews for Class: 1347525131"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7064594,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzA2NDU5NCJ9",
+            "username": 8762016,
+            "first_name": "Nikki",
+            "last_name": "Hess",
+            "full_name": "Nikki Hess",
+            "vanity_username": "lavenderandsea",
+            "headline": "Artist | Educator | Lavender And Sea",
+            "pic": "https://static.skillshare.com/uploads/users/8762016/user-image-medium.png?785605181",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8762016/user-image-small.png?2144091997",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8762016/user-image-large.png?1176588748",
+            "_links": {
+              "self": {
+                "href": "/users/8762016",
+                "title": "Nikki Hess - Artist | Educator | Lavender And Sea"
+              },
+              "my_classes": {
+                "href": "/users/8762016/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8762016/completions",
+                "title": "Completions for User: 8762016"
+              },
+              "discussions": {
+                "href": "/users/8762016/discussions",
+                "title": "Discussions for User: 8762016"
+              },
+              "followers": {
+                "href": "/users/8762016/followers",
+                "title": "Followers for User: 8762016"
+              },
+              "following": {
+                "href": "/users/8762016/following",
+                "title": "Following for User: 8762016"
+              },
+              "notifications": {
+                "href": "/users/8762016/notifications",
+                "title": "Notifications for User: 8762016"
+              },
+              "projects": {
+                "href": "/users/8762016/projects",
+                "title": "Projects for User: 8762016"
+              },
+              "rosters": {
+                "href": "/users/8762016/rosters",
+                "title": "Rosters for User: 8762016"
+              },
+              "userTags": {
+                "href": "/users/8762016/userTags",
+                "title": "UserTags for User: 8762016"
+              },
+              "votes": {
+                "href": "/users/8762016/votes",
+                "title": "Votes for User: 8762016"
+              },
+              "wishlist": {
+                "href": "/users/8762016/wishlist",
+                "title": "Wishlist for User: 8762016"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588197,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODE5NyJ9",
+        "sku": 1422231681,
+        "title": "Marble Dye : Learn Marbling Fabrics",
+        "project_title": "Create your own marble dyed fabrics! Design a Bullseyes, Flower, Stone, Git-Gel and Nonpareil Pattern.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/8fa832aacf070c23105fc632b47ace4e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/8fa832aacf070c23105fc632b47ace4e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/8fa832aacf070c23105fc632b47ace4e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Marble-Dye-Learn-Marbling-Fabrics/1422231681",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "1h 50m",
+        "total_videos_duration_seconds": 6601,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 204,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 6, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1422231681",
+            "title": "Marble Dye : Learn Marbling Fabrics"
+          },
+          "teacher": {
+            "href": "/users/980621541",
+            "title": "Dominika Syczynska - Fashion and Fabric Designer"
+          },
+          "units": {
+            "href": "/classes/1422231681/units",
+            "title": "Units for Class: 1422231681"
+          },
+          "sessions": {
+            "href": "/classes/1422231681/sessions",
+            "title": "Sessions for Class: 1422231681"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1422231681/students",
+            "title": "Students for Class: 1422231681"
+          },
+          "projects": {
+            "href": "/classes/1422231681/projects",
+            "title": "Projects for Class: 1422231681"
+          },
+          "reviews": {
+            "href": "/classes/1422231681/reviews",
+            "title": "Reviews for Class: 1422231681"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23324132,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjMzMjQxMzIifQ==",
+            "username": 980621541,
+            "first_name": "Dominika",
+            "last_name": "Syczynska",
+            "full_name": "Dominika Syczynska",
+            "vanity_username": null,
+            "headline": "Fashion and Fabric Designer",
+            "pic": "https://static.skillshare.com/uploads/users/980621541/user-image-medium.png?1230468387",
+            "pic_sm": "https://static.skillshare.com/uploads/users/980621541/user-image-small.png?2098607898",
+            "pic_lg": "https://static.skillshare.com/uploads/users/980621541/user-image-large.png?1176311270",
+            "_links": {
+              "self": {
+                "href": "/users/980621541",
+                "title": "Dominika Syczynska - Fashion and Fabric Designer"
+              },
+              "my_classes": {
+                "href": "/users/980621541/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/980621541/completions",
+                "title": "Completions for User: 980621541"
+              },
+              "discussions": {
+                "href": "/users/980621541/discussions",
+                "title": "Discussions for User: 980621541"
+              },
+              "followers": {
+                "href": "/users/980621541/followers",
+                "title": "Followers for User: 980621541"
+              },
+              "following": {
+                "href": "/users/980621541/following",
+                "title": "Following for User: 980621541"
+              },
+              "notifications": {
+                "href": "/users/980621541/notifications",
+                "title": "Notifications for User: 980621541"
+              },
+              "projects": {
+                "href": "/users/980621541/projects",
+                "title": "Projects for User: 980621541"
+              },
+              "rosters": {
+                "href": "/users/980621541/rosters",
+                "title": "Rosters for User: 980621541"
+              },
+              "userTags": {
+                "href": "/users/980621541/userTags",
+                "title": "UserTags for User: 980621541"
+              },
+              "votes": {
+                "href": "/users/980621541/votes",
+                "title": "Votes for User: 980621541"
+              },
+              "wishlist": {
+                "href": "/users/980621541/wishlist",
+                "title": "Wishlist for User: 980621541"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588201,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODIwMSJ9",
+        "sku": 1375535324,
+        "title": "Everyone Can Paint! 5 Watercolor Painting Ideas (that will go on your wall!)",
+        "project_title": "I like simple class projects. &nbsp;\nSo, what I want from you is also simple. In every lesson I will show you a design. You follow me, make your own and share it with us. &nbsp;\nIf you make more than ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f2daf1492ba033f26a4a4ef6e967f2d3/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f2daf1492ba033f26a4a4ef6e967f2d3/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f2daf1492ba033f26a4a4ef6e967f2d3/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Everyone-Can-Paint-5-Watercolor-Painting-Ideas-that-will-go-on-your-wall/1375535324",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 25,
+        "total_videos_duration": "7h 29m",
+        "total_videos_duration_seconds": 26941,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 533,
+        "num_projects": 19,
+        "num_discussions": 9,
+        "is_staff_pick": true,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 13, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1375535324",
+            "title": "Everyone Can Paint! 5 Watercolor Painting Ideas (that will go on your wall!)"
+          },
+          "teacher": {
+            "href": "/users/347513306",
+            "title": "Fatih Mıstaçoğlu - watercolor storyteller"
+          },
+          "units": {
+            "href": "/classes/1375535324/units",
+            "title": "Units for Class: 1375535324"
+          },
+          "sessions": {
+            "href": "/classes/1375535324/sessions",
+            "title": "Sessions for Class: 1375535324"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1375535324/students",
+            "title": "Students for Class: 1375535324"
+          },
+          "projects": {
+            "href": "/classes/1375535324/projects",
+            "title": "Projects for Class: 1375535324"
+          },
+          "reviews": {
+            "href": "/classes/1375535324/reviews",
+            "title": "Reviews for Class: 1375535324"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11638678,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTE2Mzg2NzgifQ==",
+            "username": 347513306,
+            "first_name": "Fatih",
+            "last_name": "Mıstaçoğlu",
+            "full_name": "Fatih Mıstaçoğlu",
+            "vanity_username": "fabworqs",
+            "headline": "watercolor storyteller",
+            "pic": "https://static.skillshare.com/uploads/users/347513306/user-image-medium.jpg?305678368",
+            "pic_sm": "https://static.skillshare.com/uploads/users/347513306/user-image-small.jpg?1535551607",
+            "pic_lg": "https://static.skillshare.com/uploads/users/347513306/user-image-large.jpg?580544566",
+            "_links": {
+              "self": {
+                "href": "/users/347513306",
+                "title": "Fatih Mıstaçoğlu - watercolor storyteller"
+              },
+              "my_classes": {
+                "href": "/users/347513306/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/347513306/completions",
+                "title": "Completions for User: 347513306"
+              },
+              "discussions": {
+                "href": "/users/347513306/discussions",
+                "title": "Discussions for User: 347513306"
+              },
+              "followers": {
+                "href": "/users/347513306/followers",
+                "title": "Followers for User: 347513306"
+              },
+              "following": {
+                "href": "/users/347513306/following",
+                "title": "Following for User: 347513306"
+              },
+              "notifications": {
+                "href": "/users/347513306/notifications",
+                "title": "Notifications for User: 347513306"
+              },
+              "projects": {
+                "href": "/users/347513306/projects",
+                "title": "Projects for User: 347513306"
+              },
+              "rosters": {
+                "href": "/users/347513306/rosters",
+                "title": "Rosters for User: 347513306"
+              },
+              "userTags": {
+                "href": "/users/347513306/userTags",
+                "title": "UserTags for User: 347513306"
+              },
+              "votes": {
+                "href": "/users/347513306/votes",
+                "title": "Votes for User: 347513306"
+              },
+              "wishlist": {
+                "href": "/users/347513306/wishlist",
+                "title": "Wishlist for User: 347513306"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588205,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODIwNSJ9",
+        "sku": 401131299,
+        "title": "Creating Shaped Earrings",
+        "project_title": "1. Create the Rectangle Dangle Earrings",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/4f852d8ea43a47c353da69a67627cd86/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/4f852d8ea43a47c353da69a67627cd86/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/4f852d8ea43a47c353da69a67627cd86/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Creating-Shaped-Earrings/401131299",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "15m",
+        "total_videos_duration_seconds": 903,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 57,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/401131299",
+            "title": "Creating Shaped Earrings"
+          },
+          "teacher": {
+            "href": "/users/979012546",
+            "title": "Katrina Anderson - DIY wire jewelry tutorials"
+          },
+          "units": {
+            "href": "/classes/401131299/units",
+            "title": "Units for Class: 401131299"
+          },
+          "sessions": {
+            "href": "/classes/401131299/sessions",
+            "title": "Sessions for Class: 401131299"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/401131299/students",
+            "title": "Students for Class: 401131299"
+          },
+          "projects": {
+            "href": "/classes/401131299/projects",
+            "title": "Projects for Class: 401131299"
+          },
+          "reviews": {
+            "href": "/classes/401131299/reviews",
+            "title": "Reviews for Class: 401131299"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21267114,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjEyNjcxMTQifQ==",
+            "username": 979012546,
+            "first_name": "Katrina",
+            "last_name": "Anderson",
+            "full_name": "Katrina Anderson",
+            "vanity_username": "katirosecreates",
+            "headline": "DIY wire jewelry tutorials",
+            "pic": "https://static.skillshare.com/uploads/users/979012546/user-image-medium.png?234864714",
+            "pic_sm": "https://static.skillshare.com/uploads/users/979012546/user-image-small.png?1395508015",
+            "pic_lg": "https://static.skillshare.com/uploads/users/979012546/user-image-large.png?1810569803",
+            "_links": {
+              "self": {
+                "href": "/users/979012546",
+                "title": "Katrina Anderson - DIY wire jewelry tutorials"
+              },
+              "my_classes": {
+                "href": "/users/979012546/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/979012546/completions",
+                "title": "Completions for User: 979012546"
+              },
+              "discussions": {
+                "href": "/users/979012546/discussions",
+                "title": "Discussions for User: 979012546"
+              },
+              "followers": {
+                "href": "/users/979012546/followers",
+                "title": "Followers for User: 979012546"
+              },
+              "following": {
+                "href": "/users/979012546/following",
+                "title": "Following for User: 979012546"
+              },
+              "notifications": {
+                "href": "/users/979012546/notifications",
+                "title": "Notifications for User: 979012546"
+              },
+              "projects": {
+                "href": "/users/979012546/projects",
+                "title": "Projects for User: 979012546"
+              },
+              "rosters": {
+                "href": "/users/979012546/rosters",
+                "title": "Rosters for User: 979012546"
+              },
+              "userTags": {
+                "href": "/users/979012546/userTags",
+                "title": "UserTags for User: 979012546"
+              },
+              "votes": {
+                "href": "/users/979012546/votes",
+                "title": "Votes for User: 979012546"
+              },
+              "wishlist": {
+                "href": "/users/979012546/wishlist",
+                "title": "Wishlist for User: 979012546"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588217,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODIxNyJ9",
+        "sku": 1842220801,
+        "title": "Writing a Winning Scholarship Application – The DAAD Scholarships",
+        "project_title": "           The project for this course is divided into three main parts as follows:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fa3f97d5535f09e701346ac9f56928ba/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fa3f97d5535f09e701346ac9f56928ba/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fa3f97d5535f09e701346ac9f56928ba/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Writing-a-Winning-Scholarship-Application-%E2%80%93-The-DAAD-Scholarships/1842220801",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "1h 12m",
+        "total_videos_duration_seconds": 4334,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 119,
+        "num_projects": 1,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 6, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1842220801",
+            "title": "Writing a Winning Scholarship Application – The DAAD Scholarships"
+          },
+          "teacher": {
+            "href": "/users/893022302",
+            "title": "Ahmed Alkebsi - Civil Engineer and a Writer"
+          },
+          "units": {
+            "href": "/classes/1842220801/units",
+            "title": "Units for Class: 1842220801"
+          },
+          "sessions": {
+            "href": "/classes/1842220801/sessions",
+            "title": "Sessions for Class: 1842220801"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1842220801/students",
+            "title": "Students for Class: 1842220801"
+          },
+          "projects": {
+            "href": "/classes/1842220801/projects",
+            "title": "Projects for Class: 1842220801"
+          },
+          "reviews": {
+            "href": "/classes/1842220801/reviews",
+            "title": "Reviews for Class: 1842220801"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23705320,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjM3MDUzMjAifQ==",
+            "username": 893022302,
+            "first_name": "Ahmed",
+            "last_name": "Alkebsi",
+            "full_name": "Ahmed Alkebsi",
+            "vanity_username": null,
+            "headline": "Civil Engineer and a Writer",
+            "pic": "https://static.skillshare.com/uploads/users/893022302/user-image-medium.jpg?323061295",
+            "pic_sm": "https://static.skillshare.com/uploads/users/893022302/user-image-small.jpg?2061317851",
+            "pic_lg": "https://static.skillshare.com/uploads/users/893022302/user-image-large.jpg?1597217681",
+            "_links": {
+              "self": {
+                "href": "/users/893022302",
+                "title": "Ahmed Alkebsi - Civil Engineer and a Writer"
+              },
+              "my_classes": {
+                "href": "/users/893022302/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/893022302/completions",
+                "title": "Completions for User: 893022302"
+              },
+              "discussions": {
+                "href": "/users/893022302/discussions",
+                "title": "Discussions for User: 893022302"
+              },
+              "followers": {
+                "href": "/users/893022302/followers",
+                "title": "Followers for User: 893022302"
+              },
+              "following": {
+                "href": "/users/893022302/following",
+                "title": "Following for User: 893022302"
+              },
+              "notifications": {
+                "href": "/users/893022302/notifications",
+                "title": "Notifications for User: 893022302"
+              },
+              "projects": {
+                "href": "/users/893022302/projects",
+                "title": "Projects for User: 893022302"
+              },
+              "rosters": {
+                "href": "/users/893022302/rosters",
+                "title": "Rosters for User: 893022302"
+              },
+              "userTags": {
+                "href": "/users/893022302/userTags",
+                "title": "UserTags for User: 893022302"
+              },
+              "votes": {
+                "href": "/users/893022302/votes",
+                "title": "Votes for User: 893022302"
+              },
+              "wishlist": {
+                "href": "/users/893022302/wishlist",
+                "title": "Wishlist for User: 893022302"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588235,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODIzNSJ9",
+        "sku": 655153273,
+        "title": "The God Pill: Unlocking Pure Attraction, Confidence, and Happiness in Introverts",
+        "project_title": "Remember in the last chapter how I helped a client to access The God Pill through the channel of photography? Your project is to take a photo out in public while practicing Presence, and post it here!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a3d1852963031f9d692e9b93b944ec2b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a3d1852963031f9d692e9b93b944ec2b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a3d1852963031f9d692e9b93b944ec2b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-God-Pill-Unlocking-Pure-Attraction-Confidence-and-Happiness-in-Introverts/655153273",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "2h 31m",
+        "total_videos_duration_seconds": 9062,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 534,
+        "num_projects": 4,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/655153273",
+            "title": "The God Pill: Unlocking Pure Attraction, Confidence, and Happiness in Introverts"
+          },
+          "teacher": {
+            "href": "/users/355794541",
+            "title": "Anthony Recenello - Social Skills + Relationship Coach"
+          },
+          "units": {
+            "href": "/classes/655153273/units",
+            "title": "Units for Class: 655153273"
+          },
+          "sessions": {
+            "href": "/classes/655153273/sessions",
+            "title": "Sessions for Class: 655153273"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/655153273/students",
+            "title": "Students for Class: 655153273"
+          },
+          "projects": {
+            "href": "/classes/655153273/projects",
+            "title": "Projects for Class: 655153273"
+          },
+          "reviews": {
+            "href": "/classes/655153273/reviews",
+            "title": "Reviews for Class: 655153273"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 24275796,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjQyNzU3OTYifQ==",
+            "username": 355794541,
+            "first_name": "Anthony",
+            "last_name": "Recenello",
+            "full_name": "Anthony Recenello",
+            "vanity_username": "recenello",
+            "headline": "Social Skills + Relationship Coach",
+            "pic": "https://static.skillshare.com/uploads/users/355794541/user-image-medium.png?1720195839",
+            "pic_sm": "https://static.skillshare.com/uploads/users/355794541/user-image-small.png?51122346",
+            "pic_lg": "https://static.skillshare.com/uploads/users/355794541/user-image-large.png?689482478",
+            "_links": {
+              "self": {
+                "href": "/users/355794541",
+                "title": "Anthony Recenello - Social Skills + Relationship Coach"
+              },
+              "my_classes": {
+                "href": "/users/355794541/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/355794541/completions",
+                "title": "Completions for User: 355794541"
+              },
+              "discussions": {
+                "href": "/users/355794541/discussions",
+                "title": "Discussions for User: 355794541"
+              },
+              "followers": {
+                "href": "/users/355794541/followers",
+                "title": "Followers for User: 355794541"
+              },
+              "following": {
+                "href": "/users/355794541/following",
+                "title": "Following for User: 355794541"
+              },
+              "notifications": {
+                "href": "/users/355794541/notifications",
+                "title": "Notifications for User: 355794541"
+              },
+              "projects": {
+                "href": "/users/355794541/projects",
+                "title": "Projects for User: 355794541"
+              },
+              "rosters": {
+                "href": "/users/355794541/rosters",
+                "title": "Rosters for User: 355794541"
+              },
+              "userTags": {
+                "href": "/users/355794541/userTags",
+                "title": "UserTags for User: 355794541"
+              },
+              "votes": {
+                "href": "/users/355794541/votes",
+                "title": "Votes for User: 355794541"
+              },
+              "wishlist": {
+                "href": "/users/355794541/wishlist",
+                "title": "Wishlist for User: 355794541"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588236,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODIzNiJ9",
+        "sku": 1866396179,
+        "title": "Film Scoring and Sound Design",
+        "project_title": "Learn how to compose music for film from a professional film composer!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6310542206112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6310542206112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6310542206112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Film-Scoring-and-Sound-Design/1866396179",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "44m",
+        "total_videos_duration_seconds": 2626,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 165,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 7, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1866396179",
+            "title": "Film Scoring and Sound Design"
+          },
+          "teacher": {
+            "href": "/users/391127625",
+            "title": "Janet Phillips"
+          },
+          "units": {
+            "href": "/classes/1866396179/units",
+            "title": "Units for Class: 1866396179"
+          },
+          "sessions": {
+            "href": "/classes/1866396179/sessions",
+            "title": "Sessions for Class: 1866396179"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1866396179/students",
+            "title": "Students for Class: 1866396179"
+          },
+          "projects": {
+            "href": "/classes/1866396179/projects",
+            "title": "Projects for Class: 1866396179"
+          },
+          "reviews": {
+            "href": "/classes/1866396179/reviews",
+            "title": "Reviews for Class: 1866396179"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27227560,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjcyMjc1NjAifQ==",
+            "username": 391127625,
+            "first_name": "Janet",
+            "last_name": "Phillips",
+            "full_name": "Janet Phillips",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/391127625",
+                "title": "Janet Phillips"
+              },
+              "my_classes": {
+                "href": "/users/391127625/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/391127625/completions",
+                "title": "Completions for User: 391127625"
+              },
+              "discussions": {
+                "href": "/users/391127625/discussions",
+                "title": "Discussions for User: 391127625"
+              },
+              "followers": {
+                "href": "/users/391127625/followers",
+                "title": "Followers for User: 391127625"
+              },
+              "following": {
+                "href": "/users/391127625/following",
+                "title": "Following for User: 391127625"
+              },
+              "notifications": {
+                "href": "/users/391127625/notifications",
+                "title": "Notifications for User: 391127625"
+              },
+              "projects": {
+                "href": "/users/391127625/projects",
+                "title": "Projects for User: 391127625"
+              },
+              "rosters": {
+                "href": "/users/391127625/rosters",
+                "title": "Rosters for User: 391127625"
+              },
+              "userTags": {
+                "href": "/users/391127625/userTags",
+                "title": "UserTags for User: 391127625"
+              },
+              "votes": {
+                "href": "/users/391127625/votes",
+                "title": "Votes for User: 391127625"
+              },
+              "wishlist": {
+                "href": "/users/391127625/wishlist",
+                "title": "Wishlist for User: 391127625"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588245,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODI0NSJ9",
+        "sku": 121589489,
+        "title": "Create Fully Automated Form in Excel Using Simple Easy to Learn Formulas",
+        "project_title": "Class Project",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e81811900c7203d45b977e7bf34aa051/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e81811900c7203d45b977e7bf34aa051/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e81811900c7203d45b977e7bf34aa051/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Create-Fully-Automated-Form-in-Excel-Using-Simple-Easy-to-Learn-Formulas/121589489",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "44m",
+        "total_videos_duration_seconds": 2666,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 107,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 6, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/121589489",
+            "title": "Create Fully Automated Form in Excel Using Simple Easy to Learn Formulas"
+          },
+          "teacher": {
+            "href": "/users/702862498",
+            "title": "Sanjay Sharma - Never Say no to anything. Yes You can do"
+          },
+          "units": {
+            "href": "/classes/121589489/units",
+            "title": "Units for Class: 121589489"
+          },
+          "sessions": {
+            "href": "/classes/121589489/sessions",
+            "title": "Sessions for Class: 121589489"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/121589489/students",
+            "title": "Students for Class: 121589489"
+          },
+          "projects": {
+            "href": "/classes/121589489/projects",
+            "title": "Projects for Class: 121589489"
+          },
+          "reviews": {
+            "href": "/classes/121589489/reviews",
+            "title": "Reviews for Class: 121589489"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21445708,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjE0NDU3MDgifQ==",
+            "username": 702862498,
+            "first_name": "Sanjay",
+            "last_name": "Sharma",
+            "full_name": "Sanjay Sharma",
+            "vanity_username": "sitjit",
+            "headline": "Never Say no to anything. Yes You can do",
+            "pic": "https://static.skillshare.com/uploads/users/702862498/user-image-medium.jpg?1711929248",
+            "pic_sm": "https://static.skillshare.com/uploads/users/702862498/user-image-small.jpg?1745933547",
+            "pic_lg": "https://static.skillshare.com/uploads/users/702862498/user-image-large.jpg?2005193483",
+            "_links": {
+              "self": {
+                "href": "/users/702862498",
+                "title": "Sanjay Sharma - Never Say no to anything. Yes You can do"
+              },
+              "my_classes": {
+                "href": "/users/702862498/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/702862498/completions",
+                "title": "Completions for User: 702862498"
+              },
+              "discussions": {
+                "href": "/users/702862498/discussions",
+                "title": "Discussions for User: 702862498"
+              },
+              "followers": {
+                "href": "/users/702862498/followers",
+                "title": "Followers for User: 702862498"
+              },
+              "following": {
+                "href": "/users/702862498/following",
+                "title": "Following for User: 702862498"
+              },
+              "notifications": {
+                "href": "/users/702862498/notifications",
+                "title": "Notifications for User: 702862498"
+              },
+              "projects": {
+                "href": "/users/702862498/projects",
+                "title": "Projects for User: 702862498"
+              },
+              "rosters": {
+                "href": "/users/702862498/rosters",
+                "title": "Rosters for User: 702862498"
+              },
+              "userTags": {
+                "href": "/users/702862498/userTags",
+                "title": "UserTags for User: 702862498"
+              },
+              "votes": {
+                "href": "/users/702862498/votes",
+                "title": "Votes for User: 702862498"
+              },
+              "wishlist": {
+                "href": "/users/702862498/wishlist",
+                "title": "Wishlist for User: 702862498"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588253,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODI1MyJ9",
+        "sku": 759711300,
+        "title": "Mindset Motivation · Learn How To Pivot And Reset Life's Curves During Economic Peaks And Valleys",
+        "project_title": "Project:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/153af1e6de83342641638d376b703c00/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/153af1e6de83342641638d376b703c00/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/153af1e6de83342641638d376b703c00/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Mindset-Motivation-%C2%B7-Learn-How-To-Pivot-And-Reset-Lifes-Curves-During-Economic-Peaks-And-Valleys/759711300",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "34m",
+        "total_videos_duration_seconds": 2037,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 8,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/759711300",
+            "title": "Mindset Motivation · Learn How To Pivot And Reset Life's Curves During Economic Peaks And Valleys"
+          },
+          "teacher": {
+            "href": "/users/585977298",
+            "title": "Thomasina Shealey, MBA - Consultant, Entrepreneur, Mentor"
+          },
+          "units": {
+            "href": "/classes/759711300/units",
+            "title": "Units for Class: 759711300"
+          },
+          "sessions": {
+            "href": "/classes/759711300/sessions",
+            "title": "Sessions for Class: 759711300"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/759711300/students",
+            "title": "Students for Class: 759711300"
+          },
+          "projects": {
+            "href": "/classes/759711300/projects",
+            "title": "Projects for Class: 759711300"
+          },
+          "reviews": {
+            "href": "/classes/759711300/reviews",
+            "title": "Reviews for Class: 759711300"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9998851,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTk5ODg1MSJ9",
+            "username": 585977298,
+            "first_name": "Thomasina",
+            "last_name": "Shealey, MBA",
+            "full_name": "Thomasina Shealey, MBA",
+            "vanity_username": null,
+            "headline": "Consultant, Entrepreneur, Mentor",
+            "pic": "https://static.skillshare.com/uploads/users/585977298/user-image-medium.jpg?1649834634",
+            "pic_sm": "https://static.skillshare.com/uploads/users/585977298/user-image-small.jpg?990242595",
+            "pic_lg": "https://static.skillshare.com/uploads/users/585977298/user-image-large.jpg?1303590255",
+            "_links": {
+              "self": {
+                "href": "/users/585977298",
+                "title": "Thomasina Shealey, MBA - Consultant, Entrepreneur, Mentor"
+              },
+              "my_classes": {
+                "href": "/users/585977298/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/585977298/completions",
+                "title": "Completions for User: 585977298"
+              },
+              "discussions": {
+                "href": "/users/585977298/discussions",
+                "title": "Discussions for User: 585977298"
+              },
+              "followers": {
+                "href": "/users/585977298/followers",
+                "title": "Followers for User: 585977298"
+              },
+              "following": {
+                "href": "/users/585977298/following",
+                "title": "Following for User: 585977298"
+              },
+              "notifications": {
+                "href": "/users/585977298/notifications",
+                "title": "Notifications for User: 585977298"
+              },
+              "projects": {
+                "href": "/users/585977298/projects",
+                "title": "Projects for User: 585977298"
+              },
+              "rosters": {
+                "href": "/users/585977298/rosters",
+                "title": "Rosters for User: 585977298"
+              },
+              "userTags": {
+                "href": "/users/585977298/userTags",
+                "title": "UserTags for User: 585977298"
+              },
+              "votes": {
+                "href": "/users/585977298/votes",
+                "title": "Votes for User: 585977298"
+              },
+              "wishlist": {
+                "href": "/users/585977298/wishlist",
+                "title": "Wishlist for User: 585977298"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588257,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODI1NyJ9",
+        "sku": 493242711,
+        "title": "Agile Scrum : How to Utilize Scrum FW as a Product Owner ?",
+        "project_title": "As part of this project, you will reflect your understanding about scrum framework and figure out improvements to manage a scrum team as a Product Owner.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/122cd6a20214ea2b6f45c040ed6d0290/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/122cd6a20214ea2b6f45c040ed6d0290/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/122cd6a20214ea2b6f45c040ed6d0290/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Agile-Scrum-How-to-Utilize-Scrum-FW-as-a-Product-Owner/493242711",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "35m",
+        "total_videos_duration_seconds": 2113,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 23,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/493242711",
+            "title": "Agile Scrum : How to Utilize Scrum FW as a Product Owner ?"
+          },
+          "teacher": {
+            "href": "/users/8246468",
+            "title": "Malaya Biswal - PMP, SAFe PO/PM, Math Enthusiast"
+          },
+          "units": {
+            "href": "/classes/493242711/units",
+            "title": "Units for Class: 493242711"
+          },
+          "sessions": {
+            "href": "/classes/493242711/sessions",
+            "title": "Sessions for Class: 493242711"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/493242711/students",
+            "title": "Students for Class: 493242711"
+          },
+          "projects": {
+            "href": "/classes/493242711/projects",
+            "title": "Projects for Class: 493242711"
+          },
+          "reviews": {
+            "href": "/classes/493242711/reviews",
+            "title": "Reviews for Class: 493242711"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 790483,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzkwNDgzIn0=",
+            "username": 8246468,
+            "first_name": "Malaya",
+            "last_name": "Biswal",
+            "full_name": "Malaya Biswal",
+            "vanity_username": "malaybiswal",
+            "headline": "PMP, SAFe PO/PM, Math Enthusiast",
+            "pic": "https://static.skillshare.com/uploads/users/8246468/user-image-medium.jpg?1823534709",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8246468/user-image-small.jpg?1793125009",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8246468/user-image-large.jpg?1327056341",
+            "_links": {
+              "self": {
+                "href": "/users/8246468",
+                "title": "Malaya Biswal - PMP, SAFe PO/PM, Math Enthusiast"
+              },
+              "my_classes": {
+                "href": "/users/8246468/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8246468/completions",
+                "title": "Completions for User: 8246468"
+              },
+              "discussions": {
+                "href": "/users/8246468/discussions",
+                "title": "Discussions for User: 8246468"
+              },
+              "followers": {
+                "href": "/users/8246468/followers",
+                "title": "Followers for User: 8246468"
+              },
+              "following": {
+                "href": "/users/8246468/following",
+                "title": "Following for User: 8246468"
+              },
+              "notifications": {
+                "href": "/users/8246468/notifications",
+                "title": "Notifications for User: 8246468"
+              },
+              "projects": {
+                "href": "/users/8246468/projects",
+                "title": "Projects for User: 8246468"
+              },
+              "rosters": {
+                "href": "/users/8246468/rosters",
+                "title": "Rosters for User: 8246468"
+              },
+              "userTags": {
+                "href": "/users/8246468/userTags",
+                "title": "UserTags for User: 8246468"
+              },
+              "votes": {
+                "href": "/users/8246468/votes",
+                "title": "Votes for User: 8246468"
+              },
+              "wishlist": {
+                "href": "/users/8246468/wishlist",
+                "title": "Wishlist for User: 8246468"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

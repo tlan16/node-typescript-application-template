@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1243",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1242",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1244",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 556205,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NjIwNSJ9",
+        "sku": 1114258562,
+        "title": "8 Habits leading to more Productivity!",
+        "project_title": "The course project is simple!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/8c4ba3dd76787e38cb192b3699f7bdb2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/8c4ba3dd76787e38cb192b3699f7bdb2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/8c4ba3dd76787e38cb192b3699f7bdb2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/8-Habits-leading-to-more-Productivity/1114258562",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "33m",
+        "total_videos_duration_seconds": 1984,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1052,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1114258562",
+            "title": "8 Habits leading to more Productivity!"
+          },
+          "teacher": {
+            "href": "/users/5586308",
+            "title": "Francesco Samarelli - TEDx Speaker | Author | Father"
+          },
+          "units": {
+            "href": "/classes/1114258562/units",
+            "title": "Units for Class: 1114258562"
+          },
+          "sessions": {
+            "href": "/classes/1114258562/sessions",
+            "title": "Sessions for Class: 1114258562"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1114258562/students",
+            "title": "Students for Class: 1114258562"
+          },
+          "projects": {
+            "href": "/classes/1114258562/projects",
+            "title": "Projects for Class: 1114258562"
+          },
+          "reviews": {
+            "href": "/classes/1114258562/reviews",
+            "title": "Reviews for Class: 1114258562"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6307335,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjMwNzMzNSJ9",
+            "username": 5586308,
+            "first_name": "Francesco",
+            "last_name": "Samarelli",
+            "full_name": "Francesco Samarelli",
+            "vanity_username": "francesco",
+            "headline": "TEDx Speaker | Author | Father",
+            "pic": "https://static.skillshare.com/uploads/users/5586308/user-image-medium.png?683434674",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5586308/user-image-small.png?2037443394",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5586308/user-image-large.png?1941461090",
+            "_links": {
+              "self": {
+                "href": "/users/5586308",
+                "title": "Francesco Samarelli - TEDx Speaker | Author | Father"
+              },
+              "my_classes": {
+                "href": "/users/5586308/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5586308/completions",
+                "title": "Completions for User: 5586308"
+              },
+              "discussions": {
+                "href": "/users/5586308/discussions",
+                "title": "Discussions for User: 5586308"
+              },
+              "followers": {
+                "href": "/users/5586308/followers",
+                "title": "Followers for User: 5586308"
+              },
+              "following": {
+                "href": "/users/5586308/following",
+                "title": "Following for User: 5586308"
+              },
+              "notifications": {
+                "href": "/users/5586308/notifications",
+                "title": "Notifications for User: 5586308"
+              },
+              "projects": {
+                "href": "/users/5586308/projects",
+                "title": "Projects for User: 5586308"
+              },
+              "rosters": {
+                "href": "/users/5586308/rosters",
+                "title": "Rosters for User: 5586308"
+              },
+              "userTags": {
+                "href": "/users/5586308/userTags",
+                "title": "UserTags for User: 5586308"
+              },
+              "votes": {
+                "href": "/users/5586308/votes",
+                "title": "Votes for User: 5586308"
+              },
+              "wishlist": {
+                "href": "/users/5586308/wishlist",
+                "title": "Wishlist for User: 5586308"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 556208,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NjIwOCJ9",
+        "sku": 1806766055,
+        "title": "Paint Easy & Stylized Portraits: Tips & tricks unveiled!",
+        "project_title": "✩ Assignment: Create an stylized portrait from a photo reference!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b989ca7c57d597ac9af2a17c3f18dff1/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b989ca7c57d597ac9af2a17c3f18dff1/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b989ca7c57d597ac9af2a17c3f18dff1/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Paint-Easy-Stylized-Portraits-Tips-tricks-unveiled/1806766055",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "36m",
+        "total_videos_duration_seconds": 2134,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 228,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1806766055",
+            "title": "Paint Easy & Stylized Portraits: Tips & tricks unveiled!"
+          },
+          "teacher": {
+            "href": "/users/283903498",
+            "title": "✧ Ninna Lif ✧ - Fine Artist & Illustrator"
+          },
+          "units": {
+            "href": "/classes/1806766055/units",
+            "title": "Units for Class: 1806766055"
+          },
+          "sessions": {
+            "href": "/classes/1806766055/sessions",
+            "title": "Sessions for Class: 1806766055"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1806766055/students",
+            "title": "Students for Class: 1806766055"
+          },
+          "projects": {
+            "href": "/classes/1806766055/projects",
+            "title": "Projects for Class: 1806766055"
+          },
+          "reviews": {
+            "href": "/classes/1806766055/reviews",
+            "title": "Reviews for Class: 1806766055"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23096380,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjMwOTYzODAifQ==",
+            "username": 283903498,
+            "first_name": "✧ Ninna",
+            "last_name": "Lif ✧",
+            "full_name": "✧ Ninna Lif ✧",
+            "vanity_username": null,
+            "headline": "Fine Artist & Illustrator",
+            "pic": "https://static.skillshare.com/uploads/users/283903498/user-image-medium.png?1043086756",
+            "pic_sm": "https://static.skillshare.com/uploads/users/283903498/user-image-small.png?1523310506",
+            "pic_lg": "https://static.skillshare.com/uploads/users/283903498/user-image-large.png?542086176",
+            "_links": {
+              "self": {
+                "href": "/users/283903498",
+                "title": "✧ Ninna Lif ✧ - Fine Artist & Illustrator"
+              },
+              "my_classes": {
+                "href": "/users/283903498/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/283903498/completions",
+                "title": "Completions for User: 283903498"
+              },
+              "discussions": {
+                "href": "/users/283903498/discussions",
+                "title": "Discussions for User: 283903498"
+              },
+              "followers": {
+                "href": "/users/283903498/followers",
+                "title": "Followers for User: 283903498"
+              },
+              "following": {
+                "href": "/users/283903498/following",
+                "title": "Following for User: 283903498"
+              },
+              "notifications": {
+                "href": "/users/283903498/notifications",
+                "title": "Notifications for User: 283903498"
+              },
+              "projects": {
+                "href": "/users/283903498/projects",
+                "title": "Projects for User: 283903498"
+              },
+              "rosters": {
+                "href": "/users/283903498/rosters",
+                "title": "Rosters for User: 283903498"
+              },
+              "userTags": {
+                "href": "/users/283903498/userTags",
+                "title": "UserTags for User: 283903498"
+              },
+              "votes": {
+                "href": "/users/283903498/votes",
+                "title": "Votes for User: 283903498"
+              },
+              "wishlist": {
+                "href": "/users/283903498/wishlist",
+                "title": "Wishlist for User: 283903498"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 556220,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NjIyMCJ9",
+        "sku": 1991085662,
+        "title": "Watercolor Crystals & Gems Made Easy",
+        "project_title": "Your project is to paint at least one crystal in any style you like, and using any medium you want. Feel free to follow and copy what I show you in the lessons in this class, or pick your own crystal ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d74e11dcea61db6b3e247926f1df4e13/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d74e11dcea61db6b3e247926f1df4e13/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d74e11dcea61db6b3e247926f1df4e13/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolor-Crystals-Gems-Made-Easy/1991085662",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "1h 28m",
+        "total_videos_duration_seconds": 5294,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 158,
+        "num_projects": 3,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1991085662",
+            "title": "Watercolor Crystals & Gems Made Easy"
+          },
+          "teacher": {
+            "href": "/users/7338457",
+            "title": "Gilchi Mi - AuDHD Storyteller, Writer, Artist"
+          },
+          "units": {
+            "href": "/classes/1991085662/units",
+            "title": "Units for Class: 1991085662"
+          },
+          "sessions": {
+            "href": "/classes/1991085662/sessions",
+            "title": "Sessions for Class: 1991085662"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1991085662/students",
+            "title": "Students for Class: 1991085662"
+          },
+          "projects": {
+            "href": "/classes/1991085662/projects",
+            "title": "Projects for Class: 1991085662"
+          },
+          "reviews": {
+            "href": "/classes/1991085662/reviews",
+            "title": "Reviews for Class: 1991085662"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4401739,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDQwMTczOSJ9",
+            "username": 7338457,
+            "first_name": "Gilchi",
+            "last_name": "Mi",
+            "full_name": "Gilchi Mi",
+            "vanity_username": "gilchi-mi",
+            "headline": "AuDHD Storyteller, Writer, Artist",
+            "pic": "https://static.skillshare.com/uploads/users/7338457/user-image-medium.jpg?1019607098",
+            "pic_sm": "https://static.skillshare.com/uploads/users/7338457/user-image-small.jpg?773360563",
+            "pic_lg": "https://static.skillshare.com/uploads/users/7338457/user-image-large.jpg?355463799",
+            "_links": {
+              "self": {
+                "href": "/users/7338457",
+                "title": "Gilchi Mi - AuDHD Storyteller, Writer, Artist"
+              },
+              "my_classes": {
+                "href": "/users/7338457/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/7338457/completions",
+                "title": "Completions for User: 7338457"
+              },
+              "discussions": {
+                "href": "/users/7338457/discussions",
+                "title": "Discussions for User: 7338457"
+              },
+              "followers": {
+                "href": "/users/7338457/followers",
+                "title": "Followers for User: 7338457"
+              },
+              "following": {
+                "href": "/users/7338457/following",
+                "title": "Following for User: 7338457"
+              },
+              "notifications": {
+                "href": "/users/7338457/notifications",
+                "title": "Notifications for User: 7338457"
+              },
+              "projects": {
+                "href": "/users/7338457/projects",
+                "title": "Projects for User: 7338457"
+              },
+              "rosters": {
+                "href": "/users/7338457/rosters",
+                "title": "Rosters for User: 7338457"
+              },
+              "userTags": {
+                "href": "/users/7338457/userTags",
+                "title": "UserTags for User: 7338457"
+              },
+              "votes": {
+                "href": "/users/7338457/votes",
+                "title": "Votes for User: 7338457"
+              },
+              "wishlist": {
+                "href": "/users/7338457/wishlist",
+                "title": "Wishlist for User: 7338457"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 556246,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NjI0NiJ9",
+        "sku": 239526616,
+        "title": "How to nourish yourself with a creative study: writing, drawing, painting, photography, mindfulness",
+        "project_title": "Three is the magic number. Whatever you create you will create it in triplicate - a minimum of 3 pieces of work to upload and share! That can mean 3 stories, or 3 versions of the same story, 3 drawing",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1e38112eebcc72411bbeeb386e6d3826/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1e38112eebcc72411bbeeb386e6d3826/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1e38112eebcc72411bbeeb386e6d3826/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-nourish-yourself-with-a-creative-study-writing-drawing-painting-photography-mindfulness/239526616",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "1h 10m",
+        "total_videos_duration_seconds": 4204,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 91,
+        "num_projects": 0,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 28, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/239526616",
+            "title": "How to nourish yourself with a creative study: writing, drawing, painting, photography, mindfulness"
+          },
+          "teacher": {
+            "href": "/users/8361286",
+            "title": "Lyndsey P - Therapeutic coach + art guide"
+          },
+          "units": {
+            "href": "/classes/239526616/units",
+            "title": "Units for Class: 239526616"
+          },
+          "sessions": {
+            "href": "/classes/239526616/sessions",
+            "title": "Sessions for Class: 239526616"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/239526616/students",
+            "title": "Students for Class: 239526616"
+          },
+          "projects": {
+            "href": "/classes/239526616/projects",
+            "title": "Projects for Class: 239526616"
+          },
+          "reviews": {
+            "href": "/classes/239526616/reviews",
+            "title": "Reviews for Class: 239526616"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9484758,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTQ4NDc1OCJ9",
+            "username": 8361286,
+            "first_name": "Lyndsey",
+            "last_name": "P",
+            "full_name": "Lyndsey P",
+            "vanity_username": "thesoftanchors",
+            "headline": "Therapeutic coach + art guide",
+            "pic": "https://static.skillshare.com/uploads/users/8361286/user-image-medium.png?1823647506",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8361286/user-image-small.png?1523075849",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8361286/user-image-large.png?279769796",
+            "_links": {
+              "self": {
+                "href": "/users/8361286",
+                "title": "Lyndsey P - Therapeutic coach + art guide"
+              },
+              "my_classes": {
+                "href": "/users/8361286/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8361286/completions",
+                "title": "Completions for User: 8361286"
+              },
+              "discussions": {
+                "href": "/users/8361286/discussions",
+                "title": "Discussions for User: 8361286"
+              },
+              "followers": {
+                "href": "/users/8361286/followers",
+                "title": "Followers for User: 8361286"
+              },
+              "following": {
+                "href": "/users/8361286/following",
+                "title": "Following for User: 8361286"
+              },
+              "notifications": {
+                "href": "/users/8361286/notifications",
+                "title": "Notifications for User: 8361286"
+              },
+              "projects": {
+                "href": "/users/8361286/projects",
+                "title": "Projects for User: 8361286"
+              },
+              "rosters": {
+                "href": "/users/8361286/rosters",
+                "title": "Rosters for User: 8361286"
+              },
+              "userTags": {
+                "href": "/users/8361286/userTags",
+                "title": "UserTags for User: 8361286"
+              },
+              "votes": {
+                "href": "/users/8361286/votes",
+                "title": "Votes for User: 8361286"
+              },
+              "wishlist": {
+                "href": "/users/8361286/wishlist",
+                "title": "Wishlist for User: 8361286"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 556247,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NjI0NyJ9",
+        "sku": 1601837809,
+        "title": "How to Crochet a Heart",
+        "project_title": "For the class project, you can post your process of making your very own heart. I encourage you to be creative and really make it your own. Crocheting is a very flexible craft, so I would love to see ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e61b99a00ca474d710a58cea6dee082c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e61b99a00ca474d710a58cea6dee082c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e61b99a00ca474d710a58cea6dee082c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Crochet-a-Heart/1601837809",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "25m",
+        "total_videos_duration_seconds": 1476,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 211,
+        "num_projects": 3,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1601837809",
+            "title": "How to Crochet a Heart"
+          },
+          "teacher": {
+            "href": "/users/793407503",
+            "title": "Breanna Presley - June And Ro Crochet"
+          },
+          "units": {
+            "href": "/classes/1601837809/units",
+            "title": "Units for Class: 1601837809"
+          },
+          "sessions": {
+            "href": "/classes/1601837809/sessions",
+            "title": "Sessions for Class: 1601837809"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1601837809/students",
+            "title": "Students for Class: 1601837809"
+          },
+          "projects": {
+            "href": "/classes/1601837809/projects",
+            "title": "Projects for Class: 1601837809"
+          },
+          "reviews": {
+            "href": "/classes/1601837809/reviews",
+            "title": "Reviews for Class: 1601837809"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 24299249,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjQyOTkyNDkifQ==",
+            "username": 793407503,
+            "first_name": "Breanna",
+            "last_name": "Presley",
+            "full_name": "Breanna Presley",
+            "vanity_username": null,
+            "headline": "June And Ro Crochet",
+            "pic": "https://static.skillshare.com/uploads/users/793407503/user-image-medium.jpg?301657366",
+            "pic_sm": "https://static.skillshare.com/uploads/users/793407503/user-image-small.jpg?1915582717",
+            "pic_lg": "https://static.skillshare.com/uploads/users/793407503/user-image-large.jpg?726729647",
+            "_links": {
+              "self": {
+                "href": "/users/793407503",
+                "title": "Breanna Presley - June And Ro Crochet"
+              },
+              "my_classes": {
+                "href": "/users/793407503/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/793407503/completions",
+                "title": "Completions for User: 793407503"
+              },
+              "discussions": {
+                "href": "/users/793407503/discussions",
+                "title": "Discussions for User: 793407503"
+              },
+              "followers": {
+                "href": "/users/793407503/followers",
+                "title": "Followers for User: 793407503"
+              },
+              "following": {
+                "href": "/users/793407503/following",
+                "title": "Following for User: 793407503"
+              },
+              "notifications": {
+                "href": "/users/793407503/notifications",
+                "title": "Notifications for User: 793407503"
+              },
+              "projects": {
+                "href": "/users/793407503/projects",
+                "title": "Projects for User: 793407503"
+              },
+              "rosters": {
+                "href": "/users/793407503/rosters",
+                "title": "Rosters for User: 793407503"
+              },
+              "userTags": {
+                "href": "/users/793407503/userTags",
+                "title": "UserTags for User: 793407503"
+              },
+              "votes": {
+                "href": "/users/793407503/votes",
+                "title": "Votes for User: 793407503"
+              },
+              "wishlist": {
+                "href": "/users/793407503/wishlist",
+                "title": "Wishlist for User: 793407503"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 556273,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NjI3MyJ9",
+        "sku": 896319112,
+        "title": "Design a Wedding Invitation Suite with Me!",
+        "project_title": "The class project will be to create your own wedding invitation suite! Here are some things I'd recommend:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/54b2db6131a4baf382565a5d2835eb99/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/54b2db6131a4baf382565a5d2835eb99/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/54b2db6131a4baf382565a5d2835eb99/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Design-a-Wedding-Invitation-Suite-with-Me/896319112",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "39m",
+        "total_videos_duration_seconds": 2360,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 221,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 23, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/896319112",
+            "title": "Design a Wedding Invitation Suite with Me!"
+          },
+          "teacher": {
+            "href": "/users/503786",
+            "title": "Laney Schenk - Taking the invitation business seriously"
+          },
+          "units": {
+            "href": "/classes/896319112/units",
+            "title": "Units for Class: 896319112"
+          },
+          "sessions": {
+            "href": "/classes/896319112/sessions",
+            "title": "Sessions for Class: 896319112"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/896319112/students",
+            "title": "Students for Class: 896319112"
+          },
+          "projects": {
+            "href": "/classes/896319112/projects",
+            "title": "Projects for Class: 896319112"
+          },
+          "reviews": {
+            "href": "/classes/896319112/reviews",
+            "title": "Reviews for Class: 896319112"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3762975,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzc2Mjk3NSJ9",
+            "username": 503786,
+            "first_name": "Laney",
+            "last_name": "Schenk",
+            "full_name": "Laney Schenk",
+            "vanity_username": null,
+            "headline": "Taking the invitation business seriously",
+            "pic": "https://static.skillshare.com/uploads/users/503786/user-image-medium.jpg?1344501437",
+            "pic_sm": "https://static.skillshare.com/uploads/users/503786/user-image-small.jpg?829134825",
+            "pic_lg": "https://static.skillshare.com/uploads/users/503786/user-image-large.jpg?856517635",
+            "_links": {
+              "self": {
+                "href": "/users/503786",
+                "title": "Laney Schenk - Taking the invitation business seriously"
+              },
+              "my_classes": {
+                "href": "/users/503786/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/503786/completions",
+                "title": "Completions for User: 503786"
+              },
+              "discussions": {
+                "href": "/users/503786/discussions",
+                "title": "Discussions for User: 503786"
+              },
+              "followers": {
+                "href": "/users/503786/followers",
+                "title": "Followers for User: 503786"
+              },
+              "following": {
+                "href": "/users/503786/following",
+                "title": "Following for User: 503786"
+              },
+              "notifications": {
+                "href": "/users/503786/notifications",
+                "title": "Notifications for User: 503786"
+              },
+              "projects": {
+                "href": "/users/503786/projects",
+                "title": "Projects for User: 503786"
+              },
+              "rosters": {
+                "href": "/users/503786/rosters",
+                "title": "Rosters for User: 503786"
+              },
+              "userTags": {
+                "href": "/users/503786/userTags",
+                "title": "UserTags for User: 503786"
+              },
+              "votes": {
+                "href": "/users/503786/votes",
+                "title": "Votes for User: 503786"
+              },
+              "wishlist": {
+                "href": "/users/503786/wishlist",
+                "title": "Wishlist for User: 503786"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 556286,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NjI4NiJ9",
+        "sku": 1913027792,
+        "title": "Embracing Your Inner Child: Creating Art with Everyday Objects",
+        "project_title": "Transform an everyday object with your art.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/92e5c6652c106e2772da033a32418654/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/92e5c6652c106e2772da033a32418654/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/92e5c6652c106e2772da033a32418654/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Embracing-Your-Inner-Child-Creating-Art-with-Everyday-Objects/1913027792",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "25m",
+        "total_videos_duration_seconds": 1521,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 727,
+        "num_projects": 4,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1913027792",
+            "title": "Embracing Your Inner Child: Creating Art with Everyday Objects"
+          },
+          "teacher": {
+            "href": "/users/361094",
+            "title": "Pranav Bhardwaj - Artist/Designer/Illustrator/Writer"
+          },
+          "units": {
+            "href": "/classes/1913027792/units",
+            "title": "Units for Class: 1913027792"
+          },
+          "sessions": {
+            "href": "/classes/1913027792/sessions",
+            "title": "Sessions for Class: 1913027792"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1913027792/students",
+            "title": "Students for Class: 1913027792"
+          },
+          "projects": {
+            "href": "/classes/1913027792/projects",
+            "title": "Projects for Class: 1913027792"
+          },
+          "reviews": {
+            "href": "/classes/1913027792/reviews",
+            "title": "Reviews for Class: 1913027792"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2425031,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjQyNTAzMSJ9",
+            "username": 361094,
+            "first_name": "Pranav",
+            "last_name": "Bhardwaj",
+            "full_name": "Pranav Bhardwaj",
+            "vanity_username": null,
+            "headline": "Artist/Designer/Illustrator/Writer",
+            "pic": "https://static.skillshare.com/uploads/users/361094/user-image-medium.jpg?405592533",
+            "pic_sm": "https://static.skillshare.com/uploads/users/361094/user-image-small.jpg?1450708757",
+            "pic_lg": "https://static.skillshare.com/uploads/users/361094/user-image-large.jpg?1729708948",
+            "_links": {
+              "self": {
+                "href": "/users/361094",
+                "title": "Pranav Bhardwaj - Artist/Designer/Illustrator/Writer"
+              },
+              "my_classes": {
+                "href": "/users/361094/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/361094/completions",
+                "title": "Completions for User: 361094"
+              },
+              "discussions": {
+                "href": "/users/361094/discussions",
+                "title": "Discussions for User: 361094"
+              },
+              "followers": {
+                "href": "/users/361094/followers",
+                "title": "Followers for User: 361094"
+              },
+              "following": {
+                "href": "/users/361094/following",
+                "title": "Following for User: 361094"
+              },
+              "notifications": {
+                "href": "/users/361094/notifications",
+                "title": "Notifications for User: 361094"
+              },
+              "projects": {
+                "href": "/users/361094/projects",
+                "title": "Projects for User: 361094"
+              },
+              "rosters": {
+                "href": "/users/361094/rosters",
+                "title": "Rosters for User: 361094"
+              },
+              "userTags": {
+                "href": "/users/361094/userTags",
+                "title": "UserTags for User: 361094"
+              },
+              "votes": {
+                "href": "/users/361094/votes",
+                "title": "Votes for User: 361094"
+              },
+              "wishlist": {
+                "href": "/users/361094/wishlist",
+                "title": "Wishlist for User: 361094"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 556287,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NjI4NyJ9",
+        "sku": 1944002371,
+        "title": "Cyanotype Toning 2: three easy methods",
+        "project_title": "In this class you will be using 3 different toning methods using a few different solutions in order to change the color of your cyanotype photography prints.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9af3d4d78c46c98049a76f0e8294d5a7/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9af3d4d78c46c98049a76f0e8294d5a7/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9af3d4d78c46c98049a76f0e8294d5a7/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Cyanotype-Toning-2-three-easy-methods/1944002371",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "52m",
+        "total_videos_duration_seconds": 3092,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 85,
+        "num_projects": 1,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1944002371",
+            "title": "Cyanotype Toning 2: three easy methods"
+          },
+          "teacher": {
+            "href": "/users/1077293",
+            "title": "Ben Panter - Alternative Photography & Game Making"
+          },
+          "units": {
+            "href": "/classes/1944002371/units",
+            "title": "Units for Class: 1944002371"
+          },
+          "sessions": {
+            "href": "/classes/1944002371/sessions",
+            "title": "Sessions for Class: 1944002371"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1944002371/students",
+            "title": "Students for Class: 1944002371"
+          },
+          "projects": {
+            "href": "/classes/1944002371/projects",
+            "title": "Projects for Class: 1944002371"
+          },
+          "reviews": {
+            "href": "/classes/1944002371/reviews",
+            "title": "Reviews for Class: 1944002371"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1576034,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTU3NjAzNCJ9",
+            "username": 1077293,
+            "first_name": "Ben",
+            "last_name": "Panter",
+            "full_name": "Ben Panter",
+            "vanity_username": "benpanter",
+            "headline": "Alternative Photography & Game Making",
+            "pic": "https://static.skillshare.com/uploads/users/1077293/user-image-medium.png?1131271801",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1077293/user-image-small.png?1533633069",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1077293/user-image-large.png?1840820504",
+            "_links": {
+              "self": {
+                "href": "/users/1077293",
+                "title": "Ben Panter - Alternative Photography & Game Making"
+              },
+              "my_classes": {
+                "href": "/users/1077293/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1077293/completions",
+                "title": "Completions for User: 1077293"
+              },
+              "discussions": {
+                "href": "/users/1077293/discussions",
+                "title": "Discussions for User: 1077293"
+              },
+              "followers": {
+                "href": "/users/1077293/followers",
+                "title": "Followers for User: 1077293"
+              },
+              "following": {
+                "href": "/users/1077293/following",
+                "title": "Following for User: 1077293"
+              },
+              "notifications": {
+                "href": "/users/1077293/notifications",
+                "title": "Notifications for User: 1077293"
+              },
+              "projects": {
+                "href": "/users/1077293/projects",
+                "title": "Projects for User: 1077293"
+              },
+              "rosters": {
+                "href": "/users/1077293/rosters",
+                "title": "Rosters for User: 1077293"
+              },
+              "userTags": {
+                "href": "/users/1077293/userTags",
+                "title": "UserTags for User: 1077293"
+              },
+              "votes": {
+                "href": "/users/1077293/votes",
+                "title": "Votes for User: 1077293"
+              },
+              "wishlist": {
+                "href": "/users/1077293/wishlist",
+                "title": "Wishlist for User: 1077293"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 556304,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NjMwNCJ9",
+        "sku": 1005747232,
+        "title": "15-Day Watercolor Challenge: Paint Loose Florals Using Color Prompts",
+        "project_title": "Here is the list of prompts for our 15-day watercolor journey.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/cca4e073dee9708ef4a2d2aaead5b2d1/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/cca4e073dee9708ef4a2d2aaead5b2d1/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/cca4e073dee9708ef4a2d2aaead5b2d1/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/15-Day-Watercolor-Challenge-Paint-Loose-Florals-Using-Color-Prompts/1005747232",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 23,
+        "total_videos_duration": "3h 54m",
+        "total_videos_duration_seconds": 14039,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1765,
+        "num_projects": 122,
+        "num_discussions": 5,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 18, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1005747232",
+            "title": "15-Day Watercolor Challenge: Paint Loose Florals Using Color Prompts"
+          },
+          "teacher": {
+            "href": "/users/1470947",
+            "title": "Joly Poa - Watercolor Artist "
+          },
+          "units": {
+            "href": "/classes/1005747232/units",
+            "title": "Units for Class: 1005747232"
+          },
+          "sessions": {
+            "href": "/classes/1005747232/sessions",
+            "title": "Sessions for Class: 1005747232"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1005747232/students",
+            "title": "Students for Class: 1005747232"
+          },
+          "projects": {
+            "href": "/classes/1005747232/projects",
+            "title": "Projects for Class: 1005747232"
+          },
+          "reviews": {
+            "href": "/classes/1005747232/reviews",
+            "title": "Reviews for Class: 1005747232"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4277667,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDI3NzY2NyJ9",
+            "username": 1470947,
+            "first_name": "Joly",
+            "last_name": "Poa",
+            "full_name": "Joly Poa",
+            "vanity_username": "jolypoa",
+            "headline": "Watercolor Artist ",
+            "pic": "https://static.skillshare.com/uploads/users/1470947/user-image-medium.jpg?90585393",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1470947/user-image-small.jpg?433575171",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1470947/user-image-large.jpg?1050899947",
+            "_links": {
+              "self": {
+                "href": "/users/1470947",
+                "title": "Joly Poa - Watercolor Artist "
+              },
+              "my_classes": {
+                "href": "/users/1470947/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1470947/completions",
+                "title": "Completions for User: 1470947"
+              },
+              "discussions": {
+                "href": "/users/1470947/discussions",
+                "title": "Discussions for User: 1470947"
+              },
+              "followers": {
+                "href": "/users/1470947/followers",
+                "title": "Followers for User: 1470947"
+              },
+              "following": {
+                "href": "/users/1470947/following",
+                "title": "Following for User: 1470947"
+              },
+              "notifications": {
+                "href": "/users/1470947/notifications",
+                "title": "Notifications for User: 1470947"
+              },
+              "projects": {
+                "href": "/users/1470947/projects",
+                "title": "Projects for User: 1470947"
+              },
+              "rosters": {
+                "href": "/users/1470947/rosters",
+                "title": "Rosters for User: 1470947"
+              },
+              "userTags": {
+                "href": "/users/1470947/userTags",
+                "title": "UserTags for User: 1470947"
+              },
+              "votes": {
+                "href": "/users/1470947/votes",
+                "title": "Votes for User: 1470947"
+              },
+              "wishlist": {
+                "href": "/users/1470947/wishlist",
+                "title": "Wishlist for User: 1470947"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 556307,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NjMwNyJ9",
+        "sku": 1081699453,
+        "title": "Fundamentos de la Sostenibilidad: 4 Pilares Para Una Casa Más Sostenible",
+        "project_title": "Bienvenid@ a tu proyecto de clase: Tu Eco Auditoria",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/0cbd5f8e2461e616cdbc128948950d45/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/0cbd5f8e2461e616cdbc128948950d45/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/0cbd5f8e2461e616cdbc128948950d45/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Fundamentos-de-la-Sostenibilidad-4-Pilares-Para-Una-Casa-M%C3%A1s-Sostenible/1081699453",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "1h 1m",
+        "total_videos_duration_seconds": 3665,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 141,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": true,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 14, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1081699453",
+            "title": "Fundamentos de la Sostenibilidad: 4 Pilares Para Una Casa Más Sostenible"
+          },
+          "teacher": {
+            "href": "/users/877696396",
+            "title": "Ilana Perry - Educadora ambiental"
+          },
+          "units": {
+            "href": "/classes/1081699453/units",
+            "title": "Units for Class: 1081699453"
+          },
+          "sessions": {
+            "href": "/classes/1081699453/sessions",
+            "title": "Sessions for Class: 1081699453"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1081699453/students",
+            "title": "Students for Class: 1081699453"
+          },
+          "projects": {
+            "href": "/classes/1081699453/projects",
+            "title": "Projects for Class: 1081699453"
+          },
+          "reviews": {
+            "href": "/classes/1081699453/reviews",
+            "title": "Reviews for Class: 1081699453"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15933686,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTU5MzM2ODYifQ==",
+            "username": 877696396,
+            "first_name": "Ilana",
+            "last_name": "Perry",
+            "full_name": "Ilana Perry",
+            "vanity_username": null,
+            "headline": "Educadora ambiental",
+            "pic": "https://static.skillshare.com/uploads/users/877696396/user-image-medium.jpg?1289679972",
+            "pic_sm": "https://static.skillshare.com/uploads/users/877696396/user-image-small.jpg?1100018811",
+            "pic_lg": "https://static.skillshare.com/uploads/users/877696396/user-image-large.jpg?1361013669",
+            "_links": {
+              "self": {
+                "href": "/users/877696396",
+                "title": "Ilana Perry - Educadora ambiental"
+              },
+              "my_classes": {
+                "href": "/users/877696396/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/877696396/completions",
+                "title": "Completions for User: 877696396"
+              },
+              "discussions": {
+                "href": "/users/877696396/discussions",
+                "title": "Discussions for User: 877696396"
+              },
+              "followers": {
+                "href": "/users/877696396/followers",
+                "title": "Followers for User: 877696396"
+              },
+              "following": {
+                "href": "/users/877696396/following",
+                "title": "Following for User: 877696396"
+              },
+              "notifications": {
+                "href": "/users/877696396/notifications",
+                "title": "Notifications for User: 877696396"
+              },
+              "projects": {
+                "href": "/users/877696396/projects",
+                "title": "Projects for User: 877696396"
+              },
+              "rosters": {
+                "href": "/users/877696396/rosters",
+                "title": "Rosters for User: 877696396"
+              },
+              "userTags": {
+                "href": "/users/877696396/userTags",
+                "title": "UserTags for User: 877696396"
+              },
+              "votes": {
+                "href": "/users/877696396/votes",
+                "title": "Votes for User: 877696396"
+              },
+              "wishlist": {
+                "href": "/users/877696396/wishlist",
+                "title": "Wishlist for User: 877696396"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

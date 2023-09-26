@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=2605",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=2604",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=2606",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 516916,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUxNjkxNiJ9",
+        "sku": 1109036911,
+        "title": "Beginner's Course in Adobe Illustrator",
+        "project_title": "Make an Exciting Poster of Your Choice",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f2bd710e6fbe2edbf44f4808c1ffcd95/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f2bd710e6fbe2edbf44f4808c1ffcd95/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f2bd710e6fbe2edbf44f4808c1ffcd95/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Beginners-Course-in-Adobe-Illustrator/1109036911",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 52,
+        "total_videos_duration": "3h 59m",
+        "total_videos_duration_seconds": 14348,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 403,
+        "num_projects": 8,
+        "num_discussions": 5,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 9, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1109036911",
+            "title": "Beginner's Course in Adobe Illustrator"
+          },
+          "teacher": {
+            "href": "/users/547805002",
+            "title": "Tim Wilson - Adobe Certified Instructor and Expert"
+          },
+          "units": {
+            "href": "/classes/1109036911/units",
+            "title": "Units for Class: 1109036911"
+          },
+          "sessions": {
+            "href": "/classes/1109036911/sessions",
+            "title": "Sessions for Class: 1109036911"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1109036911/students",
+            "title": "Students for Class: 1109036911"
+          },
+          "projects": {
+            "href": "/classes/1109036911/projects",
+            "title": "Projects for Class: 1109036911"
+          },
+          "reviews": {
+            "href": "/classes/1109036911/reviews",
+            "title": "Reviews for Class: 1109036911"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18222843,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTgyMjI4NDMifQ==",
+            "username": 547805002,
+            "first_name": "Tim",
+            "last_name": "Wilson",
+            "full_name": "Tim Wilson",
+            "vanity_username": "timwilson",
+            "headline": "Adobe Certified Instructor and Expert",
+            "pic": "https://static.skillshare.com/uploads/users/547805002/user-image-medium.jpg?791020994",
+            "pic_sm": "https://static.skillshare.com/uploads/users/547805002/user-image-small.jpg?47082956",
+            "pic_lg": "https://static.skillshare.com/uploads/users/547805002/user-image-large.jpg?2055573120",
+            "_links": {
+              "self": {
+                "href": "/users/547805002",
+                "title": "Tim Wilson - Adobe Certified Instructor and Expert"
+              },
+              "my_classes": {
+                "href": "/users/547805002/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/547805002/completions",
+                "title": "Completions for User: 547805002"
+              },
+              "discussions": {
+                "href": "/users/547805002/discussions",
+                "title": "Discussions for User: 547805002"
+              },
+              "followers": {
+                "href": "/users/547805002/followers",
+                "title": "Followers for User: 547805002"
+              },
+              "following": {
+                "href": "/users/547805002/following",
+                "title": "Following for User: 547805002"
+              },
+              "notifications": {
+                "href": "/users/547805002/notifications",
+                "title": "Notifications for User: 547805002"
+              },
+              "projects": {
+                "href": "/users/547805002/projects",
+                "title": "Projects for User: 547805002"
+              },
+              "rosters": {
+                "href": "/users/547805002/rosters",
+                "title": "Rosters for User: 547805002"
+              },
+              "userTags": {
+                "href": "/users/547805002/userTags",
+                "title": "UserTags for User: 547805002"
+              },
+              "votes": {
+                "href": "/users/547805002/votes",
+                "title": "Votes for User: 547805002"
+              },
+              "wishlist": {
+                "href": "/users/547805002/wishlist",
+                "title": "Wishlist for User: 547805002"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 516926,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUxNjkyNiJ9",
+        "sku": 510039985,
+        "title": "Winter Trees With Acrylics: Learn To Paint Foliage Textures And Fine Lines",
+        "project_title": "For your class projects you’ll be painting two lovely winter tree paintings. Each painting gives you the opportunity to practice different techniques and build your confidence.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1debf69b4ff8be0af3664db6570f4fb3/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1debf69b4ff8be0af3664db6570f4fb3/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1debf69b4ff8be0af3664db6570f4fb3/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Winter-Trees-With-Acrylics-Learn-To-Paint-Foliage-Textures-And-Fine-Lines/510039985",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "35m",
+        "total_videos_duration_seconds": 2114,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 94,
+        "num_projects": 4,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 28, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/510039985",
+            "title": "Winter Trees With Acrylics: Learn To Paint Foliage Textures And Fine Lines"
+          },
+          "teacher": {
+            "href": "/users/914067138",
+            "title": "Kate Broadhurst - Artist / Painter / Educator"
+          },
+          "units": {
+            "href": "/classes/510039985/units",
+            "title": "Units for Class: 510039985"
+          },
+          "sessions": {
+            "href": "/classes/510039985/sessions",
+            "title": "Sessions for Class: 510039985"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/510039985/students",
+            "title": "Students for Class: 510039985"
+          },
+          "projects": {
+            "href": "/classes/510039985/projects",
+            "title": "Projects for Class: 510039985"
+          },
+          "reviews": {
+            "href": "/classes/510039985/reviews",
+            "title": "Reviews for Class: 510039985"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18158211,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTgxNTgyMTEifQ==",
+            "username": 914067138,
+            "first_name": "Kate",
+            "last_name": "Broadhurst",
+            "full_name": "Kate Broadhurst",
+            "vanity_username": "katebroadhurst",
+            "headline": "Artist / Painter / Educator",
+            "pic": "https://static.skillshare.com/uploads/users/914067138/user-image-medium.jpg?1314766511",
+            "pic_sm": "https://static.skillshare.com/uploads/users/914067138/user-image-small.jpg?1205222740",
+            "pic_lg": "https://static.skillshare.com/uploads/users/914067138/user-image-large.jpg?631164046",
+            "_links": {
+              "self": {
+                "href": "/users/914067138",
+                "title": "Kate Broadhurst - Artist / Painter / Educator"
+              },
+              "my_classes": {
+                "href": "/users/914067138/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/914067138/completions",
+                "title": "Completions for User: 914067138"
+              },
+              "discussions": {
+                "href": "/users/914067138/discussions",
+                "title": "Discussions for User: 914067138"
+              },
+              "followers": {
+                "href": "/users/914067138/followers",
+                "title": "Followers for User: 914067138"
+              },
+              "following": {
+                "href": "/users/914067138/following",
+                "title": "Following for User: 914067138"
+              },
+              "notifications": {
+                "href": "/users/914067138/notifications",
+                "title": "Notifications for User: 914067138"
+              },
+              "projects": {
+                "href": "/users/914067138/projects",
+                "title": "Projects for User: 914067138"
+              },
+              "rosters": {
+                "href": "/users/914067138/rosters",
+                "title": "Rosters for User: 914067138"
+              },
+              "userTags": {
+                "href": "/users/914067138/userTags",
+                "title": "UserTags for User: 914067138"
+              },
+              "votes": {
+                "href": "/users/914067138/votes",
+                "title": "Votes for User: 914067138"
+              },
+              "wishlist": {
+                "href": "/users/914067138/wishlist",
+                "title": "Wishlist for User: 914067138"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 516931,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUxNjkzMSJ9",
+        "sku": 415846682,
+        "title": "Procreate for Beginners: Putting Alpha Lock and Clipping Mask to use",
+        "project_title": "Learn how to use Alpha Lock and Clipping Mask in Procreate",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e4c82416f4e8df65a0bfbd33c3271e24/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e4c82416f4e8df65a0bfbd33c3271e24/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e4c82416f4e8df65a0bfbd33c3271e24/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Procreate-for-Beginners-Putting-Alpha-Lock-and-Clipping-Mask-to-use/415846682",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "34m",
+        "total_videos_duration_seconds": 2048,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 828,
+        "num_projects": 79,
+        "num_discussions": 11,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 10, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/415846682",
+            "title": "Procreate for Beginners: Putting Alpha Lock and Clipping Mask to use"
+          },
+          "teacher": {
+            "href": "/users/611072979",
+            "title": "Floortje Visser - Digital art tutorials for Procreate"
+          },
+          "units": {
+            "href": "/classes/415846682/units",
+            "title": "Units for Class: 415846682"
+          },
+          "sessions": {
+            "href": "/classes/415846682/sessions",
+            "title": "Sessions for Class: 415846682"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/415846682/students",
+            "title": "Students for Class: 415846682"
+          },
+          "projects": {
+            "href": "/classes/415846682/projects",
+            "title": "Projects for Class: 415846682"
+          },
+          "reviews": {
+            "href": "/classes/415846682/reviews",
+            "title": "Reviews for Class: 415846682"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9908902,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTkwODkwMiJ9",
+            "username": 611072979,
+            "first_name": "Floortje",
+            "last_name": "Visser",
+            "full_name": "Floortje Visser",
+            "vanity_username": "artwithflo",
+            "headline": "Digital art tutorials for Procreate",
+            "pic": "https://static.skillshare.com/uploads/users/611072979/user-image-medium.jpg?1061053117",
+            "pic_sm": "https://static.skillshare.com/uploads/users/611072979/user-image-small.jpg?808565747",
+            "pic_lg": "https://static.skillshare.com/uploads/users/611072979/user-image-large.jpg?360710711",
+            "_links": {
+              "self": {
+                "href": "/users/611072979",
+                "title": "Floortje Visser - Digital art tutorials for Procreate"
+              },
+              "my_classes": {
+                "href": "/users/611072979/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/611072979/completions",
+                "title": "Completions for User: 611072979"
+              },
+              "discussions": {
+                "href": "/users/611072979/discussions",
+                "title": "Discussions for User: 611072979"
+              },
+              "followers": {
+                "href": "/users/611072979/followers",
+                "title": "Followers for User: 611072979"
+              },
+              "following": {
+                "href": "/users/611072979/following",
+                "title": "Following for User: 611072979"
+              },
+              "notifications": {
+                "href": "/users/611072979/notifications",
+                "title": "Notifications for User: 611072979"
+              },
+              "projects": {
+                "href": "/users/611072979/projects",
+                "title": "Projects for User: 611072979"
+              },
+              "rosters": {
+                "href": "/users/611072979/rosters",
+                "title": "Rosters for User: 611072979"
+              },
+              "userTags": {
+                "href": "/users/611072979/userTags",
+                "title": "UserTags for User: 611072979"
+              },
+              "votes": {
+                "href": "/users/611072979/votes",
+                "title": "Votes for User: 611072979"
+              },
+              "wishlist": {
+                "href": "/users/611072979/wishlist",
+                "title": "Wishlist for User: 611072979"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 516934,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUxNjkzNCJ9",
+        "sku": 1719832542,
+        "title": "Watercolor Landscapes in Sketchbook",
+        "project_title": "Instructions for Your Class Project:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/00ab1bcdbf5f811f7b9cb013857d1117/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/00ab1bcdbf5f811f7b9cb013857d1117/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/00ab1bcdbf5f811f7b9cb013857d1117/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolor-Landscapes-in-Sketchbook/1719832542",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 18m",
+        "total_videos_duration_seconds": 4684,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1739,
+        "num_projects": 33,
+        "num_discussions": 13,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 8, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1719832542",
+            "title": "Watercolor Landscapes in Sketchbook"
+          },
+          "teacher": {
+            "href": "/users/9898547",
+            "title": "Bianca Rayala - Top Teacher | Watercolor Artist"
+          },
+          "units": {
+            "href": "/classes/1719832542/units",
+            "title": "Units for Class: 1719832542"
+          },
+          "sessions": {
+            "href": "/classes/1719832542/sessions",
+            "title": "Sessions for Class: 1719832542"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1719832542/students",
+            "title": "Students for Class: 1719832542"
+          },
+          "projects": {
+            "href": "/classes/1719832542/projects",
+            "title": "Projects for Class: 1719832542"
+          },
+          "reviews": {
+            "href": "/classes/1719832542/reviews",
+            "title": "Reviews for Class: 1719832542"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4459345,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDQ1OTM0NSJ9",
+            "username": 9898547,
+            "first_name": "Bianca",
+            "last_name": "Rayala",
+            "full_name": "Bianca Rayala",
+            "vanity_username": "biancafloresrayala",
+            "headline": "Top Teacher | Watercolor Artist",
+            "pic": "https://static.skillshare.com/uploads/users/9898547/user-image-medium.jpg?274336677",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9898547/user-image-small.jpg?1094911447",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9898547/user-image-large.jpg?274218136",
+            "_links": {
+              "self": {
+                "href": "/users/9898547",
+                "title": "Bianca Rayala - Top Teacher | Watercolor Artist"
+              },
+              "my_classes": {
+                "href": "/users/9898547/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9898547/completions",
+                "title": "Completions for User: 9898547"
+              },
+              "discussions": {
+                "href": "/users/9898547/discussions",
+                "title": "Discussions for User: 9898547"
+              },
+              "followers": {
+                "href": "/users/9898547/followers",
+                "title": "Followers for User: 9898547"
+              },
+              "following": {
+                "href": "/users/9898547/following",
+                "title": "Following for User: 9898547"
+              },
+              "notifications": {
+                "href": "/users/9898547/notifications",
+                "title": "Notifications for User: 9898547"
+              },
+              "projects": {
+                "href": "/users/9898547/projects",
+                "title": "Projects for User: 9898547"
+              },
+              "rosters": {
+                "href": "/users/9898547/rosters",
+                "title": "Rosters for User: 9898547"
+              },
+              "userTags": {
+                "href": "/users/9898547/userTags",
+                "title": "UserTags for User: 9898547"
+              },
+              "votes": {
+                "href": "/users/9898547/votes",
+                "title": "Votes for User: 9898547"
+              },
+              "wishlist": {
+                "href": "/users/9898547/wishlist",
+                "title": "Wishlist for User: 9898547"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 516951,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUxNjk1MSJ9",
+        "sku": 1679200434,
+        "title": "Photoshop Glow effect: add glow to any image",
+        "project_title": "Attached are the images I used for the class, you can use any other image of your preference. I have also attached a Photoshop keyboard shortcut cheat-sheet to help you out.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ecc07a403b8b879588cae34bc2999cc2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ecc07a403b8b879588cae34bc2999cc2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ecc07a403b8b879588cae34bc2999cc2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Photoshop-Glow-effect-add-glow-to-any-image/1679200434",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "22m",
+        "total_videos_duration_seconds": 1294,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 108,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 8, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1679200434",
+            "title": "Photoshop Glow effect: add glow to any image"
+          },
+          "teacher": {
+            "href": "/users/559392195",
+            "title": "Roxane Strijdom"
+          },
+          "units": {
+            "href": "/classes/1679200434/units",
+            "title": "Units for Class: 1679200434"
+          },
+          "sessions": {
+            "href": "/classes/1679200434/sessions",
+            "title": "Sessions for Class: 1679200434"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1679200434/students",
+            "title": "Students for Class: 1679200434"
+          },
+          "projects": {
+            "href": "/classes/1679200434/projects",
+            "title": "Projects for Class: 1679200434"
+          },
+          "reviews": {
+            "href": "/classes/1679200434/reviews",
+            "title": "Reviews for Class: 1679200434"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18984889,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTg5ODQ4ODkifQ==",
+            "username": 559392195,
+            "first_name": "Roxane",
+            "last_name": "Strijdom",
+            "full_name": "Roxane Strijdom",
+            "vanity_username": "rox4n3",
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/559392195/user-image-medium.jpg?1529355567",
+            "pic_sm": "https://static.skillshare.com/uploads/users/559392195/user-image-small.jpg?536636480",
+            "pic_lg": "https://static.skillshare.com/uploads/users/559392195/user-image-large.jpg?1193506214",
+            "_links": {
+              "self": {
+                "href": "/users/559392195",
+                "title": "Roxane Strijdom"
+              },
+              "my_classes": {
+                "href": "/users/559392195/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/559392195/completions",
+                "title": "Completions for User: 559392195"
+              },
+              "discussions": {
+                "href": "/users/559392195/discussions",
+                "title": "Discussions for User: 559392195"
+              },
+              "followers": {
+                "href": "/users/559392195/followers",
+                "title": "Followers for User: 559392195"
+              },
+              "following": {
+                "href": "/users/559392195/following",
+                "title": "Following for User: 559392195"
+              },
+              "notifications": {
+                "href": "/users/559392195/notifications",
+                "title": "Notifications for User: 559392195"
+              },
+              "projects": {
+                "href": "/users/559392195/projects",
+                "title": "Projects for User: 559392195"
+              },
+              "rosters": {
+                "href": "/users/559392195/rosters",
+                "title": "Rosters for User: 559392195"
+              },
+              "userTags": {
+                "href": "/users/559392195/userTags",
+                "title": "UserTags for User: 559392195"
+              },
+              "votes": {
+                "href": "/users/559392195/votes",
+                "title": "Votes for User: 559392195"
+              },
+              "wishlist": {
+                "href": "/users/559392195/wishlist",
+                "title": "Wishlist for User: 559392195"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 517007,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUxNzAwNyJ9",
+        "sku": 613405666,
+        "title": "Save Your Plants! Effective Solutions for Common Houseplant Problems",
+        "project_title": "In lesson 5, you will learn about different propagation methods. Choose one, two, or all of the methods and try to propagate one of your plants. You can then upload photos of before and after, or of t",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/8dbc35998b133f2b205810d75b749c0e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/8dbc35998b133f2b205810d75b749c0e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/8dbc35998b133f2b205810d75b749c0e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Save-Your-Plants-Effective-Solutions-for-Common-Houseplant-Problems/613405666",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "38m",
+        "total_videos_duration_seconds": 2251,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 309,
+        "num_projects": 1,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 8, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/613405666",
+            "title": "Save Your Plants! Effective Solutions for Common Houseplant Problems"
+          },
+          "teacher": {
+            "href": "/users/971566921",
+            "title": "Laura L. - Let's save your plants together!"
+          },
+          "units": {
+            "href": "/classes/613405666/units",
+            "title": "Units for Class: 613405666"
+          },
+          "sessions": {
+            "href": "/classes/613405666/sessions",
+            "title": "Sessions for Class: 613405666"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/613405666/students",
+            "title": "Students for Class: 613405666"
+          },
+          "projects": {
+            "href": "/classes/613405666/projects",
+            "title": "Projects for Class: 613405666"
+          },
+          "reviews": {
+            "href": "/classes/613405666/reviews",
+            "title": "Reviews for Class: 613405666"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 20250205,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjAyNTAyMDUifQ==",
+            "username": 971566921,
+            "first_name": "Laura",
+            "last_name": "L.",
+            "full_name": "Laura L.",
+            "vanity_username": "fanciplants",
+            "headline": "Let's save your plants together!",
+            "pic": "https://static.skillshare.com/uploads/users/971566921/user-image-medium.jpg?961816829",
+            "pic_sm": "https://static.skillshare.com/uploads/users/971566921/user-image-small.jpg?792841258",
+            "pic_lg": "https://static.skillshare.com/uploads/users/971566921/user-image-large.jpg?1421119251",
+            "_links": {
+              "self": {
+                "href": "/users/971566921",
+                "title": "Laura L. - Let's save your plants together!"
+              },
+              "my_classes": {
+                "href": "/users/971566921/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/971566921/completions",
+                "title": "Completions for User: 971566921"
+              },
+              "discussions": {
+                "href": "/users/971566921/discussions",
+                "title": "Discussions for User: 971566921"
+              },
+              "followers": {
+                "href": "/users/971566921/followers",
+                "title": "Followers for User: 971566921"
+              },
+              "following": {
+                "href": "/users/971566921/following",
+                "title": "Following for User: 971566921"
+              },
+              "notifications": {
+                "href": "/users/971566921/notifications",
+                "title": "Notifications for User: 971566921"
+              },
+              "projects": {
+                "href": "/users/971566921/projects",
+                "title": "Projects for User: 971566921"
+              },
+              "rosters": {
+                "href": "/users/971566921/rosters",
+                "title": "Rosters for User: 971566921"
+              },
+              "userTags": {
+                "href": "/users/971566921/userTags",
+                "title": "UserTags for User: 971566921"
+              },
+              "votes": {
+                "href": "/users/971566921/votes",
+                "title": "Votes for User: 971566921"
+              },
+              "wishlist": {
+                "href": "/users/971566921/wishlist",
+                "title": "Wishlist for User: 971566921"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 517055,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUxNzA1NSJ9",
+        "sku": 632098024,
+        "title": "How to Use Group Policies - Understanding GPO's on Windows Server",
+        "project_title": "Understanding Group Policies is an essential skill that all IT System Administrators and Techs need to have.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e3335181e50ea7c3afded6d9719211a4/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e3335181e50ea7c3afded6d9719211a4/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e3335181e50ea7c3afded6d9719211a4/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Use-Group-Policies-Understanding-GPOs-on-Windows-Server/632098024",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "1h 14m",
+        "total_videos_duration_seconds": 4437,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 124,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 7, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/632098024",
+            "title": "How to Use Group Policies - Understanding GPO's on Windows Server"
+          },
+          "teacher": {
+            "href": "/users/296991404",
+            "title": "Emilio Aguero - ...all things tech"
+          },
+          "units": {
+            "href": "/classes/632098024/units",
+            "title": "Units for Class: 632098024"
+          },
+          "sessions": {
+            "href": "/classes/632098024/sessions",
+            "title": "Sessions for Class: 632098024"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/632098024/students",
+            "title": "Students for Class: 632098024"
+          },
+          "projects": {
+            "href": "/classes/632098024/projects",
+            "title": "Projects for Class: 632098024"
+          },
+          "reviews": {
+            "href": "/classes/632098024/reviews",
+            "title": "Reviews for Class: 632098024"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17096883,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTcwOTY4ODMifQ==",
+            "username": 296991404,
+            "first_name": "Emilio",
+            "last_name": "Aguero",
+            "full_name": "Emilio Aguero",
+            "vanity_username": "emilioaguero",
+            "headline": "...all things tech",
+            "pic": "https://static.skillshare.com/uploads/users/296991404/user-image-medium.jpg?469114460",
+            "pic_sm": "https://static.skillshare.com/uploads/users/296991404/user-image-small.jpg?2050471645",
+            "pic_lg": "https://static.skillshare.com/uploads/users/296991404/user-image-large.jpg?2084369587",
+            "_links": {
+              "self": {
+                "href": "/users/296991404",
+                "title": "Emilio Aguero - ...all things tech"
+              },
+              "my_classes": {
+                "href": "/users/296991404/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/296991404/completions",
+                "title": "Completions for User: 296991404"
+              },
+              "discussions": {
+                "href": "/users/296991404/discussions",
+                "title": "Discussions for User: 296991404"
+              },
+              "followers": {
+                "href": "/users/296991404/followers",
+                "title": "Followers for User: 296991404"
+              },
+              "following": {
+                "href": "/users/296991404/following",
+                "title": "Following for User: 296991404"
+              },
+              "notifications": {
+                "href": "/users/296991404/notifications",
+                "title": "Notifications for User: 296991404"
+              },
+              "projects": {
+                "href": "/users/296991404/projects",
+                "title": "Projects for User: 296991404"
+              },
+              "rosters": {
+                "href": "/users/296991404/rosters",
+                "title": "Rosters for User: 296991404"
+              },
+              "userTags": {
+                "href": "/users/296991404/userTags",
+                "title": "UserTags for User: 296991404"
+              },
+              "votes": {
+                "href": "/users/296991404/votes",
+                "title": "Votes for User: 296991404"
+              },
+              "wishlist": {
+                "href": "/users/296991404/wishlist",
+                "title": "Wishlist for User: 296991404"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 517061,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUxNzA2MSJ9",
+        "sku": 991310433,
+        "title": "Cinema 4D Masterclass: Project Based Cinema 4D Course - For complete beginners and seasoned artists",
+        "project_title": "Make sure you follow along and create the following 3D scenes we will cover in this course (don't worry I'll teach you how to make them step by step):",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/534a24fcbc9e005dae02db35f649bf3a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/534a24fcbc9e005dae02db35f649bf3a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/534a24fcbc9e005dae02db35f649bf3a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Cinema-4D-Masterclass-Project-Based-Cinema-4D-Course-For-complete-beginners-and-seasoned-artists/991310433",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 53,
+        "total_videos_duration": "9h 55m",
+        "total_videos_duration_seconds": 35703,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 139,
+        "num_projects": 0,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 9, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/991310433",
+            "title": "Cinema 4D Masterclass: Project Based Cinema 4D Course - For complete beginners and seasoned artists"
+          },
+          "teacher": {
+            "href": "/users/3965932",
+            "title": "Moy Lobito"
+          },
+          "units": {
+            "href": "/classes/991310433/units",
+            "title": "Units for Class: 991310433"
+          },
+          "sessions": {
+            "href": "/classes/991310433/sessions",
+            "title": "Sessions for Class: 991310433"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/991310433/students",
+            "title": "Students for Class: 991310433"
+          },
+          "projects": {
+            "href": "/classes/991310433/projects",
+            "title": "Projects for Class: 991310433"
+          },
+          "reviews": {
+            "href": "/classes/991310433/reviews",
+            "title": "Reviews for Class: 991310433"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6722295,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjcyMjI5NSJ9",
+            "username": 3965932,
+            "first_name": "Moy",
+            "last_name": "Lobito",
+            "full_name": "Moy Lobito",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/3965932/user-image-medium.jpg?300656539",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3965932/user-image-small.jpg?320631761",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3965932/user-image-large.jpg?1649593020",
+            "_links": {
+              "self": {
+                "href": "/users/3965932",
+                "title": "Moy Lobito"
+              },
+              "my_classes": {
+                "href": "/users/3965932/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3965932/completions",
+                "title": "Completions for User: 3965932"
+              },
+              "discussions": {
+                "href": "/users/3965932/discussions",
+                "title": "Discussions for User: 3965932"
+              },
+              "followers": {
+                "href": "/users/3965932/followers",
+                "title": "Followers for User: 3965932"
+              },
+              "following": {
+                "href": "/users/3965932/following",
+                "title": "Following for User: 3965932"
+              },
+              "notifications": {
+                "href": "/users/3965932/notifications",
+                "title": "Notifications for User: 3965932"
+              },
+              "projects": {
+                "href": "/users/3965932/projects",
+                "title": "Projects for User: 3965932"
+              },
+              "rosters": {
+                "href": "/users/3965932/rosters",
+                "title": "Rosters for User: 3965932"
+              },
+              "userTags": {
+                "href": "/users/3965932/userTags",
+                "title": "UserTags for User: 3965932"
+              },
+              "votes": {
+                "href": "/users/3965932/votes",
+                "title": "Votes for User: 3965932"
+              },
+              "wishlist": {
+                "href": "/users/3965932/wishlist",
+                "title": "Wishlist for User: 3965932"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 517062,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUxNzA2MiJ9",
+        "sku": 1310323224,
+        "title": "Instagram for Surface Pattern Designers",
+        "project_title": "For the class project, you’ll set your Instagram account and profile presenting who you are and what you do as a Surface Pattern Designer. Besides, you’ll plan 9 posts showing your work.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/4ec90627df11f0558b02633d83ea9347/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/4ec90627df11f0558b02633d83ea9347/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/4ec90627df11f0558b02633d83ea9347/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Instagram-for-Surface-Pattern-Designers/1310323224",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "56m",
+        "total_videos_duration_seconds": 3383,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 994,
+        "num_projects": 6,
+        "num_discussions": 16,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 19, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1310323224",
+            "title": "Instagram for Surface Pattern Designers"
+          },
+          "teacher": {
+            "href": "/users/5287298",
+            "title": "Lucia SJ - Fashion & Surface Pattern Designer"
+          },
+          "units": {
+            "href": "/classes/1310323224/units",
+            "title": "Units for Class: 1310323224"
+          },
+          "sessions": {
+            "href": "/classes/1310323224/sessions",
+            "title": "Sessions for Class: 1310323224"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1310323224/students",
+            "title": "Students for Class: 1310323224"
+          },
+          "projects": {
+            "href": "/classes/1310323224/projects",
+            "title": "Projects for Class: 1310323224"
+          },
+          "reviews": {
+            "href": "/classes/1310323224/reviews",
+            "title": "Reviews for Class: 1310323224"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5060301,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTA2MDMwMSJ9",
+            "username": 5287298,
+            "first_name": "Lucia",
+            "last_name": "SJ",
+            "full_name": "Lucia SJ",
+            "vanity_username": "lucia_deinki",
+            "headline": "Fashion & Surface Pattern Designer",
+            "pic": "https://static.skillshare.com/uploads/users/5287298/user-image-medium.jpg?1354343919",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5287298/user-image-small.jpg?1203808503",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5287298/user-image-large.jpg?278282968",
+            "_links": {
+              "self": {
+                "href": "/users/5287298",
+                "title": "Lucia SJ - Fashion & Surface Pattern Designer"
+              },
+              "my_classes": {
+                "href": "/users/5287298/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5287298/completions",
+                "title": "Completions for User: 5287298"
+              },
+              "discussions": {
+                "href": "/users/5287298/discussions",
+                "title": "Discussions for User: 5287298"
+              },
+              "followers": {
+                "href": "/users/5287298/followers",
+                "title": "Followers for User: 5287298"
+              },
+              "following": {
+                "href": "/users/5287298/following",
+                "title": "Following for User: 5287298"
+              },
+              "notifications": {
+                "href": "/users/5287298/notifications",
+                "title": "Notifications for User: 5287298"
+              },
+              "projects": {
+                "href": "/users/5287298/projects",
+                "title": "Projects for User: 5287298"
+              },
+              "rosters": {
+                "href": "/users/5287298/rosters",
+                "title": "Rosters for User: 5287298"
+              },
+              "userTags": {
+                "href": "/users/5287298/userTags",
+                "title": "UserTags for User: 5287298"
+              },
+              "votes": {
+                "href": "/users/5287298/votes",
+                "title": "Votes for User: 5287298"
+              },
+              "wishlist": {
+                "href": "/users/5287298/wishlist",
+                "title": "Wishlist for User: 5287298"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 517064,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUxNzA2NCJ9",
+        "sku": 1907172574,
+        "title": "How to Speed Up Your Mac - Improving and Optimizing your Mac Performance",
+        "project_title": "We'll aim to get your Mac running better, optimizing it's performance. I encourage you to have you Mac handy and go through these steps as you work your way through this class.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a93cf33e9718ca7dce2fe723a8aa1d9b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a93cf33e9718ca7dce2fe723a8aa1d9b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a93cf33e9718ca7dce2fe723a8aa1d9b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Speed-Up-Your-Mac-Improving-and-Optimizing-your-Mac-Performance/1907172574",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "1h 32m",
+        "total_videos_duration_seconds": 5536,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 39,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 17, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1907172574",
+            "title": "How to Speed Up Your Mac - Improving and Optimizing your Mac Performance"
+          },
+          "teacher": {
+            "href": "/users/296991404",
+            "title": "Emilio Aguero - ...all things tech"
+          },
+          "units": {
+            "href": "/classes/1907172574/units",
+            "title": "Units for Class: 1907172574"
+          },
+          "sessions": {
+            "href": "/classes/1907172574/sessions",
+            "title": "Sessions for Class: 1907172574"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1907172574/students",
+            "title": "Students for Class: 1907172574"
+          },
+          "projects": {
+            "href": "/classes/1907172574/projects",
+            "title": "Projects for Class: 1907172574"
+          },
+          "reviews": {
+            "href": "/classes/1907172574/reviews",
+            "title": "Reviews for Class: 1907172574"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17096883,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTcwOTY4ODMifQ==",
+            "username": 296991404,
+            "first_name": "Emilio",
+            "last_name": "Aguero",
+            "full_name": "Emilio Aguero",
+            "vanity_username": "emilioaguero",
+            "headline": "...all things tech",
+            "pic": "https://static.skillshare.com/uploads/users/296991404/user-image-medium.jpg?469114460",
+            "pic_sm": "https://static.skillshare.com/uploads/users/296991404/user-image-small.jpg?2050471645",
+            "pic_lg": "https://static.skillshare.com/uploads/users/296991404/user-image-large.jpg?2084369587",
+            "_links": {
+              "self": {
+                "href": "/users/296991404",
+                "title": "Emilio Aguero - ...all things tech"
+              },
+              "my_classes": {
+                "href": "/users/296991404/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/296991404/completions",
+                "title": "Completions for User: 296991404"
+              },
+              "discussions": {
+                "href": "/users/296991404/discussions",
+                "title": "Discussions for User: 296991404"
+              },
+              "followers": {
+                "href": "/users/296991404/followers",
+                "title": "Followers for User: 296991404"
+              },
+              "following": {
+                "href": "/users/296991404/following",
+                "title": "Following for User: 296991404"
+              },
+              "notifications": {
+                "href": "/users/296991404/notifications",
+                "title": "Notifications for User: 296991404"
+              },
+              "projects": {
+                "href": "/users/296991404/projects",
+                "title": "Projects for User: 296991404"
+              },
+              "rosters": {
+                "href": "/users/296991404/rosters",
+                "title": "Rosters for User: 296991404"
+              },
+              "userTags": {
+                "href": "/users/296991404/userTags",
+                "title": "UserTags for User: 296991404"
+              },
+              "votes": {
+                "href": "/users/296991404/votes",
+                "title": "Votes for User: 296991404"
+              },
+              "wishlist": {
+                "href": "/users/296991404/wishlist",
+                "title": "Wishlist for User: 296991404"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

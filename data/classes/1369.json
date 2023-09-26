@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1369",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1368",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1370",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 570304,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDMwNCJ9",
+        "sku": 2075866425,
+        "title": "Heath Candy Bar Parfait",
+        "project_title": "Your project is to make our Heath Candy Bar Parfait",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6f447f23d31659446259432cab784e99/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6f447f23d31659446259432cab784e99/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6f447f23d31659446259432cab784e99/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Heath-Candy-Bar-Parfait/2075866425",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "25m",
+        "total_videos_duration_seconds": 1514,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 8,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 15, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2075866425",
+            "title": "Heath Candy Bar Parfait"
+          },
+          "teacher": {
+            "href": "/users/9251276",
+            "title": "Nadine Thomas"
+          },
+          "units": {
+            "href": "/classes/2075866425/units",
+            "title": "Units for Class: 2075866425"
+          },
+          "sessions": {
+            "href": "/classes/2075866425/sessions",
+            "title": "Sessions for Class: 2075866425"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/2075866425/students",
+            "title": "Students for Class: 2075866425"
+          },
+          "projects": {
+            "href": "/classes/2075866425/projects",
+            "title": "Projects for Class: 2075866425"
+          },
+          "reviews": {
+            "href": "/classes/2075866425/reviews",
+            "title": "Reviews for Class: 2075866425"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2723120,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjcyMzEyMCJ9",
+            "username": 9251276,
+            "first_name": "Nadine",
+            "last_name": "Thomas",
+            "full_name": "Nadine Thomas",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/9251276/user-image-medium.jpg?915894138",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9251276/user-image-small.jpg?1999859432",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9251276/user-image-large.jpg?713281766",
+            "_links": {
+              "self": {
+                "href": "/users/9251276",
+                "title": "Nadine Thomas"
+              },
+              "my_classes": {
+                "href": "/users/9251276/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9251276/completions",
+                "title": "Completions for User: 9251276"
+              },
+              "discussions": {
+                "href": "/users/9251276/discussions",
+                "title": "Discussions for User: 9251276"
+              },
+              "followers": {
+                "href": "/users/9251276/followers",
+                "title": "Followers for User: 9251276"
+              },
+              "following": {
+                "href": "/users/9251276/following",
+                "title": "Following for User: 9251276"
+              },
+              "notifications": {
+                "href": "/users/9251276/notifications",
+                "title": "Notifications for User: 9251276"
+              },
+              "projects": {
+                "href": "/users/9251276/projects",
+                "title": "Projects for User: 9251276"
+              },
+              "rosters": {
+                "href": "/users/9251276/rosters",
+                "title": "Rosters for User: 9251276"
+              },
+              "userTags": {
+                "href": "/users/9251276/userTags",
+                "title": "UserTags for User: 9251276"
+              },
+              "votes": {
+                "href": "/users/9251276/votes",
+                "title": "Votes for User: 9251276"
+              },
+              "wishlist": {
+                "href": "/users/9251276/wishlist",
+                "title": "Wishlist for User: 9251276"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570305,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDMwNSJ9",
+        "sku": 610697458,
+        "title": "The Ultimate Guide to Unreal Engine 5 For Complete Beginners",
+        "project_title": "Create 10 levels (at least) using all the various properties we have created during our course. Each should be progressively harder than the one before it and each should have more engaging elements t",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/cef9070f9de080ad5e690ae6c1313053/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/cef9070f9de080ad5e690ae6c1313053/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/cef9070f9de080ad5e690ae6c1313053/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-Ultimate-Guide-to-Unreal-Engine-5-For-Complete-Beginners/610697458",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 71,
+        "total_videos_duration": "15h 31m",
+        "total_videos_duration_seconds": 55881,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1716,
+        "num_projects": 2,
+        "num_discussions": 33,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 2, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/610697458",
+            "title": "The Ultimate Guide to Unreal Engine 5 For Complete Beginners"
+          },
+          "teacher": {
+            "href": "/users/597063554",
+            "title": "Michael Murr - Software Engineer :: Game Developer"
+          },
+          "units": {
+            "href": "/classes/610697458/units",
+            "title": "Units for Class: 610697458"
+          },
+          "sessions": {
+            "href": "/classes/610697458/sessions",
+            "title": "Sessions for Class: 610697458"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/610697458/students",
+            "title": "Students for Class: 610697458"
+          },
+          "projects": {
+            "href": "/classes/610697458/projects",
+            "title": "Projects for Class: 610697458"
+          },
+          "reviews": {
+            "href": "/classes/610697458/reviews",
+            "title": "Reviews for Class: 610697458"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16458023,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTY0NTgwMjMifQ==",
+            "username": 597063554,
+            "first_name": "Michael",
+            "last_name": "Murr",
+            "full_name": "Michael Murr",
+            "vanity_username": "michaelmurr",
+            "headline": "Software Engineer :: Game Developer",
+            "pic": "https://static.skillshare.com/uploads/users/597063554/user-image-medium.png?138694891",
+            "pic_sm": "https://static.skillshare.com/uploads/users/597063554/user-image-small.png?265723717",
+            "pic_lg": "https://static.skillshare.com/uploads/users/597063554/user-image-large.png?1447793325",
+            "_links": {
+              "self": {
+                "href": "/users/597063554",
+                "title": "Michael Murr - Software Engineer :: Game Developer"
+              },
+              "my_classes": {
+                "href": "/users/597063554/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/597063554/completions",
+                "title": "Completions for User: 597063554"
+              },
+              "discussions": {
+                "href": "/users/597063554/discussions",
+                "title": "Discussions for User: 597063554"
+              },
+              "followers": {
+                "href": "/users/597063554/followers",
+                "title": "Followers for User: 597063554"
+              },
+              "following": {
+                "href": "/users/597063554/following",
+                "title": "Following for User: 597063554"
+              },
+              "notifications": {
+                "href": "/users/597063554/notifications",
+                "title": "Notifications for User: 597063554"
+              },
+              "projects": {
+                "href": "/users/597063554/projects",
+                "title": "Projects for User: 597063554"
+              },
+              "rosters": {
+                "href": "/users/597063554/rosters",
+                "title": "Rosters for User: 597063554"
+              },
+              "userTags": {
+                "href": "/users/597063554/userTags",
+                "title": "UserTags for User: 597063554"
+              },
+              "votes": {
+                "href": "/users/597063554/votes",
+                "title": "Votes for User: 597063554"
+              },
+              "wishlist": {
+                "href": "/users/597063554/wishlist",
+                "title": "Wishlist for User: 597063554"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570312,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDMxMiJ9",
+        "sku": 1372962427,
+        "title": "CREATIVE PHOTOGRAPHY MASTERCLASS - SESSION 2: Add Drama & Tension To Your Photographs",
+        "project_title": "PROJECT: Daily Photography: By actively bearing witness to the subtleties of your everyday life, you will awaken to the beauty of the moment, awkward as it may be, 1 frame at a time. Respond, don’t st",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f4bf5fbe3160a8638e46974bf9987d86/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f4bf5fbe3160a8638e46974bf9987d86/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f4bf5fbe3160a8638e46974bf9987d86/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/CREATIVE-PHOTOGRAPHY-MASTERCLASS-SESSION-2-Add-Drama-Tension-To-Your-Photographs/1372962427",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "25m",
+        "total_videos_duration_seconds": 1511,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 29,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 20, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1372962427",
+            "title": "CREATIVE PHOTOGRAPHY MASTERCLASS - SESSION 2: Add Drama & Tension To Your Photographs"
+          },
+          "teacher": {
+            "href": "/users/842155726",
+            "title": "Rob Goldman - Photographer & Creativity Coach"
+          },
+          "units": {
+            "href": "/classes/1372962427/units",
+            "title": "Units for Class: 1372962427"
+          },
+          "sessions": {
+            "href": "/classes/1372962427/sessions",
+            "title": "Sessions for Class: 1372962427"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1372962427/students",
+            "title": "Students for Class: 1372962427"
+          },
+          "projects": {
+            "href": "/classes/1372962427/projects",
+            "title": "Projects for Class: 1372962427"
+          },
+          "reviews": {
+            "href": "/classes/1372962427/reviews",
+            "title": "Reviews for Class: 1372962427"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23338990,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjMzMzg5OTAifQ==",
+            "username": 842155726,
+            "first_name": "Rob",
+            "last_name": "Goldman",
+            "full_name": "Rob Goldman",
+            "vanity_username": null,
+            "headline": "Photographer & Creativity Coach",
+            "pic": "https://static.skillshare.com/uploads/users/842155726/user-image-medium.jpg?1734999953",
+            "pic_sm": "https://static.skillshare.com/uploads/users/842155726/user-image-small.jpg?865756367",
+            "pic_lg": "https://static.skillshare.com/uploads/users/842155726/user-image-large.jpg?1581001909",
+            "_links": {
+              "self": {
+                "href": "/users/842155726",
+                "title": "Rob Goldman - Photographer & Creativity Coach"
+              },
+              "my_classes": {
+                "href": "/users/842155726/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/842155726/completions",
+                "title": "Completions for User: 842155726"
+              },
+              "discussions": {
+                "href": "/users/842155726/discussions",
+                "title": "Discussions for User: 842155726"
+              },
+              "followers": {
+                "href": "/users/842155726/followers",
+                "title": "Followers for User: 842155726"
+              },
+              "following": {
+                "href": "/users/842155726/following",
+                "title": "Following for User: 842155726"
+              },
+              "notifications": {
+                "href": "/users/842155726/notifications",
+                "title": "Notifications for User: 842155726"
+              },
+              "projects": {
+                "href": "/users/842155726/projects",
+                "title": "Projects for User: 842155726"
+              },
+              "rosters": {
+                "href": "/users/842155726/rosters",
+                "title": "Rosters for User: 842155726"
+              },
+              "userTags": {
+                "href": "/users/842155726/userTags",
+                "title": "UserTags for User: 842155726"
+              },
+              "votes": {
+                "href": "/users/842155726/votes",
+                "title": "Votes for User: 842155726"
+              },
+              "wishlist": {
+                "href": "/users/842155726/wishlist",
+                "title": "Wishlist for User: 842155726"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570319,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDMxOSJ9",
+        "sku": 1211212934,
+        "title": "Web Components: How to Create Custom HTML Elements with Javascript",
+        "project_title": "For your class project, I encourage you to create your own fully functioning web component. For inspiration, you can take what we have done so far in this class with the eCommerce example and add addi",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fbcd28ac5ef20606ff08bfd2be208504/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fbcd28ac5ef20606ff08bfd2be208504/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fbcd28ac5ef20606ff08bfd2be208504/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Web-Components-How-to-Create-Custom-HTML-Elements-with-Javascript/1211212934",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "2h 30m",
+        "total_videos_duration_seconds": 9026,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 318,
+        "num_projects": 1,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1211212934",
+            "title": "Web Components: How to Create Custom HTML Elements with Javascript"
+          },
+          "teacher": {
+            "href": "/users/3311891",
+            "title": "Christopher Dodd - Web Developer / Educator"
+          },
+          "units": {
+            "href": "/classes/1211212934/units",
+            "title": "Units for Class: 1211212934"
+          },
+          "sessions": {
+            "href": "/classes/1211212934/sessions",
+            "title": "Sessions for Class: 1211212934"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1211212934/students",
+            "title": "Students for Class: 1211212934"
+          },
+          "projects": {
+            "href": "/classes/1211212934/projects",
+            "title": "Projects for Class: 1211212934"
+          },
+          "reviews": {
+            "href": "/classes/1211212934/reviews",
+            "title": "Reviews for Class: 1211212934"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2446048,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjQ0NjA0OCJ9",
+            "username": 3311891,
+            "first_name": "Christopher",
+            "last_name": "Dodd",
+            "full_name": "Christopher Dodd",
+            "vanity_username": "chrisdodd",
+            "headline": "Web Developer / Educator",
+            "pic": "https://static.skillshare.com/uploads/users/3311891/user-image-medium.jpg?2070404059",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3311891/user-image-small.jpg?1647900032",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3311891/user-image-large.jpg?1606804727",
+            "_links": {
+              "self": {
+                "href": "/users/3311891",
+                "title": "Christopher Dodd - Web Developer / Educator"
+              },
+              "my_classes": {
+                "href": "/users/3311891/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3311891/completions",
+                "title": "Completions for User: 3311891"
+              },
+              "discussions": {
+                "href": "/users/3311891/discussions",
+                "title": "Discussions for User: 3311891"
+              },
+              "followers": {
+                "href": "/users/3311891/followers",
+                "title": "Followers for User: 3311891"
+              },
+              "following": {
+                "href": "/users/3311891/following",
+                "title": "Following for User: 3311891"
+              },
+              "notifications": {
+                "href": "/users/3311891/notifications",
+                "title": "Notifications for User: 3311891"
+              },
+              "projects": {
+                "href": "/users/3311891/projects",
+                "title": "Projects for User: 3311891"
+              },
+              "rosters": {
+                "href": "/users/3311891/rosters",
+                "title": "Rosters for User: 3311891"
+              },
+              "userTags": {
+                "href": "/users/3311891/userTags",
+                "title": "UserTags for User: 3311891"
+              },
+              "votes": {
+                "href": "/users/3311891/votes",
+                "title": "Votes for User: 3311891"
+              },
+              "wishlist": {
+                "href": "/users/3311891/wishlist",
+                "title": "Wishlist for User: 3311891"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570331,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDMzMSJ9",
+        "sku": 1764640502,
+        "title": "Daisies by the Window",
+        "project_title": "CLASS INSTRUCTIONS:\n\nCheck the&nbsp;Resource Section&nbsp;for the photo of the pencil sketch and final paintings.\nPrepare your materials for the class. I recommend the following:\n\nWatercolor paper - 3",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e038fc6304c70730f2cda94693611fa3/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e038fc6304c70730f2cda94693611fa3/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e038fc6304c70730f2cda94693611fa3/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Daisies-by-the-Window/1764640502",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 16,
+        "total_videos_duration": "2h 11m",
+        "total_videos_duration_seconds": 7843,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 251,
+        "num_projects": 3,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1764640502",
+            "title": "Daisies by the Window"
+          },
+          "teacher": {
+            "href": "/users/262450489",
+            "title": "Nikki Jao - Watercolor Artist"
+          },
+          "units": {
+            "href": "/classes/1764640502/units",
+            "title": "Units for Class: 1764640502"
+          },
+          "sessions": {
+            "href": "/classes/1764640502/sessions",
+            "title": "Sessions for Class: 1764640502"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1764640502/students",
+            "title": "Students for Class: 1764640502"
+          },
+          "projects": {
+            "href": "/classes/1764640502/projects",
+            "title": "Projects for Class: 1764640502"
+          },
+          "reviews": {
+            "href": "/classes/1764640502/reviews",
+            "title": "Reviews for Class: 1764640502"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10205110,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTAyMDUxMTAifQ==",
+            "username": 262450489,
+            "first_name": "Nikki",
+            "last_name": "Jao",
+            "full_name": "Nikki Jao",
+            "vanity_username": null,
+            "headline": "Watercolor Artist",
+            "pic": "https://static.skillshare.com/uploads/users/262450489/user-image-medium.jpg?2018940203",
+            "pic_sm": "https://static.skillshare.com/uploads/users/262450489/user-image-small.jpg?184551365",
+            "pic_lg": "https://static.skillshare.com/uploads/users/262450489/user-image-large.jpg?954101170",
+            "_links": {
+              "self": {
+                "href": "/users/262450489",
+                "title": "Nikki Jao - Watercolor Artist"
+              },
+              "my_classes": {
+                "href": "/users/262450489/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/262450489/completions",
+                "title": "Completions for User: 262450489"
+              },
+              "discussions": {
+                "href": "/users/262450489/discussions",
+                "title": "Discussions for User: 262450489"
+              },
+              "followers": {
+                "href": "/users/262450489/followers",
+                "title": "Followers for User: 262450489"
+              },
+              "following": {
+                "href": "/users/262450489/following",
+                "title": "Following for User: 262450489"
+              },
+              "notifications": {
+                "href": "/users/262450489/notifications",
+                "title": "Notifications for User: 262450489"
+              },
+              "projects": {
+                "href": "/users/262450489/projects",
+                "title": "Projects for User: 262450489"
+              },
+              "rosters": {
+                "href": "/users/262450489/rosters",
+                "title": "Rosters for User: 262450489"
+              },
+              "userTags": {
+                "href": "/users/262450489/userTags",
+                "title": "UserTags for User: 262450489"
+              },
+              "votes": {
+                "href": "/users/262450489/votes",
+                "title": "Votes for User: 262450489"
+              },
+              "wishlist": {
+                "href": "/users/262450489/wishlist",
+                "title": "Wishlist for User: 262450489"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570339,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDMzOSJ9",
+        "sku": 1666564207,
+        "title": "Canva Basics: Launch Your Creative Business",
+        "project_title": "Download your Project Downloads & Resources PDF to get started!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/2d64f06a7f74481a67165861b76da2bc/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/2d64f06a7f74481a67165861b76da2bc/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/2d64f06a7f74481a67165861b76da2bc/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Canva-Basics-Launch-Your-Creative-Business/1666564207",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 26,
+        "total_videos_duration": "3h 13m",
+        "total_videos_duration_seconds": 11602,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 2344,
+        "num_projects": 16,
+        "num_discussions": 26,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 13, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1666564207",
+            "title": "Canva Basics: Launch Your Creative Business"
+          },
+          "teacher": {
+            "href": "/users/426071843",
+            "title": "Cheryl Chan - Brand Designer / YouTuber"
+          },
+          "units": {
+            "href": "/classes/1666564207/units",
+            "title": "Units for Class: 1666564207"
+          },
+          "sessions": {
+            "href": "/classes/1666564207/sessions",
+            "title": "Sessions for Class: 1666564207"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1666564207/students",
+            "title": "Students for Class: 1666564207"
+          },
+          "projects": {
+            "href": "/classes/1666564207/projects",
+            "title": "Projects for Class: 1666564207"
+          },
+          "reviews": {
+            "href": "/classes/1666564207/reviews",
+            "title": "Reviews for Class: 1666564207"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10670597,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTA2NzA1OTcifQ==",
+            "username": 426071843,
+            "first_name": "Cheryl",
+            "last_name": "Chan",
+            "full_name": "Cheryl Chan",
+            "vanity_username": "madeonsundays",
+            "headline": "Brand Designer / YouTuber",
+            "pic": "https://static.skillshare.com/uploads/users/426071843/user-image-medium.png?29217725",
+            "pic_sm": "https://static.skillshare.com/uploads/users/426071843/user-image-small.png?715899813",
+            "pic_lg": "https://static.skillshare.com/uploads/users/426071843/user-image-large.png?1473431829",
+            "_links": {
+              "self": {
+                "href": "/users/426071843",
+                "title": "Cheryl Chan - Brand Designer / YouTuber"
+              },
+              "my_classes": {
+                "href": "/users/426071843/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/426071843/completions",
+                "title": "Completions for User: 426071843"
+              },
+              "discussions": {
+                "href": "/users/426071843/discussions",
+                "title": "Discussions for User: 426071843"
+              },
+              "followers": {
+                "href": "/users/426071843/followers",
+                "title": "Followers for User: 426071843"
+              },
+              "following": {
+                "href": "/users/426071843/following",
+                "title": "Following for User: 426071843"
+              },
+              "notifications": {
+                "href": "/users/426071843/notifications",
+                "title": "Notifications for User: 426071843"
+              },
+              "projects": {
+                "href": "/users/426071843/projects",
+                "title": "Projects for User: 426071843"
+              },
+              "rosters": {
+                "href": "/users/426071843/rosters",
+                "title": "Rosters for User: 426071843"
+              },
+              "userTags": {
+                "href": "/users/426071843/userTags",
+                "title": "UserTags for User: 426071843"
+              },
+              "votes": {
+                "href": "/users/426071843/votes",
+                "title": "Votes for User: 426071843"
+              },
+              "wishlist": {
+                "href": "/users/426071843/wishlist",
+                "title": "Wishlist for User: 426071843"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570350,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDM1MCJ9",
+        "sku": 2139468627,
+        "title": "Mastering Hand Embroidery with A Stitch in Quine",
+        "project_title": "Create a strong foundation of skill in hand embroidery with this new course from A Stitch in Quine.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6310946545112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6310946545112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6310946545112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Mastering-Hand-Embroidery-with-A-Stitch-in-Quine/2139468627",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 33,
+        "total_videos_duration": "5h 3m",
+        "total_videos_duration_seconds": 18191,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 57,
+        "num_projects": 0,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 17, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2139468627",
+            "title": "Mastering Hand Embroidery with A Stitch in Quine"
+          },
+          "teacher": {
+            "href": "/users/5755019",
+            "title": "A Stitch In Quine - Embroidery for everyone"
+          },
+          "units": {
+            "href": "/classes/2139468627/units",
+            "title": "Units for Class: 2139468627"
+          },
+          "sessions": {
+            "href": "/classes/2139468627/sessions",
+            "title": "Sessions for Class: 2139468627"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/2139468627/students",
+            "title": "Students for Class: 2139468627"
+          },
+          "projects": {
+            "href": "/classes/2139468627/projects",
+            "title": "Projects for Class: 2139468627"
+          },
+          "reviews": {
+            "href": "/classes/2139468627/reviews",
+            "title": "Reviews for Class: 2139468627"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7974617,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzk3NDYxNyJ9",
+            "username": 5755019,
+            "first_name": "A Stitch",
+            "last_name": "In Quine",
+            "full_name": "A Stitch In Quine",
+            "vanity_username": null,
+            "headline": "Embroidery for everyone",
+            "pic": "https://static.skillshare.com/uploads/users/5755019/user-image-medium.jpg?1319393887",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5755019/user-image-small.jpg?1780912170",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5755019/user-image-large.jpg?55742174",
+            "_links": {
+              "self": {
+                "href": "/users/5755019",
+                "title": "A Stitch In Quine - Embroidery for everyone"
+              },
+              "my_classes": {
+                "href": "/users/5755019/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5755019/completions",
+                "title": "Completions for User: 5755019"
+              },
+              "discussions": {
+                "href": "/users/5755019/discussions",
+                "title": "Discussions for User: 5755019"
+              },
+              "followers": {
+                "href": "/users/5755019/followers",
+                "title": "Followers for User: 5755019"
+              },
+              "following": {
+                "href": "/users/5755019/following",
+                "title": "Following for User: 5755019"
+              },
+              "notifications": {
+                "href": "/users/5755019/notifications",
+                "title": "Notifications for User: 5755019"
+              },
+              "projects": {
+                "href": "/users/5755019/projects",
+                "title": "Projects for User: 5755019"
+              },
+              "rosters": {
+                "href": "/users/5755019/rosters",
+                "title": "Rosters for User: 5755019"
+              },
+              "userTags": {
+                "href": "/users/5755019/userTags",
+                "title": "UserTags for User: 5755019"
+              },
+              "votes": {
+                "href": "/users/5755019/votes",
+                "title": "Votes for User: 5755019"
+              },
+              "wishlist": {
+                "href": "/users/5755019/wishlist",
+                "title": "Wishlist for User: 5755019"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570363,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDM2MyJ9",
+        "sku": 60160583,
+        "title": "15 Days of Summer Sky | Spring Landscape Paintings",
+        "project_title": "Instructions for Your Class Project:\n1. Check the attachments for the reference photos for each day along with the final paintings. &nbsp;\n2. Prepare your ART MATERIALS (check the description for prod",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c0f787e9eb4db8cd2242d1d6bf535e2a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c0f787e9eb4db8cd2242d1d6bf535e2a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c0f787e9eb4db8cd2242d1d6bf535e2a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/15-Days-of-Summer-Sky-Spring-Landscape-Paintings/60160583",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 30,
+        "total_videos_duration": "14h",
+        "total_videos_duration_seconds": 50423,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 447,
+        "num_projects": 13,
+        "num_discussions": 5,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/60160583",
+            "title": "15 Days of Summer Sky | Spring Landscape Paintings"
+          },
+          "teacher": {
+            "href": "/users/188922009",
+            "title": "Debasree Dey - Acrylic Artist & Educator"
+          },
+          "units": {
+            "href": "/classes/60160583/units",
+            "title": "Units for Class: 60160583"
+          },
+          "sessions": {
+            "href": "/classes/60160583/sessions",
+            "title": "Sessions for Class: 60160583"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/60160583/students",
+            "title": "Students for Class: 60160583"
+          },
+          "projects": {
+            "href": "/classes/60160583/projects",
+            "title": "Projects for Class: 60160583"
+          },
+          "reviews": {
+            "href": "/classes/60160583/reviews",
+            "title": "Reviews for Class: 60160583"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10130179,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTAxMzAxNzkifQ==",
+            "username": 188922009,
+            "first_name": "Debasree Dey",
+            "last_name": null,
+            "full_name": "Debasree Dey",
+            "vanity_username": "debasreedeyart",
+            "headline": "Acrylic Artist & Educator",
+            "pic": "https://static.skillshare.com/uploads/users/188922009/user-image-medium.jpg?1020027892",
+            "pic_sm": "https://static.skillshare.com/uploads/users/188922009/user-image-small.jpg?1580720525",
+            "pic_lg": "https://static.skillshare.com/uploads/users/188922009/user-image-large.jpg?1548642251",
+            "_links": {
+              "self": {
+                "href": "/users/188922009",
+                "title": "Debasree Dey - Acrylic Artist & Educator"
+              },
+              "my_classes": {
+                "href": "/users/188922009/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/188922009/completions",
+                "title": "Completions for User: 188922009"
+              },
+              "discussions": {
+                "href": "/users/188922009/discussions",
+                "title": "Discussions for User: 188922009"
+              },
+              "followers": {
+                "href": "/users/188922009/followers",
+                "title": "Followers for User: 188922009"
+              },
+              "following": {
+                "href": "/users/188922009/following",
+                "title": "Following for User: 188922009"
+              },
+              "notifications": {
+                "href": "/users/188922009/notifications",
+                "title": "Notifications for User: 188922009"
+              },
+              "projects": {
+                "href": "/users/188922009/projects",
+                "title": "Projects for User: 188922009"
+              },
+              "rosters": {
+                "href": "/users/188922009/rosters",
+                "title": "Rosters for User: 188922009"
+              },
+              "userTags": {
+                "href": "/users/188922009/userTags",
+                "title": "UserTags for User: 188922009"
+              },
+              "votes": {
+                "href": "/users/188922009/votes",
+                "title": "Votes for User: 188922009"
+              },
+              "wishlist": {
+                "href": "/users/188922009/wishlist",
+                "title": "Wishlist for User: 188922009"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570365,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDM2NSJ9",
+        "sku": 165633935,
+        "title": "40 Minutes GLUTES & CORE Yoga Flow - Let's feel STRONG!",
+        "project_title": "For today's class project take 5 minutes to do a reflection on your body and it's physical and emotional state. .",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d65248825bab374182495323b2b565bb/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d65248825bab374182495323b2b565bb/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d65248825bab374182495323b2b565bb/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/40-Minutes-GLUTES-CORE-Yoga-Flow-Lets-feel-STRONG/165633935",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "45m",
+        "total_videos_duration_seconds": 2701,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 50,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 21, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/165633935",
+            "title": "40 Minutes GLUTES & CORE Yoga Flow - Let's feel STRONG!"
+          },
+          "teacher": {
+            "href": "/users/55971153",
+            "title": "Sarah Yoga"
+          },
+          "units": {
+            "href": "/classes/165633935/units",
+            "title": "Units for Class: 165633935"
+          },
+          "sessions": {
+            "href": "/classes/165633935/sessions",
+            "title": "Sessions for Class: 165633935"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/165633935/students",
+            "title": "Students for Class: 165633935"
+          },
+          "projects": {
+            "href": "/classes/165633935/projects",
+            "title": "Projects for Class: 165633935"
+          },
+          "reviews": {
+            "href": "/classes/165633935/reviews",
+            "title": "Reviews for Class: 165633935"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10106105,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTAxMDYxMDUifQ==",
+            "username": 55971153,
+            "first_name": "Sarah",
+            "last_name": "Yoga",
+            "full_name": "Sarah Yoga",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/55971153/user-image-medium.jpg?859582181",
+            "pic_sm": "https://static.skillshare.com/uploads/users/55971153/user-image-small.jpg?305346533",
+            "pic_lg": "https://static.skillshare.com/uploads/users/55971153/user-image-large.jpg?2031073469",
+            "_links": {
+              "self": {
+                "href": "/users/55971153",
+                "title": "Sarah Yoga"
+              },
+              "my_classes": {
+                "href": "/users/55971153/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/55971153/completions",
+                "title": "Completions for User: 55971153"
+              },
+              "discussions": {
+                "href": "/users/55971153/discussions",
+                "title": "Discussions for User: 55971153"
+              },
+              "followers": {
+                "href": "/users/55971153/followers",
+                "title": "Followers for User: 55971153"
+              },
+              "following": {
+                "href": "/users/55971153/following",
+                "title": "Following for User: 55971153"
+              },
+              "notifications": {
+                "href": "/users/55971153/notifications",
+                "title": "Notifications for User: 55971153"
+              },
+              "projects": {
+                "href": "/users/55971153/projects",
+                "title": "Projects for User: 55971153"
+              },
+              "rosters": {
+                "href": "/users/55971153/rosters",
+                "title": "Rosters for User: 55971153"
+              },
+              "userTags": {
+                "href": "/users/55971153/userTags",
+                "title": "UserTags for User: 55971153"
+              },
+              "votes": {
+                "href": "/users/55971153/votes",
+                "title": "Votes for User: 55971153"
+              },
+              "wishlist": {
+                "href": "/users/55971153/wishlist",
+                "title": "Wishlist for User: 55971153"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570366,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDM2NiJ9",
+        "sku": 1203577072,
+        "title": "Amazing Affinity Designer on the iPad Course - Intermediate / Advanced",
+        "project_title": "Infographic Project",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/2d9c4779bef97ce33ae1fa856e04bfb8/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/2d9c4779bef97ce33ae1fa856e04bfb8/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/2d9c4779bef97ce33ae1fa856e04bfb8/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Amazing-Affinity-Designer-on-the-iPad-Course-Intermediate-Advanced/1203577072",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 72,
+        "total_videos_duration": "3h 10m",
+        "total_videos_duration_seconds": 11403,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 227,
+        "num_projects": 6,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 2, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1203577072",
+            "title": "Amazing Affinity Designer on the iPad Course - Intermediate / Advanced"
+          },
+          "teacher": {
+            "href": "/users/547805002",
+            "title": "Tim Wilson - Adobe Certified Instructor and Expert"
+          },
+          "units": {
+            "href": "/classes/1203577072/units",
+            "title": "Units for Class: 1203577072"
+          },
+          "sessions": {
+            "href": "/classes/1203577072/sessions",
+            "title": "Sessions for Class: 1203577072"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1203577072/students",
+            "title": "Students for Class: 1203577072"
+          },
+          "projects": {
+            "href": "/classes/1203577072/projects",
+            "title": "Projects for Class: 1203577072"
+          },
+          "reviews": {
+            "href": "/classes/1203577072/reviews",
+            "title": "Reviews for Class: 1203577072"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18222843,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTgyMjI4NDMifQ==",
+            "username": 547805002,
+            "first_name": "Tim",
+            "last_name": "Wilson",
+            "full_name": "Tim Wilson",
+            "vanity_username": "timwilson",
+            "headline": "Adobe Certified Instructor and Expert",
+            "pic": "https://static.skillshare.com/uploads/users/547805002/user-image-medium.jpg?791020994",
+            "pic_sm": "https://static.skillshare.com/uploads/users/547805002/user-image-small.jpg?47082956",
+            "pic_lg": "https://static.skillshare.com/uploads/users/547805002/user-image-large.jpg?2055573120",
+            "_links": {
+              "self": {
+                "href": "/users/547805002",
+                "title": "Tim Wilson - Adobe Certified Instructor and Expert"
+              },
+              "my_classes": {
+                "href": "/users/547805002/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/547805002/completions",
+                "title": "Completions for User: 547805002"
+              },
+              "discussions": {
+                "href": "/users/547805002/discussions",
+                "title": "Discussions for User: 547805002"
+              },
+              "followers": {
+                "href": "/users/547805002/followers",
+                "title": "Followers for User: 547805002"
+              },
+              "following": {
+                "href": "/users/547805002/following",
+                "title": "Following for User: 547805002"
+              },
+              "notifications": {
+                "href": "/users/547805002/notifications",
+                "title": "Notifications for User: 547805002"
+              },
+              "projects": {
+                "href": "/users/547805002/projects",
+                "title": "Projects for User: 547805002"
+              },
+              "rosters": {
+                "href": "/users/547805002/rosters",
+                "title": "Rosters for User: 547805002"
+              },
+              "userTags": {
+                "href": "/users/547805002/userTags",
+                "title": "UserTags for User: 547805002"
+              },
+              "votes": {
+                "href": "/users/547805002/votes",
+                "title": "Votes for User: 547805002"
+              },
+              "wishlist": {
+                "href": "/users/547805002/wishlist",
+                "title": "Wishlist for User: 547805002"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

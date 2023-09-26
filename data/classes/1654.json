@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1654",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1653",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1655",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2767",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 591164,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5MTE2NCJ9",
+        "sku": 554757070,
+        "title": "Computer Vision: Document Scanner with OpenCV and Python",
+        "project_title": "In this class, you will create a simple document scanner using the OpenCV library and Python",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/39ce884f3a282c888025f749c29f2d29/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/39ce884f3a282c888025f749c29f2d29/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/39ce884f3a282c888025f749c29f2d29/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Computer-Vision-Document-Scanner-with-OpenCV-and-Python/554757070",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "14m",
+        "total_videos_duration_seconds": 843,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 9,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 30, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/554757070",
+            "title": "Computer Vision: Document Scanner with OpenCV and Python"
+          },
+          "teacher": {
+            "href": "/users/723910879",
+            "title": "Yacine Rouizi"
+          },
+          "units": {
+            "href": "/classes/554757070/units",
+            "title": "Units for Class: 554757070"
+          },
+          "sessions": {
+            "href": "/classes/554757070/sessions",
+            "title": "Sessions for Class: 554757070"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/554757070/students",
+            "title": "Students for Class: 554757070"
+          },
+          "projects": {
+            "href": "/classes/554757070/projects",
+            "title": "Projects for Class: 554757070"
+          },
+          "reviews": {
+            "href": "/classes/554757070/reviews",
+            "title": "Reviews for Class: 554757070"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 24715504,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjQ3MTU1MDQifQ==",
+            "username": 723910879,
+            "first_name": "Yacine",
+            "last_name": "Rouizi",
+            "full_name": "Yacine Rouizi",
+            "vanity_username": "dontrepeatyourself",
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/723910879/user-image-medium.jpg?141079699",
+            "pic_sm": "https://static.skillshare.com/uploads/users/723910879/user-image-small.jpg?1305923991",
+            "pic_lg": "https://static.skillshare.com/uploads/users/723910879/user-image-large.jpg?871674687",
+            "_links": {
+              "self": {
+                "href": "/users/723910879",
+                "title": "Yacine Rouizi"
+              },
+              "my_classes": {
+                "href": "/users/723910879/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/723910879/completions",
+                "title": "Completions for User: 723910879"
+              },
+              "discussions": {
+                "href": "/users/723910879/discussions",
+                "title": "Discussions for User: 723910879"
+              },
+              "followers": {
+                "href": "/users/723910879/followers",
+                "title": "Followers for User: 723910879"
+              },
+              "following": {
+                "href": "/users/723910879/following",
+                "title": "Following for User: 723910879"
+              },
+              "notifications": {
+                "href": "/users/723910879/notifications",
+                "title": "Notifications for User: 723910879"
+              },
+              "projects": {
+                "href": "/users/723910879/projects",
+                "title": "Projects for User: 723910879"
+              },
+              "rosters": {
+                "href": "/users/723910879/rosters",
+                "title": "Rosters for User: 723910879"
+              },
+              "userTags": {
+                "href": "/users/723910879/userTags",
+                "title": "UserTags for User: 723910879"
+              },
+              "votes": {
+                "href": "/users/723910879/votes",
+                "title": "Votes for User: 723910879"
+              },
+              "wishlist": {
+                "href": "/users/723910879/wishlist",
+                "title": "Wishlist for User: 723910879"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 591168,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5MTE2OCJ9",
+        "sku": 1335780698,
+        "title": "Object Detection with Deep Learning and OpenCV",
+        "project_title": "In this class,  you will create an object detection project using the OpenCV library, Python, and deep learning. The model we going to use is called the Single Shot Detector model.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6311639457112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6311639457112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6311639457112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Object-Detection-with-Deep-Learning-and-OpenCV/1335780698",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "22m",
+        "total_videos_duration_seconds": 1313,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 36,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Sep 18, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1335780698",
+            "title": "Object Detection with Deep Learning and OpenCV"
+          },
+          "teacher": {
+            "href": "/users/723910879",
+            "title": "Yacine Rouizi"
+          },
+          "units": {
+            "href": "/classes/1335780698/units",
+            "title": "Units for Class: 1335780698"
+          },
+          "sessions": {
+            "href": "/classes/1335780698/sessions",
+            "title": "Sessions for Class: 1335780698"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1335780698/students",
+            "title": "Students for Class: 1335780698"
+          },
+          "projects": {
+            "href": "/classes/1335780698/projects",
+            "title": "Projects for Class: 1335780698"
+          },
+          "reviews": {
+            "href": "/classes/1335780698/reviews",
+            "title": "Reviews for Class: 1335780698"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 24715504,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjQ3MTU1MDQifQ==",
+            "username": 723910879,
+            "first_name": "Yacine",
+            "last_name": "Rouizi",
+            "full_name": "Yacine Rouizi",
+            "vanity_username": "dontrepeatyourself",
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/723910879/user-image-medium.jpg?141079699",
+            "pic_sm": "https://static.skillshare.com/uploads/users/723910879/user-image-small.jpg?1305923991",
+            "pic_lg": "https://static.skillshare.com/uploads/users/723910879/user-image-large.jpg?871674687",
+            "_links": {
+              "self": {
+                "href": "/users/723910879",
+                "title": "Yacine Rouizi"
+              },
+              "my_classes": {
+                "href": "/users/723910879/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/723910879/completions",
+                "title": "Completions for User: 723910879"
+              },
+              "discussions": {
+                "href": "/users/723910879/discussions",
+                "title": "Discussions for User: 723910879"
+              },
+              "followers": {
+                "href": "/users/723910879/followers",
+                "title": "Followers for User: 723910879"
+              },
+              "following": {
+                "href": "/users/723910879/following",
+                "title": "Following for User: 723910879"
+              },
+              "notifications": {
+                "href": "/users/723910879/notifications",
+                "title": "Notifications for User: 723910879"
+              },
+              "projects": {
+                "href": "/users/723910879/projects",
+                "title": "Projects for User: 723910879"
+              },
+              "rosters": {
+                "href": "/users/723910879/rosters",
+                "title": "Rosters for User: 723910879"
+              },
+              "userTags": {
+                "href": "/users/723910879/userTags",
+                "title": "UserTags for User: 723910879"
+              },
+              "votes": {
+                "href": "/users/723910879/votes",
+                "title": "Votes for User: 723910879"
+              },
+              "wishlist": {
+                "href": "/users/723910879/wishlist",
+                "title": "Wishlist for User: 723910879"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 591183,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5MTE4MyJ9",
+        "sku": 744335551,
+        "title": "Loose Acrylic Seascape : Paint From Reference While Adding Your Own Touch",
+        "project_title": "Share your work! For your class project, paint this sunset landscape! Play around with color mixing and brush marks and also try out the exercise of building dimension and form.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d4f897e96fdf649ccb26c2e9155e1fff/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d4f897e96fdf649ccb26c2e9155e1fff/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d4f897e96fdf649ccb26c2e9155e1fff/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Loose-Acrylic-Seascape-Paint-From-Reference-While-Adding-Your-Own-Touch/744335551",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "37m",
+        "total_videos_duration_seconds": 2235,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 133,
+        "num_projects": 4,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 26, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/744335551",
+            "title": "Loose Acrylic Seascape : Paint From Reference While Adding Your Own Touch"
+          },
+          "teacher": {
+            "href": "/users/6925652",
+            "title": "Alifya P. Tarwala - Artist | Acrylics, Watercolors | Painter"
+          },
+          "units": {
+            "href": "/classes/744335551/units",
+            "title": "Units for Class: 744335551"
+          },
+          "sessions": {
+            "href": "/classes/744335551/sessions",
+            "title": "Sessions for Class: 744335551"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/744335551/students",
+            "title": "Students for Class: 744335551"
+          },
+          "projects": {
+            "href": "/classes/744335551/projects",
+            "title": "Projects for Class: 744335551"
+          },
+          "reviews": {
+            "href": "/classes/744335551/reviews",
+            "title": "Reviews for Class: 744335551"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5100622,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTEwMDYyMiJ9",
+            "username": 6925652,
+            "first_name": "Alifya",
+            "last_name": "P. Tarwala",
+            "full_name": "Alifya P. Tarwala",
+            "vanity_username": null,
+            "headline": "Artist | Acrylics, Watercolors | Painter",
+            "pic": "https://static.skillshare.com/uploads/users/6925652/user-image-medium.jpg?1115381539",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6925652/user-image-small.jpg?885569059",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6925652/user-image-large.jpg?399150626",
+            "_links": {
+              "self": {
+                "href": "/users/6925652",
+                "title": "Alifya P. Tarwala - Artist | Acrylics, Watercolors | Painter"
+              },
+              "my_classes": {
+                "href": "/users/6925652/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6925652/completions",
+                "title": "Completions for User: 6925652"
+              },
+              "discussions": {
+                "href": "/users/6925652/discussions",
+                "title": "Discussions for User: 6925652"
+              },
+              "followers": {
+                "href": "/users/6925652/followers",
+                "title": "Followers for User: 6925652"
+              },
+              "following": {
+                "href": "/users/6925652/following",
+                "title": "Following for User: 6925652"
+              },
+              "notifications": {
+                "href": "/users/6925652/notifications",
+                "title": "Notifications for User: 6925652"
+              },
+              "projects": {
+                "href": "/users/6925652/projects",
+                "title": "Projects for User: 6925652"
+              },
+              "rosters": {
+                "href": "/users/6925652/rosters",
+                "title": "Rosters for User: 6925652"
+              },
+              "userTags": {
+                "href": "/users/6925652/userTags",
+                "title": "UserTags for User: 6925652"
+              },
+              "votes": {
+                "href": "/users/6925652/votes",
+                "title": "Votes for User: 6925652"
+              },
+              "wishlist": {
+                "href": "/users/6925652/wishlist",
+                "title": "Wishlist for User: 6925652"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 591188,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5MTE4OCJ9",
+        "sku": 979338162,
+        "title": "Paint strawberrys in two ways with watercolor paints and crayons",
+        "project_title": "As a project, we will paint two watercolor works:- wreath- a composition in a loose style.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/825a490e6153021d36e3bdf66dfc5fd7/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/825a490e6153021d36e3bdf66dfc5fd7/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/825a490e6153021d36e3bdf66dfc5fd7/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Paint-strawberrys-in-two-ways-with-watercolor-paints-and-crayons/979338162",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "1h 48m",
+        "total_videos_duration_seconds": 6500,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 378,
+        "num_projects": 3,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 27, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/979338162",
+            "title": "Paint strawberrys in two ways with watercolor paints and crayons"
+          },
+          "teacher": {
+            "href": "/users/8917459",
+            "title": "Anna Krupa - graphic designer, photographer"
+          },
+          "units": {
+            "href": "/classes/979338162/units",
+            "title": "Units for Class: 979338162"
+          },
+          "sessions": {
+            "href": "/classes/979338162/sessions",
+            "title": "Sessions for Class: 979338162"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/979338162/students",
+            "title": "Students for Class: 979338162"
+          },
+          "projects": {
+            "href": "/classes/979338162/projects",
+            "title": "Projects for Class: 979338162"
+          },
+          "reviews": {
+            "href": "/classes/979338162/reviews",
+            "title": "Reviews for Class: 979338162"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2033839,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjAzMzgzOSJ9",
+            "username": 8917459,
+            "first_name": "Anna",
+            "last_name": "Krupa",
+            "full_name": "Anna Krupa",
+            "vanity_username": null,
+            "headline": "graphic designer, photographer",
+            "pic": "https://static.skillshare.com/uploads/users/8917459/user-image-medium.jpg?1251519329",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8917459/user-image-small.jpg?1259472148",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8917459/user-image-large.jpg?927294488",
+            "_links": {
+              "self": {
+                "href": "/users/8917459",
+                "title": "Anna Krupa - graphic designer, photographer"
+              },
+              "my_classes": {
+                "href": "/users/8917459/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8917459/completions",
+                "title": "Completions for User: 8917459"
+              },
+              "discussions": {
+                "href": "/users/8917459/discussions",
+                "title": "Discussions for User: 8917459"
+              },
+              "followers": {
+                "href": "/users/8917459/followers",
+                "title": "Followers for User: 8917459"
+              },
+              "following": {
+                "href": "/users/8917459/following",
+                "title": "Following for User: 8917459"
+              },
+              "notifications": {
+                "href": "/users/8917459/notifications",
+                "title": "Notifications for User: 8917459"
+              },
+              "projects": {
+                "href": "/users/8917459/projects",
+                "title": "Projects for User: 8917459"
+              },
+              "rosters": {
+                "href": "/users/8917459/rosters",
+                "title": "Rosters for User: 8917459"
+              },
+              "userTags": {
+                "href": "/users/8917459/userTags",
+                "title": "UserTags for User: 8917459"
+              },
+              "votes": {
+                "href": "/users/8917459/votes",
+                "title": "Votes for User: 8917459"
+              },
+              "wishlist": {
+                "href": "/users/8917459/wishlist",
+                "title": "Wishlist for User: 8917459"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 591201,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5MTIwMSJ9",
+        "sku": 1558580314,
+        "title": "Age-Inclusive UX Writing: Writing UX Copy For Older Users",
+        "project_title": "Please complete this class until lesson 6. Based on what you’ve learned in this course, please re-write the given example to make it inclusive.  Attached to the download section you can find a templat",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ac8a13f30b9d8c599fd52b9b69933654/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ac8a13f30b9d8c599fd52b9b69933654/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ac8a13f30b9d8c599fd52b9b69933654/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Age-Inclusive-UX-Writing-Writing-UX-Copy-For-Older-Users/1558580314",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "1h 47m",
+        "total_videos_duration_seconds": 6448,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 38,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Sep 5, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1558580314",
+            "title": "Age-Inclusive UX Writing: Writing UX Copy For Older Users"
+          },
+          "teacher": {
+            "href": "/users/8983068",
+            "title": "Dr. Katharina Grimm - Writer & Writing Educator"
+          },
+          "units": {
+            "href": "/classes/1558580314/units",
+            "title": "Units for Class: 1558580314"
+          },
+          "sessions": {
+            "href": "/classes/1558580314/sessions",
+            "title": "Sessions for Class: 1558580314"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1558580314/students",
+            "title": "Students for Class: 1558580314"
+          },
+          "projects": {
+            "href": "/classes/1558580314/projects",
+            "title": "Projects for Class: 1558580314"
+          },
+          "reviews": {
+            "href": "/classes/1558580314/reviews",
+            "title": "Reviews for Class: 1558580314"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9205925,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTIwNTkyNSJ9",
+            "username": 8983068,
+            "first_name": "Dr. Katharina",
+            "last_name": "Grimm",
+            "full_name": "Dr. Katharina Grimm",
+            "vanity_username": null,
+            "headline": "Writer & Writing Educator",
+            "pic": "https://static.skillshare.com/uploads/users/8983068/user-image-medium.png?2119120341",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8983068/user-image-small.png?120212865",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8983068/user-image-large.png?887007124",
+            "_links": {
+              "self": {
+                "href": "/users/8983068",
+                "title": "Dr. Katharina Grimm - Writer & Writing Educator"
+              },
+              "my_classes": {
+                "href": "/users/8983068/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8983068/completions",
+                "title": "Completions for User: 8983068"
+              },
+              "discussions": {
+                "href": "/users/8983068/discussions",
+                "title": "Discussions for User: 8983068"
+              },
+              "followers": {
+                "href": "/users/8983068/followers",
+                "title": "Followers for User: 8983068"
+              },
+              "following": {
+                "href": "/users/8983068/following",
+                "title": "Following for User: 8983068"
+              },
+              "notifications": {
+                "href": "/users/8983068/notifications",
+                "title": "Notifications for User: 8983068"
+              },
+              "projects": {
+                "href": "/users/8983068/projects",
+                "title": "Projects for User: 8983068"
+              },
+              "rosters": {
+                "href": "/users/8983068/rosters",
+                "title": "Rosters for User: 8983068"
+              },
+              "userTags": {
+                "href": "/users/8983068/userTags",
+                "title": "UserTags for User: 8983068"
+              },
+              "votes": {
+                "href": "/users/8983068/votes",
+                "title": "Votes for User: 8983068"
+              },
+              "wishlist": {
+                "href": "/users/8983068/wishlist",
+                "title": "Wishlist for User: 8983068"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 591206,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5MTIwNiJ9",
+        "sku": 228681248,
+        "title": "Get Ready for Your Next Field Trip: How to Pack Your Travel Backpack",
+        "project_title": "For this class project, you'll be packing your backpack from scratch to finish alongside me, and when you are ready, you can put it on, and adjust it to your needs according to the class! (Lesson 16)",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fdef3101c4ce6735bbf776b905970c28/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fdef3101c4ce6735bbf776b905970c28/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fdef3101c4ce6735bbf776b905970c28/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Get-Ready-for-Your-Next-Field-Trip-How-to-Pack-Your-Travel-Backpack/228681248",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 17,
+        "total_videos_duration": "33m",
+        "total_videos_duration_seconds": 1956,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 20,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 28, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/228681248",
+            "title": "Get Ready for Your Next Field Trip: How to Pack Your Travel Backpack"
+          },
+          "teacher": {
+            "href": "/users/352997493",
+            "title": "Nir Portal - Experienced traveler"
+          },
+          "units": {
+            "href": "/classes/228681248/units",
+            "title": "Units for Class: 228681248"
+          },
+          "sessions": {
+            "href": "/classes/228681248/sessions",
+            "title": "Sessions for Class: 228681248"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/228681248/students",
+            "title": "Students for Class: 228681248"
+          },
+          "projects": {
+            "href": "/classes/228681248/projects",
+            "title": "Projects for Class: 228681248"
+          },
+          "reviews": {
+            "href": "/classes/228681248/reviews",
+            "title": "Reviews for Class: 228681248"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13863887,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTM4NjM4ODcifQ==",
+            "username": 352997493,
+            "first_name": "Nir",
+            "last_name": "Portal",
+            "full_name": "Nir Portal",
+            "vanity_username": null,
+            "headline": "Experienced traveler",
+            "pic": "https://static.skillshare.com/uploads/users/352997493/user-image-medium.jpg?1850085408",
+            "pic_sm": "https://static.skillshare.com/uploads/users/352997493/user-image-small.jpg?1220033967",
+            "pic_lg": "https://static.skillshare.com/uploads/users/352997493/user-image-large.jpg?1000632614",
+            "_links": {
+              "self": {
+                "href": "/users/352997493",
+                "title": "Nir Portal - Experienced traveler"
+              },
+              "my_classes": {
+                "href": "/users/352997493/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/352997493/completions",
+                "title": "Completions for User: 352997493"
+              },
+              "discussions": {
+                "href": "/users/352997493/discussions",
+                "title": "Discussions for User: 352997493"
+              },
+              "followers": {
+                "href": "/users/352997493/followers",
+                "title": "Followers for User: 352997493"
+              },
+              "following": {
+                "href": "/users/352997493/following",
+                "title": "Following for User: 352997493"
+              },
+              "notifications": {
+                "href": "/users/352997493/notifications",
+                "title": "Notifications for User: 352997493"
+              },
+              "projects": {
+                "href": "/users/352997493/projects",
+                "title": "Projects for User: 352997493"
+              },
+              "rosters": {
+                "href": "/users/352997493/rosters",
+                "title": "Rosters for User: 352997493"
+              },
+              "userTags": {
+                "href": "/users/352997493/userTags",
+                "title": "UserTags for User: 352997493"
+              },
+              "votes": {
+                "href": "/users/352997493/votes",
+                "title": "Votes for User: 352997493"
+              },
+              "wishlist": {
+                "href": "/users/352997493/wishlist",
+                "title": "Wishlist for User: 352997493"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 591208,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5MTIwOCJ9",
+        "sku": 146328430,
+        "title": "Fusion 360 create your 3D model",
+        "project_title": "In this project, you will create a metal bracket for corner. For this, you will have to respect this requirements :",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/0e48c8ade44abb75bdc43be4974564f8/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/0e48c8ade44abb75bdc43be4974564f8/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/0e48c8ade44abb75bdc43be4974564f8/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Fusion-360-create-your-3D-model/146328430",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 108,
+        "total_videos_duration": "14h 51m",
+        "total_videos_duration_seconds": 53455,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 38,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 26, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/146328430",
+            "title": "Fusion 360 create your 3D model"
+          },
+          "teacher": {
+            "href": "/users/2276865",
+            "title": "Nicolas Forgue - Welcome awesome students ! "
+          },
+          "units": {
+            "href": "/classes/146328430/units",
+            "title": "Units for Class: 146328430"
+          },
+          "sessions": {
+            "href": "/classes/146328430/sessions",
+            "title": "Sessions for Class: 146328430"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/146328430/students",
+            "title": "Students for Class: 146328430"
+          },
+          "projects": {
+            "href": "/classes/146328430/projects",
+            "title": "Projects for Class: 146328430"
+          },
+          "reviews": {
+            "href": "/classes/146328430/reviews",
+            "title": "Reviews for Class: 146328430"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4213810,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDIxMzgxMCJ9",
+            "username": 2276865,
+            "first_name": "Nicolas",
+            "last_name": "Forgue",
+            "full_name": "Nicolas Forgue",
+            "vanity_username": "nicolasforgue",
+            "headline": "Welcome awesome students ! ",
+            "pic": "https://static.skillshare.com/uploads/users/2276865/user-image-medium.jpg?1110407052",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2276865/user-image-small.jpg?915117808",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2276865/user-image-large.jpg?1566071584",
+            "_links": {
+              "self": {
+                "href": "/users/2276865",
+                "title": "Nicolas Forgue - Welcome awesome students ! "
+              },
+              "my_classes": {
+                "href": "/users/2276865/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2276865/completions",
+                "title": "Completions for User: 2276865"
+              },
+              "discussions": {
+                "href": "/users/2276865/discussions",
+                "title": "Discussions for User: 2276865"
+              },
+              "followers": {
+                "href": "/users/2276865/followers",
+                "title": "Followers for User: 2276865"
+              },
+              "following": {
+                "href": "/users/2276865/following",
+                "title": "Following for User: 2276865"
+              },
+              "notifications": {
+                "href": "/users/2276865/notifications",
+                "title": "Notifications for User: 2276865"
+              },
+              "projects": {
+                "href": "/users/2276865/projects",
+                "title": "Projects for User: 2276865"
+              },
+              "rosters": {
+                "href": "/users/2276865/rosters",
+                "title": "Rosters for User: 2276865"
+              },
+              "userTags": {
+                "href": "/users/2276865/userTags",
+                "title": "UserTags for User: 2276865"
+              },
+              "votes": {
+                "href": "/users/2276865/votes",
+                "title": "Votes for User: 2276865"
+              },
+              "wishlist": {
+                "href": "/users/2276865/wishlist",
+                "title": "Wishlist for User: 2276865"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 591221,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5MTIyMSJ9",
+        "sku": 742570872,
+        "title": "Bicycle Scene in Blender",
+        "project_title": "For your class project, you will need to model a bicycle scene. I used Blender 3D so I would recomend you to use the same tool. You can recreate the scene from my project or create a unique one.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a7e2ca41067682170a29b7fcf5d65477/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a7e2ca41067682170a29b7fcf5d65477/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a7e2ca41067682170a29b7fcf5d65477/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Bicycle-Scene-in-Blender/742570872",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 20,
+        "total_videos_duration": "3h 2m",
+        "total_videos_duration_seconds": 10908,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 50,
+        "num_projects": 3,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 26, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/742570872",
+            "title": "Bicycle Scene in Blender"
+          },
+          "teacher": {
+            "href": "/users/907787848",
+            "title": "Sblga - 3D Animator (mostly) with Blender"
+          },
+          "units": {
+            "href": "/classes/742570872/units",
+            "title": "Units for Class: 742570872"
+          },
+          "sessions": {
+            "href": "/classes/742570872/sessions",
+            "title": "Sessions for Class: 742570872"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/742570872/students",
+            "title": "Students for Class: 742570872"
+          },
+          "projects": {
+            "href": "/classes/742570872/projects",
+            "title": "Projects for Class: 742570872"
+          },
+          "reviews": {
+            "href": "/classes/742570872/reviews",
+            "title": "Reviews for Class: 742570872"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16217276,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTYyMTcyNzYifQ==",
+            "username": 907787848,
+            "first_name": "Sblga",
+            "last_name": null,
+            "full_name": "Sblga",
+            "vanity_username": "sblga",
+            "headline": "3D Animator (mostly) with Blender",
+            "pic": "https://static.skillshare.com/uploads/users/907787848/user-image-medium.png?485334473",
+            "pic_sm": "https://static.skillshare.com/uploads/users/907787848/user-image-small.png?1434919086",
+            "pic_lg": "https://static.skillshare.com/uploads/users/907787848/user-image-large.png?1006306122",
+            "_links": {
+              "self": {
+                "href": "/users/907787848",
+                "title": "Sblga - 3D Animator (mostly) with Blender"
+              },
+              "my_classes": {
+                "href": "/users/907787848/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/907787848/completions",
+                "title": "Completions for User: 907787848"
+              },
+              "discussions": {
+                "href": "/users/907787848/discussions",
+                "title": "Discussions for User: 907787848"
+              },
+              "followers": {
+                "href": "/users/907787848/followers",
+                "title": "Followers for User: 907787848"
+              },
+              "following": {
+                "href": "/users/907787848/following",
+                "title": "Following for User: 907787848"
+              },
+              "notifications": {
+                "href": "/users/907787848/notifications",
+                "title": "Notifications for User: 907787848"
+              },
+              "projects": {
+                "href": "/users/907787848/projects",
+                "title": "Projects for User: 907787848"
+              },
+              "rosters": {
+                "href": "/users/907787848/rosters",
+                "title": "Rosters for User: 907787848"
+              },
+              "userTags": {
+                "href": "/users/907787848/userTags",
+                "title": "UserTags for User: 907787848"
+              },
+              "votes": {
+                "href": "/users/907787848/votes",
+                "title": "Votes for User: 907787848"
+              },
+              "wishlist": {
+                "href": "/users/907787848/wishlist",
+                "title": "Wishlist for User: 907787848"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 591229,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5MTIyOSJ9",
+        "sku": 802981816,
+        "title": "Iniciación al lettering: Encuentra tu estilo de Caligrafía Moderna",
+        "project_title": "PROYECTO / Práctica",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fa9c0ef5c9275623157412e3f05bd975/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fa9c0ef5c9275623157412e3f05bd975/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fa9c0ef5c9275623157412e3f05bd975/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Iniciaci%C3%B3n-al-lettering-Encuentra-tu-estilo-de-Caligraf%C3%ADa-Moderna/802981816",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "1h 24m",
+        "total_videos_duration_seconds": 5023,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 178,
+        "num_projects": 5,
+        "num_discussions": 13,
+        "is_staff_pick": true,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Sep 15, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/802981816",
+            "title": "Iniciación al lettering: Encuentra tu estilo de Caligrafía Moderna"
+          },
+          "teacher": {
+            "href": "/users/1072684",
+            "title": "Carla Salas Loreiro - El Amante Volador"
+          },
+          "units": {
+            "href": "/classes/802981816/units",
+            "title": "Units for Class: 802981816"
+          },
+          "sessions": {
+            "href": "/classes/802981816/sessions",
+            "title": "Sessions for Class: 802981816"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/802981816/students",
+            "title": "Students for Class: 802981816"
+          },
+          "projects": {
+            "href": "/classes/802981816/projects",
+            "title": "Projects for Class: 802981816"
+          },
+          "reviews": {
+            "href": "/classes/802981816/reviews",
+            "title": "Reviews for Class: 802981816"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4000338,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDAwMDMzOCJ9",
+            "username": 1072684,
+            "first_name": "Carla",
+            "last_name": "Salas Loreiro",
+            "full_name": "Carla Salas Loreiro",
+            "vanity_username": null,
+            "headline": "El Amante Volador",
+            "pic": "https://static.skillshare.com/uploads/users/1072684/user-image-medium.jpg?920914331",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1072684/user-image-small.jpg?1114675655",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1072684/user-image-large.jpg?197960666",
+            "_links": {
+              "self": {
+                "href": "/users/1072684",
+                "title": "Carla Salas Loreiro - El Amante Volador"
+              },
+              "my_classes": {
+                "href": "/users/1072684/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1072684/completions",
+                "title": "Completions for User: 1072684"
+              },
+              "discussions": {
+                "href": "/users/1072684/discussions",
+                "title": "Discussions for User: 1072684"
+              },
+              "followers": {
+                "href": "/users/1072684/followers",
+                "title": "Followers for User: 1072684"
+              },
+              "following": {
+                "href": "/users/1072684/following",
+                "title": "Following for User: 1072684"
+              },
+              "notifications": {
+                "href": "/users/1072684/notifications",
+                "title": "Notifications for User: 1072684"
+              },
+              "projects": {
+                "href": "/users/1072684/projects",
+                "title": "Projects for User: 1072684"
+              },
+              "rosters": {
+                "href": "/users/1072684/rosters",
+                "title": "Rosters for User: 1072684"
+              },
+              "userTags": {
+                "href": "/users/1072684/userTags",
+                "title": "UserTags for User: 1072684"
+              },
+              "votes": {
+                "href": "/users/1072684/votes",
+                "title": "Votes for User: 1072684"
+              },
+              "wishlist": {
+                "href": "/users/1072684/wishlist",
+                "title": "Wishlist for User: 1072684"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 591234,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5MTIzNCJ9",
+        "sku": 879837367,
+        "title": "Painting Abstract Landscapes In Procreate",
+        "project_title": "Your class project is to take a photo of your room, decide on a size and orientation&nbsp;for your painting, develop a color palette you like for the space, and to create an expressive, abstract lands",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d7d0c6a5d0870847ac2957de5b75571b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d7d0c6a5d0870847ac2957de5b75571b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d7d0c6a5d0870847ac2957de5b75571b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Painting-Abstract-Landscapes-In-Procreate/879837367",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "4h 26m",
+        "total_videos_duration_seconds": 15955,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 350,
+        "num_projects": 19,
+        "num_discussions": 11,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 26, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/879837367",
+            "title": "Painting Abstract Landscapes In Procreate"
+          },
+          "teacher": {
+            "href": "/users/537581380",
+            "title": "Jai Johnson - Painting My Favorite Subjects"
+          },
+          "units": {
+            "href": "/classes/879837367/units",
+            "title": "Units for Class: 879837367"
+          },
+          "sessions": {
+            "href": "/classes/879837367/sessions",
+            "title": "Sessions for Class: 879837367"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/879837367/students",
+            "title": "Students for Class: 879837367"
+          },
+          "projects": {
+            "href": "/classes/879837367/projects",
+            "title": "Projects for Class: 879837367"
+          },
+          "reviews": {
+            "href": "/classes/879837367/reviews",
+            "title": "Reviews for Class: 879837367"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17763322,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTc3NjMzMjIifQ==",
+            "username": 537581380,
+            "first_name": "Jai",
+            "last_name": "Johnson",
+            "full_name": "Jai Johnson",
+            "vanity_username": "jaiart",
+            "headline": "Painting My Favorite Subjects",
+            "pic": "https://static.skillshare.com/uploads/users/537581380/user-image-medium.jpg?3772542",
+            "pic_sm": "https://static.skillshare.com/uploads/users/537581380/user-image-small.jpg?901786287",
+            "pic_lg": "https://static.skillshare.com/uploads/users/537581380/user-image-large.jpg?163726678",
+            "_links": {
+              "self": {
+                "href": "/users/537581380",
+                "title": "Jai Johnson - Painting My Favorite Subjects"
+              },
+              "my_classes": {
+                "href": "/users/537581380/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/537581380/completions",
+                "title": "Completions for User: 537581380"
+              },
+              "discussions": {
+                "href": "/users/537581380/discussions",
+                "title": "Discussions for User: 537581380"
+              },
+              "followers": {
+                "href": "/users/537581380/followers",
+                "title": "Followers for User: 537581380"
+              },
+              "following": {
+                "href": "/users/537581380/following",
+                "title": "Following for User: 537581380"
+              },
+              "notifications": {
+                "href": "/users/537581380/notifications",
+                "title": "Notifications for User: 537581380"
+              },
+              "projects": {
+                "href": "/users/537581380/projects",
+                "title": "Projects for User: 537581380"
+              },
+              "rosters": {
+                "href": "/users/537581380/rosters",
+                "title": "Rosters for User: 537581380"
+              },
+              "userTags": {
+                "href": "/users/537581380/userTags",
+                "title": "UserTags for User: 537581380"
+              },
+              "votes": {
+                "href": "/users/537581380/votes",
+                "title": "Votes for User: 537581380"
+              },
+              "wishlist": {
+                "href": "/users/537581380/wishlist",
+                "title": "Wishlist for User: 537581380"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

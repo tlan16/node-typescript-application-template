@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1879",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1878",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1880",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 611661,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMTY2MSJ9",
+        "sku": 1667076312,
+        "title": "Notion Anfänger Kurs 2023 - Erarbeite dir mehr Lebenszeit! (DEUTSCH)",
+        "project_title": "Erstelle ein Notion-Projekt:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6319052755112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6319052755112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6319052755112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Notion-Anf%C3%A4nger-Kurs-2023-Erarbeite-dir-mehr-Lebenszeit-DEUTSCH/1667076312",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "1h 21m",
+        "total_videos_duration_seconds": 4871,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 82,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1667076312",
+            "title": "Notion Anfänger Kurs 2023 - Erarbeite dir mehr Lebenszeit! (DEUTSCH)"
+          },
+          "teacher": {
+            "href": "/users/256150645",
+            "title": "Fred Schmidt - Online Teacher / Productivity Nerd"
+          },
+          "units": {
+            "href": "/classes/1667076312/units",
+            "title": "Units for Class: 1667076312"
+          },
+          "sessions": {
+            "href": "/classes/1667076312/sessions",
+            "title": "Sessions for Class: 1667076312"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1667076312/students",
+            "title": "Students for Class: 1667076312"
+          },
+          "projects": {
+            "href": "/classes/1667076312/projects",
+            "title": "Projects for Class: 1667076312"
+          },
+          "reviews": {
+            "href": "/classes/1667076312/reviews",
+            "title": "Reviews for Class: 1667076312"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26089678,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYwODk2NzgifQ==",
+            "username": 256150645,
+            "first_name": "Fred",
+            "last_name": "Schmidt",
+            "full_name": "Fred Schmidt",
+            "vanity_username": "fredschmidt",
+            "headline": "Online Teacher / Productivity Nerd",
+            "pic": "https://static.skillshare.com/uploads/users/256150645/user-image-medium.png?1102847274",
+            "pic_sm": "https://static.skillshare.com/uploads/users/256150645/user-image-small.png?755966551",
+            "pic_lg": "https://static.skillshare.com/uploads/users/256150645/user-image-large.png?597728819",
+            "_links": {
+              "self": {
+                "href": "/users/256150645",
+                "title": "Fred Schmidt - Online Teacher / Productivity Nerd"
+              },
+              "my_classes": {
+                "href": "/users/256150645/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/256150645/completions",
+                "title": "Completions for User: 256150645"
+              },
+              "discussions": {
+                "href": "/users/256150645/discussions",
+                "title": "Discussions for User: 256150645"
+              },
+              "followers": {
+                "href": "/users/256150645/followers",
+                "title": "Followers for User: 256150645"
+              },
+              "following": {
+                "href": "/users/256150645/following",
+                "title": "Following for User: 256150645"
+              },
+              "notifications": {
+                "href": "/users/256150645/notifications",
+                "title": "Notifications for User: 256150645"
+              },
+              "projects": {
+                "href": "/users/256150645/projects",
+                "title": "Projects for User: 256150645"
+              },
+              "rosters": {
+                "href": "/users/256150645/rosters",
+                "title": "Rosters for User: 256150645"
+              },
+              "userTags": {
+                "href": "/users/256150645/userTags",
+                "title": "UserTags for User: 256150645"
+              },
+              "votes": {
+                "href": "/users/256150645/votes",
+                "title": "Votes for User: 256150645"
+              },
+              "wishlist": {
+                "href": "/users/256150645/wishlist",
+                "title": "Wishlist for User: 256150645"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 611663,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMTY2MyJ9",
+        "sku": 1232171416,
+        "title": "Slack - The complete Quick-Start Guide",
+        "project_title": "Create an own slack chat",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/5e301acc3e51b5b4c527b4277374a02e/huge",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/5e301acc3e51b5b4c527b4277374a02e/small",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/5e301acc3e51b5b4c527b4277374a02e/thumbnail",
+        "web_url": "https://www.skillshare.com/en/classes/Slack-The-complete-Quick-Start-Guide/1232171416",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 24,
+        "total_videos_duration": "1h 54m",
+        "total_videos_duration_seconds": 6816,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1232171416",
+            "title": "Slack - The complete Quick-Start Guide"
+          },
+          "teacher": {
+            "href": "/users/256150645",
+            "title": "Fred Schmidt - Online Teacher / Productivity Nerd"
+          },
+          "units": {
+            "href": "/classes/1232171416/units",
+            "title": "Units for Class: 1232171416"
+          },
+          "sessions": {
+            "href": "/classes/1232171416/sessions",
+            "title": "Sessions for Class: 1232171416"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1232171416/students",
+            "title": "Students for Class: 1232171416"
+          },
+          "projects": {
+            "href": "/classes/1232171416/projects",
+            "title": "Projects for Class: 1232171416"
+          },
+          "reviews": {
+            "href": "/classes/1232171416/reviews",
+            "title": "Reviews for Class: 1232171416"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26089678,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYwODk2NzgifQ==",
+            "username": 256150645,
+            "first_name": "Fred",
+            "last_name": "Schmidt",
+            "full_name": "Fred Schmidt",
+            "vanity_username": "fredschmidt",
+            "headline": "Online Teacher / Productivity Nerd",
+            "pic": "https://static.skillshare.com/uploads/users/256150645/user-image-medium.png?1102847274",
+            "pic_sm": "https://static.skillshare.com/uploads/users/256150645/user-image-small.png?755966551",
+            "pic_lg": "https://static.skillshare.com/uploads/users/256150645/user-image-large.png?597728819",
+            "_links": {
+              "self": {
+                "href": "/users/256150645",
+                "title": "Fred Schmidt - Online Teacher / Productivity Nerd"
+              },
+              "my_classes": {
+                "href": "/users/256150645/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/256150645/completions",
+                "title": "Completions for User: 256150645"
+              },
+              "discussions": {
+                "href": "/users/256150645/discussions",
+                "title": "Discussions for User: 256150645"
+              },
+              "followers": {
+                "href": "/users/256150645/followers",
+                "title": "Followers for User: 256150645"
+              },
+              "following": {
+                "href": "/users/256150645/following",
+                "title": "Following for User: 256150645"
+              },
+              "notifications": {
+                "href": "/users/256150645/notifications",
+                "title": "Notifications for User: 256150645"
+              },
+              "projects": {
+                "href": "/users/256150645/projects",
+                "title": "Projects for User: 256150645"
+              },
+              "rosters": {
+                "href": "/users/256150645/rosters",
+                "title": "Rosters for User: 256150645"
+              },
+              "userTags": {
+                "href": "/users/256150645/userTags",
+                "title": "UserTags for User: 256150645"
+              },
+              "votes": {
+                "href": "/users/256150645/votes",
+                "title": "Votes for User: 256150645"
+              },
+              "wishlist": {
+                "href": "/users/256150645/wishlist",
+                "title": "Wishlist for User: 256150645"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 611664,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMTY2NCJ9",
+        "sku": 762323860,
+        "title": "Slack statt Mail - Wie du dir Zeit erarbeiten kannst! (DEUTSCH)",
+        "project_title": "Beschreibung: Deine Aufgabe besteht darin, einen einfachen Slack-Bot zu erstellen, der auf bestimmte Befehle reagiert und nützliche Aktionen durchführt. Dies wird dir praktische Erfahrung im Umgang mi",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6319054064112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6319054064112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6319054064112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Slack-statt-Mail-Wie-du-dir-Zeit-erarbeiten-kannst-DEUTSCH/762323860",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 23,
+        "total_videos_duration": "1h 39m",
+        "total_videos_duration_seconds": 5954,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/762323860",
+            "title": "Slack statt Mail - Wie du dir Zeit erarbeiten kannst! (DEUTSCH)"
+          },
+          "teacher": {
+            "href": "/users/256150645",
+            "title": "Fred Schmidt - Online Teacher / Productivity Nerd"
+          },
+          "units": {
+            "href": "/classes/762323860/units",
+            "title": "Units for Class: 762323860"
+          },
+          "sessions": {
+            "href": "/classes/762323860/sessions",
+            "title": "Sessions for Class: 762323860"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/762323860/students",
+            "title": "Students for Class: 762323860"
+          },
+          "projects": {
+            "href": "/classes/762323860/projects",
+            "title": "Projects for Class: 762323860"
+          },
+          "reviews": {
+            "href": "/classes/762323860/reviews",
+            "title": "Reviews for Class: 762323860"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26089678,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYwODk2NzgifQ==",
+            "username": 256150645,
+            "first_name": "Fred",
+            "last_name": "Schmidt",
+            "full_name": "Fred Schmidt",
+            "vanity_username": "fredschmidt",
+            "headline": "Online Teacher / Productivity Nerd",
+            "pic": "https://static.skillshare.com/uploads/users/256150645/user-image-medium.png?1102847274",
+            "pic_sm": "https://static.skillshare.com/uploads/users/256150645/user-image-small.png?755966551",
+            "pic_lg": "https://static.skillshare.com/uploads/users/256150645/user-image-large.png?597728819",
+            "_links": {
+              "self": {
+                "href": "/users/256150645",
+                "title": "Fred Schmidt - Online Teacher / Productivity Nerd"
+              },
+              "my_classes": {
+                "href": "/users/256150645/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/256150645/completions",
+                "title": "Completions for User: 256150645"
+              },
+              "discussions": {
+                "href": "/users/256150645/discussions",
+                "title": "Discussions for User: 256150645"
+              },
+              "followers": {
+                "href": "/users/256150645/followers",
+                "title": "Followers for User: 256150645"
+              },
+              "following": {
+                "href": "/users/256150645/following",
+                "title": "Following for User: 256150645"
+              },
+              "notifications": {
+                "href": "/users/256150645/notifications",
+                "title": "Notifications for User: 256150645"
+              },
+              "projects": {
+                "href": "/users/256150645/projects",
+                "title": "Projects for User: 256150645"
+              },
+              "rosters": {
+                "href": "/users/256150645/rosters",
+                "title": "Rosters for User: 256150645"
+              },
+              "userTags": {
+                "href": "/users/256150645/userTags",
+                "title": "UserTags for User: 256150645"
+              },
+              "votes": {
+                "href": "/users/256150645/votes",
+                "title": "Votes for User: 256150645"
+              },
+              "wishlist": {
+                "href": "/users/256150645/wishlist",
+                "title": "Wishlist for User: 256150645"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 611696,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMTY5NiJ9",
+        "sku": 2100652730,
+        "title": "Stream like a Pro: Mastering OBS for Live Streaming",
+        "project_title": "project is designed to give students hands-on experience with creating professional-grade streams using Open Broadcaster Software (OBS). This project will walk students through the process of setting ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ffa6a909186e8c8b607f51a3d67e7be8/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ffa6a909186e8c8b607f51a3d67e7be8/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ffa6a909186e8c8b607f51a3d67e7be8/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Stream-like-a-Pro-Mastering-OBS-for-Live-Streaming/2100652730",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 23,
+        "total_videos_duration": "49m",
+        "total_videos_duration_seconds": 2911,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 43,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2100652730",
+            "title": "Stream like a Pro: Mastering OBS for Live Streaming"
+          },
+          "teacher": {
+            "href": "/users/690857197",
+            "title": "Shiv kumar Bhadoria"
+          },
+          "units": {
+            "href": "/classes/2100652730/units",
+            "title": "Units for Class: 2100652730"
+          },
+          "sessions": {
+            "href": "/classes/2100652730/sessions",
+            "title": "Sessions for Class: 2100652730"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2100652730/students",
+            "title": "Students for Class: 2100652730"
+          },
+          "projects": {
+            "href": "/classes/2100652730/projects",
+            "title": "Projects for Class: 2100652730"
+          },
+          "reviews": {
+            "href": "/classes/2100652730/reviews",
+            "title": "Reviews for Class: 2100652730"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 28923548,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjg5MjM1NDgifQ==",
+            "username": 690857197,
+            "first_name": "Shiv kumar",
+            "last_name": "Bhadoria",
+            "full_name": "Shiv kumar Bhadoria",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/690857197",
+                "title": "Shiv kumar Bhadoria"
+              },
+              "my_classes": {
+                "href": "/users/690857197/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/690857197/completions",
+                "title": "Completions for User: 690857197"
+              },
+              "discussions": {
+                "href": "/users/690857197/discussions",
+                "title": "Discussions for User: 690857197"
+              },
+              "followers": {
+                "href": "/users/690857197/followers",
+                "title": "Followers for User: 690857197"
+              },
+              "following": {
+                "href": "/users/690857197/following",
+                "title": "Following for User: 690857197"
+              },
+              "notifications": {
+                "href": "/users/690857197/notifications",
+                "title": "Notifications for User: 690857197"
+              },
+              "projects": {
+                "href": "/users/690857197/projects",
+                "title": "Projects for User: 690857197"
+              },
+              "rosters": {
+                "href": "/users/690857197/rosters",
+                "title": "Rosters for User: 690857197"
+              },
+              "userTags": {
+                "href": "/users/690857197/userTags",
+                "title": "UserTags for User: 690857197"
+              },
+              "votes": {
+                "href": "/users/690857197/votes",
+                "title": "Votes for User: 690857197"
+              },
+              "wishlist": {
+                "href": "/users/690857197/wishlist",
+                "title": "Wishlist for User: 690857197"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 611708,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMTcwOCJ9",
+        "sku": 1020795771,
+        "title": "ChatGPT & Midjourney & DALL-E Essentials: 3 Complete AI Courses In 1 (2023 Guide)",
+        "project_title": "After you finished watching all the lessons in this course, then review the project below,  and then implement the steps mentioned in it. Here is exactly what you need to do:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1716344c0528b9f3d9c3533b58a06361/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1716344c0528b9f3d9c3533b58a06361/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1716344c0528b9f3d9c3533b58a06361/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/ChatGPT-Midjourney-DALL-E-Essentials-3-Complete-AI-Courses-In-1-2023-Guide/1020795771",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 36,
+        "total_videos_duration": "3h 4m",
+        "total_videos_duration_seconds": 11069,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 434,
+        "num_projects": 3,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1020795771",
+            "title": "ChatGPT & Midjourney & DALL-E Essentials: 3 Complete AI Courses In 1 (2023 Guide)"
+          },
+          "teacher": {
+            "href": "/users/8617535",
+            "title": "Amir Rimer - My great passion in life is to teach others"
+          },
+          "units": {
+            "href": "/classes/1020795771/units",
+            "title": "Units for Class: 1020795771"
+          },
+          "sessions": {
+            "href": "/classes/1020795771/sessions",
+            "title": "Sessions for Class: 1020795771"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1020795771/students",
+            "title": "Students for Class: 1020795771"
+          },
+          "projects": {
+            "href": "/classes/1020795771/projects",
+            "title": "Projects for Class: 1020795771"
+          },
+          "reviews": {
+            "href": "/classes/1020795771/reviews",
+            "title": "Reviews for Class: 1020795771"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 402858,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDAyODU4In0=",
+            "username": 8617535,
+            "first_name": "Amir",
+            "last_name": "Rimer",
+            "full_name": "Amir Rimer",
+            "vanity_username": "askinstructor",
+            "headline": "My great passion in life is to teach others",
+            "pic": "https://static.skillshare.com/uploads/users/8617535/user-image-medium.png?687560653",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8617535/user-image-small.png?1371540081",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8617535/user-image-large.png?1430537580",
+            "_links": {
+              "self": {
+                "href": "/users/8617535",
+                "title": "Amir Rimer - My great passion in life is to teach others"
+              },
+              "my_classes": {
+                "href": "/users/8617535/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8617535/completions",
+                "title": "Completions for User: 8617535"
+              },
+              "discussions": {
+                "href": "/users/8617535/discussions",
+                "title": "Discussions for User: 8617535"
+              },
+              "followers": {
+                "href": "/users/8617535/followers",
+                "title": "Followers for User: 8617535"
+              },
+              "following": {
+                "href": "/users/8617535/following",
+                "title": "Following for User: 8617535"
+              },
+              "notifications": {
+                "href": "/users/8617535/notifications",
+                "title": "Notifications for User: 8617535"
+              },
+              "projects": {
+                "href": "/users/8617535/projects",
+                "title": "Projects for User: 8617535"
+              },
+              "rosters": {
+                "href": "/users/8617535/rosters",
+                "title": "Rosters for User: 8617535"
+              },
+              "userTags": {
+                "href": "/users/8617535/userTags",
+                "title": "UserTags for User: 8617535"
+              },
+              "votes": {
+                "href": "/users/8617535/votes",
+                "title": "Votes for User: 8617535"
+              },
+              "wishlist": {
+                "href": "/users/8617535/wishlist",
+                "title": "Wishlist for User: 8617535"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 611718,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMTcxOCJ9",
+        "sku": 513452154,
+        "title": "Affinity Designer 2 - The Crash Course for Beginners",
+        "project_title": "Our Class Projects!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/023140f135d47159117748ac51786213/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/023140f135d47159117748ac51786213/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/023140f135d47159117748ac51786213/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Affinity-Designer-2-The-Crash-Course-for-Beginners/513452154",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 20,
+        "total_videos_duration": "1h 53m",
+        "total_videos_duration_seconds": 6766,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 133,
+        "num_projects": 3,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/513452154",
+            "title": "Affinity Designer 2 - The Crash Course for Beginners"
+          },
+          "teacher": {
+            "href": "/users/6109114",
+            "title": "Kai Pruin - Graphic- & Web Designer"
+          },
+          "units": {
+            "href": "/classes/513452154/units",
+            "title": "Units for Class: 513452154"
+          },
+          "sessions": {
+            "href": "/classes/513452154/sessions",
+            "title": "Sessions for Class: 513452154"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/513452154/students",
+            "title": "Students for Class: 513452154"
+          },
+          "projects": {
+            "href": "/classes/513452154/projects",
+            "title": "Projects for Class: 513452154"
+          },
+          "reviews": {
+            "href": "/classes/513452154/reviews",
+            "title": "Reviews for Class: 513452154"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2626230,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYyNjIzMCJ9",
+            "username": 6109114,
+            "first_name": "Kai",
+            "last_name": "Pruin",
+            "full_name": "Kai Pruin",
+            "vanity_username": null,
+            "headline": "Graphic- & Web Designer",
+            "pic": "https://static.skillshare.com/uploads/users/6109114/user-image-medium.png?1387498215",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6109114/user-image-small.png?1449234186",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6109114/user-image-large.png?715331632",
+            "_links": {
+              "self": {
+                "href": "/users/6109114",
+                "title": "Kai Pruin - Graphic- & Web Designer"
+              },
+              "my_classes": {
+                "href": "/users/6109114/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6109114/completions",
+                "title": "Completions for User: 6109114"
+              },
+              "discussions": {
+                "href": "/users/6109114/discussions",
+                "title": "Discussions for User: 6109114"
+              },
+              "followers": {
+                "href": "/users/6109114/followers",
+                "title": "Followers for User: 6109114"
+              },
+              "following": {
+                "href": "/users/6109114/following",
+                "title": "Following for User: 6109114"
+              },
+              "notifications": {
+                "href": "/users/6109114/notifications",
+                "title": "Notifications for User: 6109114"
+              },
+              "projects": {
+                "href": "/users/6109114/projects",
+                "title": "Projects for User: 6109114"
+              },
+              "rosters": {
+                "href": "/users/6109114/rosters",
+                "title": "Rosters for User: 6109114"
+              },
+              "userTags": {
+                "href": "/users/6109114/userTags",
+                "title": "UserTags for User: 6109114"
+              },
+              "votes": {
+                "href": "/users/6109114/votes",
+                "title": "Votes for User: 6109114"
+              },
+              "wishlist": {
+                "href": "/users/6109114/wishlist",
+                "title": "Wishlist for User: 6109114"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 611721,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMTcyMSJ9",
+        "sku": 179661876,
+        "title": "Step Sequencer (Logic Pro) for Beat Making, Drums and Bass",
+        "project_title": "To complete the project of this course please do the following:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/83015ab71d0efd4ba97640bcbf36b317/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/83015ab71d0efd4ba97640bcbf36b317/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/83015ab71d0efd4ba97640bcbf36b317/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Step-Sequencer-Logic-Pro-for-Beat-Making-Drums-and-Bass/179661876",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 40,
+        "total_videos_duration": "51m",
+        "total_videos_duration_seconds": 3040,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 0,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/179661876",
+            "title": "Step Sequencer (Logic Pro) for Beat Making, Drums and Bass"
+          },
+          "teacher": {
+            "href": "/users/100933810",
+            "title": "Serhii Ostrovskyi - Musician"
+          },
+          "units": {
+            "href": "/classes/179661876/units",
+            "title": "Units for Class: 179661876"
+          },
+          "sessions": {
+            "href": "/classes/179661876/sessions",
+            "title": "Sessions for Class: 179661876"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/179661876/students",
+            "title": "Students for Class: 179661876"
+          },
+          "projects": {
+            "href": "/classes/179661876/projects",
+            "title": "Projects for Class: 179661876"
+          },
+          "reviews": {
+            "href": "/classes/179661876/reviews",
+            "title": "Reviews for Class: 179661876"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18463548,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTg0NjM1NDgifQ==",
+            "username": 100933810,
+            "first_name": "Serhii",
+            "last_name": "Ostrovskyi",
+            "full_name": "Serhii Ostrovskyi",
+            "vanity_username": null,
+            "headline": "Musician",
+            "pic": "https://static.skillshare.com/uploads/users/100933810/user-image-medium.jpg?269850293",
+            "pic_sm": "https://static.skillshare.com/uploads/users/100933810/user-image-small.jpg?486274894",
+            "pic_lg": "https://static.skillshare.com/uploads/users/100933810/user-image-large.jpg?1843362656",
+            "_links": {
+              "self": {
+                "href": "/users/100933810",
+                "title": "Serhii Ostrovskyi - Musician"
+              },
+              "my_classes": {
+                "href": "/users/100933810/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/100933810/completions",
+                "title": "Completions for User: 100933810"
+              },
+              "discussions": {
+                "href": "/users/100933810/discussions",
+                "title": "Discussions for User: 100933810"
+              },
+              "followers": {
+                "href": "/users/100933810/followers",
+                "title": "Followers for User: 100933810"
+              },
+              "following": {
+                "href": "/users/100933810/following",
+                "title": "Following for User: 100933810"
+              },
+              "notifications": {
+                "href": "/users/100933810/notifications",
+                "title": "Notifications for User: 100933810"
+              },
+              "projects": {
+                "href": "/users/100933810/projects",
+                "title": "Projects for User: 100933810"
+              },
+              "rosters": {
+                "href": "/users/100933810/rosters",
+                "title": "Rosters for User: 100933810"
+              },
+              "userTags": {
+                "href": "/users/100933810/userTags",
+                "title": "UserTags for User: 100933810"
+              },
+              "votes": {
+                "href": "/users/100933810/votes",
+                "title": "Votes for User: 100933810"
+              },
+              "wishlist": {
+                "href": "/users/100933810/wishlist",
+                "title": "Wishlist for User: 100933810"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 611727,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMTcyNyJ9",
+        "sku": 1758549075,
+        "title": "3D modeling in Blender for absolute beginners - your very first lesson",
+        "project_title": "3D modeling is nothing more than moving points back and forth in space until you achieve the shape you want.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b236283dd47eb7135744317735560121/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b236283dd47eb7135744317735560121/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b236283dd47eb7135744317735560121/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/3D-modeling-in-Blender-for-absolute-beginners-your-very-first-lesson/1758549075",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "42m",
+        "total_videos_duration_seconds": 2514,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 117,
+        "num_projects": 5,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1758549075",
+            "title": "3D modeling in Blender for absolute beginners - your very first lesson"
+          },
+          "teacher": {
+            "href": "/users/212059497",
+            "title": "In2vert - 3D Artist & Software Engineer"
+          },
+          "units": {
+            "href": "/classes/1758549075/units",
+            "title": "Units for Class: 1758549075"
+          },
+          "sessions": {
+            "href": "/classes/1758549075/sessions",
+            "title": "Sessions for Class: 1758549075"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1758549075/students",
+            "title": "Students for Class: 1758549075"
+          },
+          "projects": {
+            "href": "/classes/1758549075/projects",
+            "title": "Projects for Class: 1758549075"
+          },
+          "reviews": {
+            "href": "/classes/1758549075/reviews",
+            "title": "Reviews for Class: 1758549075"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 28202007,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjgyMDIwMDcifQ==",
+            "username": 212059497,
+            "first_name": "In2vert",
+            "last_name": null,
+            "full_name": "In2vert",
+            "vanity_username": "in2vert",
+            "headline": "3D Artist & Software Engineer",
+            "pic": "https://static.skillshare.com/uploads/users/212059497/user-image-medium.png?1182372849",
+            "pic_sm": "https://static.skillshare.com/uploads/users/212059497/user-image-small.png?1455444529",
+            "pic_lg": "https://static.skillshare.com/uploads/users/212059497/user-image-large.png?1697430307",
+            "_links": {
+              "self": {
+                "href": "/users/212059497",
+                "title": "In2vert - 3D Artist & Software Engineer"
+              },
+              "my_classes": {
+                "href": "/users/212059497/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/212059497/completions",
+                "title": "Completions for User: 212059497"
+              },
+              "discussions": {
+                "href": "/users/212059497/discussions",
+                "title": "Discussions for User: 212059497"
+              },
+              "followers": {
+                "href": "/users/212059497/followers",
+                "title": "Followers for User: 212059497"
+              },
+              "following": {
+                "href": "/users/212059497/following",
+                "title": "Following for User: 212059497"
+              },
+              "notifications": {
+                "href": "/users/212059497/notifications",
+                "title": "Notifications for User: 212059497"
+              },
+              "projects": {
+                "href": "/users/212059497/projects",
+                "title": "Projects for User: 212059497"
+              },
+              "rosters": {
+                "href": "/users/212059497/rosters",
+                "title": "Rosters for User: 212059497"
+              },
+              "userTags": {
+                "href": "/users/212059497/userTags",
+                "title": "UserTags for User: 212059497"
+              },
+              "votes": {
+                "href": "/users/212059497/votes",
+                "title": "Votes for User: 212059497"
+              },
+              "wishlist": {
+                "href": "/users/212059497/wishlist",
+                "title": "Wishlist for User: 212059497"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 611731,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMTczMSJ9",
+        "sku": 1584000894,
+        "title": "Cinematic Compositions & Visual Storytelling in Film & Photography",
+        "project_title": "Test your skills.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/722bac6187d7f0b9c138eff6af897b28/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/722bac6187d7f0b9c138eff6af897b28/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/722bac6187d7f0b9c138eff6af897b28/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Cinematic-Compositions-Visual-Storytelling-in-Film-Photography/1584000894",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "15m",
+        "total_videos_duration_seconds": 873,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 37,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1584000894",
+            "title": "Cinematic Compositions & Visual Storytelling in Film & Photography"
+          },
+          "teacher": {
+            "href": "/users/392877942",
+            "title": "Alex Sofonea - Filmmaker & Full-Stack Developer"
+          },
+          "units": {
+            "href": "/classes/1584000894/units",
+            "title": "Units for Class: 1584000894"
+          },
+          "sessions": {
+            "href": "/classes/1584000894/sessions",
+            "title": "Sessions for Class: 1584000894"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1584000894/students",
+            "title": "Students for Class: 1584000894"
+          },
+          "projects": {
+            "href": "/classes/1584000894/projects",
+            "title": "Projects for Class: 1584000894"
+          },
+          "reviews": {
+            "href": "/classes/1584000894/reviews",
+            "title": "Reviews for Class: 1584000894"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13503639,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTM1MDM2MzkifQ==",
+            "username": 392877942,
+            "first_name": "Alex",
+            "last_name": "Sofonea",
+            "full_name": "Alex Sofonea",
+            "vanity_username": "alexsof",
+            "headline": "Filmmaker & Full-Stack Developer",
+            "pic": "https://static.skillshare.com/uploads/users/392877942/user-image-medium.jpg?1621523466",
+            "pic_sm": "https://static.skillshare.com/uploads/users/392877942/user-image-small.jpg?417614332",
+            "pic_lg": "https://static.skillshare.com/uploads/users/392877942/user-image-large.jpg?42866779",
+            "_links": {
+              "self": {
+                "href": "/users/392877942",
+                "title": "Alex Sofonea - Filmmaker & Full-Stack Developer"
+              },
+              "my_classes": {
+                "href": "/users/392877942/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/392877942/completions",
+                "title": "Completions for User: 392877942"
+              },
+              "discussions": {
+                "href": "/users/392877942/discussions",
+                "title": "Discussions for User: 392877942"
+              },
+              "followers": {
+                "href": "/users/392877942/followers",
+                "title": "Followers for User: 392877942"
+              },
+              "following": {
+                "href": "/users/392877942/following",
+                "title": "Following for User: 392877942"
+              },
+              "notifications": {
+                "href": "/users/392877942/notifications",
+                "title": "Notifications for User: 392877942"
+              },
+              "projects": {
+                "href": "/users/392877942/projects",
+                "title": "Projects for User: 392877942"
+              },
+              "rosters": {
+                "href": "/users/392877942/rosters",
+                "title": "Rosters for User: 392877942"
+              },
+              "userTags": {
+                "href": "/users/392877942/userTags",
+                "title": "UserTags for User: 392877942"
+              },
+              "votes": {
+                "href": "/users/392877942/votes",
+                "title": "Votes for User: 392877942"
+              },
+              "wishlist": {
+                "href": "/users/392877942/wishlist",
+                "title": "Wishlist for User: 392877942"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 611735,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMTczNSJ9",
+        "sku": 1129240762,
+        "title": "ASANA Projekt Manager Kurs 2023, Manage alle Projekte 4 PDU (DEUTSCH)",
+        "project_title": "Situation:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6319083337112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6319083337112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6319083337112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/ASANA-Projekt-Manager-Kurs-2023-Manage-alle-Projekte-4-PDU-DEUTSCH/1129240762",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 30,
+        "total_videos_duration": "3h 41m",
+        "total_videos_duration_seconds": 13233,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 7,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1129240762",
+            "title": "ASANA Projekt Manager Kurs 2023, Manage alle Projekte 4 PDU (DEUTSCH)"
+          },
+          "teacher": {
+            "href": "/users/256150645",
+            "title": "Fred Schmidt - Online Teacher / Productivity Nerd"
+          },
+          "units": {
+            "href": "/classes/1129240762/units",
+            "title": "Units for Class: 1129240762"
+          },
+          "sessions": {
+            "href": "/classes/1129240762/sessions",
+            "title": "Sessions for Class: 1129240762"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1129240762/students",
+            "title": "Students for Class: 1129240762"
+          },
+          "projects": {
+            "href": "/classes/1129240762/projects",
+            "title": "Projects for Class: 1129240762"
+          },
+          "reviews": {
+            "href": "/classes/1129240762/reviews",
+            "title": "Reviews for Class: 1129240762"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26089678,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYwODk2NzgifQ==",
+            "username": 256150645,
+            "first_name": "Fred",
+            "last_name": "Schmidt",
+            "full_name": "Fred Schmidt",
+            "vanity_username": "fredschmidt",
+            "headline": "Online Teacher / Productivity Nerd",
+            "pic": "https://static.skillshare.com/uploads/users/256150645/user-image-medium.png?1102847274",
+            "pic_sm": "https://static.skillshare.com/uploads/users/256150645/user-image-small.png?755966551",
+            "pic_lg": "https://static.skillshare.com/uploads/users/256150645/user-image-large.png?597728819",
+            "_links": {
+              "self": {
+                "href": "/users/256150645",
+                "title": "Fred Schmidt - Online Teacher / Productivity Nerd"
+              },
+              "my_classes": {
+                "href": "/users/256150645/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/256150645/completions",
+                "title": "Completions for User: 256150645"
+              },
+              "discussions": {
+                "href": "/users/256150645/discussions",
+                "title": "Discussions for User: 256150645"
+              },
+              "followers": {
+                "href": "/users/256150645/followers",
+                "title": "Followers for User: 256150645"
+              },
+              "following": {
+                "href": "/users/256150645/following",
+                "title": "Following for User: 256150645"
+              },
+              "notifications": {
+                "href": "/users/256150645/notifications",
+                "title": "Notifications for User: 256150645"
+              },
+              "projects": {
+                "href": "/users/256150645/projects",
+                "title": "Projects for User: 256150645"
+              },
+              "rosters": {
+                "href": "/users/256150645/rosters",
+                "title": "Rosters for User: 256150645"
+              },
+              "userTags": {
+                "href": "/users/256150645/userTags",
+                "title": "UserTags for User: 256150645"
+              },
+              "votes": {
+                "href": "/users/256150645/votes",
+                "title": "Votes for User: 256150645"
+              },
+              "wishlist": {
+                "href": "/users/256150645/wishlist",
+                "title": "Wishlist for User: 256150645"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

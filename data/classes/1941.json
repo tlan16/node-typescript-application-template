@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1941",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1940",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1942",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 618240,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxODI0MCJ9",
+        "sku": 402562834,
+        "title": "Beyond Paper: Spice Up Your Collage with Simple Mixed Media Techniques",
+        "project_title": "Create a Mixed Media Card using the steps from class:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/4b40298d66c0cf698c133481be3435af/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/4b40298d66c0cf698c133481be3435af/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/4b40298d66c0cf698c133481be3435af/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Beyond-Paper-Spice-Up-Your-Collage-with-Simple-Mixed-Media-Techniques/402562834",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "53m",
+        "total_videos_duration_seconds": 3205,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 43,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/402562834",
+            "title": "Beyond Paper: Spice Up Your Collage with Simple Mixed Media Techniques"
+          },
+          "teacher": {
+            "href": "/users/2550427",
+            "title": "Tammy Prara - Created to Create"
+          },
+          "units": {
+            "href": "/classes/402562834/units",
+            "title": "Units for Class: 402562834"
+          },
+          "sessions": {
+            "href": "/classes/402562834/sessions",
+            "title": "Sessions for Class: 402562834"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/402562834/students",
+            "title": "Students for Class: 402562834"
+          },
+          "projects": {
+            "href": "/classes/402562834/projects",
+            "title": "Projects for Class: 402562834"
+          },
+          "reviews": {
+            "href": "/classes/402562834/reviews",
+            "title": "Reviews for Class: 402562834"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3132073,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzEzMjA3MyJ9",
+            "username": 2550427,
+            "first_name": "Tammy",
+            "last_name": "Prara",
+            "full_name": "Tammy Prara",
+            "vanity_username": "tammypinca",
+            "headline": "Created to Create",
+            "pic": "https://static.skillshare.com/uploads/users/2550427/user-image-medium.jpg?1472183655",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2550427/user-image-small.jpg?1524646235",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2550427/user-image-large.jpg?65991198",
+            "_links": {
+              "self": {
+                "href": "/users/2550427",
+                "title": "Tammy Prara - Created to Create"
+              },
+              "my_classes": {
+                "href": "/users/2550427/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2550427/completions",
+                "title": "Completions for User: 2550427"
+              },
+              "discussions": {
+                "href": "/users/2550427/discussions",
+                "title": "Discussions for User: 2550427"
+              },
+              "followers": {
+                "href": "/users/2550427/followers",
+                "title": "Followers for User: 2550427"
+              },
+              "following": {
+                "href": "/users/2550427/following",
+                "title": "Following for User: 2550427"
+              },
+              "notifications": {
+                "href": "/users/2550427/notifications",
+                "title": "Notifications for User: 2550427"
+              },
+              "projects": {
+                "href": "/users/2550427/projects",
+                "title": "Projects for User: 2550427"
+              },
+              "rosters": {
+                "href": "/users/2550427/rosters",
+                "title": "Rosters for User: 2550427"
+              },
+              "userTags": {
+                "href": "/users/2550427/userTags",
+                "title": "UserTags for User: 2550427"
+              },
+              "votes": {
+                "href": "/users/2550427/votes",
+                "title": "Votes for User: 2550427"
+              },
+              "wishlist": {
+                "href": "/users/2550427/wishlist",
+                "title": "Wishlist for User: 2550427"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 618241,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxODI0MSJ9",
+        "sku": 223942043,
+        "title": "Getting Started With ChatGPT: Tips and Best Practices",
+        "project_title": "Your class project will be to come up with your own prompts. Then, post your results on the project's page so we can discuss together. You can also share the name of your website, channel or any other",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/baeaa94d7c09f7fabfb7c76700b7e8d2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/baeaa94d7c09f7fabfb7c76700b7e8d2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/baeaa94d7c09f7fabfb7c76700b7e8d2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Getting-Started-With-ChatGPT-Tips-and-Best-Practices/223942043",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "23m",
+        "total_videos_duration_seconds": 1370,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 481,
+        "num_projects": 7,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/223942043",
+            "title": "Getting Started With ChatGPT: Tips and Best Practices"
+          },
+          "teacher": {
+            "href": "/users/4660016",
+            "title": "Dan Prizont - Photographer & YouTuber"
+          },
+          "units": {
+            "href": "/classes/223942043/units",
+            "title": "Units for Class: 223942043"
+          },
+          "sessions": {
+            "href": "/classes/223942043/sessions",
+            "title": "Sessions for Class: 223942043"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/223942043/students",
+            "title": "Students for Class: 223942043"
+          },
+          "projects": {
+            "href": "/classes/223942043/projects",
+            "title": "Projects for Class: 223942043"
+          },
+          "reviews": {
+            "href": "/classes/223942043/reviews",
+            "title": "Reviews for Class: 223942043"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2886793,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjg4Njc5MyJ9",
+            "username": 4660016,
+            "first_name": "Dan",
+            "last_name": "Prizont",
+            "full_name": "Dan Prizont",
+            "vanity_username": "danprizont",
+            "headline": "Photographer & YouTuber",
+            "pic": "https://static.skillshare.com/uploads/users/4660016/user-image-medium.jpg?1057529510",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4660016/user-image-small.jpg?1312859976",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4660016/user-image-large.jpg?926812689",
+            "_links": {
+              "self": {
+                "href": "/users/4660016",
+                "title": "Dan Prizont - Photographer & YouTuber"
+              },
+              "my_classes": {
+                "href": "/users/4660016/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4660016/completions",
+                "title": "Completions for User: 4660016"
+              },
+              "discussions": {
+                "href": "/users/4660016/discussions",
+                "title": "Discussions for User: 4660016"
+              },
+              "followers": {
+                "href": "/users/4660016/followers",
+                "title": "Followers for User: 4660016"
+              },
+              "following": {
+                "href": "/users/4660016/following",
+                "title": "Following for User: 4660016"
+              },
+              "notifications": {
+                "href": "/users/4660016/notifications",
+                "title": "Notifications for User: 4660016"
+              },
+              "projects": {
+                "href": "/users/4660016/projects",
+                "title": "Projects for User: 4660016"
+              },
+              "rosters": {
+                "href": "/users/4660016/rosters",
+                "title": "Rosters for User: 4660016"
+              },
+              "userTags": {
+                "href": "/users/4660016/userTags",
+                "title": "UserTags for User: 4660016"
+              },
+              "votes": {
+                "href": "/users/4660016/votes",
+                "title": "Votes for User: 4660016"
+              },
+              "wishlist": {
+                "href": "/users/4660016/wishlist",
+                "title": "Wishlist for User: 4660016"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 618249,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxODI0OSJ9",
+        "sku": 1571094052,
+        "title": "Introduction to 3D with Nomad Sculpt (Updated for 2023)",
+        "project_title": "Class Project will be to create your first 3D art!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d793b2bb0906921503053199a8c4db64/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d793b2bb0906921503053199a8c4db64/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d793b2bb0906921503053199a8c4db64/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Introduction-to-3D-with-Nomad-Sculpt-Updated-for-2023/1571094052",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 25,
+        "total_videos_duration": "4h 30m",
+        "total_videos_duration_seconds": 16228,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 733,
+        "num_projects": 15,
+        "num_discussions": 10,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1571094052",
+            "title": "Introduction to 3D with Nomad Sculpt (Updated for 2023)"
+          },
+          "teacher": {
+            "href": "/users/143044920",
+            "title": "Dave Reed - 2D & 3D Illustrator - Brooklyn, NY"
+          },
+          "units": {
+            "href": "/classes/1571094052/units",
+            "title": "Units for Class: 1571094052"
+          },
+          "sessions": {
+            "href": "/classes/1571094052/sessions",
+            "title": "Sessions for Class: 1571094052"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1571094052/students",
+            "title": "Students for Class: 1571094052"
+          },
+          "projects": {
+            "href": "/classes/1571094052/projects",
+            "title": "Projects for Class: 1571094052"
+          },
+          "reviews": {
+            "href": "/classes/1571094052/reviews",
+            "title": "Reviews for Class: 1571094052"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16208164,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTYyMDgxNjQifQ==",
+            "username": 143044920,
+            "first_name": "Dave",
+            "last_name": "Reed",
+            "full_name": "Dave Reed",
+            "vanity_username": "drugfreedave",
+            "headline": "2D & 3D Illustrator - Brooklyn, NY",
+            "pic": "https://static.skillshare.com/uploads/users/143044920/user-image-medium.png?451373233",
+            "pic_sm": "https://static.skillshare.com/uploads/users/143044920/user-image-small.png?995554390",
+            "pic_lg": "https://static.skillshare.com/uploads/users/143044920/user-image-large.png?1554163577",
+            "_links": {
+              "self": {
+                "href": "/users/143044920",
+                "title": "Dave Reed - 2D & 3D Illustrator - Brooklyn, NY"
+              },
+              "my_classes": {
+                "href": "/users/143044920/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/143044920/completions",
+                "title": "Completions for User: 143044920"
+              },
+              "discussions": {
+                "href": "/users/143044920/discussions",
+                "title": "Discussions for User: 143044920"
+              },
+              "followers": {
+                "href": "/users/143044920/followers",
+                "title": "Followers for User: 143044920"
+              },
+              "following": {
+                "href": "/users/143044920/following",
+                "title": "Following for User: 143044920"
+              },
+              "notifications": {
+                "href": "/users/143044920/notifications",
+                "title": "Notifications for User: 143044920"
+              },
+              "projects": {
+                "href": "/users/143044920/projects",
+                "title": "Projects for User: 143044920"
+              },
+              "rosters": {
+                "href": "/users/143044920/rosters",
+                "title": "Rosters for User: 143044920"
+              },
+              "userTags": {
+                "href": "/users/143044920/userTags",
+                "title": "UserTags for User: 143044920"
+              },
+              "votes": {
+                "href": "/users/143044920/votes",
+                "title": "Votes for User: 143044920"
+              },
+              "wishlist": {
+                "href": "/users/143044920/wishlist",
+                "title": "Wishlist for User: 143044920"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 618273,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxODI3MyJ9",
+        "sku": 1914903225,
+        "title": "Data Science Made Easy: The Ultimate Crash Course in R for Everyone",
+        "project_title": "Project Description: The Iris dataset is a classic dataset that is often used for data analysis and visualization projects. The dataset contains information about the physical characteristics of diffe",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f60e389f58f9feeea5d1322289cd0832/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f60e389f58f9feeea5d1322289cd0832/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f60e389f58f9feeea5d1322289cd0832/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Data-Science-Made-Easy-The-Ultimate-Crash-Course-in-R-for-Everyone/1914903225",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "46m",
+        "total_videos_duration_seconds": 2755,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 13,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1914903225",
+            "title": "Data Science Made Easy: The Ultimate Crash Course in R for Everyone"
+          },
+          "teacher": {
+            "href": "/users/808826565",
+            "title": "Sankalp Garud"
+          },
+          "units": {
+            "href": "/classes/1914903225/units",
+            "title": "Units for Class: 1914903225"
+          },
+          "sessions": {
+            "href": "/classes/1914903225/sessions",
+            "title": "Sessions for Class: 1914903225"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1914903225/students",
+            "title": "Students for Class: 1914903225"
+          },
+          "projects": {
+            "href": "/classes/1914903225/projects",
+            "title": "Projects for Class: 1914903225"
+          },
+          "reviews": {
+            "href": "/classes/1914903225/reviews",
+            "title": "Reviews for Class: 1914903225"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21456334,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjE0NTYzMzQifQ==",
+            "username": 808826565,
+            "first_name": "Sankalp",
+            "last_name": "Garud",
+            "full_name": "Sankalp Garud",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/808826565/user-image-medium.jpg?2132960898",
+            "pic_sm": "https://static.skillshare.com/uploads/users/808826565/user-image-small.jpg?2062599064",
+            "pic_lg": "https://static.skillshare.com/uploads/users/808826565/user-image-large.jpg?600864554",
+            "_links": {
+              "self": {
+                "href": "/users/808826565",
+                "title": "Sankalp Garud"
+              },
+              "my_classes": {
+                "href": "/users/808826565/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/808826565/completions",
+                "title": "Completions for User: 808826565"
+              },
+              "discussions": {
+                "href": "/users/808826565/discussions",
+                "title": "Discussions for User: 808826565"
+              },
+              "followers": {
+                "href": "/users/808826565/followers",
+                "title": "Followers for User: 808826565"
+              },
+              "following": {
+                "href": "/users/808826565/following",
+                "title": "Following for User: 808826565"
+              },
+              "notifications": {
+                "href": "/users/808826565/notifications",
+                "title": "Notifications for User: 808826565"
+              },
+              "projects": {
+                "href": "/users/808826565/projects",
+                "title": "Projects for User: 808826565"
+              },
+              "rosters": {
+                "href": "/users/808826565/rosters",
+                "title": "Rosters for User: 808826565"
+              },
+              "userTags": {
+                "href": "/users/808826565/userTags",
+                "title": "UserTags for User: 808826565"
+              },
+              "votes": {
+                "href": "/users/808826565/votes",
+                "title": "Votes for User: 808826565"
+              },
+              "wishlist": {
+                "href": "/users/808826565/wishlist",
+                "title": "Wishlist for User: 808826565"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 618292,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxODI5MiJ9",
+        "sku": 283377806,
+        "title": "Master English Pronunciation | Exercises for Perfect Habits",
+        "project_title": "Each main group of examples in this course includes a \"Full Example\". The purpose of the full example is to put all the sounds and words we've been practicing together.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/56fb4f1b8f6be904e022c554c9681b17/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/56fb4f1b8f6be904e022c554c9681b17/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/56fb4f1b8f6be904e022c554c9681b17/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Master-English-Pronunciation-Exercises-for-Perfect-Habits/283377806",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 61,
+        "total_videos_duration": "9h 36m",
+        "total_videos_duration_seconds": 34577,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 239,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/283377806",
+            "title": "Master English Pronunciation | Exercises for Perfect Habits"
+          },
+          "teacher": {
+            "href": "/users/3361833",
+            "title": "Cloud English - Innovative English Courses"
+          },
+          "units": {
+            "href": "/classes/283377806/units",
+            "title": "Units for Class: 283377806"
+          },
+          "sessions": {
+            "href": "/classes/283377806/sessions",
+            "title": "Sessions for Class: 283377806"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/283377806/students",
+            "title": "Students for Class: 283377806"
+          },
+          "projects": {
+            "href": "/classes/283377806/projects",
+            "title": "Projects for Class: 283377806"
+          },
+          "reviews": {
+            "href": "/classes/283377806/reviews",
+            "title": "Reviews for Class: 283377806"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3262399,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzI2MjM5OSJ9",
+            "username": 3361833,
+            "first_name": "Cloud",
+            "last_name": "English",
+            "full_name": "Cloud English",
+            "vanity_username": "lukepriddy",
+            "headline": "Innovative English Courses",
+            "pic": "https://static.skillshare.com/uploads/users/3361833/user-image-medium.png?781516873",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3361833/user-image-small.png?490576329",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3361833/user-image-large.png?2085099178",
+            "_links": {
+              "self": {
+                "href": "/users/3361833",
+                "title": "Cloud English - Innovative English Courses"
+              },
+              "my_classes": {
+                "href": "/users/3361833/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3361833/completions",
+                "title": "Completions for User: 3361833"
+              },
+              "discussions": {
+                "href": "/users/3361833/discussions",
+                "title": "Discussions for User: 3361833"
+              },
+              "followers": {
+                "href": "/users/3361833/followers",
+                "title": "Followers for User: 3361833"
+              },
+              "following": {
+                "href": "/users/3361833/following",
+                "title": "Following for User: 3361833"
+              },
+              "notifications": {
+                "href": "/users/3361833/notifications",
+                "title": "Notifications for User: 3361833"
+              },
+              "projects": {
+                "href": "/users/3361833/projects",
+                "title": "Projects for User: 3361833"
+              },
+              "rosters": {
+                "href": "/users/3361833/rosters",
+                "title": "Rosters for User: 3361833"
+              },
+              "userTags": {
+                "href": "/users/3361833/userTags",
+                "title": "UserTags for User: 3361833"
+              },
+              "votes": {
+                "href": "/users/3361833/votes",
+                "title": "Votes for User: 3361833"
+              },
+              "wishlist": {
+                "href": "/users/3361833/wishlist",
+                "title": "Wishlist for User: 3361833"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 618303,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxODMwMyJ9",
+        "sku": 1274587450,
+        "title": "Sculpting Stylized Character Kratos In Zbrush",
+        "project_title": "Try using the skills learned in this course to make your own version of stylized Kratos, or Any Character that you can using the skills you learned in this course.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/352401277855043943fbd139d63daa29/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/352401277855043943fbd139d63daa29/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/352401277855043943fbd139d63daa29/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Sculpting-Stylized-Character-Kratos-In-Zbrush/1274587450",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 17,
+        "total_videos_duration": "5h 2m",
+        "total_videos_duration_seconds": 18098,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 37,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1274587450",
+            "title": "Sculpting Stylized Character Kratos In Zbrush"
+          },
+          "teacher": {
+            "href": "/users/1175978",
+            "title": "CGDEV STUDIO - CGARTIST"
+          },
+          "units": {
+            "href": "/classes/1274587450/units",
+            "title": "Units for Class: 1274587450"
+          },
+          "sessions": {
+            "href": "/classes/1274587450/sessions",
+            "title": "Sessions for Class: 1274587450"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1274587450/students",
+            "title": "Students for Class: 1274587450"
+          },
+          "projects": {
+            "href": "/classes/1274587450/projects",
+            "title": "Projects for Class: 1274587450"
+          },
+          "reviews": {
+            "href": "/classes/1274587450/reviews",
+            "title": "Reviews for Class: 1274587450"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9313627,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTMxMzYyNyJ9",
+            "username": 1175978,
+            "first_name": "CGDEV",
+            "last_name": "STUDIO",
+            "full_name": "CGDEV STUDIO",
+            "vanity_username": null,
+            "headline": "CGARTIST",
+            "pic": "https://static.skillshare.com/uploads/users/1175978/user-image-medium.png?1292050713",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1175978/user-image-small.png?8952571",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1175978/user-image-large.png?1593065781",
+            "_links": {
+              "self": {
+                "href": "/users/1175978",
+                "title": "CGDEV STUDIO - CGARTIST"
+              },
+              "my_classes": {
+                "href": "/users/1175978/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1175978/completions",
+                "title": "Completions for User: 1175978"
+              },
+              "discussions": {
+                "href": "/users/1175978/discussions",
+                "title": "Discussions for User: 1175978"
+              },
+              "followers": {
+                "href": "/users/1175978/followers",
+                "title": "Followers for User: 1175978"
+              },
+              "following": {
+                "href": "/users/1175978/following",
+                "title": "Following for User: 1175978"
+              },
+              "notifications": {
+                "href": "/users/1175978/notifications",
+                "title": "Notifications for User: 1175978"
+              },
+              "projects": {
+                "href": "/users/1175978/projects",
+                "title": "Projects for User: 1175978"
+              },
+              "rosters": {
+                "href": "/users/1175978/rosters",
+                "title": "Rosters for User: 1175978"
+              },
+              "userTags": {
+                "href": "/users/1175978/userTags",
+                "title": "UserTags for User: 1175978"
+              },
+              "votes": {
+                "href": "/users/1175978/votes",
+                "title": "Votes for User: 1175978"
+              },
+              "wishlist": {
+                "href": "/users/1175978/wishlist",
+                "title": "Wishlist for User: 1175978"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 618308,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxODMwOCJ9",
+        "sku": 777074273,
+        "title": "ChatGPT-to-Speech: How to Build an AI-Powered Podcast With Python",
+        "project_title": "Your class project is to create the program shown in the videos and share the output. This could be done in a couple of ways:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6efbe718461153a5aeb406074e77e0b7/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6efbe718461153a5aeb406074e77e0b7/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6efbe718461153a5aeb406074e77e0b7/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/ChatGPT-to-Speech-How-to-Build-an-AI-Powered-Podcast-With-Python/777074273",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "41m",
+        "total_videos_duration_seconds": 2488,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 163,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/777074273",
+            "title": "ChatGPT-to-Speech: How to Build an AI-Powered Podcast With Python"
+          },
+          "teacher": {
+            "href": "/users/349973785",
+            "title": "Daniel Davis - Making tech & photography easy"
+          },
+          "units": {
+            "href": "/classes/777074273/units",
+            "title": "Units for Class: 777074273"
+          },
+          "sessions": {
+            "href": "/classes/777074273/sessions",
+            "title": "Sessions for Class: 777074273"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/777074273/students",
+            "title": "Students for Class: 777074273"
+          },
+          "projects": {
+            "href": "/classes/777074273/projects",
+            "title": "Projects for Class: 777074273"
+          },
+          "reviews": {
+            "href": "/classes/777074273/reviews",
+            "title": "Reviews for Class: 777074273"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25699722,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjU2OTk3MjIifQ==",
+            "username": 349973785,
+            "first_name": "Daniel",
+            "last_name": "Davis",
+            "full_name": "Daniel Davis",
+            "vanity_username": null,
+            "headline": "Making tech & photography easy",
+            "pic": "https://static.skillshare.com/uploads/users/349973785/user-image-medium.jpg?491362157",
+            "pic_sm": "https://static.skillshare.com/uploads/users/349973785/user-image-small.jpg?1507487276",
+            "pic_lg": "https://static.skillshare.com/uploads/users/349973785/user-image-large.jpg?1773658894",
+            "_links": {
+              "self": {
+                "href": "/users/349973785",
+                "title": "Daniel Davis - Making tech & photography easy"
+              },
+              "my_classes": {
+                "href": "/users/349973785/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/349973785/completions",
+                "title": "Completions for User: 349973785"
+              },
+              "discussions": {
+                "href": "/users/349973785/discussions",
+                "title": "Discussions for User: 349973785"
+              },
+              "followers": {
+                "href": "/users/349973785/followers",
+                "title": "Followers for User: 349973785"
+              },
+              "following": {
+                "href": "/users/349973785/following",
+                "title": "Following for User: 349973785"
+              },
+              "notifications": {
+                "href": "/users/349973785/notifications",
+                "title": "Notifications for User: 349973785"
+              },
+              "projects": {
+                "href": "/users/349973785/projects",
+                "title": "Projects for User: 349973785"
+              },
+              "rosters": {
+                "href": "/users/349973785/rosters",
+                "title": "Rosters for User: 349973785"
+              },
+              "userTags": {
+                "href": "/users/349973785/userTags",
+                "title": "UserTags for User: 349973785"
+              },
+              "votes": {
+                "href": "/users/349973785/votes",
+                "title": "Votes for User: 349973785"
+              },
+              "wishlist": {
+                "href": "/users/349973785/wishlist",
+                "title": "Wishlist for User: 349973785"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 618321,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxODMyMSJ9",
+        "sku": 1113232516,
+        "title": "The Ultimate Testimonial Formula: Boost Your Business's Credibility & Sales",
+        "project_title": "For the class project, you will create a feedback flow for your business to help generate an endless stream of testimonials from your customers. This will help you boost your business's credibility an",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/cb6802ad82597a02762c9acfc877ea21/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/cb6802ad82597a02762c9acfc877ea21/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/cb6802ad82597a02762c9acfc877ea21/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-Ultimate-Testimonial-Formula-Boost-Your-Businesss-Credibility-Sales/1113232516",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "33m",
+        "total_videos_duration_seconds": 1952,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 8,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1113232516",
+            "title": "The Ultimate Testimonial Formula: Boost Your Business's Credibility & Sales"
+          },
+          "teacher": {
+            "href": "/users/610526708",
+            "title": "Alex Winkler - Consistency is king"
+          },
+          "units": {
+            "href": "/classes/1113232516/units",
+            "title": "Units for Class: 1113232516"
+          },
+          "sessions": {
+            "href": "/classes/1113232516/sessions",
+            "title": "Sessions for Class: 1113232516"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1113232516/students",
+            "title": "Students for Class: 1113232516"
+          },
+          "projects": {
+            "href": "/classes/1113232516/projects",
+            "title": "Projects for Class: 1113232516"
+          },
+          "reviews": {
+            "href": "/classes/1113232516/reviews",
+            "title": "Reviews for Class: 1113232516"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9714061,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTcxNDA2MSJ9",
+            "username": 610526708,
+            "first_name": "Alex",
+            "last_name": "Winkler",
+            "full_name": "Alex Winkler",
+            "vanity_username": "alexwinkler",
+            "headline": "Consistency is king",
+            "pic": "https://static.skillshare.com/uploads/users/610526708/user-image-medium.jpg?886840591",
+            "pic_sm": "https://static.skillshare.com/uploads/users/610526708/user-image-small.jpg?1180006403",
+            "pic_lg": "https://static.skillshare.com/uploads/users/610526708/user-image-large.jpg?1491027019",
+            "_links": {
+              "self": {
+                "href": "/users/610526708",
+                "title": "Alex Winkler - Consistency is king"
+              },
+              "my_classes": {
+                "href": "/users/610526708/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/610526708/completions",
+                "title": "Completions for User: 610526708"
+              },
+              "discussions": {
+                "href": "/users/610526708/discussions",
+                "title": "Discussions for User: 610526708"
+              },
+              "followers": {
+                "href": "/users/610526708/followers",
+                "title": "Followers for User: 610526708"
+              },
+              "following": {
+                "href": "/users/610526708/following",
+                "title": "Following for User: 610526708"
+              },
+              "notifications": {
+                "href": "/users/610526708/notifications",
+                "title": "Notifications for User: 610526708"
+              },
+              "projects": {
+                "href": "/users/610526708/projects",
+                "title": "Projects for User: 610526708"
+              },
+              "rosters": {
+                "href": "/users/610526708/rosters",
+                "title": "Rosters for User: 610526708"
+              },
+              "userTags": {
+                "href": "/users/610526708/userTags",
+                "title": "UserTags for User: 610526708"
+              },
+              "votes": {
+                "href": "/users/610526708/votes",
+                "title": "Votes for User: 610526708"
+              },
+              "wishlist": {
+                "href": "/users/610526708/wishlist",
+                "title": "Wishlist for User: 610526708"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 618327,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxODMyNyJ9",
+        "sku": 8660901,
+        "title": "Candid Photography Poses for Everyday Women: 10 Photo Ideas with Variations",
+        "project_title": "Choose one candid pose from this class and take a portrait photo of your friend. There are a few elements that are important when taking a stunning candid portrait photograph.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/58b84eb5677bee0aed9cf529d705f4ca/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/58b84eb5677bee0aed9cf529d705f4ca/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/58b84eb5677bee0aed9cf529d705f4ca/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Candid-Photography-Poses-for-Everyday-Women-10-Photo-Ideas-with-Variations/8660901",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "29m",
+        "total_videos_duration_seconds": 1741,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 170,
+        "num_projects": 6,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/8660901",
+            "title": "Candid Photography Poses for Everyday Women: 10 Photo Ideas with Variations"
+          },
+          "teacher": {
+            "href": "/users/343415107",
+            "title": "Klara Zamourilova - Photographer/Videographer"
+          },
+          "units": {
+            "href": "/classes/8660901/units",
+            "title": "Units for Class: 8660901"
+          },
+          "sessions": {
+            "href": "/classes/8660901/sessions",
+            "title": "Sessions for Class: 8660901"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/8660901/students",
+            "title": "Students for Class: 8660901"
+          },
+          "projects": {
+            "href": "/classes/8660901/projects",
+            "title": "Projects for Class: 8660901"
+          },
+          "reviews": {
+            "href": "/classes/8660901/reviews",
+            "title": "Reviews for Class: 8660901"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13842543,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTM4NDI1NDMifQ==",
+            "username": 343415107,
+            "first_name": "Klara",
+            "last_name": "Zamourilova",
+            "full_name": "Klara Zamourilova",
+            "vanity_username": null,
+            "headline": "Photographer/Videographer",
+            "pic": "https://static.skillshare.com/uploads/users/343415107/user-image-medium.jpg?285532828",
+            "pic_sm": "https://static.skillshare.com/uploads/users/343415107/user-image-small.jpg?189587383",
+            "pic_lg": "https://static.skillshare.com/uploads/users/343415107/user-image-large.jpg?907053920",
+            "_links": {
+              "self": {
+                "href": "/users/343415107",
+                "title": "Klara Zamourilova - Photographer/Videographer"
+              },
+              "my_classes": {
+                "href": "/users/343415107/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/343415107/completions",
+                "title": "Completions for User: 343415107"
+              },
+              "discussions": {
+                "href": "/users/343415107/discussions",
+                "title": "Discussions for User: 343415107"
+              },
+              "followers": {
+                "href": "/users/343415107/followers",
+                "title": "Followers for User: 343415107"
+              },
+              "following": {
+                "href": "/users/343415107/following",
+                "title": "Following for User: 343415107"
+              },
+              "notifications": {
+                "href": "/users/343415107/notifications",
+                "title": "Notifications for User: 343415107"
+              },
+              "projects": {
+                "href": "/users/343415107/projects",
+                "title": "Projects for User: 343415107"
+              },
+              "rosters": {
+                "href": "/users/343415107/rosters",
+                "title": "Rosters for User: 343415107"
+              },
+              "userTags": {
+                "href": "/users/343415107/userTags",
+                "title": "UserTags for User: 343415107"
+              },
+              "votes": {
+                "href": "/users/343415107/votes",
+                "title": "Votes for User: 343415107"
+              },
+              "wishlist": {
+                "href": "/users/343415107/wishlist",
+                "title": "Wishlist for User: 343415107"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 618332,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxODMzMiJ9",
+        "sku": 385467617,
+        "title": "Learn To Become More Consistent With Your Art",
+        "project_title": "The project for this class is to create a visual tool to help you track your progress, to stick to your goal, to help you stay motivated, organized and disciplined.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/64184c191f851d3c8805abfc372e80f3/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/64184c191f851d3c8805abfc372e80f3/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/64184c191f851d3c8805abfc372e80f3/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-To-Become-More-Consistent-With-Your-Art/385467617",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "39m",
+        "total_videos_duration_seconds": 2331,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 389,
+        "num_projects": 36,
+        "num_discussions": 6,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/385467617",
+            "title": "Learn To Become More Consistent With Your Art"
+          },
+          "teacher": {
+            "href": "/users/6832149",
+            "title": "The Artmother - Professional Art Teacher and Artist"
+          },
+          "units": {
+            "href": "/classes/385467617/units",
+            "title": "Units for Class: 385467617"
+          },
+          "sessions": {
+            "href": "/classes/385467617/sessions",
+            "title": "Sessions for Class: 385467617"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/385467617/students",
+            "title": "Students for Class: 385467617"
+          },
+          "projects": {
+            "href": "/classes/385467617/projects",
+            "title": "Projects for Class: 385467617"
+          },
+          "reviews": {
+            "href": "/classes/385467617/reviews",
+            "title": "Reviews for Class: 385467617"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2506334,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUwNjMzNCJ9",
+            "username": 6832149,
+            "first_name": "The",
+            "last_name": "Artmother",
+            "full_name": "The Artmother",
+            "vanity_username": "theartmother",
+            "headline": "Professional Art Teacher and Artist",
+            "pic": "https://static.skillshare.com/uploads/users/6832149/user-image-medium.jpg?1876499911",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6832149/user-image-small.jpg?1234018740",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6832149/user-image-large.jpg?403321175",
+            "_links": {
+              "self": {
+                "href": "/users/6832149",
+                "title": "The Artmother - Professional Art Teacher and Artist"
+              },
+              "my_classes": {
+                "href": "/users/6832149/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6832149/completions",
+                "title": "Completions for User: 6832149"
+              },
+              "discussions": {
+                "href": "/users/6832149/discussions",
+                "title": "Discussions for User: 6832149"
+              },
+              "followers": {
+                "href": "/users/6832149/followers",
+                "title": "Followers for User: 6832149"
+              },
+              "following": {
+                "href": "/users/6832149/following",
+                "title": "Following for User: 6832149"
+              },
+              "notifications": {
+                "href": "/users/6832149/notifications",
+                "title": "Notifications for User: 6832149"
+              },
+              "projects": {
+                "href": "/users/6832149/projects",
+                "title": "Projects for User: 6832149"
+              },
+              "rosters": {
+                "href": "/users/6832149/rosters",
+                "title": "Rosters for User: 6832149"
+              },
+              "userTags": {
+                "href": "/users/6832149/userTags",
+                "title": "UserTags for User: 6832149"
+              },
+              "votes": {
+                "href": "/users/6832149/votes",
+                "title": "Votes for User: 6832149"
+              },
+              "wishlist": {
+                "href": "/users/6832149/wishlist",
+                "title": "Wishlist for User: 6832149"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

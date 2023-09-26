@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=2752",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=2751",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=2753",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 537305,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNzMwNSJ9",
+        "sku": 1276422320,
+        "title": "How to Learn Any Skill FAST: Workshop For Skill Learning (it's fun!)",
+        "project_title": "Thank you very much for going through the workshop and completing the practice! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b2913e7f16bbfd8399543c649b7d0e31/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b2913e7f16bbfd8399543c649b7d0e31/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b2913e7f16bbfd8399543c649b7d0e31/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Learn-Any-Skill-FAST-Workshop-For-Skill-Learning-its-fun/1276422320",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "1h 8m",
+        "total_videos_duration_seconds": 4090,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 415,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 3, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1276422320",
+            "title": "How to Learn Any Skill FAST: Workshop For Skill Learning (it's fun!)"
+          },
+          "teacher": {
+            "href": "/users/5081215",
+            "title": "Filipa Canelas - Content Strategist & Content Creator"
+          },
+          "units": {
+            "href": "/classes/1276422320/units",
+            "title": "Units for Class: 1276422320"
+          },
+          "sessions": {
+            "href": "/classes/1276422320/sessions",
+            "title": "Sessions for Class: 1276422320"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1276422320/students",
+            "title": "Students for Class: 1276422320"
+          },
+          "projects": {
+            "href": "/classes/1276422320/projects",
+            "title": "Projects for Class: 1276422320"
+          },
+          "reviews": {
+            "href": "/classes/1276422320/reviews",
+            "title": "Reviews for Class: 1276422320"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2335331,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjMzNTMzMSJ9",
+            "username": 5081215,
+            "first_name": "Filipa",
+            "last_name": "Canelas",
+            "full_name": "Filipa Canelas",
+            "vanity_username": "filipacanelas",
+            "headline": "Content Strategist & Content Creator",
+            "pic": "https://static.skillshare.com/uploads/users/5081215/user-image-medium.png?941860206",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5081215/user-image-small.png?205630504",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5081215/user-image-large.png?1448514309",
+            "_links": {
+              "self": {
+                "href": "/users/5081215",
+                "title": "Filipa Canelas - Content Strategist & Content Creator"
+              },
+              "my_classes": {
+                "href": "/users/5081215/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5081215/completions",
+                "title": "Completions for User: 5081215"
+              },
+              "discussions": {
+                "href": "/users/5081215/discussions",
+                "title": "Discussions for User: 5081215"
+              },
+              "followers": {
+                "href": "/users/5081215/followers",
+                "title": "Followers for User: 5081215"
+              },
+              "following": {
+                "href": "/users/5081215/following",
+                "title": "Following for User: 5081215"
+              },
+              "notifications": {
+                "href": "/users/5081215/notifications",
+                "title": "Notifications for User: 5081215"
+              },
+              "projects": {
+                "href": "/users/5081215/projects",
+                "title": "Projects for User: 5081215"
+              },
+              "rosters": {
+                "href": "/users/5081215/rosters",
+                "title": "Rosters for User: 5081215"
+              },
+              "userTags": {
+                "href": "/users/5081215/userTags",
+                "title": "UserTags for User: 5081215"
+              },
+              "votes": {
+                "href": "/users/5081215/votes",
+                "title": "Votes for User: 5081215"
+              },
+              "wishlist": {
+                "href": "/users/5081215/wishlist",
+                "title": "Wishlist for User: 5081215"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 537316,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNzMxNiJ9",
+        "sku": 1458720445,
+        "title": "Email Marketing & Drip Campaigns [Platforms & Winning Strategies]",
+        "project_title": "Set up your own email drip campaign that starts after a prospect opts-in.  Include:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/4f1643613287eaff8a98692ab63d8609/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/4f1643613287eaff8a98692ab63d8609/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/4f1643613287eaff8a98692ab63d8609/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Email-Marketing-Drip-Campaigns-Platforms-Winning-Strategies/1458720445",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "40m",
+        "total_videos_duration_seconds": 2412,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 31,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 1, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1458720445",
+            "title": "Email Marketing & Drip Campaigns [Platforms & Winning Strategies]"
+          },
+          "teacher": {
+            "href": "/users/315098042",
+            "title": "Adrian Hallberg - Digital Marketing CMO"
+          },
+          "units": {
+            "href": "/classes/1458720445/units",
+            "title": "Units for Class: 1458720445"
+          },
+          "sessions": {
+            "href": "/classes/1458720445/sessions",
+            "title": "Sessions for Class: 1458720445"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1458720445/students",
+            "title": "Students for Class: 1458720445"
+          },
+          "projects": {
+            "href": "/classes/1458720445/projects",
+            "title": "Projects for Class: 1458720445"
+          },
+          "reviews": {
+            "href": "/classes/1458720445/reviews",
+            "title": "Reviews for Class: 1458720445"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18217553,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTgyMTc1NTMifQ==",
+            "username": 315098042,
+            "first_name": "Adrian",
+            "last_name": "Hallberg",
+            "full_name": "Adrian Hallberg",
+            "vanity_username": null,
+            "headline": "Digital Marketing CMO",
+            "pic": "https://static.skillshare.com/uploads/users/315098042/user-image-medium.jpg?1421196471",
+            "pic_sm": "https://static.skillshare.com/uploads/users/315098042/user-image-small.jpg?955272104",
+            "pic_lg": "https://static.skillshare.com/uploads/users/315098042/user-image-large.jpg?975310075",
+            "_links": {
+              "self": {
+                "href": "/users/315098042",
+                "title": "Adrian Hallberg - Digital Marketing CMO"
+              },
+              "my_classes": {
+                "href": "/users/315098042/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/315098042/completions",
+                "title": "Completions for User: 315098042"
+              },
+              "discussions": {
+                "href": "/users/315098042/discussions",
+                "title": "Discussions for User: 315098042"
+              },
+              "followers": {
+                "href": "/users/315098042/followers",
+                "title": "Followers for User: 315098042"
+              },
+              "following": {
+                "href": "/users/315098042/following",
+                "title": "Following for User: 315098042"
+              },
+              "notifications": {
+                "href": "/users/315098042/notifications",
+                "title": "Notifications for User: 315098042"
+              },
+              "projects": {
+                "href": "/users/315098042/projects",
+                "title": "Projects for User: 315098042"
+              },
+              "rosters": {
+                "href": "/users/315098042/rosters",
+                "title": "Rosters for User: 315098042"
+              },
+              "userTags": {
+                "href": "/users/315098042/userTags",
+                "title": "UserTags for User: 315098042"
+              },
+              "votes": {
+                "href": "/users/315098042/votes",
+                "title": "Votes for User: 315098042"
+              },
+              "wishlist": {
+                "href": "/users/315098042/wishlist",
+                "title": "Wishlist for User: 315098042"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 537319,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNzMxOSJ9",
+        "sku": 1607093187,
+        "title": "The Modern Photogram: A New Way to Play with the Oldest Photographic Technique.",
+        "project_title": "Your project for this class will be to set up your Modern Photogram set and create some photogram images using your camera or phone.   You can then refine and adjust them in Photos, Lightroom, Photosh",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/38a17c728f080bebb16b91b3c35d5c76/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/38a17c728f080bebb16b91b3c35d5c76/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/38a17c728f080bebb16b91b3c35d5c76/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-Modern-Photogram-A-New-Way-to-Play-with-the-Oldest-Photographic-Technique/1607093187",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "56m",
+        "total_videos_duration_seconds": 3365,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 241,
+        "num_projects": 3,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 6, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1607093187",
+            "title": "The Modern Photogram: A New Way to Play with the Oldest Photographic Technique."
+          },
+          "teacher": {
+            "href": "/users/37097784",
+            "title": "Rob Davidson - Food Photographer and  Videographer"
+          },
+          "units": {
+            "href": "/classes/1607093187/units",
+            "title": "Units for Class: 1607093187"
+          },
+          "sessions": {
+            "href": "/classes/1607093187/sessions",
+            "title": "Sessions for Class: 1607093187"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1607093187/students",
+            "title": "Students for Class: 1607093187"
+          },
+          "projects": {
+            "href": "/classes/1607093187/projects",
+            "title": "Projects for Class: 1607093187"
+          },
+          "reviews": {
+            "href": "/classes/1607093187/reviews",
+            "title": "Reviews for Class: 1607093187"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 14012610,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTQwMTI2MTAifQ==",
+            "username": 37097784,
+            "first_name": "Rob",
+            "last_name": "Davidson",
+            "full_name": "Rob Davidson",
+            "vanity_username": null,
+            "headline": "Food Photographer and  Videographer",
+            "pic": "https://static.skillshare.com/uploads/users/37097784/user-image-medium.jpg?54502941",
+            "pic_sm": "https://static.skillshare.com/uploads/users/37097784/user-image-small.jpg?1787301302",
+            "pic_lg": "https://static.skillshare.com/uploads/users/37097784/user-image-large.jpg?1030358737",
+            "_links": {
+              "self": {
+                "href": "/users/37097784",
+                "title": "Rob Davidson - Food Photographer and  Videographer"
+              },
+              "my_classes": {
+                "href": "/users/37097784/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/37097784/completions",
+                "title": "Completions for User: 37097784"
+              },
+              "discussions": {
+                "href": "/users/37097784/discussions",
+                "title": "Discussions for User: 37097784"
+              },
+              "followers": {
+                "href": "/users/37097784/followers",
+                "title": "Followers for User: 37097784"
+              },
+              "following": {
+                "href": "/users/37097784/following",
+                "title": "Following for User: 37097784"
+              },
+              "notifications": {
+                "href": "/users/37097784/notifications",
+                "title": "Notifications for User: 37097784"
+              },
+              "projects": {
+                "href": "/users/37097784/projects",
+                "title": "Projects for User: 37097784"
+              },
+              "rosters": {
+                "href": "/users/37097784/rosters",
+                "title": "Rosters for User: 37097784"
+              },
+              "userTags": {
+                "href": "/users/37097784/userTags",
+                "title": "UserTags for User: 37097784"
+              },
+              "votes": {
+                "href": "/users/37097784/votes",
+                "title": "Votes for User: 37097784"
+              },
+              "wishlist": {
+                "href": "/users/37097784/wishlist",
+                "title": "Wishlist for User: 37097784"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 537322,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNzMyMiJ9",
+        "sku": 1597314154,
+        "title": "How To Build A Landing Page [High Converting - Fill A Funnel]",
+        "project_title": "Find some tools and a website to practice making your own landing page to use in a marketing campaign.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/de057f88db77d018e7c108918506a392/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/de057f88db77d018e7c108918506a392/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/de057f88db77d018e7c108918506a392/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Build-A-Landing-Page-High-Converting-Fill-A-Funnel/1597314154",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "37m",
+        "total_videos_duration_seconds": 2226,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 111,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 2, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1597314154",
+            "title": "How To Build A Landing Page [High Converting - Fill A Funnel]"
+          },
+          "teacher": {
+            "href": "/users/315098042",
+            "title": "Adrian Hallberg - Digital Marketing CMO"
+          },
+          "units": {
+            "href": "/classes/1597314154/units",
+            "title": "Units for Class: 1597314154"
+          },
+          "sessions": {
+            "href": "/classes/1597314154/sessions",
+            "title": "Sessions for Class: 1597314154"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1597314154/students",
+            "title": "Students for Class: 1597314154"
+          },
+          "projects": {
+            "href": "/classes/1597314154/projects",
+            "title": "Projects for Class: 1597314154"
+          },
+          "reviews": {
+            "href": "/classes/1597314154/reviews",
+            "title": "Reviews for Class: 1597314154"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18217553,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTgyMTc1NTMifQ==",
+            "username": 315098042,
+            "first_name": "Adrian",
+            "last_name": "Hallberg",
+            "full_name": "Adrian Hallberg",
+            "vanity_username": null,
+            "headline": "Digital Marketing CMO",
+            "pic": "https://static.skillshare.com/uploads/users/315098042/user-image-medium.jpg?1421196471",
+            "pic_sm": "https://static.skillshare.com/uploads/users/315098042/user-image-small.jpg?955272104",
+            "pic_lg": "https://static.skillshare.com/uploads/users/315098042/user-image-large.jpg?975310075",
+            "_links": {
+              "self": {
+                "href": "/users/315098042",
+                "title": "Adrian Hallberg - Digital Marketing CMO"
+              },
+              "my_classes": {
+                "href": "/users/315098042/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/315098042/completions",
+                "title": "Completions for User: 315098042"
+              },
+              "discussions": {
+                "href": "/users/315098042/discussions",
+                "title": "Discussions for User: 315098042"
+              },
+              "followers": {
+                "href": "/users/315098042/followers",
+                "title": "Followers for User: 315098042"
+              },
+              "following": {
+                "href": "/users/315098042/following",
+                "title": "Following for User: 315098042"
+              },
+              "notifications": {
+                "href": "/users/315098042/notifications",
+                "title": "Notifications for User: 315098042"
+              },
+              "projects": {
+                "href": "/users/315098042/projects",
+                "title": "Projects for User: 315098042"
+              },
+              "rosters": {
+                "href": "/users/315098042/rosters",
+                "title": "Rosters for User: 315098042"
+              },
+              "userTags": {
+                "href": "/users/315098042/userTags",
+                "title": "UserTags for User: 315098042"
+              },
+              "votes": {
+                "href": "/users/315098042/votes",
+                "title": "Votes for User: 315098042"
+              },
+              "wishlist": {
+                "href": "/users/315098042/wishlist",
+                "title": "Wishlist for User: 315098042"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 537328,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNzMyOCJ9",
+        "sku": 1545490453,
+        "title": "How To Build A Marketing Funnel In 2023 (Get Customers On Autopilot)",
+        "project_title": "Setup your own marketing campaign. Use your website to create a funnel to market some service or product.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c09492008da3aa47c724347faa13fd35/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c09492008da3aa47c724347faa13fd35/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c09492008da3aa47c724347faa13fd35/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Build-A-Marketing-Funnel-In-2023-Get-Customers-On-Autopilot/1545490453",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "2h 48m",
+        "total_videos_duration_seconds": 10050,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 150,
+        "num_projects": 1,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 2, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1545490453",
+            "title": "How To Build A Marketing Funnel In 2023 (Get Customers On Autopilot)"
+          },
+          "teacher": {
+            "href": "/users/315098042",
+            "title": "Adrian Hallberg - Digital Marketing CMO"
+          },
+          "units": {
+            "href": "/classes/1545490453/units",
+            "title": "Units for Class: 1545490453"
+          },
+          "sessions": {
+            "href": "/classes/1545490453/sessions",
+            "title": "Sessions for Class: 1545490453"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1545490453/students",
+            "title": "Students for Class: 1545490453"
+          },
+          "projects": {
+            "href": "/classes/1545490453/projects",
+            "title": "Projects for Class: 1545490453"
+          },
+          "reviews": {
+            "href": "/classes/1545490453/reviews",
+            "title": "Reviews for Class: 1545490453"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18217553,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTgyMTc1NTMifQ==",
+            "username": 315098042,
+            "first_name": "Adrian",
+            "last_name": "Hallberg",
+            "full_name": "Adrian Hallberg",
+            "vanity_username": null,
+            "headline": "Digital Marketing CMO",
+            "pic": "https://static.skillshare.com/uploads/users/315098042/user-image-medium.jpg?1421196471",
+            "pic_sm": "https://static.skillshare.com/uploads/users/315098042/user-image-small.jpg?955272104",
+            "pic_lg": "https://static.skillshare.com/uploads/users/315098042/user-image-large.jpg?975310075",
+            "_links": {
+              "self": {
+                "href": "/users/315098042",
+                "title": "Adrian Hallberg - Digital Marketing CMO"
+              },
+              "my_classes": {
+                "href": "/users/315098042/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/315098042/completions",
+                "title": "Completions for User: 315098042"
+              },
+              "discussions": {
+                "href": "/users/315098042/discussions",
+                "title": "Discussions for User: 315098042"
+              },
+              "followers": {
+                "href": "/users/315098042/followers",
+                "title": "Followers for User: 315098042"
+              },
+              "following": {
+                "href": "/users/315098042/following",
+                "title": "Following for User: 315098042"
+              },
+              "notifications": {
+                "href": "/users/315098042/notifications",
+                "title": "Notifications for User: 315098042"
+              },
+              "projects": {
+                "href": "/users/315098042/projects",
+                "title": "Projects for User: 315098042"
+              },
+              "rosters": {
+                "href": "/users/315098042/rosters",
+                "title": "Rosters for User: 315098042"
+              },
+              "userTags": {
+                "href": "/users/315098042/userTags",
+                "title": "UserTags for User: 315098042"
+              },
+              "votes": {
+                "href": "/users/315098042/votes",
+                "title": "Votes for User: 315098042"
+              },
+              "wishlist": {
+                "href": "/users/315098042/wishlist",
+                "title": "Wishlist for User: 315098042"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 537344,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNzM0NCJ9",
+        "sku": 1145615774,
+        "title": "Webflow for Beginners: Design Your Portfolio Site",
+        "project_title": "Build your own portfolio website",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d4da794b4a8c8e3de0d17fc331a4db56/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d4da794b4a8c8e3de0d17fc331a4db56/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d4da794b4a8c8e3de0d17fc331a4db56/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Webflow-for-Beginners-Design-Your-Portfolio-Site/1145615774",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 20,
+        "total_videos_duration": "2h 11m",
+        "total_videos_duration_seconds": 7888,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1943,
+        "num_projects": 5,
+        "num_discussions": 8,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 25, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1145615774",
+            "title": "Webflow for Beginners: Design Your Portfolio Site"
+          },
+          "teacher": {
+            "href": "/users/9601283",
+            "title": "Jeremy Mura - Graphic & Brand Designer, Youtuber"
+          },
+          "units": {
+            "href": "/classes/1145615774/units",
+            "title": "Units for Class: 1145615774"
+          },
+          "sessions": {
+            "href": "/classes/1145615774/sessions",
+            "title": "Sessions for Class: 1145615774"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1145615774/students",
+            "title": "Students for Class: 1145615774"
+          },
+          "projects": {
+            "href": "/classes/1145615774/projects",
+            "title": "Projects for Class: 1145615774"
+          },
+          "reviews": {
+            "href": "/classes/1145615774/reviews",
+            "title": "Reviews for Class: 1145615774"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1600830,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTYwMDgzMCJ9",
+            "username": 9601283,
+            "first_name": "Jeremy",
+            "last_name": "Mura",
+            "full_name": "Jeremy Mura",
+            "vanity_username": "jeremymura",
+            "headline": "Graphic & Brand Designer, Youtuber",
+            "pic": "https://static.skillshare.com/uploads/users/9601283/user-image-medium.jpg?96701960",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9601283/user-image-small.jpg?1017958422",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9601283/user-image-large.jpg?1275465833",
+            "_links": {
+              "self": {
+                "href": "/users/9601283",
+                "title": "Jeremy Mura - Graphic & Brand Designer, Youtuber"
+              },
+              "my_classes": {
+                "href": "/users/9601283/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9601283/completions",
+                "title": "Completions for User: 9601283"
+              },
+              "discussions": {
+                "href": "/users/9601283/discussions",
+                "title": "Discussions for User: 9601283"
+              },
+              "followers": {
+                "href": "/users/9601283/followers",
+                "title": "Followers for User: 9601283"
+              },
+              "following": {
+                "href": "/users/9601283/following",
+                "title": "Following for User: 9601283"
+              },
+              "notifications": {
+                "href": "/users/9601283/notifications",
+                "title": "Notifications for User: 9601283"
+              },
+              "projects": {
+                "href": "/users/9601283/projects",
+                "title": "Projects for User: 9601283"
+              },
+              "rosters": {
+                "href": "/users/9601283/rosters",
+                "title": "Rosters for User: 9601283"
+              },
+              "userTags": {
+                "href": "/users/9601283/userTags",
+                "title": "UserTags for User: 9601283"
+              },
+              "votes": {
+                "href": "/users/9601283/votes",
+                "title": "Votes for User: 9601283"
+              },
+              "wishlist": {
+                "href": "/users/9601283/wishlist",
+                "title": "Wishlist for User: 9601283"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 537356,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNzM1NiJ9",
+        "sku": 1711138236,
+        "title": "Arduino for absolute beginners - Hands on project based learning",
+        "project_title": "Assignment :",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c0ca5229f8e3833334be79557b3f456f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c0ca5229f8e3833334be79557b3f456f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c0ca5229f8e3833334be79557b3f456f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Arduino-for-absolute-beginners-Hands-on-project-based-learning/1711138236",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "1h 23m",
+        "total_videos_duration_seconds": 5005,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 375,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 10, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1711138236",
+            "title": "Arduino for absolute beginners - Hands on project based learning"
+          },
+          "teacher": {
+            "href": "/users/187423874",
+            "title": "Jatin Kumar Pawar - IG Marketing & Growth | Maker | Engineer"
+          },
+          "units": {
+            "href": "/classes/1711138236/units",
+            "title": "Units for Class: 1711138236"
+          },
+          "sessions": {
+            "href": "/classes/1711138236/sessions",
+            "title": "Sessions for Class: 1711138236"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1711138236/students",
+            "title": "Students for Class: 1711138236"
+          },
+          "projects": {
+            "href": "/classes/1711138236/projects",
+            "title": "Projects for Class: 1711138236"
+          },
+          "reviews": {
+            "href": "/classes/1711138236/reviews",
+            "title": "Reviews for Class: 1711138236"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 22731527,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjI3MzE1MjcifQ==",
+            "username": 187423874,
+            "first_name": "Jatin Kumar",
+            "last_name": "Pawar",
+            "full_name": "Jatin Kumar Pawar",
+            "vanity_username": null,
+            "headline": "IG Marketing & Growth | Maker | Engineer",
+            "pic": "https://static.skillshare.com/uploads/users/187423874/user-image-medium.jpg?571432770",
+            "pic_sm": "https://static.skillshare.com/uploads/users/187423874/user-image-small.jpg?1781766812",
+            "pic_lg": "https://static.skillshare.com/uploads/users/187423874/user-image-large.jpg?1671947855",
+            "_links": {
+              "self": {
+                "href": "/users/187423874",
+                "title": "Jatin Kumar Pawar - IG Marketing & Growth | Maker | Engineer"
+              },
+              "my_classes": {
+                "href": "/users/187423874/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/187423874/completions",
+                "title": "Completions for User: 187423874"
+              },
+              "discussions": {
+                "href": "/users/187423874/discussions",
+                "title": "Discussions for User: 187423874"
+              },
+              "followers": {
+                "href": "/users/187423874/followers",
+                "title": "Followers for User: 187423874"
+              },
+              "following": {
+                "href": "/users/187423874/following",
+                "title": "Following for User: 187423874"
+              },
+              "notifications": {
+                "href": "/users/187423874/notifications",
+                "title": "Notifications for User: 187423874"
+              },
+              "projects": {
+                "href": "/users/187423874/projects",
+                "title": "Projects for User: 187423874"
+              },
+              "rosters": {
+                "href": "/users/187423874/rosters",
+                "title": "Rosters for User: 187423874"
+              },
+              "userTags": {
+                "href": "/users/187423874/userTags",
+                "title": "UserTags for User: 187423874"
+              },
+              "votes": {
+                "href": "/users/187423874/votes",
+                "title": "Votes for User: 187423874"
+              },
+              "wishlist": {
+                "href": "/users/187423874/wishlist",
+                "title": "Wishlist for User: 187423874"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 537361,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNzM2MSJ9",
+        "sku": 1135509954,
+        "title": "Loose Watercolor Landscape in Procreate - Painting Pine Trees with Digital Brushes",
+        "project_title": "Assignment:You class project will be next: paint a landscape, using the tips and brushes that I gave you today.\nMaterials:\nI will use Procreate for this class with IPad and Apple Pencil. So if you hav",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/84bfb077e22ca391418cc9e26aa0e6b8/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/84bfb077e22ca391418cc9e26aa0e6b8/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/84bfb077e22ca391418cc9e26aa0e6b8/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Loose-Watercolor-Landscape-in-Procreate-Painting-Pine-Trees-with-Digital-Brushes/1135509954",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "55m",
+        "total_videos_duration_seconds": 3274,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 240,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 5, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1135509954",
+            "title": "Loose Watercolor Landscape in Procreate - Painting Pine Trees with Digital Brushes"
+          },
+          "teacher": {
+            "href": "/users/4332344",
+            "title": "Inga Yoon - Digital illustrator and teacher"
+          },
+          "units": {
+            "href": "/classes/1135509954/units",
+            "title": "Units for Class: 1135509954"
+          },
+          "sessions": {
+            "href": "/classes/1135509954/sessions",
+            "title": "Sessions for Class: 1135509954"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1135509954/students",
+            "title": "Students for Class: 1135509954"
+          },
+          "projects": {
+            "href": "/classes/1135509954/projects",
+            "title": "Projects for Class: 1135509954"
+          },
+          "reviews": {
+            "href": "/classes/1135509954/reviews",
+            "title": "Reviews for Class: 1135509954"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5830850,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTgzMDg1MCJ9",
+            "username": 4332344,
+            "first_name": "Inga",
+            "last_name": "Yoon",
+            "full_name": "Inga Yoon",
+            "vanity_username": "boostudio",
+            "headline": "Digital illustrator and teacher",
+            "pic": "https://static.skillshare.com/uploads/users/4332344/user-image-medium.jpg?327907131",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4332344/user-image-small.jpg?605342192",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4332344/user-image-large.jpg?250087107",
+            "_links": {
+              "self": {
+                "href": "/users/4332344",
+                "title": "Inga Yoon - Digital illustrator and teacher"
+              },
+              "my_classes": {
+                "href": "/users/4332344/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4332344/completions",
+                "title": "Completions for User: 4332344"
+              },
+              "discussions": {
+                "href": "/users/4332344/discussions",
+                "title": "Discussions for User: 4332344"
+              },
+              "followers": {
+                "href": "/users/4332344/followers",
+                "title": "Followers for User: 4332344"
+              },
+              "following": {
+                "href": "/users/4332344/following",
+                "title": "Following for User: 4332344"
+              },
+              "notifications": {
+                "href": "/users/4332344/notifications",
+                "title": "Notifications for User: 4332344"
+              },
+              "projects": {
+                "href": "/users/4332344/projects",
+                "title": "Projects for User: 4332344"
+              },
+              "rosters": {
+                "href": "/users/4332344/rosters",
+                "title": "Rosters for User: 4332344"
+              },
+              "userTags": {
+                "href": "/users/4332344/userTags",
+                "title": "UserTags for User: 4332344"
+              },
+              "votes": {
+                "href": "/users/4332344/votes",
+                "title": "Votes for User: 4332344"
+              },
+              "wishlist": {
+                "href": "/users/4332344/wishlist",
+                "title": "Wishlist for User: 4332344"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 537421,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNzQyMSJ9",
+        "sku": 1698587947,
+        "title": "VidIQ Masterclass - Full Guide to YouTube Keyword & Management Tool",
+        "project_title": "Congratulations on your class completion (if not, please complete the class first!).",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d51bce31a47e858a0c759d23998ecf36/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d51bce31a47e858a0c759d23998ecf36/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d51bce31a47e858a0c759d23998ecf36/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/VidIQ-Masterclass-Full-Guide-to-YouTube-Keyword-Management-Tool/1698587947",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "1h 39m",
+        "total_videos_duration_seconds": 5941,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 405,
+        "num_projects": 2,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 2, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1698587947",
+            "title": "VidIQ Masterclass - Full Guide to YouTube Keyword & Management Tool"
+          },
+          "teacher": {
+            "href": "/users/7892224",
+            "title": "Nick Nyxson - YouTuber & Content Creator "
+          },
+          "units": {
+            "href": "/classes/1698587947/units",
+            "title": "Units for Class: 1698587947"
+          },
+          "sessions": {
+            "href": "/classes/1698587947/sessions",
+            "title": "Sessions for Class: 1698587947"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1698587947/students",
+            "title": "Students for Class: 1698587947"
+          },
+          "projects": {
+            "href": "/classes/1698587947/projects",
+            "title": "Projects for Class: 1698587947"
+          },
+          "reviews": {
+            "href": "/classes/1698587947/reviews",
+            "title": "Reviews for Class: 1698587947"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8747262,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODc0NzI2MiJ9",
+            "username": 7892224,
+            "first_name": "Nick",
+            "last_name": "Nyxson",
+            "full_name": "Nick Nyxson",
+            "vanity_username": "nicknyxson",
+            "headline": "YouTuber & Content Creator ",
+            "pic": "https://static.skillshare.com/uploads/users/7892224/user-image-medium.jpg?134908562",
+            "pic_sm": "https://static.skillshare.com/uploads/users/7892224/user-image-small.jpg?392603549",
+            "pic_lg": "https://static.skillshare.com/uploads/users/7892224/user-image-large.jpg?1222058370",
+            "_links": {
+              "self": {
+                "href": "/users/7892224",
+                "title": "Nick Nyxson - YouTuber & Content Creator "
+              },
+              "my_classes": {
+                "href": "/users/7892224/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/7892224/completions",
+                "title": "Completions for User: 7892224"
+              },
+              "discussions": {
+                "href": "/users/7892224/discussions",
+                "title": "Discussions for User: 7892224"
+              },
+              "followers": {
+                "href": "/users/7892224/followers",
+                "title": "Followers for User: 7892224"
+              },
+              "following": {
+                "href": "/users/7892224/following",
+                "title": "Following for User: 7892224"
+              },
+              "notifications": {
+                "href": "/users/7892224/notifications",
+                "title": "Notifications for User: 7892224"
+              },
+              "projects": {
+                "href": "/users/7892224/projects",
+                "title": "Projects for User: 7892224"
+              },
+              "rosters": {
+                "href": "/users/7892224/rosters",
+                "title": "Rosters for User: 7892224"
+              },
+              "userTags": {
+                "href": "/users/7892224/userTags",
+                "title": "UserTags for User: 7892224"
+              },
+              "votes": {
+                "href": "/users/7892224/votes",
+                "title": "Votes for User: 7892224"
+              },
+              "wishlist": {
+                "href": "/users/7892224/wishlist",
+                "title": "Wishlist for User: 7892224"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 537453,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNzQ1MyJ9",
+        "sku": 881588170,
+        "title": "Watercolor Still Life Painting: Grapes",
+        "project_title": "For this class, you will be able to paint a beautiful watercolor artwork of still life, specifically, grapes on linen.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/75cc3ddd8437f87f996351e15343c879/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/75cc3ddd8437f87f996351e15343c879/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/75cc3ddd8437f87f996351e15343c879/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolor-Still-Life-Painting-Grapes/881588170",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 16,
+        "total_videos_duration": "2h 38m",
+        "total_videos_duration_seconds": 9507,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 242,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 15, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/881588170",
+            "title": "Watercolor Still Life Painting: Grapes"
+          },
+          "teacher": {
+            "href": "/users/5482840",
+            "title": "Michelle Gonzalez - Relax with Watercolor"
+          },
+          "units": {
+            "href": "/classes/881588170/units",
+            "title": "Units for Class: 881588170"
+          },
+          "sessions": {
+            "href": "/classes/881588170/sessions",
+            "title": "Sessions for Class: 881588170"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/881588170/students",
+            "title": "Students for Class: 881588170"
+          },
+          "projects": {
+            "href": "/classes/881588170/projects",
+            "title": "Projects for Class: 881588170"
+          },
+          "reviews": {
+            "href": "/classes/881588170/reviews",
+            "title": "Reviews for Class: 881588170"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5081293,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTA4MTI5MyJ9",
+            "username": 5482840,
+            "first_name": "Michelle",
+            "last_name": "Gonzalez",
+            "full_name": "Michelle Gonzalez",
+            "vanity_username": "brushstrokesbymichelle",
+            "headline": "Relax with Watercolor",
+            "pic": "https://static.skillshare.com/uploads/users/5482840/user-image-medium.png?1119944234",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5482840/user-image-small.png?920940427",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5482840/user-image-large.png?1516549718",
+            "_links": {
+              "self": {
+                "href": "/users/5482840",
+                "title": "Michelle Gonzalez - Relax with Watercolor"
+              },
+              "my_classes": {
+                "href": "/users/5482840/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5482840/completions",
+                "title": "Completions for User: 5482840"
+              },
+              "discussions": {
+                "href": "/users/5482840/discussions",
+                "title": "Discussions for User: 5482840"
+              },
+              "followers": {
+                "href": "/users/5482840/followers",
+                "title": "Followers for User: 5482840"
+              },
+              "following": {
+                "href": "/users/5482840/following",
+                "title": "Following for User: 5482840"
+              },
+              "notifications": {
+                "href": "/users/5482840/notifications",
+                "title": "Notifications for User: 5482840"
+              },
+              "projects": {
+                "href": "/users/5482840/projects",
+                "title": "Projects for User: 5482840"
+              },
+              "rosters": {
+                "href": "/users/5482840/rosters",
+                "title": "Rosters for User: 5482840"
+              },
+              "userTags": {
+                "href": "/users/5482840/userTags",
+                "title": "UserTags for User: 5482840"
+              },
+              "votes": {
+                "href": "/users/5482840/votes",
+                "title": "Votes for User: 5482840"
+              },
+              "wishlist": {
+                "href": "/users/5482840/wishlist",
+                "title": "Wishlist for User: 5482840"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

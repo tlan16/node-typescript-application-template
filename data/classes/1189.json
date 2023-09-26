@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1189",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1188",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1190",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 550296,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDI5NiJ9",
+        "sku": 76324037,
+        "title": "Beginner’s Guide to Calligraphy and Hand Lettering with a Regular Pen",
+        "project_title": "Assignment",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/932bf5a827fc9aa9aede9a82fcbdc444/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/932bf5a827fc9aa9aede9a82fcbdc444/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/932bf5a827fc9aa9aede9a82fcbdc444/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Beginner%E2%80%99s-Guide-to-Calligraphy-and-Hand-Lettering-with-a-Regular-Pen/76324037",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "1h 11m",
+        "total_videos_duration_seconds": 4234,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 546,
+        "num_projects": 16,
+        "num_discussions": 13,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 12, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/76324037",
+            "title": "Beginner’s Guide to Calligraphy and Hand Lettering with a Regular Pen"
+          },
+          "teacher": {
+            "href": "/users/40952683",
+            "title": "Simran Sahni - Calligraphy and Hand Lettering"
+          },
+          "units": {
+            "href": "/classes/76324037/units",
+            "title": "Units for Class: 76324037"
+          },
+          "sessions": {
+            "href": "/classes/76324037/sessions",
+            "title": "Sessions for Class: 76324037"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/76324037/students",
+            "title": "Students for Class: 76324037"
+          },
+          "projects": {
+            "href": "/classes/76324037/projects",
+            "title": "Projects for Class: 76324037"
+          },
+          "reviews": {
+            "href": "/classes/76324037/reviews",
+            "title": "Reviews for Class: 76324037"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 22130912,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjIxMzA5MTIifQ==",
+            "username": 40952683,
+            "first_name": "Simran",
+            "last_name": "Sahni",
+            "full_name": "Simran Sahni",
+            "vanity_username": "thecalligraphyraven",
+            "headline": "Calligraphy and Hand Lettering",
+            "pic": "https://static.skillshare.com/uploads/users/40952683/user-image-medium.png?487523535",
+            "pic_sm": "https://static.skillshare.com/uploads/users/40952683/user-image-small.png?738934412",
+            "pic_lg": "https://static.skillshare.com/uploads/users/40952683/user-image-large.png?807174366",
+            "_links": {
+              "self": {
+                "href": "/users/40952683",
+                "title": "Simran Sahni - Calligraphy and Hand Lettering"
+              },
+              "my_classes": {
+                "href": "/users/40952683/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/40952683/completions",
+                "title": "Completions for User: 40952683"
+              },
+              "discussions": {
+                "href": "/users/40952683/discussions",
+                "title": "Discussions for User: 40952683"
+              },
+              "followers": {
+                "href": "/users/40952683/followers",
+                "title": "Followers for User: 40952683"
+              },
+              "following": {
+                "href": "/users/40952683/following",
+                "title": "Following for User: 40952683"
+              },
+              "notifications": {
+                "href": "/users/40952683/notifications",
+                "title": "Notifications for User: 40952683"
+              },
+              "projects": {
+                "href": "/users/40952683/projects",
+                "title": "Projects for User: 40952683"
+              },
+              "rosters": {
+                "href": "/users/40952683/rosters",
+                "title": "Rosters for User: 40952683"
+              },
+              "userTags": {
+                "href": "/users/40952683/userTags",
+                "title": "UserTags for User: 40952683"
+              },
+              "votes": {
+                "href": "/users/40952683/votes",
+                "title": "Votes for User: 40952683"
+              },
+              "wishlist": {
+                "href": "/users/40952683/wishlist",
+                "title": "Wishlist for User: 40952683"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550321,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDMyMSJ9",
+        "sku": 1204732288,
+        "title": "How To Paint Realistic and Expressive Portraits in Adobe Photoshop",
+        "project_title": "Find a photo of a celebrity you like the most. The photo should be mostly skin as this course will be focussing on that. Avoid using photos that are NSFW or that you would not show to your 10-year-old",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f09d50ab18b957c3cde15cccd5f6a125/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f09d50ab18b957c3cde15cccd5f6a125/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f09d50ab18b957c3cde15cccd5f6a125/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Paint-Realistic-and-Expressive-Portraits-in-Adobe-Photoshop/1204732288",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "42m",
+        "total_videos_duration_seconds": 2502,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 53,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1204732288",
+            "title": "How To Paint Realistic and Expressive Portraits in Adobe Photoshop"
+          },
+          "teacher": {
+            "href": "/users/1532388",
+            "title": "James Ssekamatte - Freelance artist, Writer and Engineer"
+          },
+          "units": {
+            "href": "/classes/1204732288/units",
+            "title": "Units for Class: 1204732288"
+          },
+          "sessions": {
+            "href": "/classes/1204732288/sessions",
+            "title": "Sessions for Class: 1204732288"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1204732288/students",
+            "title": "Students for Class: 1204732288"
+          },
+          "projects": {
+            "href": "/classes/1204732288/projects",
+            "title": "Projects for Class: 1204732288"
+          },
+          "reviews": {
+            "href": "/classes/1204732288/reviews",
+            "title": "Reviews for Class: 1204732288"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7698780,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzY5ODc4MCJ9",
+            "username": 1532388,
+            "first_name": "James",
+            "last_name": "Ssekamatte",
+            "full_name": "James Ssekamatte",
+            "vanity_username": "james_skj",
+            "headline": "Freelance artist, Writer and Engineer",
+            "pic": "https://static.skillshare.com/uploads/users/1532388/user-image-medium.png?455150266",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1532388/user-image-small.png?333824114",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1532388/user-image-large.png?1900344337",
+            "_links": {
+              "self": {
+                "href": "/users/1532388",
+                "title": "James Ssekamatte - Freelance artist, Writer and Engineer"
+              },
+              "my_classes": {
+                "href": "/users/1532388/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1532388/completions",
+                "title": "Completions for User: 1532388"
+              },
+              "discussions": {
+                "href": "/users/1532388/discussions",
+                "title": "Discussions for User: 1532388"
+              },
+              "followers": {
+                "href": "/users/1532388/followers",
+                "title": "Followers for User: 1532388"
+              },
+              "following": {
+                "href": "/users/1532388/following",
+                "title": "Following for User: 1532388"
+              },
+              "notifications": {
+                "href": "/users/1532388/notifications",
+                "title": "Notifications for User: 1532388"
+              },
+              "projects": {
+                "href": "/users/1532388/projects",
+                "title": "Projects for User: 1532388"
+              },
+              "rosters": {
+                "href": "/users/1532388/rosters",
+                "title": "Rosters for User: 1532388"
+              },
+              "userTags": {
+                "href": "/users/1532388/userTags",
+                "title": "UserTags for User: 1532388"
+              },
+              "votes": {
+                "href": "/users/1532388/votes",
+                "title": "Votes for User: 1532388"
+              },
+              "wishlist": {
+                "href": "/users/1532388/wishlist",
+                "title": "Wishlist for User: 1532388"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550328,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDMyOCJ9",
+        "sku": 1046536996,
+        "title": "How to Get Better at Drawing (Sketchbooking 4)",
+        "project_title": "Download the reference photos provided and follow along. There are additional related photos provided that you can use for more practice.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/06a1075f5f3e30907403ffd5d63aee2a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/06a1075f5f3e30907403ffd5d63aee2a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/06a1075f5f3e30907403ffd5d63aee2a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Get-Better-at-Drawing-Sketchbooking-4/1046536996",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "2h 20m",
+        "total_videos_duration_seconds": 8380,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 206,
+        "num_projects": 1,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 17, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1046536996",
+            "title": "How to Get Better at Drawing (Sketchbooking 4)"
+          },
+          "teacher": {
+            "href": "/users/599814696",
+            "title": "Teoh Yi Chie - Sketcher, watercolour lover"
+          },
+          "units": {
+            "href": "/classes/1046536996/units",
+            "title": "Units for Class: 1046536996"
+          },
+          "sessions": {
+            "href": "/classes/1046536996/sessions",
+            "title": "Sessions for Class: 1046536996"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1046536996/students",
+            "title": "Students for Class: 1046536996"
+          },
+          "projects": {
+            "href": "/classes/1046536996/projects",
+            "title": "Projects for Class: 1046536996"
+          },
+          "reviews": {
+            "href": "/classes/1046536996/reviews",
+            "title": "Reviews for Class: 1046536996"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10215425,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTAyMTU0MjUifQ==",
+            "username": 599814696,
+            "first_name": "Teoh",
+            "last_name": "Yi Chie",
+            "full_name": "Teoh Yi Chie",
+            "vanity_username": null,
+            "headline": "Sketcher, watercolour lover",
+            "pic": "https://static.skillshare.com/uploads/users/599814696/user-image-medium.jpg?797623491",
+            "pic_sm": "https://static.skillshare.com/uploads/users/599814696/user-image-small.jpg?1621006641",
+            "pic_lg": "https://static.skillshare.com/uploads/users/599814696/user-image-large.jpg?1762055300",
+            "_links": {
+              "self": {
+                "href": "/users/599814696",
+                "title": "Teoh Yi Chie - Sketcher, watercolour lover"
+              },
+              "my_classes": {
+                "href": "/users/599814696/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/599814696/completions",
+                "title": "Completions for User: 599814696"
+              },
+              "discussions": {
+                "href": "/users/599814696/discussions",
+                "title": "Discussions for User: 599814696"
+              },
+              "followers": {
+                "href": "/users/599814696/followers",
+                "title": "Followers for User: 599814696"
+              },
+              "following": {
+                "href": "/users/599814696/following",
+                "title": "Following for User: 599814696"
+              },
+              "notifications": {
+                "href": "/users/599814696/notifications",
+                "title": "Notifications for User: 599814696"
+              },
+              "projects": {
+                "href": "/users/599814696/projects",
+                "title": "Projects for User: 599814696"
+              },
+              "rosters": {
+                "href": "/users/599814696/rosters",
+                "title": "Rosters for User: 599814696"
+              },
+              "userTags": {
+                "href": "/users/599814696/userTags",
+                "title": "UserTags for User: 599814696"
+              },
+              "votes": {
+                "href": "/users/599814696/votes",
+                "title": "Votes for User: 599814696"
+              },
+              "wishlist": {
+                "href": "/users/599814696/wishlist",
+                "title": "Wishlist for User: 599814696"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550332,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDMzMiJ9",
+        "sku": 1906197863,
+        "title": "Mixed Media for Beginners: Painting and Embroidery",
+        "project_title": "I recommend you take some time to watch the videos first then either create a painting along with the watercolor/acrylic painting mini-lessons or choose one of your old paintings to experiment on. We'",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d72b434ab286bd09bfe1ec9607b8b415/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d72b434ab286bd09bfe1ec9607b8b415/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d72b434ab286bd09bfe1ec9607b8b415/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Mixed-Media-for-Beginners-Painting-and-Embroidery/1906197863",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "1h",
+        "total_videos_duration_seconds": 3640,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 176,
+        "num_projects": 2,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 29, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1906197863",
+            "title": "Mixed Media for Beginners: Painting and Embroidery"
+          },
+          "teacher": {
+            "href": "/users/90563059",
+            "title": "Elisabeth Wellfare - Artist, Art Educator"
+          },
+          "units": {
+            "href": "/classes/1906197863/units",
+            "title": "Units for Class: 1906197863"
+          },
+          "sessions": {
+            "href": "/classes/1906197863/sessions",
+            "title": "Sessions for Class: 1906197863"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1906197863/students",
+            "title": "Students for Class: 1906197863"
+          },
+          "projects": {
+            "href": "/classes/1906197863/projects",
+            "title": "Projects for Class: 1906197863"
+          },
+          "reviews": {
+            "href": "/classes/1906197863/reviews",
+            "title": "Reviews for Class: 1906197863"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13305283,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTMzMDUyODMifQ==",
+            "username": 90563059,
+            "first_name": "Elisabeth",
+            "last_name": "Wellfare",
+            "full_name": "Elisabeth Wellfare",
+            "vanity_username": "elisabethwellfare",
+            "headline": "Artist, Art Educator",
+            "pic": "https://static.skillshare.com/uploads/users/90563059/user-image-medium.jpg?1592566846",
+            "pic_sm": "https://static.skillshare.com/uploads/users/90563059/user-image-small.jpg?1435087085",
+            "pic_lg": "https://static.skillshare.com/uploads/users/90563059/user-image-large.jpg?677797303",
+            "_links": {
+              "self": {
+                "href": "/users/90563059",
+                "title": "Elisabeth Wellfare - Artist, Art Educator"
+              },
+              "my_classes": {
+                "href": "/users/90563059/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/90563059/completions",
+                "title": "Completions for User: 90563059"
+              },
+              "discussions": {
+                "href": "/users/90563059/discussions",
+                "title": "Discussions for User: 90563059"
+              },
+              "followers": {
+                "href": "/users/90563059/followers",
+                "title": "Followers for User: 90563059"
+              },
+              "following": {
+                "href": "/users/90563059/following",
+                "title": "Following for User: 90563059"
+              },
+              "notifications": {
+                "href": "/users/90563059/notifications",
+                "title": "Notifications for User: 90563059"
+              },
+              "projects": {
+                "href": "/users/90563059/projects",
+                "title": "Projects for User: 90563059"
+              },
+              "rosters": {
+                "href": "/users/90563059/rosters",
+                "title": "Rosters for User: 90563059"
+              },
+              "userTags": {
+                "href": "/users/90563059/userTags",
+                "title": "UserTags for User: 90563059"
+              },
+              "votes": {
+                "href": "/users/90563059/votes",
+                "title": "Votes for User: 90563059"
+              },
+              "wishlist": {
+                "href": "/users/90563059/wishlist",
+                "title": "Wishlist for User: 90563059"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550339,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDMzOSJ9",
+        "sku": 210181977,
+        "title": "Autodesk MAYA 2022  Basic Tutorial for Beginners: LEVEL 1",
+        "project_title": "The goal of this class is for you to understand the basic working of Autodesk Maya. By the end of this class you should have made the Doughnut Model on the class thumbnail and be able to come up with ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b4e98cda1c8f9d35c320db61359f33d6/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b4e98cda1c8f9d35c320db61359f33d6/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b4e98cda1c8f9d35c320db61359f33d6/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Autodesk-MAYA-2022-Basic-Tutorial-for-Beginners-LEVEL-1/210181977",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "2h 11m",
+        "total_videos_duration_seconds": 7830,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 153,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/210181977",
+            "title": "Autodesk MAYA 2022  Basic Tutorial for Beginners: LEVEL 1"
+          },
+          "teacher": {
+            "href": "/users/3043744",
+            "title": "Bloody Actor - 3d Generalist"
+          },
+          "units": {
+            "href": "/classes/210181977/units",
+            "title": "Units for Class: 210181977"
+          },
+          "sessions": {
+            "href": "/classes/210181977/sessions",
+            "title": "Sessions for Class: 210181977"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/210181977/students",
+            "title": "Students for Class: 210181977"
+          },
+          "projects": {
+            "href": "/classes/210181977/projects",
+            "title": "Projects for Class: 210181977"
+          },
+          "reviews": {
+            "href": "/classes/210181977/reviews",
+            "title": "Reviews for Class: 210181977"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1013568,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTAxMzU2OCJ9",
+            "username": 3043744,
+            "first_name": "Bloody",
+            "last_name": "Actor",
+            "full_name": "Bloody Actor",
+            "vanity_username": null,
+            "headline": "3d Generalist",
+            "pic": "https://static.skillshare.com/uploads/users/3043744/user-image-medium.png?238481814",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3043744/user-image-small.png?2042270448",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3043744/user-image-large.png?1902272580",
+            "_links": {
+              "self": {
+                "href": "/users/3043744",
+                "title": "Bloody Actor - 3d Generalist"
+              },
+              "my_classes": {
+                "href": "/users/3043744/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3043744/completions",
+                "title": "Completions for User: 3043744"
+              },
+              "discussions": {
+                "href": "/users/3043744/discussions",
+                "title": "Discussions for User: 3043744"
+              },
+              "followers": {
+                "href": "/users/3043744/followers",
+                "title": "Followers for User: 3043744"
+              },
+              "following": {
+                "href": "/users/3043744/following",
+                "title": "Following for User: 3043744"
+              },
+              "notifications": {
+                "href": "/users/3043744/notifications",
+                "title": "Notifications for User: 3043744"
+              },
+              "projects": {
+                "href": "/users/3043744/projects",
+                "title": "Projects for User: 3043744"
+              },
+              "rosters": {
+                "href": "/users/3043744/rosters",
+                "title": "Rosters for User: 3043744"
+              },
+              "userTags": {
+                "href": "/users/3043744/userTags",
+                "title": "UserTags for User: 3043744"
+              },
+              "votes": {
+                "href": "/users/3043744/votes",
+                "title": "Votes for User: 3043744"
+              },
+              "wishlist": {
+                "href": "/users/3043744/wishlist",
+                "title": "Wishlist for User: 3043744"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550340,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDM0MCJ9",
+        "sku": 1397080083,
+        "title": "Add Movement to Photos - Adobe Photoshop, Adobe Premiere Pro & Adobe After Effects",
+        "project_title": "Your objective for this class is to create a moving photo animation.  Once completed, please upload your work to the student project section and I will share my thoughts and opinions on your work.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a3bcf16d5e62705a72f06c36d317bf89/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a3bcf16d5e62705a72f06c36d317bf89/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a3bcf16d5e62705a72f06c36d317bf89/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Add-Movement-to-Photos-Adobe-Photoshop-Adobe-Premiere-Pro-Adobe-After-Effects/1397080083",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "33m",
+        "total_videos_duration_seconds": 2006,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 219,
+        "num_projects": 0,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1397080083",
+            "title": "Add Movement to Photos - Adobe Photoshop, Adobe Premiere Pro & Adobe After Effects"
+          },
+          "teacher": {
+            "href": "/users/739912973",
+            "title": "Chris Brooker - Filmmaker & YouTuber"
+          },
+          "units": {
+            "href": "/classes/1397080083/units",
+            "title": "Units for Class: 1397080083"
+          },
+          "sessions": {
+            "href": "/classes/1397080083/sessions",
+            "title": "Sessions for Class: 1397080083"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1397080083/students",
+            "title": "Students for Class: 1397080083"
+          },
+          "projects": {
+            "href": "/classes/1397080083/projects",
+            "title": "Projects for Class: 1397080083"
+          },
+          "reviews": {
+            "href": "/classes/1397080083/reviews",
+            "title": "Reviews for Class: 1397080083"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19393486,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTkzOTM0ODYifQ==",
+            "username": 739912973,
+            "first_name": "Chris",
+            "last_name": "Brooker",
+            "full_name": "Chris Brooker",
+            "vanity_username": "brookerfilms",
+            "headline": "Filmmaker & YouTuber",
+            "pic": "https://static.skillshare.com/uploads/users/739912973/user-image-medium.png?1652805382",
+            "pic_sm": "https://static.skillshare.com/uploads/users/739912973/user-image-small.png?304934586",
+            "pic_lg": "https://static.skillshare.com/uploads/users/739912973/user-image-large.png?344720221",
+            "_links": {
+              "self": {
+                "href": "/users/739912973",
+                "title": "Chris Brooker - Filmmaker & YouTuber"
+              },
+              "my_classes": {
+                "href": "/users/739912973/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/739912973/completions",
+                "title": "Completions for User: 739912973"
+              },
+              "discussions": {
+                "href": "/users/739912973/discussions",
+                "title": "Discussions for User: 739912973"
+              },
+              "followers": {
+                "href": "/users/739912973/followers",
+                "title": "Followers for User: 739912973"
+              },
+              "following": {
+                "href": "/users/739912973/following",
+                "title": "Following for User: 739912973"
+              },
+              "notifications": {
+                "href": "/users/739912973/notifications",
+                "title": "Notifications for User: 739912973"
+              },
+              "projects": {
+                "href": "/users/739912973/projects",
+                "title": "Projects for User: 739912973"
+              },
+              "rosters": {
+                "href": "/users/739912973/rosters",
+                "title": "Rosters for User: 739912973"
+              },
+              "userTags": {
+                "href": "/users/739912973/userTags",
+                "title": "UserTags for User: 739912973"
+              },
+              "votes": {
+                "href": "/users/739912973/votes",
+                "title": "Votes for User: 739912973"
+              },
+              "wishlist": {
+                "href": "/users/739912973/wishlist",
+                "title": "Wishlist for User: 739912973"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550353,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDM1MyJ9",
+        "sku": 1546816430,
+        "title": "Self Care Through Art: 3 Exercises For Stress Relief and Mental Clarity",
+        "project_title": "By the end of this class, you will have created 3 unique works of art, completed 3 creative exercises and compiled 2 assisting worksheets!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c522c09d9830a1b78bd17539b8251b4f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c522c09d9830a1b78bd17539b8251b4f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c522c09d9830a1b78bd17539b8251b4f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Self-Care-Through-Art-3-Exercises-For-Stress-Relief-and-Mental-Clarity/1546816430",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "41m",
+        "total_videos_duration_seconds": 2474,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 280,
+        "num_projects": 2,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 17, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1546816430",
+            "title": "Self Care Through Art: 3 Exercises For Stress Relief and Mental Clarity"
+          },
+          "teacher": {
+            "href": "/users/3205552",
+            "title": "Antonia Teaha - Healing, Art & Magic"
+          },
+          "units": {
+            "href": "/classes/1546816430/units",
+            "title": "Units for Class: 1546816430"
+          },
+          "sessions": {
+            "href": "/classes/1546816430/sessions",
+            "title": "Sessions for Class: 1546816430"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1546816430/students",
+            "title": "Students for Class: 1546816430"
+          },
+          "projects": {
+            "href": "/classes/1546816430/projects",
+            "title": "Projects for Class: 1546816430"
+          },
+          "reviews": {
+            "href": "/classes/1546816430/reviews",
+            "title": "Reviews for Class: 1546816430"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8221297,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODIyMTI5NyJ9",
+            "username": 3205552,
+            "first_name": "Antonia",
+            "last_name": "Teaha",
+            "full_name": "Antonia Teaha",
+            "vanity_username": "antoniafig1507",
+            "headline": "Healing, Art & Magic",
+            "pic": "https://static.skillshare.com/uploads/users/3205552/user-image-medium.jpg?2022525356",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3205552/user-image-small.jpg?1464141610",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3205552/user-image-large.jpg?1653897889",
+            "_links": {
+              "self": {
+                "href": "/users/3205552",
+                "title": "Antonia Teaha - Healing, Art & Magic"
+              },
+              "my_classes": {
+                "href": "/users/3205552/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3205552/completions",
+                "title": "Completions for User: 3205552"
+              },
+              "discussions": {
+                "href": "/users/3205552/discussions",
+                "title": "Discussions for User: 3205552"
+              },
+              "followers": {
+                "href": "/users/3205552/followers",
+                "title": "Followers for User: 3205552"
+              },
+              "following": {
+                "href": "/users/3205552/following",
+                "title": "Following for User: 3205552"
+              },
+              "notifications": {
+                "href": "/users/3205552/notifications",
+                "title": "Notifications for User: 3205552"
+              },
+              "projects": {
+                "href": "/users/3205552/projects",
+                "title": "Projects for User: 3205552"
+              },
+              "rosters": {
+                "href": "/users/3205552/rosters",
+                "title": "Rosters for User: 3205552"
+              },
+              "userTags": {
+                "href": "/users/3205552/userTags",
+                "title": "UserTags for User: 3205552"
+              },
+              "votes": {
+                "href": "/users/3205552/votes",
+                "title": "Votes for User: 3205552"
+              },
+              "wishlist": {
+                "href": "/users/3205552/wishlist",
+                "title": "Wishlist for User: 3205552"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550354,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDM1NCJ9",
+        "sku": 828923932,
+        "title": "Collage with Magazines: Tap into your creative skills with a Handmade Collage",
+        "project_title": "For this class, your project is to create a collage using magazines. The theme is completely free to you",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/93fda4c99cda6ce3dfe626a0bd1e9d5c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/93fda4c99cda6ce3dfe626a0bd1e9d5c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/93fda4c99cda6ce3dfe626a0bd1e9d5c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Collage-with-Magazines-Tap-into-your-creative-skills-with-a-Handmade-Collage/828923932",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "35m",
+        "total_videos_duration_seconds": 2092,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 309,
+        "num_projects": 6,
+        "num_discussions": 5,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/828923932",
+            "title": "Collage with Magazines: Tap into your creative skills with a Handmade Collage"
+          },
+          "teacher": {
+            "href": "/users/5514440",
+            "title": "Ia Llamozas - Collage Artist"
+          },
+          "units": {
+            "href": "/classes/828923932/units",
+            "title": "Units for Class: 828923932"
+          },
+          "sessions": {
+            "href": "/classes/828923932/sessions",
+            "title": "Sessions for Class: 828923932"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/828923932/students",
+            "title": "Students for Class: 828923932"
+          },
+          "projects": {
+            "href": "/classes/828923932/projects",
+            "title": "Projects for Class: 828923932"
+          },
+          "reviews": {
+            "href": "/classes/828923932/reviews",
+            "title": "Reviews for Class: 828923932"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9207577,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTIwNzU3NyJ9",
+            "username": 5514440,
+            "first_name": "Ia",
+            "last_name": "Llamozas",
+            "full_name": "Ia Llamozas",
+            "vanity_username": "iallamozas",
+            "headline": "Collage Artist",
+            "pic": "https://static.skillshare.com/uploads/users/5514440/user-image-medium.jpg?783451259",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5514440/user-image-small.jpg?1645294426",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5514440/user-image-large.jpg?45110064",
+            "_links": {
+              "self": {
+                "href": "/users/5514440",
+                "title": "Ia Llamozas - Collage Artist"
+              },
+              "my_classes": {
+                "href": "/users/5514440/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5514440/completions",
+                "title": "Completions for User: 5514440"
+              },
+              "discussions": {
+                "href": "/users/5514440/discussions",
+                "title": "Discussions for User: 5514440"
+              },
+              "followers": {
+                "href": "/users/5514440/followers",
+                "title": "Followers for User: 5514440"
+              },
+              "following": {
+                "href": "/users/5514440/following",
+                "title": "Following for User: 5514440"
+              },
+              "notifications": {
+                "href": "/users/5514440/notifications",
+                "title": "Notifications for User: 5514440"
+              },
+              "projects": {
+                "href": "/users/5514440/projects",
+                "title": "Projects for User: 5514440"
+              },
+              "rosters": {
+                "href": "/users/5514440/rosters",
+                "title": "Rosters for User: 5514440"
+              },
+              "userTags": {
+                "href": "/users/5514440/userTags",
+                "title": "UserTags for User: 5514440"
+              },
+              "votes": {
+                "href": "/users/5514440/votes",
+                "title": "Votes for User: 5514440"
+              },
+              "wishlist": {
+                "href": "/users/5514440/wishlist",
+                "title": "Wishlist for User: 5514440"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550358,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDM1OCJ9",
+        "sku": 574757724,
+        "title": "Der ultimative Adobe Photoshop CC Werkzeuge Kurs deutsch - lerne alle Werkzeug Grundlagen kennen",
+        "project_title": "In diesem Projekt gibt es einige kostenlose Zusätze, die man sich hier herunterladen kann wie zum Beispiel eine 13 seitige Liste mit allen Photoshop Mischmodis, die zum Verständnis der Fülloptionen be",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c802aa71c6c8074fd7d5136b4fe9b1d0/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c802aa71c6c8074fd7d5136b4fe9b1d0/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c802aa71c6c8074fd7d5136b4fe9b1d0/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Der-ultimative-Adobe-Photoshop-CC-Werkzeuge-Kurs-deutsch-lerne-alle-Werkzeug-Grundlagen-kennen/574757724",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 44,
+        "total_videos_duration": "10h 6m",
+        "total_videos_duration_seconds": 36337,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 79,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/574757724",
+            "title": "Der ultimative Adobe Photoshop CC Werkzeuge Kurs deutsch - lerne alle Werkzeug Grundlagen kennen"
+          },
+          "teacher": {
+            "href": "/users/207467248",
+            "title": "Andreas L."
+          },
+          "units": {
+            "href": "/classes/574757724/units",
+            "title": "Units for Class: 574757724"
+          },
+          "sessions": {
+            "href": "/classes/574757724/sessions",
+            "title": "Sessions for Class: 574757724"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/574757724/students",
+            "title": "Students for Class: 574757724"
+          },
+          "projects": {
+            "href": "/classes/574757724/projects",
+            "title": "Projects for Class: 574757724"
+          },
+          "reviews": {
+            "href": "/classes/574757724/reviews",
+            "title": "Reviews for Class: 574757724"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16210843,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTYyMTA4NDMifQ==",
+            "username": 207467248,
+            "first_name": "Andreas",
+            "last_name": "L.",
+            "full_name": "Andreas L.",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/207467248/user-image-medium.jpg?574891087",
+            "pic_sm": "https://static.skillshare.com/uploads/users/207467248/user-image-small.jpg?546885893",
+            "pic_lg": "https://static.skillshare.com/uploads/users/207467248/user-image-large.jpg?158237367",
+            "_links": {
+              "self": {
+                "href": "/users/207467248",
+                "title": "Andreas L."
+              },
+              "my_classes": {
+                "href": "/users/207467248/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/207467248/completions",
+                "title": "Completions for User: 207467248"
+              },
+              "discussions": {
+                "href": "/users/207467248/discussions",
+                "title": "Discussions for User: 207467248"
+              },
+              "followers": {
+                "href": "/users/207467248/followers",
+                "title": "Followers for User: 207467248"
+              },
+              "following": {
+                "href": "/users/207467248/following",
+                "title": "Following for User: 207467248"
+              },
+              "notifications": {
+                "href": "/users/207467248/notifications",
+                "title": "Notifications for User: 207467248"
+              },
+              "projects": {
+                "href": "/users/207467248/projects",
+                "title": "Projects for User: 207467248"
+              },
+              "rosters": {
+                "href": "/users/207467248/rosters",
+                "title": "Rosters for User: 207467248"
+              },
+              "userTags": {
+                "href": "/users/207467248/userTags",
+                "title": "UserTags for User: 207467248"
+              },
+              "votes": {
+                "href": "/users/207467248/votes",
+                "title": "Votes for User: 207467248"
+              },
+              "wishlist": {
+                "href": "/users/207467248/wishlist",
+                "title": "Wishlist for User: 207467248"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550382,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDM4MiJ9",
+        "sku": 949446426,
+        "title": "Intro to Graphic Design: Poster Design #003 In Adobe Illustrator",
+        "project_title": "The Class Project is to design these three Typography Posters using the Adobe Illustrator techniques learned.\nI recommend watching the lessons and then trying to do the Poster yourself and going back ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/007022b5284de3af116d4a343453b492/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/007022b5284de3af116d4a343453b492/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/007022b5284de3af116d4a343453b492/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Intro-to-Graphic-Design-Poster-Design-003-In-Adobe-Illustrator/949446426",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "29m",
+        "total_videos_duration_seconds": 1726,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 533,
+        "num_projects": 20,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 17, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/949446426",
+            "title": "Intro to Graphic Design: Poster Design #003 In Adobe Illustrator"
+          },
+          "teacher": {
+            "href": "/users/2965103",
+            "title": "Marcos Silva - Designer & Animator"
+          },
+          "units": {
+            "href": "/classes/949446426/units",
+            "title": "Units for Class: 949446426"
+          },
+          "sessions": {
+            "href": "/classes/949446426/sessions",
+            "title": "Sessions for Class: 949446426"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/949446426/students",
+            "title": "Students for Class: 949446426"
+          },
+          "projects": {
+            "href": "/classes/949446426/projects",
+            "title": "Projects for Class: 949446426"
+          },
+          "reviews": {
+            "href": "/classes/949446426/reviews",
+            "title": "Reviews for Class: 949446426"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 625148,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjI1MTQ4In0=",
+            "username": 2965103,
+            "first_name": "Marcos",
+            "last_name": "Silva",
+            "full_name": "Marcos Silva",
+            "vanity_username": "marcossilva",
+            "headline": "Designer & Animator",
+            "pic": "https://static.skillshare.com/uploads/users/2965103/user-image-medium.jpg?1168077525",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2965103/user-image-small.jpg?1070359124",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2965103/user-image-large.jpg?1550702204",
+            "_links": {
+              "self": {
+                "href": "/users/2965103",
+                "title": "Marcos Silva - Designer & Animator"
+              },
+              "my_classes": {
+                "href": "/users/2965103/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2965103/completions",
+                "title": "Completions for User: 2965103"
+              },
+              "discussions": {
+                "href": "/users/2965103/discussions",
+                "title": "Discussions for User: 2965103"
+              },
+              "followers": {
+                "href": "/users/2965103/followers",
+                "title": "Followers for User: 2965103"
+              },
+              "following": {
+                "href": "/users/2965103/following",
+                "title": "Following for User: 2965103"
+              },
+              "notifications": {
+                "href": "/users/2965103/notifications",
+                "title": "Notifications for User: 2965103"
+              },
+              "projects": {
+                "href": "/users/2965103/projects",
+                "title": "Projects for User: 2965103"
+              },
+              "rosters": {
+                "href": "/users/2965103/rosters",
+                "title": "Rosters for User: 2965103"
+              },
+              "userTags": {
+                "href": "/users/2965103/userTags",
+                "title": "UserTags for User: 2965103"
+              },
+              "votes": {
+                "href": "/users/2965103/votes",
+                "title": "Votes for User: 2965103"
+              },
+              "wishlist": {
+                "href": "/users/2965103/wishlist",
+                "title": "Wishlist for User: 2965103"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

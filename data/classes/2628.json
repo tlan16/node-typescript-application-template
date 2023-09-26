@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=2628",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=2627",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=2629",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 520281,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMDI4MSJ9",
+        "sku": 1809886892,
+        "title": "Vegan Baking 101:  Gluten Free Desserts for a Healthy Life",
+        "project_title": "The Project for the class is to Share a Picture of any one Vegan Recipe!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a92bdf9980bd2be5063be3905b4679f2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a92bdf9980bd2be5063be3905b4679f2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a92bdf9980bd2be5063be3905b4679f2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Vegan-Baking-101-Gluten-Free-Desserts-for-a-Healthy-Life/1809886892",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 17,
+        "total_videos_duration": "1h 36m",
+        "total_videos_duration_seconds": 5735,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 505,
+        "num_projects": 2,
+        "num_discussions": 11,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Sep 3, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1809886892",
+            "title": "Vegan Baking 101:  Gluten Free Desserts for a Healthy Life"
+          },
+          "teacher": {
+            "href": "/users/524338642",
+            "title": "Shubranshu Bhandoh -  Baker/Pastry Chef - Le Cordon Bleu "
+          },
+          "units": {
+            "href": "/classes/1809886892/units",
+            "title": "Units for Class: 1809886892"
+          },
+          "sessions": {
+            "href": "/classes/1809886892/sessions",
+            "title": "Sessions for Class: 1809886892"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1809886892/students",
+            "title": "Students for Class: 1809886892"
+          },
+          "projects": {
+            "href": "/classes/1809886892/projects",
+            "title": "Projects for Class: 1809886892"
+          },
+          "reviews": {
+            "href": "/classes/1809886892/reviews",
+            "title": "Reviews for Class: 1809886892"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13969745,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTM5Njk3NDUifQ==",
+            "username": 524338642,
+            "first_name": "Shubranshu",
+            "last_name": "Bhandoh",
+            "full_name": "Shubranshu Bhandoh",
+            "vanity_username": null,
+            "headline": " Baker/Pastry Chef - Le Cordon Bleu ",
+            "pic": "https://static.skillshare.com/uploads/users/524338642/user-image-medium.png?324327678",
+            "pic_sm": "https://static.skillshare.com/uploads/users/524338642/user-image-small.png?1929607806",
+            "pic_lg": "https://static.skillshare.com/uploads/users/524338642/user-image-large.png?1441141980",
+            "_links": {
+              "self": {
+                "href": "/users/524338642",
+                "title": "Shubranshu Bhandoh -  Baker/Pastry Chef - Le Cordon Bleu "
+              },
+              "my_classes": {
+                "href": "/users/524338642/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/524338642/completions",
+                "title": "Completions for User: 524338642"
+              },
+              "discussions": {
+                "href": "/users/524338642/discussions",
+                "title": "Discussions for User: 524338642"
+              },
+              "followers": {
+                "href": "/users/524338642/followers",
+                "title": "Followers for User: 524338642"
+              },
+              "following": {
+                "href": "/users/524338642/following",
+                "title": "Following for User: 524338642"
+              },
+              "notifications": {
+                "href": "/users/524338642/notifications",
+                "title": "Notifications for User: 524338642"
+              },
+              "projects": {
+                "href": "/users/524338642/projects",
+                "title": "Projects for User: 524338642"
+              },
+              "rosters": {
+                "href": "/users/524338642/rosters",
+                "title": "Rosters for User: 524338642"
+              },
+              "userTags": {
+                "href": "/users/524338642/userTags",
+                "title": "UserTags for User: 524338642"
+              },
+              "votes": {
+                "href": "/users/524338642/votes",
+                "title": "Votes for User: 524338642"
+              },
+              "wishlist": {
+                "href": "/users/524338642/wishlist",
+                "title": "Wishlist for User: 524338642"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 520282,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMDI4MiJ9",
+        "sku": 193365509,
+        "title": "The Complete Guide to C# and Unity 2D Programming - Build an RPG (Role Playing Game)",
+        "project_title": "You Class project is to create your Own Role playing game with your own sprite sheets and some other mechanics",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c367a630a062162a06f85ad41843a324/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c367a630a062162a06f85ad41843a324/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c367a630a062162a06f85ad41843a324/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-Complete-Guide-to-C-and-Unity-2D-Programming-Build-an-RPG-Role-Playing-Game/193365509",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 124,
+        "total_videos_duration": "22h 43m",
+        "total_videos_duration_seconds": 81771,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1318,
+        "num_projects": 2,
+        "num_discussions": 56,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 5, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/193365509",
+            "title": "The Complete Guide to C# and Unity 2D Programming - Build an RPG (Role Playing Game)"
+          },
+          "teacher": {
+            "href": "/users/597063554",
+            "title": "Michael Murr - Software Engineer :: Game Developer"
+          },
+          "units": {
+            "href": "/classes/193365509/units",
+            "title": "Units for Class: 193365509"
+          },
+          "sessions": {
+            "href": "/classes/193365509/sessions",
+            "title": "Sessions for Class: 193365509"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/193365509/students",
+            "title": "Students for Class: 193365509"
+          },
+          "projects": {
+            "href": "/classes/193365509/projects",
+            "title": "Projects for Class: 193365509"
+          },
+          "reviews": {
+            "href": "/classes/193365509/reviews",
+            "title": "Reviews for Class: 193365509"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16458023,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTY0NTgwMjMifQ==",
+            "username": 597063554,
+            "first_name": "Michael",
+            "last_name": "Murr",
+            "full_name": "Michael Murr",
+            "vanity_username": "michaelmurr",
+            "headline": "Software Engineer :: Game Developer",
+            "pic": "https://static.skillshare.com/uploads/users/597063554/user-image-medium.png?138694891",
+            "pic_sm": "https://static.skillshare.com/uploads/users/597063554/user-image-small.png?265723717",
+            "pic_lg": "https://static.skillshare.com/uploads/users/597063554/user-image-large.png?1447793325",
+            "_links": {
+              "self": {
+                "href": "/users/597063554",
+                "title": "Michael Murr - Software Engineer :: Game Developer"
+              },
+              "my_classes": {
+                "href": "/users/597063554/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/597063554/completions",
+                "title": "Completions for User: 597063554"
+              },
+              "discussions": {
+                "href": "/users/597063554/discussions",
+                "title": "Discussions for User: 597063554"
+              },
+              "followers": {
+                "href": "/users/597063554/followers",
+                "title": "Followers for User: 597063554"
+              },
+              "following": {
+                "href": "/users/597063554/following",
+                "title": "Following for User: 597063554"
+              },
+              "notifications": {
+                "href": "/users/597063554/notifications",
+                "title": "Notifications for User: 597063554"
+              },
+              "projects": {
+                "href": "/users/597063554/projects",
+                "title": "Projects for User: 597063554"
+              },
+              "rosters": {
+                "href": "/users/597063554/rosters",
+                "title": "Rosters for User: 597063554"
+              },
+              "userTags": {
+                "href": "/users/597063554/userTags",
+                "title": "UserTags for User: 597063554"
+              },
+              "votes": {
+                "href": "/users/597063554/votes",
+                "title": "Votes for User: 597063554"
+              },
+              "wishlist": {
+                "href": "/users/597063554/wishlist",
+                "title": "Wishlist for User: 597063554"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 520330,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMDMzMCJ9",
+        "sku": 1022378986,
+        "title": "Compose A Panel Like A Pro!",
+        "project_title": "I encourage you to take what you may have learned from this class and create as strong a comic panel (or series of panels) as you could! Try and use at least one of the approaches we talk about in the",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/be74f14ceddf1abbae7e35a6dfd7ed41/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/be74f14ceddf1abbae7e35a6dfd7ed41/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/be74f14ceddf1abbae7e35a6dfd7ed41/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Compose-A-Panel-Like-A-Pro/1022378986",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "20m",
+        "total_videos_duration_seconds": 1186,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 151,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 27, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1022378986",
+            "title": "Compose A Panel Like A Pro!"
+          },
+          "teacher": {
+            "href": "/users/2110694",
+            "title": "Thomas Pitilli - Illustrator"
+          },
+          "units": {
+            "href": "/classes/1022378986/units",
+            "title": "Units for Class: 1022378986"
+          },
+          "sessions": {
+            "href": "/classes/1022378986/sessions",
+            "title": "Sessions for Class: 1022378986"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1022378986/students",
+            "title": "Students for Class: 1022378986"
+          },
+          "projects": {
+            "href": "/classes/1022378986/projects",
+            "title": "Projects for Class: 1022378986"
+          },
+          "reviews": {
+            "href": "/classes/1022378986/reviews",
+            "title": "Reviews for Class: 1022378986"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1246784,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTI0Njc4NCJ9",
+            "username": 2110694,
+            "first_name": "Thomas",
+            "last_name": "Pitilli",
+            "full_name": "Thomas Pitilli",
+            "vanity_username": "thomaspitilli",
+            "headline": "Illustrator",
+            "pic": "https://static.skillshare.com/uploads/users/2110694/user-image-medium.jpg?704630470",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2110694/user-image-small.jpg?1737328701",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2110694/user-image-large.jpg?587140172",
+            "_links": {
+              "self": {
+                "href": "/users/2110694",
+                "title": "Thomas Pitilli - Illustrator"
+              },
+              "my_classes": {
+                "href": "/users/2110694/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2110694/completions",
+                "title": "Completions for User: 2110694"
+              },
+              "discussions": {
+                "href": "/users/2110694/discussions",
+                "title": "Discussions for User: 2110694"
+              },
+              "followers": {
+                "href": "/users/2110694/followers",
+                "title": "Followers for User: 2110694"
+              },
+              "following": {
+                "href": "/users/2110694/following",
+                "title": "Following for User: 2110694"
+              },
+              "notifications": {
+                "href": "/users/2110694/notifications",
+                "title": "Notifications for User: 2110694"
+              },
+              "projects": {
+                "href": "/users/2110694/projects",
+                "title": "Projects for User: 2110694"
+              },
+              "rosters": {
+                "href": "/users/2110694/rosters",
+                "title": "Rosters for User: 2110694"
+              },
+              "userTags": {
+                "href": "/users/2110694/userTags",
+                "title": "UserTags for User: 2110694"
+              },
+              "votes": {
+                "href": "/users/2110694/votes",
+                "title": "Votes for User: 2110694"
+              },
+              "wishlist": {
+                "href": "/users/2110694/wishlist",
+                "title": "Wishlist for User: 2110694"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 520339,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMDMzOSJ9",
+        "sku": 1392350855,
+        "title": "Live Encore: Drawing Exercises to Bust Creator's Block",
+        "project_title": "Demolish that creative block and make something new! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/941add61896933c0c28bf44a5ffdaa68/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/941add61896933c0c28bf44a5ffdaa68/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/941add61896933c0c28bf44a5ffdaa68/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Live-Encore-Drawing-Exercises-to-Bust-Creators-Block/1392350855",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "42m",
+        "total_videos_duration_seconds": 2493,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 190,
+        "num_projects": 9,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 11, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1392350855",
+            "title": "Live Encore: Drawing Exercises to Bust Creator's Block"
+          },
+          "teacher": {
+            "href": "/users/1438126",
+            "title": "Mel Rye - ✎ Artist + Educator"
+          },
+          "units": {
+            "href": "/classes/1392350855/units",
+            "title": "Units for Class: 1392350855"
+          },
+          "sessions": {
+            "href": "/classes/1392350855/sessions",
+            "title": "Sessions for Class: 1392350855"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1392350855/students",
+            "title": "Students for Class: 1392350855"
+          },
+          "projects": {
+            "href": "/classes/1392350855/projects",
+            "title": "Projects for Class: 1392350855"
+          },
+          "reviews": {
+            "href": "/classes/1392350855/reviews",
+            "title": "Reviews for Class: 1392350855"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1003626,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTAwMzYyNiJ9",
+            "username": 1438126,
+            "first_name": "Mel",
+            "last_name": "Rye",
+            "full_name": "Mel Rye",
+            "vanity_username": null,
+            "headline": "✎ Artist + Educator",
+            "pic": "https://static.skillshare.com/uploads/users/1438126/user-image-medium.jpg?745034426",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1438126/user-image-small.jpg?151013084",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1438126/user-image-large.jpg?1207870836",
+            "_links": {
+              "self": {
+                "href": "/users/1438126",
+                "title": "Mel Rye - ✎ Artist + Educator"
+              },
+              "my_classes": {
+                "href": "/users/1438126/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1438126/completions",
+                "title": "Completions for User: 1438126"
+              },
+              "discussions": {
+                "href": "/users/1438126/discussions",
+                "title": "Discussions for User: 1438126"
+              },
+              "followers": {
+                "href": "/users/1438126/followers",
+                "title": "Followers for User: 1438126"
+              },
+              "following": {
+                "href": "/users/1438126/following",
+                "title": "Following for User: 1438126"
+              },
+              "notifications": {
+                "href": "/users/1438126/notifications",
+                "title": "Notifications for User: 1438126"
+              },
+              "projects": {
+                "href": "/users/1438126/projects",
+                "title": "Projects for User: 1438126"
+              },
+              "rosters": {
+                "href": "/users/1438126/rosters",
+                "title": "Rosters for User: 1438126"
+              },
+              "userTags": {
+                "href": "/users/1438126/userTags",
+                "title": "UserTags for User: 1438126"
+              },
+              "votes": {
+                "href": "/users/1438126/votes",
+                "title": "Votes for User: 1438126"
+              },
+              "wishlist": {
+                "href": "/users/1438126/wishlist",
+                "title": "Wishlist for User: 1438126"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 520349,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMDM0OSJ9",
+        "sku": 2002202286,
+        "title": "Live Encore: Get Inspired by the World Around You",
+        "project_title": "Create your own abstract art piece! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6265440596001/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6265440596001/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6265440596001/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Live-Encore-Get-Inspired-by-the-World-Around-You/2002202286",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "39m",
+        "total_videos_duration_seconds": 2360,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 129,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 11, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2002202286",
+            "title": "Live Encore: Get Inspired by the World Around You"
+          },
+          "teacher": {
+            "href": "/users/6299752",
+            "title": "Amber Vittoria - Artist and Illustrator"
+          },
+          "units": {
+            "href": "/classes/2002202286/units",
+            "title": "Units for Class: 2002202286"
+          },
+          "sessions": {
+            "href": "/classes/2002202286/sessions",
+            "title": "Sessions for Class: 2002202286"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2002202286/students",
+            "title": "Students for Class: 2002202286"
+          },
+          "projects": {
+            "href": "/classes/2002202286/projects",
+            "title": "Projects for Class: 2002202286"
+          },
+          "reviews": {
+            "href": "/classes/2002202286/reviews",
+            "title": "Reviews for Class: 2002202286"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 597935,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTk3OTM1In0=",
+            "username": 6299752,
+            "first_name": "Amber",
+            "last_name": "Vittoria",
+            "full_name": "Amber Vittoria",
+            "vanity_username": "ambervittoria",
+            "headline": "Artist and Illustrator",
+            "pic": "https://static.skillshare.com/uploads/users/6299752/user-image-medium.jpg?698669297",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6299752/user-image-small.jpg?573238033",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6299752/user-image-large.jpg?2068213649",
+            "_links": {
+              "self": {
+                "href": "/users/6299752",
+                "title": "Amber Vittoria - Artist and Illustrator"
+              },
+              "my_classes": {
+                "href": "/users/6299752/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6299752/completions",
+                "title": "Completions for User: 6299752"
+              },
+              "discussions": {
+                "href": "/users/6299752/discussions",
+                "title": "Discussions for User: 6299752"
+              },
+              "followers": {
+                "href": "/users/6299752/followers",
+                "title": "Followers for User: 6299752"
+              },
+              "following": {
+                "href": "/users/6299752/following",
+                "title": "Following for User: 6299752"
+              },
+              "notifications": {
+                "href": "/users/6299752/notifications",
+                "title": "Notifications for User: 6299752"
+              },
+              "projects": {
+                "href": "/users/6299752/projects",
+                "title": "Projects for User: 6299752"
+              },
+              "rosters": {
+                "href": "/users/6299752/rosters",
+                "title": "Rosters for User: 6299752"
+              },
+              "userTags": {
+                "href": "/users/6299752/userTags",
+                "title": "UserTags for User: 6299752"
+              },
+              "votes": {
+                "href": "/users/6299752/votes",
+                "title": "Votes for User: 6299752"
+              },
+              "wishlist": {
+                "href": "/users/6299752/wishlist",
+                "title": "Wishlist for User: 6299752"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 520351,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMDM1MSJ9",
+        "sku": 621780614,
+        "title": "Create Custom Multiline Brushes for Lettering on Procreate Brush Editor.",
+        "project_title": "Fell free to follow along the lettering I create in the class or design one of your own. If you do create the brush please post your designs, I would love to see them! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/05feee7cc06f1b8727cb4b95205f75a8/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/05feee7cc06f1b8727cb4b95205f75a8/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/05feee7cc06f1b8727cb4b95205f75a8/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Create-Custom-Multiline-Brushes-for-Lettering-on-Procreate-Brush-Editor/621780614",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "23m",
+        "total_videos_duration_seconds": 1378,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 119,
+        "num_projects": 3,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 28, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/621780614",
+            "title": "Create Custom Multiline Brushes for Lettering on Procreate Brush Editor."
+          },
+          "teacher": {
+            "href": "/users/1847602",
+            "title": "Margherita Ambrosi - Illustration Artist"
+          },
+          "units": {
+            "href": "/classes/621780614/units",
+            "title": "Units for Class: 621780614"
+          },
+          "sessions": {
+            "href": "/classes/621780614/sessions",
+            "title": "Sessions for Class: 621780614"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/621780614/students",
+            "title": "Students for Class: 621780614"
+          },
+          "projects": {
+            "href": "/classes/621780614/projects",
+            "title": "Projects for Class: 621780614"
+          },
+          "reviews": {
+            "href": "/classes/621780614/reviews",
+            "title": "Reviews for Class: 621780614"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4132445,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDEzMjQ0NSJ9",
+            "username": 1847602,
+            "first_name": "Margherita",
+            "last_name": "Ambrosi",
+            "full_name": "Margherita Ambrosi",
+            "vanity_username": null,
+            "headline": "Illustration Artist",
+            "pic": "https://static.skillshare.com/uploads/users/1847602/user-image-medium.jpg?545661426",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1847602/user-image-small.jpg?746297241",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1847602/user-image-large.jpg?1230059385",
+            "_links": {
+              "self": {
+                "href": "/users/1847602",
+                "title": "Margherita Ambrosi - Illustration Artist"
+              },
+              "my_classes": {
+                "href": "/users/1847602/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1847602/completions",
+                "title": "Completions for User: 1847602"
+              },
+              "discussions": {
+                "href": "/users/1847602/discussions",
+                "title": "Discussions for User: 1847602"
+              },
+              "followers": {
+                "href": "/users/1847602/followers",
+                "title": "Followers for User: 1847602"
+              },
+              "following": {
+                "href": "/users/1847602/following",
+                "title": "Following for User: 1847602"
+              },
+              "notifications": {
+                "href": "/users/1847602/notifications",
+                "title": "Notifications for User: 1847602"
+              },
+              "projects": {
+                "href": "/users/1847602/projects",
+                "title": "Projects for User: 1847602"
+              },
+              "rosters": {
+                "href": "/users/1847602/rosters",
+                "title": "Rosters for User: 1847602"
+              },
+              "userTags": {
+                "href": "/users/1847602/userTags",
+                "title": "UserTags for User: 1847602"
+              },
+              "votes": {
+                "href": "/users/1847602/votes",
+                "title": "Votes for User: 1847602"
+              },
+              "wishlist": {
+                "href": "/users/1847602/wishlist",
+                "title": "Wishlist for User: 1847602"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 520376,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMDM3NiJ9",
+        "sku": 1657487096,
+        "title": "Grids & Responsive Design. Ultimate Guide for UX/UI Designer (Figma Files + Basic HTML & CSS)",
+        "project_title": "Course files to work alongside me as well as files for our final project: ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/3fb9e74902ceafcdca69ab0337a02ee1/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/3fb9e74902ceafcdca69ab0337a02ee1/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/3fb9e74902ceafcdca69ab0337a02ee1/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Grids-Responsive-Design-Ultimate-Guide-for-UXUI-Designer-Figma-Files-Basic-HTML-CSS/1657487096",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 31,
+        "total_videos_duration": "1h 37m",
+        "total_videos_duration_seconds": 5792,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 2059,
+        "num_projects": 12,
+        "num_discussions": 13,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 10, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1657487096",
+            "title": "Grids & Responsive Design. Ultimate Guide for UX/UI Designer (Figma Files + Basic HTML & CSS)"
+          },
+          "teacher": {
+            "href": "/users/299132932",
+            "title": "Christine Vallaure -  UI/UX DESIGN, FIGMA + CODE"
+          },
+          "units": {
+            "href": "/classes/1657487096/units",
+            "title": "Units for Class: 1657487096"
+          },
+          "sessions": {
+            "href": "/classes/1657487096/sessions",
+            "title": "Sessions for Class: 1657487096"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1657487096/students",
+            "title": "Students for Class: 1657487096"
+          },
+          "projects": {
+            "href": "/classes/1657487096/projects",
+            "title": "Projects for Class: 1657487096"
+          },
+          "reviews": {
+            "href": "/classes/1657487096/reviews",
+            "title": "Reviews for Class: 1657487096"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15234945,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTUyMzQ5NDUifQ==",
+            "username": 299132932,
+            "first_name": "Christine",
+            "last_name": "Vallaure",
+            "full_name": "Christine Vallaure",
+            "vanity_username": null,
+            "headline": " UI/UX DESIGN, FIGMA + CODE",
+            "pic": "https://static.skillshare.com/uploads/users/299132932/user-image-medium.jpg?1364533935",
+            "pic_sm": "https://static.skillshare.com/uploads/users/299132932/user-image-small.jpg?671999820",
+            "pic_lg": "https://static.skillshare.com/uploads/users/299132932/user-image-large.jpg?1821762035",
+            "_links": {
+              "self": {
+                "href": "/users/299132932",
+                "title": "Christine Vallaure -  UI/UX DESIGN, FIGMA + CODE"
+              },
+              "my_classes": {
+                "href": "/users/299132932/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/299132932/completions",
+                "title": "Completions for User: 299132932"
+              },
+              "discussions": {
+                "href": "/users/299132932/discussions",
+                "title": "Discussions for User: 299132932"
+              },
+              "followers": {
+                "href": "/users/299132932/followers",
+                "title": "Followers for User: 299132932"
+              },
+              "following": {
+                "href": "/users/299132932/following",
+                "title": "Following for User: 299132932"
+              },
+              "notifications": {
+                "href": "/users/299132932/notifications",
+                "title": "Notifications for User: 299132932"
+              },
+              "projects": {
+                "href": "/users/299132932/projects",
+                "title": "Projects for User: 299132932"
+              },
+              "rosters": {
+                "href": "/users/299132932/rosters",
+                "title": "Rosters for User: 299132932"
+              },
+              "userTags": {
+                "href": "/users/299132932/userTags",
+                "title": "UserTags for User: 299132932"
+              },
+              "votes": {
+                "href": "/users/299132932/votes",
+                "title": "Votes for User: 299132932"
+              },
+              "wishlist": {
+                "href": "/users/299132932/wishlist",
+                "title": "Wishlist for User: 299132932"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 520377,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMDM3NyJ9",
+        "sku": 344111647,
+        "title": "Live Encore: Create Beautiful, Botanical Patterns",
+        "project_title": "Build your own botanical illustration! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/8a53316d7b9129d5a6879753988d4a9e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/8a53316d7b9129d5a6879753988d4a9e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/8a53316d7b9129d5a6879753988d4a9e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Live-Encore-Create-Beautiful-Botanical-Patterns/344111647",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "59m",
+        "total_videos_duration_seconds": 3529,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1165,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 26, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/344111647",
+            "title": "Live Encore: Create Beautiful, Botanical Patterns"
+          },
+          "teacher": {
+            "href": "/users/7477950",
+            "title": "Bonnie Christine - Surface Pattern Designer + Artist"
+          },
+          "units": {
+            "href": "/classes/344111647/units",
+            "title": "Units for Class: 344111647"
+          },
+          "sessions": {
+            "href": "/classes/344111647/sessions",
+            "title": "Sessions for Class: 344111647"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/344111647/students",
+            "title": "Students for Class: 344111647"
+          },
+          "projects": {
+            "href": "/classes/344111647/projects",
+            "title": "Projects for Class: 344111647"
+          },
+          "reviews": {
+            "href": "/classes/344111647/reviews",
+            "title": "Reviews for Class: 344111647"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 412907,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDEyOTA3In0=",
+            "username": 7477950,
+            "first_name": "Bonnie",
+            "last_name": "Christine",
+            "full_name": "Bonnie Christine",
+            "vanity_username": "bonniechristine",
+            "headline": "Surface Pattern Designer + Artist",
+            "pic": "https://static.skillshare.com/uploads/users/7477950/user-image-medium.jpg?1774423861",
+            "pic_sm": "https://static.skillshare.com/uploads/users/7477950/user-image-small.jpg?853918379",
+            "pic_lg": "https://static.skillshare.com/uploads/users/7477950/user-image-large.jpg?559448465",
+            "_links": {
+              "self": {
+                "href": "/users/7477950",
+                "title": "Bonnie Christine - Surface Pattern Designer + Artist"
+              },
+              "my_classes": {
+                "href": "/users/7477950/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/7477950/completions",
+                "title": "Completions for User: 7477950"
+              },
+              "discussions": {
+                "href": "/users/7477950/discussions",
+                "title": "Discussions for User: 7477950"
+              },
+              "followers": {
+                "href": "/users/7477950/followers",
+                "title": "Followers for User: 7477950"
+              },
+              "following": {
+                "href": "/users/7477950/following",
+                "title": "Following for User: 7477950"
+              },
+              "notifications": {
+                "href": "/users/7477950/notifications",
+                "title": "Notifications for User: 7477950"
+              },
+              "projects": {
+                "href": "/users/7477950/projects",
+                "title": "Projects for User: 7477950"
+              },
+              "rosters": {
+                "href": "/users/7477950/rosters",
+                "title": "Rosters for User: 7477950"
+              },
+              "userTags": {
+                "href": "/users/7477950/userTags",
+                "title": "UserTags for User: 7477950"
+              },
+              "votes": {
+                "href": "/users/7477950/votes",
+                "title": "Votes for User: 7477950"
+              },
+              "wishlist": {
+                "href": "/users/7477950/wishlist",
+                "title": "Wishlist for User: 7477950"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 520389,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMDM4OSJ9",
+        "sku": 1207852279,
+        "title": "Live Encore: Create a Stylized Illustration of Your Dream Trip",
+        "project_title": "Create your own stylized illustrations!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b29c13718390f3c844964b754756e891/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b29c13718390f3c844964b754756e891/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b29c13718390f3c844964b754756e891/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Live-Encore-Create-a-Stylized-Illustration-of-Your-Dream-Trip/1207852279",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "35m",
+        "total_videos_duration_seconds": 2100,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 89,
+        "num_projects": 1,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 3, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1207852279",
+            "title": "Live Encore: Create a Stylized Illustration of Your Dream Trip"
+          },
+          "teacher": {
+            "href": "/users/5996141",
+            "title": "Esther Nariyoshi - Published Illustrator based in the US"
+          },
+          "units": {
+            "href": "/classes/1207852279/units",
+            "title": "Units for Class: 1207852279"
+          },
+          "sessions": {
+            "href": "/classes/1207852279/sessions",
+            "title": "Sessions for Class: 1207852279"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1207852279/students",
+            "title": "Students for Class: 1207852279"
+          },
+          "projects": {
+            "href": "/classes/1207852279/projects",
+            "title": "Projects for Class: 1207852279"
+          },
+          "reviews": {
+            "href": "/classes/1207852279/reviews",
+            "title": "Reviews for Class: 1207852279"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 320098,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzIwMDk4In0=",
+            "username": 5996141,
+            "first_name": "Esther",
+            "last_name": "Nariyoshi",
+            "full_name": "Esther Nariyoshi",
+            "vanity_username": "enariyoshi",
+            "headline": "Published Illustrator based in the US",
+            "pic": "https://static.skillshare.com/uploads/users/5996141/user-image-medium.jpg?1404058395",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5996141/user-image-small.jpg?1630035252",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5996141/user-image-large.jpg?1842258869",
+            "_links": {
+              "self": {
+                "href": "/users/5996141",
+                "title": "Esther Nariyoshi - Published Illustrator based in the US"
+              },
+              "my_classes": {
+                "href": "/users/5996141/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5996141/completions",
+                "title": "Completions for User: 5996141"
+              },
+              "discussions": {
+                "href": "/users/5996141/discussions",
+                "title": "Discussions for User: 5996141"
+              },
+              "followers": {
+                "href": "/users/5996141/followers",
+                "title": "Followers for User: 5996141"
+              },
+              "following": {
+                "href": "/users/5996141/following",
+                "title": "Following for User: 5996141"
+              },
+              "notifications": {
+                "href": "/users/5996141/notifications",
+                "title": "Notifications for User: 5996141"
+              },
+              "projects": {
+                "href": "/users/5996141/projects",
+                "title": "Projects for User: 5996141"
+              },
+              "rosters": {
+                "href": "/users/5996141/rosters",
+                "title": "Rosters for User: 5996141"
+              },
+              "userTags": {
+                "href": "/users/5996141/userTags",
+                "title": "UserTags for User: 5996141"
+              },
+              "votes": {
+                "href": "/users/5996141/votes",
+                "title": "Votes for User: 5996141"
+              },
+              "wishlist": {
+                "href": "/users/5996141/wishlist",
+                "title": "Wishlist for User: 5996141"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 520398,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMDM5OCJ9",
+        "sku": 578756581,
+        "title": "Live Encore: Paint Watercolor Vintage Roses",
+        "project_title": "Paint your own watercolor rose! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fdf0a05f01c71c0b2fdb740f65b3eac4/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fdf0a05f01c71c0b2fdb740f65b3eac4/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fdf0a05f01c71c0b2fdb740f65b3eac4/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Live-Encore-Paint-Watercolor-Vintage-Roses/578756581",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "44m",
+        "total_videos_duration_seconds": 2643,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 494,
+        "num_projects": 8,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 11, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/578756581",
+            "title": "Live Encore: Paint Watercolor Vintage Roses"
+          },
+          "teacher": {
+            "href": "/users/9180583",
+            "title": "Trupti Karjinni - Artist, Paintmaker, Entrepreneur"
+          },
+          "units": {
+            "href": "/classes/578756581/units",
+            "title": "Units for Class: 578756581"
+          },
+          "sessions": {
+            "href": "/classes/578756581/sessions",
+            "title": "Sessions for Class: 578756581"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/578756581/students",
+            "title": "Students for Class: 578756581"
+          },
+          "projects": {
+            "href": "/classes/578756581/projects",
+            "title": "Projects for Class: 578756581"
+          },
+          "reviews": {
+            "href": "/classes/578756581/reviews",
+            "title": "Reviews for Class: 578756581"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5444404,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTQ0NDQwNCJ9",
+            "username": 9180583,
+            "first_name": "Trupti",
+            "last_name": "Karjinni",
+            "full_name": "Trupti Karjinni",
+            "vanity_username": null,
+            "headline": "Artist, Paintmaker, Entrepreneur",
+            "pic": "https://static.skillshare.com/uploads/users/9180583/user-image-medium.jpg?43514548",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9180583/user-image-small.jpg?1138708677",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9180583/user-image-large.jpg?1960363961",
+            "_links": {
+              "self": {
+                "href": "/users/9180583",
+                "title": "Trupti Karjinni - Artist, Paintmaker, Entrepreneur"
+              },
+              "my_classes": {
+                "href": "/users/9180583/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9180583/completions",
+                "title": "Completions for User: 9180583"
+              },
+              "discussions": {
+                "href": "/users/9180583/discussions",
+                "title": "Discussions for User: 9180583"
+              },
+              "followers": {
+                "href": "/users/9180583/followers",
+                "title": "Followers for User: 9180583"
+              },
+              "following": {
+                "href": "/users/9180583/following",
+                "title": "Following for User: 9180583"
+              },
+              "notifications": {
+                "href": "/users/9180583/notifications",
+                "title": "Notifications for User: 9180583"
+              },
+              "projects": {
+                "href": "/users/9180583/projects",
+                "title": "Projects for User: 9180583"
+              },
+              "rosters": {
+                "href": "/users/9180583/rosters",
+                "title": "Rosters for User: 9180583"
+              },
+              "userTags": {
+                "href": "/users/9180583/userTags",
+                "title": "UserTags for User: 9180583"
+              },
+              "votes": {
+                "href": "/users/9180583/votes",
+                "title": "Votes for User: 9180583"
+              },
+              "wishlist": {
+                "href": "/users/9180583/wishlist",
+                "title": "Wishlist for User: 9180583"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=2740",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=2739",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=2741",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 535681,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNTY4MSJ9",
+        "sku": 1227465008,
+        "title": "R Language Programming for Data analysts",
+        "project_title": "I would request that all students use the iris dataset (or any other internal dataset within tinyverse) and manipulate the data using the pipe operator and present it visually in any form whether it's",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/8b20a27f68f24ccf1551961747b63af3/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/8b20a27f68f24ccf1551961747b63af3/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/8b20a27f68f24ccf1551961747b63af3/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/R-Language-Programming-for-Data-analysts/1227465008",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "57m",
+        "total_videos_duration_seconds": 3446,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 84,
+        "num_projects": 2,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Oct 23, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1227465008",
+            "title": "R Language Programming for Data analysts"
+          },
+          "teacher": {
+            "href": "/users/744367269",
+            "title": "Storay Amiri"
+          },
+          "units": {
+            "href": "/classes/1227465008/units",
+            "title": "Units for Class: 1227465008"
+          },
+          "sessions": {
+            "href": "/classes/1227465008/sessions",
+            "title": "Sessions for Class: 1227465008"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1227465008/students",
+            "title": "Students for Class: 1227465008"
+          },
+          "projects": {
+            "href": "/classes/1227465008/projects",
+            "title": "Projects for Class: 1227465008"
+          },
+          "reviews": {
+            "href": "/classes/1227465008/reviews",
+            "title": "Reviews for Class: 1227465008"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15191650,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTUxOTE2NTAifQ==",
+            "username": 744367269,
+            "first_name": "Storay",
+            "last_name": "Amiri",
+            "full_name": "Storay Amiri",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/744367269",
+                "title": "Storay Amiri"
+              },
+              "my_classes": {
+                "href": "/users/744367269/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/744367269/completions",
+                "title": "Completions for User: 744367269"
+              },
+              "discussions": {
+                "href": "/users/744367269/discussions",
+                "title": "Discussions for User: 744367269"
+              },
+              "followers": {
+                "href": "/users/744367269/followers",
+                "title": "Followers for User: 744367269"
+              },
+              "following": {
+                "href": "/users/744367269/following",
+                "title": "Following for User: 744367269"
+              },
+              "notifications": {
+                "href": "/users/744367269/notifications",
+                "title": "Notifications for User: 744367269"
+              },
+              "projects": {
+                "href": "/users/744367269/projects",
+                "title": "Projects for User: 744367269"
+              },
+              "rosters": {
+                "href": "/users/744367269/rosters",
+                "title": "Rosters for User: 744367269"
+              },
+              "userTags": {
+                "href": "/users/744367269/userTags",
+                "title": "UserTags for User: 744367269"
+              },
+              "votes": {
+                "href": "/users/744367269/votes",
+                "title": "Votes for User: 744367269"
+              },
+              "wishlist": {
+                "href": "/users/744367269/wishlist",
+                "title": "Wishlist for User: 744367269"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 535689,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNTY4OSJ9",
+        "sku": 395377903,
+        "title": "Character Design Mistakes [How to Fix Them]",
+        "project_title": "Your assignment is made out of two parts:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/86e130502c68a79825bff5d743cd45b7/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/86e130502c68a79825bff5d743cd45b7/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/86e130502c68a79825bff5d743cd45b7/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Character-Design-Mistakes-How-to-Fix-Them/395377903",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "1h 6m",
+        "total_videos_duration_seconds": 3945,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 215,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Oct 24, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/395377903",
+            "title": "Character Design Mistakes [How to Fix Them]"
+          },
+          "teacher": {
+            "href": "/users/5528583",
+            "title": "Lara Militaru - Digital Illustrator & Coach"
+          },
+          "units": {
+            "href": "/classes/395377903/units",
+            "title": "Units for Class: 395377903"
+          },
+          "sessions": {
+            "href": "/classes/395377903/sessions",
+            "title": "Sessions for Class: 395377903"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/395377903/students",
+            "title": "Students for Class: 395377903"
+          },
+          "projects": {
+            "href": "/classes/395377903/projects",
+            "title": "Projects for Class: 395377903"
+          },
+          "reviews": {
+            "href": "/classes/395377903/reviews",
+            "title": "Reviews for Class: 395377903"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8213640,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODIxMzY0MCJ9",
+            "username": 5528583,
+            "first_name": "Lara",
+            "last_name": "Militaru",
+            "full_name": "Lara Militaru",
+            "vanity_username": "lara_militaru",
+            "headline": "Digital Illustrator & Coach",
+            "pic": "https://static.skillshare.com/uploads/users/5528583/user-image-medium.jpg?60464315",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5528583/user-image-small.jpg?1248630820",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5528583/user-image-large.jpg?1351116237",
+            "_links": {
+              "self": {
+                "href": "/users/5528583",
+                "title": "Lara Militaru - Digital Illustrator & Coach"
+              },
+              "my_classes": {
+                "href": "/users/5528583/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5528583/completions",
+                "title": "Completions for User: 5528583"
+              },
+              "discussions": {
+                "href": "/users/5528583/discussions",
+                "title": "Discussions for User: 5528583"
+              },
+              "followers": {
+                "href": "/users/5528583/followers",
+                "title": "Followers for User: 5528583"
+              },
+              "following": {
+                "href": "/users/5528583/following",
+                "title": "Following for User: 5528583"
+              },
+              "notifications": {
+                "href": "/users/5528583/notifications",
+                "title": "Notifications for User: 5528583"
+              },
+              "projects": {
+                "href": "/users/5528583/projects",
+                "title": "Projects for User: 5528583"
+              },
+              "rosters": {
+                "href": "/users/5528583/rosters",
+                "title": "Rosters for User: 5528583"
+              },
+              "userTags": {
+                "href": "/users/5528583/userTags",
+                "title": "UserTags for User: 5528583"
+              },
+              "votes": {
+                "href": "/users/5528583/votes",
+                "title": "Votes for User: 5528583"
+              },
+              "wishlist": {
+                "href": "/users/5528583/wishlist",
+                "title": "Wishlist for User: 5528583"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 535744,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNTc0NCJ9",
+        "sku": 866523221,
+        "title": "Skull Studies in Complementary Color",
+        "project_title": "This class has 3 In-Depth Exercises that leads into our Final Project-a Finished Painting-that draws upon the techniques and concepts gather from our previous works.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f4dcbcbe2cb81c994160b85ea1ffbcfc/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f4dcbcbe2cb81c994160b85ea1ffbcfc/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f4dcbcbe2cb81c994160b85ea1ffbcfc/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Skull-Studies-in-Complementary-Color/866523221",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "1h 7m",
+        "total_videos_duration_seconds": 3993,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 283,
+        "num_projects": 1,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Dec 10, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/866523221",
+            "title": "Skull Studies in Complementary Color"
+          },
+          "teacher": {
+            "href": "/users/938490072",
+            "title": "Zoe Alexandra Glass - Art Jiu Jitsu Life"
+          },
+          "units": {
+            "href": "/classes/866523221/units",
+            "title": "Units for Class: 866523221"
+          },
+          "sessions": {
+            "href": "/classes/866523221/sessions",
+            "title": "Sessions for Class: 866523221"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/866523221/students",
+            "title": "Students for Class: 866523221"
+          },
+          "projects": {
+            "href": "/classes/866523221/projects",
+            "title": "Projects for Class: 866523221"
+          },
+          "reviews": {
+            "href": "/classes/866523221/reviews",
+            "title": "Reviews for Class: 866523221"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11112315,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTExMTIzMTUifQ==",
+            "username": 938490072,
+            "first_name": "Zoe Alexandra Glass",
+            "last_name": null,
+            "full_name": "Zoe Alexandra Glass",
+            "vanity_username": "zoealexandraglass",
+            "headline": "Art Jiu Jitsu Life",
+            "pic": "https://static.skillshare.com/uploads/users/938490072/user-image-medium.jpg?895546020",
+            "pic_sm": "https://static.skillshare.com/uploads/users/938490072/user-image-small.jpg?560688173",
+            "pic_lg": "https://static.skillshare.com/uploads/users/938490072/user-image-large.jpg?1452076000",
+            "_links": {
+              "self": {
+                "href": "/users/938490072",
+                "title": "Zoe Alexandra Glass - Art Jiu Jitsu Life"
+              },
+              "my_classes": {
+                "href": "/users/938490072/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/938490072/completions",
+                "title": "Completions for User: 938490072"
+              },
+              "discussions": {
+                "href": "/users/938490072/discussions",
+                "title": "Discussions for User: 938490072"
+              },
+              "followers": {
+                "href": "/users/938490072/followers",
+                "title": "Followers for User: 938490072"
+              },
+              "following": {
+                "href": "/users/938490072/following",
+                "title": "Following for User: 938490072"
+              },
+              "notifications": {
+                "href": "/users/938490072/notifications",
+                "title": "Notifications for User: 938490072"
+              },
+              "projects": {
+                "href": "/users/938490072/projects",
+                "title": "Projects for User: 938490072"
+              },
+              "rosters": {
+                "href": "/users/938490072/rosters",
+                "title": "Rosters for User: 938490072"
+              },
+              "userTags": {
+                "href": "/users/938490072/userTags",
+                "title": "UserTags for User: 938490072"
+              },
+              "votes": {
+                "href": "/users/938490072/votes",
+                "title": "Votes for User: 938490072"
+              },
+              "wishlist": {
+                "href": "/users/938490072/wishlist",
+                "title": "Wishlist for User: 938490072"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 535773,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNTc3MyJ9",
+        "sku": 1089163381,
+        "title": "ASL | First 120 Basic Questions | American Sign Language",
+        "project_title": "ASSIGNMENT\nPut your new skills to the test and share your&nbsp;new ASL skills&nbsp;with everyone.\nSTEP 1:&nbsp;Choose&nbsp;at least three (3) of the ASL questions from this course.\nSTEP 2:&nbsp;Practi",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e82f4258e210ae09f9d16bb201d6a4f0/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e82f4258e210ae09f9d16bb201d6a4f0/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e82f4258e210ae09f9d16bb201d6a4f0/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/ASL-First-120-Basic-Questions-American-Sign-Language/1089163381",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 213,
+        "total_videos_duration": "14h 13m",
+        "total_videos_duration_seconds": 51152,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 188,
+        "num_projects": 0,
+        "num_discussions": 5,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Oct 31, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1089163381",
+            "title": "ASL | First 120 Basic Questions | American Sign Language"
+          },
+          "teacher": {
+            "href": "/users/8381927",
+            "title": "Able Lingo ASL - American Sign Language (ASL)"
+          },
+          "units": {
+            "href": "/classes/1089163381/units",
+            "title": "Units for Class: 1089163381"
+          },
+          "sessions": {
+            "href": "/classes/1089163381/sessions",
+            "title": "Sessions for Class: 1089163381"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1089163381/students",
+            "title": "Students for Class: 1089163381"
+          },
+          "projects": {
+            "href": "/classes/1089163381/projects",
+            "title": "Projects for Class: 1089163381"
+          },
+          "reviews": {
+            "href": "/classes/1089163381/reviews",
+            "title": "Reviews for Class: 1089163381"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4724516,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDcyNDUxNiJ9",
+            "username": 8381927,
+            "first_name": "Able",
+            "last_name": "Lingo ASL",
+            "full_name": "Able Lingo ASL",
+            "vanity_username": "ablelingo",
+            "headline": "American Sign Language (ASL)",
+            "pic": "https://static.skillshare.com/uploads/users/8381927/user-image-medium.png?579767559",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8381927/user-image-small.png?571822693",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8381927/user-image-large.png?466148265",
+            "_links": {
+              "self": {
+                "href": "/users/8381927",
+                "title": "Able Lingo ASL - American Sign Language (ASL)"
+              },
+              "my_classes": {
+                "href": "/users/8381927/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8381927/completions",
+                "title": "Completions for User: 8381927"
+              },
+              "discussions": {
+                "href": "/users/8381927/discussions",
+                "title": "Discussions for User: 8381927"
+              },
+              "followers": {
+                "href": "/users/8381927/followers",
+                "title": "Followers for User: 8381927"
+              },
+              "following": {
+                "href": "/users/8381927/following",
+                "title": "Following for User: 8381927"
+              },
+              "notifications": {
+                "href": "/users/8381927/notifications",
+                "title": "Notifications for User: 8381927"
+              },
+              "projects": {
+                "href": "/users/8381927/projects",
+                "title": "Projects for User: 8381927"
+              },
+              "rosters": {
+                "href": "/users/8381927/rosters",
+                "title": "Rosters for User: 8381927"
+              },
+              "userTags": {
+                "href": "/users/8381927/userTags",
+                "title": "UserTags for User: 8381927"
+              },
+              "votes": {
+                "href": "/users/8381927/votes",
+                "title": "Votes for User: 8381927"
+              },
+              "wishlist": {
+                "href": "/users/8381927/wishlist",
+                "title": "Wishlist for User: 8381927"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 535781,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNTc4MSJ9",
+        "sku": 1073884355,
+        "title": "Bachata Partner Work Ultimate  Course - Improvers Level, Part 3 of 3",
+        "project_title": "Bachata Partner Work Ultimate  Course - Improvers Level, Part 3 of 3",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6278582917001/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6278582917001/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6278582917001/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Bachata-Partner-Work-Ultimate-Course-Improvers-Level-Part-3-of-3/1073884355",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 16,
+        "total_videos_duration": "1h 30m",
+        "total_videos_duration_seconds": 5429,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 25,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Oct 24, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1073884355",
+            "title": "Bachata Partner Work Ultimate  Course - Improvers Level, Part 3 of 3"
+          },
+          "teacher": {
+            "href": "/users/222688626",
+            "title": "Incognito Dance - New Salsa & Bachata Courses"
+          },
+          "units": {
+            "href": "/classes/1073884355/units",
+            "title": "Units for Class: 1073884355"
+          },
+          "sessions": {
+            "href": "/classes/1073884355/sessions",
+            "title": "Sessions for Class: 1073884355"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1073884355/students",
+            "title": "Students for Class: 1073884355"
+          },
+          "projects": {
+            "href": "/classes/1073884355/projects",
+            "title": "Projects for Class: 1073884355"
+          },
+          "reviews": {
+            "href": "/classes/1073884355/reviews",
+            "title": "Reviews for Class: 1073884355"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15851002,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTU4NTEwMDIifQ==",
+            "username": 222688626,
+            "first_name": "Incognito",
+            "last_name": "Dance",
+            "full_name": "Incognito Dance",
+            "vanity_username": "incognitodance",
+            "headline": "New Salsa & Bachata Courses",
+            "pic": "https://static.skillshare.com/uploads/users/222688626/user-image-medium.png?1235004611",
+            "pic_sm": "https://static.skillshare.com/uploads/users/222688626/user-image-small.png?361306819",
+            "pic_lg": "https://static.skillshare.com/uploads/users/222688626/user-image-large.png?784394463",
+            "_links": {
+              "self": {
+                "href": "/users/222688626",
+                "title": "Incognito Dance - New Salsa & Bachata Courses"
+              },
+              "my_classes": {
+                "href": "/users/222688626/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/222688626/completions",
+                "title": "Completions for User: 222688626"
+              },
+              "discussions": {
+                "href": "/users/222688626/discussions",
+                "title": "Discussions for User: 222688626"
+              },
+              "followers": {
+                "href": "/users/222688626/followers",
+                "title": "Followers for User: 222688626"
+              },
+              "following": {
+                "href": "/users/222688626/following",
+                "title": "Following for User: 222688626"
+              },
+              "notifications": {
+                "href": "/users/222688626/notifications",
+                "title": "Notifications for User: 222688626"
+              },
+              "projects": {
+                "href": "/users/222688626/projects",
+                "title": "Projects for User: 222688626"
+              },
+              "rosters": {
+                "href": "/users/222688626/rosters",
+                "title": "Rosters for User: 222688626"
+              },
+              "userTags": {
+                "href": "/users/222688626/userTags",
+                "title": "UserTags for User: 222688626"
+              },
+              "votes": {
+                "href": "/users/222688626/votes",
+                "title": "Votes for User: 222688626"
+              },
+              "wishlist": {
+                "href": "/users/222688626/wishlist",
+                "title": "Wishlist for User: 222688626"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 535786,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNTc4NiJ9",
+        "sku": 1487172722,
+        "title": "Conversational German Made Easy! (Beginners A1-A2)",
+        "project_title": "My course is designed to enable you to speak right away, so that is exactly what I would like you to do: speak!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1f228e6a57fd8da1c499f510f166726e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1f228e6a57fd8da1c499f510f166726e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1f228e6a57fd8da1c499f510f166726e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Conversational-German-Made-Easy-Beginners-A1-A2/1487172722",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 17,
+        "total_videos_duration": "2h 2m",
+        "total_videos_duration_seconds": 7309,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 75,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Oct 24, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1487172722",
+            "title": "Conversational German Made Easy! (Beginners A1-A2)"
+          },
+          "teacher": {
+            "href": "/users/406713804",
+            "title": "Stefanie Weiß - Certified German language instructor"
+          },
+          "units": {
+            "href": "/classes/1487172722/units",
+            "title": "Units for Class: 1487172722"
+          },
+          "sessions": {
+            "href": "/classes/1487172722/sessions",
+            "title": "Sessions for Class: 1487172722"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1487172722/students",
+            "title": "Students for Class: 1487172722"
+          },
+          "projects": {
+            "href": "/classes/1487172722/projects",
+            "title": "Projects for Class: 1487172722"
+          },
+          "reviews": {
+            "href": "/classes/1487172722/reviews",
+            "title": "Reviews for Class: 1487172722"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16057711,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTYwNTc3MTEifQ==",
+            "username": 406713804,
+            "first_name": "Stefanie",
+            "last_name": "Weiß",
+            "full_name": "Stefanie Weiß",
+            "vanity_username": null,
+            "headline": "Certified German language instructor",
+            "pic": "https://static.skillshare.com/uploads/users/406713804/user-image-medium.jpg?608825482",
+            "pic_sm": "https://static.skillshare.com/uploads/users/406713804/user-image-small.jpg?1825542110",
+            "pic_lg": "https://static.skillshare.com/uploads/users/406713804/user-image-large.jpg?1058545824",
+            "_links": {
+              "self": {
+                "href": "/users/406713804",
+                "title": "Stefanie Weiß - Certified German language instructor"
+              },
+              "my_classes": {
+                "href": "/users/406713804/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/406713804/completions",
+                "title": "Completions for User: 406713804"
+              },
+              "discussions": {
+                "href": "/users/406713804/discussions",
+                "title": "Discussions for User: 406713804"
+              },
+              "followers": {
+                "href": "/users/406713804/followers",
+                "title": "Followers for User: 406713804"
+              },
+              "following": {
+                "href": "/users/406713804/following",
+                "title": "Following for User: 406713804"
+              },
+              "notifications": {
+                "href": "/users/406713804/notifications",
+                "title": "Notifications for User: 406713804"
+              },
+              "projects": {
+                "href": "/users/406713804/projects",
+                "title": "Projects for User: 406713804"
+              },
+              "rosters": {
+                "href": "/users/406713804/rosters",
+                "title": "Rosters for User: 406713804"
+              },
+              "userTags": {
+                "href": "/users/406713804/userTags",
+                "title": "UserTags for User: 406713804"
+              },
+              "votes": {
+                "href": "/users/406713804/votes",
+                "title": "Votes for User: 406713804"
+              },
+              "wishlist": {
+                "href": "/users/406713804/wishlist",
+                "title": "Wishlist for User: 406713804"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 535805,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNTgwNSJ9",
+        "sku": 983427277,
+        "title": "Animation Fundamentals: Rigging a Cycling Character in Cinema 4D",
+        "project_title": "Follow along and make your own bike riding character rig! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e08759cacb54841379941c57ad52a44a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e08759cacb54841379941c57ad52a44a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e08759cacb54841379941c57ad52a44a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Animation-Fundamentals-Rigging-a-Cycling-Character-in-Cinema-4D/983427277",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "49m",
+        "total_videos_duration_seconds": 2931,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 292,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": true,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Oct 29, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/983427277",
+            "title": "Animation Fundamentals: Rigging a Cycling Character in Cinema 4D"
+          },
+          "teacher": {
+            "href": "/users/427081581",
+            "title": "Russ Etheridge - Animator, Designer and Director"
+          },
+          "units": {
+            "href": "/classes/983427277/units",
+            "title": "Units for Class: 983427277"
+          },
+          "sessions": {
+            "href": "/classes/983427277/sessions",
+            "title": "Sessions for Class: 983427277"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/983427277/students",
+            "title": "Students for Class: 983427277"
+          },
+          "projects": {
+            "href": "/classes/983427277/projects",
+            "title": "Projects for Class: 983427277"
+          },
+          "reviews": {
+            "href": "/classes/983427277/reviews",
+            "title": "Reviews for Class: 983427277"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16420663,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTY0MjA2NjMifQ==",
+            "username": 427081581,
+            "first_name": "Russ",
+            "last_name": "Etheridge",
+            "full_name": "Russ Etheridge",
+            "vanity_username": null,
+            "headline": "Animator, Designer and Director",
+            "pic": "https://static.skillshare.com/uploads/users/427081581/user-image-medium.jpg?1205418012",
+            "pic_sm": "https://static.skillshare.com/uploads/users/427081581/user-image-small.jpg?638521264",
+            "pic_lg": "https://static.skillshare.com/uploads/users/427081581/user-image-large.jpg?1470087329",
+            "_links": {
+              "self": {
+                "href": "/users/427081581",
+                "title": "Russ Etheridge - Animator, Designer and Director"
+              },
+              "my_classes": {
+                "href": "/users/427081581/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/427081581/completions",
+                "title": "Completions for User: 427081581"
+              },
+              "discussions": {
+                "href": "/users/427081581/discussions",
+                "title": "Discussions for User: 427081581"
+              },
+              "followers": {
+                "href": "/users/427081581/followers",
+                "title": "Followers for User: 427081581"
+              },
+              "following": {
+                "href": "/users/427081581/following",
+                "title": "Following for User: 427081581"
+              },
+              "notifications": {
+                "href": "/users/427081581/notifications",
+                "title": "Notifications for User: 427081581"
+              },
+              "projects": {
+                "href": "/users/427081581/projects",
+                "title": "Projects for User: 427081581"
+              },
+              "rosters": {
+                "href": "/users/427081581/rosters",
+                "title": "Rosters for User: 427081581"
+              },
+              "userTags": {
+                "href": "/users/427081581/userTags",
+                "title": "UserTags for User: 427081581"
+              },
+              "votes": {
+                "href": "/users/427081581/votes",
+                "title": "Votes for User: 427081581"
+              },
+              "wishlist": {
+                "href": "/users/427081581/wishlist",
+                "title": "Wishlist for User: 427081581"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 535831,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNTgzMSJ9",
+        "sku": 480478974,
+        "title": "Design & Build Your Own Chair: Woodworking with a CNC Milling Machine for Custom Interior Design",
+        "project_title": "For the class project, I would like you to design and build your own chair. It can be a carbon copy of this chair, or you can add your own, colours and customisation details. Share your questions, pro",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e75ad52eead84240756681bf68f5526e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e75ad52eead84240756681bf68f5526e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e75ad52eead84240756681bf68f5526e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Design-Build-Your-Own-Chair-Woodworking-with-a-CNC-Milling-Machine-for-Custom-Interior-Design/480478974",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 22,
+        "total_videos_duration": "1h 31m",
+        "total_videos_duration_seconds": 5462,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 232,
+        "num_projects": 2,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Dec 13, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/480478974",
+            "title": "Design & Build Your Own Chair: Woodworking with a CNC Milling Machine for Custom Interior Design"
+          },
+          "teacher": {
+            "href": "/users/9426628",
+            "title": "Ana Marcu - Home Wellbeing, Licensed architect "
+          },
+          "units": {
+            "href": "/classes/480478974/units",
+            "title": "Units for Class: 480478974"
+          },
+          "sessions": {
+            "href": "/classes/480478974/sessions",
+            "title": "Sessions for Class: 480478974"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/480478974/students",
+            "title": "Students for Class: 480478974"
+          },
+          "projects": {
+            "href": "/classes/480478974/projects",
+            "title": "Projects for Class: 480478974"
+          },
+          "reviews": {
+            "href": "/classes/480478974/reviews",
+            "title": "Reviews for Class: 480478974"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1682906,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTY4MjkwNiJ9",
+            "username": 9426628,
+            "first_name": "Ana",
+            "last_name": "Marcu",
+            "full_name": "Ana Marcu",
+            "vanity_username": "anamarcu",
+            "headline": "Home Wellbeing, Licensed architect ",
+            "pic": "https://static.skillshare.com/uploads/users/9426628/user-image-medium.jpg?60498679",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9426628/user-image-small.jpg?2128757227",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9426628/user-image-large.jpg?907984808",
+            "_links": {
+              "self": {
+                "href": "/users/9426628",
+                "title": "Ana Marcu - Home Wellbeing, Licensed architect "
+              },
+              "my_classes": {
+                "href": "/users/9426628/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9426628/completions",
+                "title": "Completions for User: 9426628"
+              },
+              "discussions": {
+                "href": "/users/9426628/discussions",
+                "title": "Discussions for User: 9426628"
+              },
+              "followers": {
+                "href": "/users/9426628/followers",
+                "title": "Followers for User: 9426628"
+              },
+              "following": {
+                "href": "/users/9426628/following",
+                "title": "Following for User: 9426628"
+              },
+              "notifications": {
+                "href": "/users/9426628/notifications",
+                "title": "Notifications for User: 9426628"
+              },
+              "projects": {
+                "href": "/users/9426628/projects",
+                "title": "Projects for User: 9426628"
+              },
+              "rosters": {
+                "href": "/users/9426628/rosters",
+                "title": "Rosters for User: 9426628"
+              },
+              "userTags": {
+                "href": "/users/9426628/userTags",
+                "title": "UserTags for User: 9426628"
+              },
+              "votes": {
+                "href": "/users/9426628/votes",
+                "title": "Votes for User: 9426628"
+              },
+              "wishlist": {
+                "href": "/users/9426628/wishlist",
+                "title": "Wishlist for User: 9426628"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 535839,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNTgzOSJ9",
+        "sku": 806700323,
+        "title": "Airbnb MASTERCLASS: Start Your Short Term Rental Business with Confidence",
+        "project_title": "For the class project, you will find the price difference a group of five travellers (2+2+1) will see if they were staying in an Airbnb compared to a hotel.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fa8bddddbf6a240f3ed46165f8df4cff/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fa8bddddbf6a240f3ed46165f8df4cff/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fa8bddddbf6a240f3ed46165f8df4cff/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Airbnb-MASTERCLASS-Start-Your-Short-Term-Rental-Business-with-Confidence/806700323",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 50,
+        "total_videos_duration": "3h 34m",
+        "total_videos_duration_seconds": 12837,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1080,
+        "num_projects": 4,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Oct 25, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/806700323",
+            "title": "Airbnb MASTERCLASS: Start Your Short Term Rental Business with Confidence"
+          },
+          "teacher": {
+            "href": "/users/546399664",
+            "title": "Prayas Choudhary - Airbnb Entrepreneur"
+          },
+          "units": {
+            "href": "/classes/806700323/units",
+            "title": "Units for Class: 806700323"
+          },
+          "sessions": {
+            "href": "/classes/806700323/sessions",
+            "title": "Sessions for Class: 806700323"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/806700323/students",
+            "title": "Students for Class: 806700323"
+          },
+          "projects": {
+            "href": "/classes/806700323/projects",
+            "title": "Projects for Class: 806700323"
+          },
+          "reviews": {
+            "href": "/classes/806700323/reviews",
+            "title": "Reviews for Class: 806700323"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 22245235,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjIyNDUyMzUifQ==",
+            "username": 546399664,
+            "first_name": "Prayas",
+            "last_name": "Choudhary",
+            "full_name": "Prayas Choudhary",
+            "vanity_username": "bnbspecialist",
+            "headline": "Airbnb Entrepreneur",
+            "pic": "https://static.skillshare.com/uploads/users/546399664/user-image-medium.png?2072259735",
+            "pic_sm": "https://static.skillshare.com/uploads/users/546399664/user-image-small.png?1012419287",
+            "pic_lg": "https://static.skillshare.com/uploads/users/546399664/user-image-large.png?1695076243",
+            "_links": {
+              "self": {
+                "href": "/users/546399664",
+                "title": "Prayas Choudhary - Airbnb Entrepreneur"
+              },
+              "my_classes": {
+                "href": "/users/546399664/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/546399664/completions",
+                "title": "Completions for User: 546399664"
+              },
+              "discussions": {
+                "href": "/users/546399664/discussions",
+                "title": "Discussions for User: 546399664"
+              },
+              "followers": {
+                "href": "/users/546399664/followers",
+                "title": "Followers for User: 546399664"
+              },
+              "following": {
+                "href": "/users/546399664/following",
+                "title": "Following for User: 546399664"
+              },
+              "notifications": {
+                "href": "/users/546399664/notifications",
+                "title": "Notifications for User: 546399664"
+              },
+              "projects": {
+                "href": "/users/546399664/projects",
+                "title": "Projects for User: 546399664"
+              },
+              "rosters": {
+                "href": "/users/546399664/rosters",
+                "title": "Rosters for User: 546399664"
+              },
+              "userTags": {
+                "href": "/users/546399664/userTags",
+                "title": "UserTags for User: 546399664"
+              },
+              "votes": {
+                "href": "/users/546399664/votes",
+                "title": "Votes for User: 546399664"
+              },
+              "wishlist": {
+                "href": "/users/546399664/wishlist",
+                "title": "Wishlist for User: 546399664"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 535852,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzNTg1MiJ9",
+        "sku": 107887274,
+        "title": "Soft Slab Pottery: Easy Hand-Built Dinnerware",
+        "project_title": "Your project will be to make a dinnerware place setting using the techniques you learned in this class.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9cccfb8a6add0e5787bf68d6d4a2b046/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9cccfb8a6add0e5787bf68d6d4a2b046/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9cccfb8a6add0e5787bf68d6d4a2b046/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Soft-Slab-Pottery-Easy-Hand-Built-Dinnerware/107887274",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "42m",
+        "total_videos_duration_seconds": 2518,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 228,
+        "num_projects": 1,
+        "num_discussions": 4,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Oct 25, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/107887274",
+            "title": "Soft Slab Pottery: Easy Hand-Built Dinnerware"
+          },
+          "teacher": {
+            "href": "/users/230344103",
+            "title": "Vicki Conley - Art and Design"
+          },
+          "units": {
+            "href": "/classes/107887274/units",
+            "title": "Units for Class: 107887274"
+          },
+          "sessions": {
+            "href": "/classes/107887274/sessions",
+            "title": "Sessions for Class: 107887274"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/107887274/students",
+            "title": "Students for Class: 107887274"
+          },
+          "projects": {
+            "href": "/classes/107887274/projects",
+            "title": "Projects for Class: 107887274"
+          },
+          "reviews": {
+            "href": "/classes/107887274/reviews",
+            "title": "Reviews for Class: 107887274"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21561902,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjE1NjE5MDIifQ==",
+            "username": 230344103,
+            "first_name": "Vicki",
+            "last_name": "Conley",
+            "full_name": "Vicki Conley",
+            "vanity_username": null,
+            "headline": "Art and Design",
+            "pic": "https://static.skillshare.com/uploads/users/230344103/user-image-medium.jpg?776926699",
+            "pic_sm": "https://static.skillshare.com/uploads/users/230344103/user-image-small.jpg?1630357342",
+            "pic_lg": "https://static.skillshare.com/uploads/users/230344103/user-image-large.jpg?63051995",
+            "_links": {
+              "self": {
+                "href": "/users/230344103",
+                "title": "Vicki Conley - Art and Design"
+              },
+              "my_classes": {
+                "href": "/users/230344103/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/230344103/completions",
+                "title": "Completions for User: 230344103"
+              },
+              "discussions": {
+                "href": "/users/230344103/discussions",
+                "title": "Discussions for User: 230344103"
+              },
+              "followers": {
+                "href": "/users/230344103/followers",
+                "title": "Followers for User: 230344103"
+              },
+              "following": {
+                "href": "/users/230344103/following",
+                "title": "Following for User: 230344103"
+              },
+              "notifications": {
+                "href": "/users/230344103/notifications",
+                "title": "Notifications for User: 230344103"
+              },
+              "projects": {
+                "href": "/users/230344103/projects",
+                "title": "Projects for User: 230344103"
+              },
+              "rosters": {
+                "href": "/users/230344103/rosters",
+                "title": "Rosters for User: 230344103"
+              },
+              "userTags": {
+                "href": "/users/230344103/userTags",
+                "title": "UserTags for User: 230344103"
+              },
+              "votes": {
+                "href": "/users/230344103/votes",
+                "title": "Votes for User: 230344103"
+              },
+              "wishlist": {
+                "href": "/users/230344103/wishlist",
+                "title": "Wishlist for User: 230344103"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+---
+# Please keep alphabetic order
+bracketSpacing: true
+endOfLine: lf
+overrides:
+  - files:
+      - .yaml
+      - .yml
+    options:
+      tabWidth: 2
+printWidth: 120
+root: true
+semi: true
+singleQuote: true
+tabWidth: 2
+trailingComma: 'all'
+useTabs: false

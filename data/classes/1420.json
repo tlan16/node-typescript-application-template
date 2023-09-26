@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1420",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1419",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1421",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 574026,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDAyNiJ9",
+        "sku": 1670252972,
+        "title": "Gingham, Checkers and Buffalo Plaid in Procreate - The Quick and Easy Method",
+        "project_title": "Challenge yourself today and download and create the three different pattern repeats as described in class. Work through each of the lessons, applying the concepts as I teach them. Try to create all t",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/09ac7a951babe9b0b54e0e672e305a9e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/09ac7a951babe9b0b54e0e672e305a9e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/09ac7a951babe9b0b54e0e672e305a9e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Gingham-Checkers-and-Buffalo-Plaid-in-Procreate-The-Quick-and-Easy-Method/1670252972",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "34m",
+        "total_videos_duration_seconds": 2053,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 323,
+        "num_projects": 3,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1670252972",
+            "title": "Gingham, Checkers and Buffalo Plaid in Procreate - The Quick and Easy Method"
+          },
+          "teacher": {
+            "href": "/users/3656902",
+            "title": "Delores Naskrent - Creative Explorer"
+          },
+          "units": {
+            "href": "/classes/1670252972/units",
+            "title": "Units for Class: 1670252972"
+          },
+          "sessions": {
+            "href": "/classes/1670252972/sessions",
+            "title": "Sessions for Class: 1670252972"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1670252972/students",
+            "title": "Students for Class: 1670252972"
+          },
+          "projects": {
+            "href": "/classes/1670252972/projects",
+            "title": "Projects for Class: 1670252972"
+          },
+          "reviews": {
+            "href": "/classes/1670252972/reviews",
+            "title": "Reviews for Class: 1670252972"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3900428,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzkwMDQyOCJ9",
+            "username": 3656902,
+            "first_name": "Delores",
+            "last_name": "Naskrent",
+            "full_name": "Delores Naskrent",
+            "vanity_username": null,
+            "headline": "Creative Explorer",
+            "pic": "https://static.skillshare.com/uploads/users/3656902/user-image-medium.jpg?166433333",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3656902/user-image-small.jpg?784674700",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3656902/user-image-large.jpg?599187734",
+            "_links": {
+              "self": {
+                "href": "/users/3656902",
+                "title": "Delores Naskrent - Creative Explorer"
+              },
+              "my_classes": {
+                "href": "/users/3656902/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3656902/completions",
+                "title": "Completions for User: 3656902"
+              },
+              "discussions": {
+                "href": "/users/3656902/discussions",
+                "title": "Discussions for User: 3656902"
+              },
+              "followers": {
+                "href": "/users/3656902/followers",
+                "title": "Followers for User: 3656902"
+              },
+              "following": {
+                "href": "/users/3656902/following",
+                "title": "Following for User: 3656902"
+              },
+              "notifications": {
+                "href": "/users/3656902/notifications",
+                "title": "Notifications for User: 3656902"
+              },
+              "projects": {
+                "href": "/users/3656902/projects",
+                "title": "Projects for User: 3656902"
+              },
+              "rosters": {
+                "href": "/users/3656902/rosters",
+                "title": "Rosters for User: 3656902"
+              },
+              "userTags": {
+                "href": "/users/3656902/userTags",
+                "title": "UserTags for User: 3656902"
+              },
+              "votes": {
+                "href": "/users/3656902/votes",
+                "title": "Votes for User: 3656902"
+              },
+              "wishlist": {
+                "href": "/users/3656902/wishlist",
+                "title": "Wishlist for User: 3656902"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574048,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDA0OCJ9",
+        "sku": 1743416077,
+        "title": "Video Games Course - Animating An In Game Idle",
+        "project_title": "Your assignment will be to complete an in game idle cycle with any rig you like. If you would like to use the rig I'm using you can download here.  Maya Rig.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/bb4fd9fd66320f9a5ca2c9a3cb552903/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/bb4fd9fd66320f9a5ca2c9a3cb552903/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/bb4fd9fd66320f9a5ca2c9a3cb552903/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Video-Games-Course-Animating-An-In-Game-Idle/1743416077",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "1h 23m",
+        "total_videos_duration_seconds": 4957,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 89,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1743416077",
+            "title": "Video Games Course - Animating An In Game Idle"
+          },
+          "teacher": {
+            "href": "/users/8582371",
+            "title": "Opi Chaggar - Senior Animator + YouTuber"
+          },
+          "units": {
+            "href": "/classes/1743416077/units",
+            "title": "Units for Class: 1743416077"
+          },
+          "sessions": {
+            "href": "/classes/1743416077/sessions",
+            "title": "Sessions for Class: 1743416077"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1743416077/students",
+            "title": "Students for Class: 1743416077"
+          },
+          "projects": {
+            "href": "/classes/1743416077/projects",
+            "title": "Projects for Class: 1743416077"
+          },
+          "reviews": {
+            "href": "/classes/1743416077/reviews",
+            "title": "Reviews for Class: 1743416077"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4140068,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDE0MDA2OCJ9",
+            "username": 8582371,
+            "first_name": "Opi",
+            "last_name": "Chaggar",
+            "full_name": "Opi Chaggar",
+            "vanity_username": "opi_chaggar",
+            "headline": "Senior Animator + YouTuber",
+            "pic": "https://static.skillshare.com/uploads/users/8582371/user-image-medium.jpg?1111554779",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8582371/user-image-small.jpg?1034500168",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8582371/user-image-large.jpg?674454976",
+            "_links": {
+              "self": {
+                "href": "/users/8582371",
+                "title": "Opi Chaggar - Senior Animator + YouTuber"
+              },
+              "my_classes": {
+                "href": "/users/8582371/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8582371/completions",
+                "title": "Completions for User: 8582371"
+              },
+              "discussions": {
+                "href": "/users/8582371/discussions",
+                "title": "Discussions for User: 8582371"
+              },
+              "followers": {
+                "href": "/users/8582371/followers",
+                "title": "Followers for User: 8582371"
+              },
+              "following": {
+                "href": "/users/8582371/following",
+                "title": "Following for User: 8582371"
+              },
+              "notifications": {
+                "href": "/users/8582371/notifications",
+                "title": "Notifications for User: 8582371"
+              },
+              "projects": {
+                "href": "/users/8582371/projects",
+                "title": "Projects for User: 8582371"
+              },
+              "rosters": {
+                "href": "/users/8582371/rosters",
+                "title": "Rosters for User: 8582371"
+              },
+              "userTags": {
+                "href": "/users/8582371/userTags",
+                "title": "UserTags for User: 8582371"
+              },
+              "votes": {
+                "href": "/users/8582371/votes",
+                "title": "Votes for User: 8582371"
+              },
+              "wishlist": {
+                "href": "/users/8582371/wishlist",
+                "title": "Wishlist for User: 8582371"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574051,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDA1MSJ9",
+        "sku": 553458302,
+        "title": "Botanical Illustration in Procreate: Clipping Masks, Blend Modes & Composition",
+        "project_title": "The project for this class is to create your own botanical composition with fruit by following the step by step process outlined in the class.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/601b5914e05686b751430034b2033712/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/601b5914e05686b751430034b2033712/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/601b5914e05686b751430034b2033712/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Botanical-Illustration-in-Procreate-Clipping-Masks-Blend-Modes-Composition/553458302",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 17,
+        "total_videos_duration": "2h",
+        "total_videos_duration_seconds": 7224,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1117,
+        "num_projects": 98,
+        "num_discussions": 9,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/553458302",
+            "title": "Botanical Illustration in Procreate: Clipping Masks, Blend Modes & Composition"
+          },
+          "teacher": {
+            "href": "/users/3983120",
+            "title": "Weronika Salach - Art with MAGIC"
+          },
+          "units": {
+            "href": "/classes/553458302/units",
+            "title": "Units for Class: 553458302"
+          },
+          "sessions": {
+            "href": "/classes/553458302/sessions",
+            "title": "Sessions for Class: 553458302"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/553458302/students",
+            "title": "Students for Class: 553458302"
+          },
+          "projects": {
+            "href": "/classes/553458302/projects",
+            "title": "Projects for Class: 553458302"
+          },
+          "reviews": {
+            "href": "/classes/553458302/reviews",
+            "title": "Reviews for Class: 553458302"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2935387,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjkzNTM4NyJ9",
+            "username": 3983120,
+            "first_name": "Weronika",
+            "last_name": "Salach",
+            "full_name": "Weronika Salach",
+            "vanity_username": "weronikasalach",
+            "headline": "Art with MAGIC",
+            "pic": "https://static.skillshare.com/uploads/users/3983120/user-image-medium.png?564423293",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3983120/user-image-small.png?1502657889",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3983120/user-image-large.png?1095202526",
+            "_links": {
+              "self": {
+                "href": "/users/3983120",
+                "title": "Weronika Salach - Art with MAGIC"
+              },
+              "my_classes": {
+                "href": "/users/3983120/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3983120/completions",
+                "title": "Completions for User: 3983120"
+              },
+              "discussions": {
+                "href": "/users/3983120/discussions",
+                "title": "Discussions for User: 3983120"
+              },
+              "followers": {
+                "href": "/users/3983120/followers",
+                "title": "Followers for User: 3983120"
+              },
+              "following": {
+                "href": "/users/3983120/following",
+                "title": "Following for User: 3983120"
+              },
+              "notifications": {
+                "href": "/users/3983120/notifications",
+                "title": "Notifications for User: 3983120"
+              },
+              "projects": {
+                "href": "/users/3983120/projects",
+                "title": "Projects for User: 3983120"
+              },
+              "rosters": {
+                "href": "/users/3983120/rosters",
+                "title": "Rosters for User: 3983120"
+              },
+              "userTags": {
+                "href": "/users/3983120/userTags",
+                "title": "UserTags for User: 3983120"
+              },
+              "votes": {
+                "href": "/users/3983120/votes",
+                "title": "Votes for User: 3983120"
+              },
+              "wishlist": {
+                "href": "/users/3983120/wishlist",
+                "title": "Wishlist for User: 3983120"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574056,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDA1NiJ9",
+        "sku": 2001245111,
+        "title": "Refurbishing Furniture for Beginners: Stripping Furniture",
+        "project_title": "Your assignment is to use the knowledge you gained from this video to strip the finish off of a piece of furniture to reveal the wood underneath! This is the perfect way to prep your piece for a new s",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/eb3bdad8819f9003ad10b92a39c5d214/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/eb3bdad8819f9003ad10b92a39c5d214/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/eb3bdad8819f9003ad10b92a39c5d214/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Refurbishing-Furniture-for-Beginners-Stripping-Furniture/2001245111",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "16m",
+        "total_videos_duration_seconds": 943,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 292,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2001245111",
+            "title": "Refurbishing Furniture for Beginners: Stripping Furniture"
+          },
+          "teacher": {
+            "href": "/users/694777301",
+            "title": "Emily B - Restore Refurbish Revive"
+          },
+          "units": {
+            "href": "/classes/2001245111/units",
+            "title": "Units for Class: 2001245111"
+          },
+          "sessions": {
+            "href": "/classes/2001245111/sessions",
+            "title": "Sessions for Class: 2001245111"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2001245111/students",
+            "title": "Students for Class: 2001245111"
+          },
+          "projects": {
+            "href": "/classes/2001245111/projects",
+            "title": "Projects for Class: 2001245111"
+          },
+          "reviews": {
+            "href": "/classes/2001245111/reviews",
+            "title": "Reviews for Class: 2001245111"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25942628,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjU5NDI2MjgifQ==",
+            "username": 694777301,
+            "first_name": "Emily",
+            "last_name": "B",
+            "full_name": "Emily B",
+            "vanity_username": null,
+            "headline": "Restore Refurbish Revive",
+            "pic": "https://static.skillshare.com/uploads/users/694777301/user-image-medium.jpg?948307086",
+            "pic_sm": "https://static.skillshare.com/uploads/users/694777301/user-image-small.jpg?1920645600",
+            "pic_lg": "https://static.skillshare.com/uploads/users/694777301/user-image-large.jpg?1973600339",
+            "_links": {
+              "self": {
+                "href": "/users/694777301",
+                "title": "Emily B - Restore Refurbish Revive"
+              },
+              "my_classes": {
+                "href": "/users/694777301/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/694777301/completions",
+                "title": "Completions for User: 694777301"
+              },
+              "discussions": {
+                "href": "/users/694777301/discussions",
+                "title": "Discussions for User: 694777301"
+              },
+              "followers": {
+                "href": "/users/694777301/followers",
+                "title": "Followers for User: 694777301"
+              },
+              "following": {
+                "href": "/users/694777301/following",
+                "title": "Following for User: 694777301"
+              },
+              "notifications": {
+                "href": "/users/694777301/notifications",
+                "title": "Notifications for User: 694777301"
+              },
+              "projects": {
+                "href": "/users/694777301/projects",
+                "title": "Projects for User: 694777301"
+              },
+              "rosters": {
+                "href": "/users/694777301/rosters",
+                "title": "Rosters for User: 694777301"
+              },
+              "userTags": {
+                "href": "/users/694777301/userTags",
+                "title": "UserTags for User: 694777301"
+              },
+              "votes": {
+                "href": "/users/694777301/votes",
+                "title": "Votes for User: 694777301"
+              },
+              "wishlist": {
+                "href": "/users/694777301/wishlist",
+                "title": "Wishlist for User: 694777301"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574065,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDA2NSJ9",
+        "sku": 893202503,
+        "title": "Matte Medium Masking & Watercolour - A Short & Sweet Class",
+        "project_title": "I've kept the class short, but you could go on to develop this technique and do larger or many-layered pieces!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/16f41c6c5d37672117c70a41eb782d68/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/16f41c6c5d37672117c70a41eb782d68/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/16f41c6c5d37672117c70a41eb782d68/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Matte-Medium-Masking-Watercolour-A-Short-Sweet-Class/893202503",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "24m",
+        "total_videos_duration_seconds": 1441,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 66,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 14, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/893202503",
+            "title": "Matte Medium Masking & Watercolour - A Short & Sweet Class"
+          },
+          "teacher": {
+            "href": "/users/3550260",
+            "title": "Holly Tomas Design - Design Watercolours Printing Mixed media"
+          },
+          "units": {
+            "href": "/classes/893202503/units",
+            "title": "Units for Class: 893202503"
+          },
+          "sessions": {
+            "href": "/classes/893202503/sessions",
+            "title": "Sessions for Class: 893202503"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/893202503/students",
+            "title": "Students for Class: 893202503"
+          },
+          "projects": {
+            "href": "/classes/893202503/projects",
+            "title": "Projects for Class: 893202503"
+          },
+          "reviews": {
+            "href": "/classes/893202503/reviews",
+            "title": "Reviews for Class: 893202503"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7445650,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzQ0NTY1MCJ9",
+            "username": 3550260,
+            "first_name": "Holly",
+            "last_name": "Tomas Design",
+            "full_name": "Holly Tomas Design",
+            "vanity_username": "wren6563",
+            "headline": "Design Watercolours Printing Mixed media",
+            "pic": "https://static.skillshare.com/uploads/users/3550260/user-image-medium.jpg?2143485571",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3550260/user-image-small.jpg?870093302",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3550260/user-image-large.jpg?1239884004",
+            "_links": {
+              "self": {
+                "href": "/users/3550260",
+                "title": "Holly Tomas Design - Design Watercolours Printing Mixed media"
+              },
+              "my_classes": {
+                "href": "/users/3550260/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3550260/completions",
+                "title": "Completions for User: 3550260"
+              },
+              "discussions": {
+                "href": "/users/3550260/discussions",
+                "title": "Discussions for User: 3550260"
+              },
+              "followers": {
+                "href": "/users/3550260/followers",
+                "title": "Followers for User: 3550260"
+              },
+              "following": {
+                "href": "/users/3550260/following",
+                "title": "Following for User: 3550260"
+              },
+              "notifications": {
+                "href": "/users/3550260/notifications",
+                "title": "Notifications for User: 3550260"
+              },
+              "projects": {
+                "href": "/users/3550260/projects",
+                "title": "Projects for User: 3550260"
+              },
+              "rosters": {
+                "href": "/users/3550260/rosters",
+                "title": "Rosters for User: 3550260"
+              },
+              "userTags": {
+                "href": "/users/3550260/userTags",
+                "title": "UserTags for User: 3550260"
+              },
+              "votes": {
+                "href": "/users/3550260/votes",
+                "title": "Votes for User: 3550260"
+              },
+              "wishlist": {
+                "href": "/users/3550260/wishlist",
+                "title": "Wishlist for User: 3550260"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574095,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDA5NSJ9",
+        "sku": 1120694268,
+        "title": "Learn English: How & Where To Use Punctuation Marks",
+        "project_title": "In this project, you are going to apply what you have learned in the class.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6305784009112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6305784009112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6305784009112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-English-How-Where-To-Use-Punctuation-Marks/1120694268",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 18,
+        "total_videos_duration": "2h 57m",
+        "total_videos_duration_seconds": 10602,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 66,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 12, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1120694268",
+            "title": "Learn English: How & Where To Use Punctuation Marks"
+          },
+          "teacher": {
+            "href": "/users/449948498",
+            "title": "Leila Tar"
+          },
+          "units": {
+            "href": "/classes/1120694268/units",
+            "title": "Units for Class: 1120694268"
+          },
+          "sessions": {
+            "href": "/classes/1120694268/sessions",
+            "title": "Sessions for Class: 1120694268"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1120694268/students",
+            "title": "Students for Class: 1120694268"
+          },
+          "projects": {
+            "href": "/classes/1120694268/projects",
+            "title": "Projects for Class: 1120694268"
+          },
+          "reviews": {
+            "href": "/classes/1120694268/reviews",
+            "title": "Reviews for Class: 1120694268"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 20080410,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjAwODA0MTAifQ==",
+            "username": 449948498,
+            "first_name": "Leila",
+            "last_name": "Tar",
+            "full_name": "Leila Tar",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/449948498",
+                "title": "Leila Tar"
+              },
+              "my_classes": {
+                "href": "/users/449948498/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/449948498/completions",
+                "title": "Completions for User: 449948498"
+              },
+              "discussions": {
+                "href": "/users/449948498/discussions",
+                "title": "Discussions for User: 449948498"
+              },
+              "followers": {
+                "href": "/users/449948498/followers",
+                "title": "Followers for User: 449948498"
+              },
+              "following": {
+                "href": "/users/449948498/following",
+                "title": "Following for User: 449948498"
+              },
+              "notifications": {
+                "href": "/users/449948498/notifications",
+                "title": "Notifications for User: 449948498"
+              },
+              "projects": {
+                "href": "/users/449948498/projects",
+                "title": "Projects for User: 449948498"
+              },
+              "rosters": {
+                "href": "/users/449948498/rosters",
+                "title": "Rosters for User: 449948498"
+              },
+              "userTags": {
+                "href": "/users/449948498/userTags",
+                "title": "UserTags for User: 449948498"
+              },
+              "votes": {
+                "href": "/users/449948498/votes",
+                "title": "Votes for User: 449948498"
+              },
+              "wishlist": {
+                "href": "/users/449948498/wishlist",
+                "title": "Wishlist for User: 449948498"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574109,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDEwOSJ9",
+        "sku": 1425812500,
+        "title": "Crochet citrus coasters summer coasters tutorial for beginner intermediate and advance levels",
+        "project_title": "The class project for th students is that they have to crochet the coaster demonstrated in the class and either replicate it or create their own version of it and post pictures in the class project se",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9d10a1368a234afd41f23460673f6a44/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9d10a1368a234afd41f23460673f6a44/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9d10a1368a234afd41f23460673f6a44/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Crochet-citrus-coasters-summer-coasters-tutorial-for-beginner-intermediate-and-advance-levels/1425812500",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "41m",
+        "total_videos_duration_seconds": 2456,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 34,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1425812500",
+            "title": "Crochet citrus coasters summer coasters tutorial for beginner intermediate and advance levels"
+          },
+          "teacher": {
+            "href": "/users/44681836",
+            "title": "Natasha Jonathan - Crochet artist| Creator| Designer| tutor"
+          },
+          "units": {
+            "href": "/classes/1425812500/units",
+            "title": "Units for Class: 1425812500"
+          },
+          "sessions": {
+            "href": "/classes/1425812500/sessions",
+            "title": "Sessions for Class: 1425812500"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1425812500/students",
+            "title": "Students for Class: 1425812500"
+          },
+          "projects": {
+            "href": "/classes/1425812500/projects",
+            "title": "Projects for Class: 1425812500"
+          },
+          "reviews": {
+            "href": "/classes/1425812500/reviews",
+            "title": "Reviews for Class: 1425812500"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18622254,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTg2MjIyNTQifQ==",
+            "username": 44681836,
+            "first_name": "Natasha",
+            "last_name": "Jonathan",
+            "full_name": "Natasha Jonathan",
+            "vanity_username": null,
+            "headline": "Crochet artist| Creator| Designer| tutor",
+            "pic": "https://static.skillshare.com/uploads/users/44681836/user-image-medium.jpg?2130918686",
+            "pic_sm": "https://static.skillshare.com/uploads/users/44681836/user-image-small.jpg?56606160",
+            "pic_lg": "https://static.skillshare.com/uploads/users/44681836/user-image-large.jpg?854609982",
+            "_links": {
+              "self": {
+                "href": "/users/44681836",
+                "title": "Natasha Jonathan - Crochet artist| Creator| Designer| tutor"
+              },
+              "my_classes": {
+                "href": "/users/44681836/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/44681836/completions",
+                "title": "Completions for User: 44681836"
+              },
+              "discussions": {
+                "href": "/users/44681836/discussions",
+                "title": "Discussions for User: 44681836"
+              },
+              "followers": {
+                "href": "/users/44681836/followers",
+                "title": "Followers for User: 44681836"
+              },
+              "following": {
+                "href": "/users/44681836/following",
+                "title": "Following for User: 44681836"
+              },
+              "notifications": {
+                "href": "/users/44681836/notifications",
+                "title": "Notifications for User: 44681836"
+              },
+              "projects": {
+                "href": "/users/44681836/projects",
+                "title": "Projects for User: 44681836"
+              },
+              "rosters": {
+                "href": "/users/44681836/rosters",
+                "title": "Rosters for User: 44681836"
+              },
+              "userTags": {
+                "href": "/users/44681836/userTags",
+                "title": "UserTags for User: 44681836"
+              },
+              "votes": {
+                "href": "/users/44681836/votes",
+                "title": "Votes for User: 44681836"
+              },
+              "wishlist": {
+                "href": "/users/44681836/wishlist",
+                "title": "Wishlist for User: 44681836"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574122,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDEyMiJ9",
+        "sku": 1357836594,
+        "title": "Learn Chinese Characters & Pinyin For Beginners & Advanced",
+        "project_title": "Please review the lesson content after watching each video. I highly recommend writing down each pinyin or even the Chinese characters. I recommend using Anki (an app for memorizing flashcards).   At ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/3504d54cc6b9566320d5bc68efa87cd4/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/3504d54cc6b9566320d5bc68efa87cd4/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/3504d54cc6b9566320d5bc68efa87cd4/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-Chinese-Characters-Pinyin-For-Beginners-Advanced/1357836594",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "15m",
+        "total_videos_duration_seconds": 906,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 32,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1357836594",
+            "title": "Learn Chinese Characters & Pinyin For Beginners & Advanced"
+          },
+          "teacher": {
+            "href": "/users/743813694",
+            "title": "Ting Ting - Learn Chinese with Ting Ting"
+          },
+          "units": {
+            "href": "/classes/1357836594/units",
+            "title": "Units for Class: 1357836594"
+          },
+          "sessions": {
+            "href": "/classes/1357836594/sessions",
+            "title": "Sessions for Class: 1357836594"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1357836594/students",
+            "title": "Students for Class: 1357836594"
+          },
+          "projects": {
+            "href": "/classes/1357836594/projects",
+            "title": "Projects for Class: 1357836594"
+          },
+          "reviews": {
+            "href": "/classes/1357836594/reviews",
+            "title": "Reviews for Class: 1357836594"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23604075,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjM2MDQwNzUifQ==",
+            "username": 743813694,
+            "first_name": "Ting",
+            "last_name": "Ting",
+            "full_name": "Ting Ting",
+            "vanity_username": null,
+            "headline": "Learn Chinese with Ting Ting",
+            "pic": "https://static.skillshare.com/uploads/users/743813694/user-image-medium.png?1276422222",
+            "pic_sm": "https://static.skillshare.com/uploads/users/743813694/user-image-small.png?1528703002",
+            "pic_lg": "https://static.skillshare.com/uploads/users/743813694/user-image-large.png?45551757",
+            "_links": {
+              "self": {
+                "href": "/users/743813694",
+                "title": "Ting Ting - Learn Chinese with Ting Ting"
+              },
+              "my_classes": {
+                "href": "/users/743813694/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/743813694/completions",
+                "title": "Completions for User: 743813694"
+              },
+              "discussions": {
+                "href": "/users/743813694/discussions",
+                "title": "Discussions for User: 743813694"
+              },
+              "followers": {
+                "href": "/users/743813694/followers",
+                "title": "Followers for User: 743813694"
+              },
+              "following": {
+                "href": "/users/743813694/following",
+                "title": "Following for User: 743813694"
+              },
+              "notifications": {
+                "href": "/users/743813694/notifications",
+                "title": "Notifications for User: 743813694"
+              },
+              "projects": {
+                "href": "/users/743813694/projects",
+                "title": "Projects for User: 743813694"
+              },
+              "rosters": {
+                "href": "/users/743813694/rosters",
+                "title": "Rosters for User: 743813694"
+              },
+              "userTags": {
+                "href": "/users/743813694/userTags",
+                "title": "UserTags for User: 743813694"
+              },
+              "votes": {
+                "href": "/users/743813694/votes",
+                "title": "Votes for User: 743813694"
+              },
+              "wishlist": {
+                "href": "/users/743813694/wishlist",
+                "title": "Wishlist for User: 743813694"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574123,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDEyMyJ9",
+        "sku": 2128050620,
+        "title": "Productivity - Achieve More, Struggle Less",
+        "project_title": "As part of the course project I would like you to think about a professional or personal goal you would like to achieve next month. Think about the steps you require to achieve it. Break it down into ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/3e052781bdd464a3971535b8cabe401e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/3e052781bdd464a3971535b8cabe401e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/3e052781bdd464a3971535b8cabe401e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Productivity-Achieve-More-Struggle-Less/2128050620",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "26m",
+        "total_videos_duration_seconds": 1567,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 9,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2128050620",
+            "title": "Productivity - Achieve More, Struggle Less"
+          },
+          "teacher": {
+            "href": "/users/252285964",
+            "title": "Noemi Fabian"
+          },
+          "units": {
+            "href": "/classes/2128050620/units",
+            "title": "Units for Class: 2128050620"
+          },
+          "sessions": {
+            "href": "/classes/2128050620/sessions",
+            "title": "Sessions for Class: 2128050620"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/2128050620/students",
+            "title": "Students for Class: 2128050620"
+          },
+          "projects": {
+            "href": "/classes/2128050620/projects",
+            "title": "Projects for Class: 2128050620"
+          },
+          "reviews": {
+            "href": "/classes/2128050620/reviews",
+            "title": "Reviews for Class: 2128050620"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25139217,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUxMzkyMTcifQ==",
+            "username": 252285964,
+            "first_name": "Noemi",
+            "last_name": "Fabian",
+            "full_name": "Noemi Fabian",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/252285964/user-image-medium.jpg?88389280",
+            "pic_sm": "https://static.skillshare.com/uploads/users/252285964/user-image-small.jpg?191147207",
+            "pic_lg": "https://static.skillshare.com/uploads/users/252285964/user-image-large.jpg?445799969",
+            "_links": {
+              "self": {
+                "href": "/users/252285964",
+                "title": "Noemi Fabian"
+              },
+              "my_classes": {
+                "href": "/users/252285964/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/252285964/completions",
+                "title": "Completions for User: 252285964"
+              },
+              "discussions": {
+                "href": "/users/252285964/discussions",
+                "title": "Discussions for User: 252285964"
+              },
+              "followers": {
+                "href": "/users/252285964/followers",
+                "title": "Followers for User: 252285964"
+              },
+              "following": {
+                "href": "/users/252285964/following",
+                "title": "Following for User: 252285964"
+              },
+              "notifications": {
+                "href": "/users/252285964/notifications",
+                "title": "Notifications for User: 252285964"
+              },
+              "projects": {
+                "href": "/users/252285964/projects",
+                "title": "Projects for User: 252285964"
+              },
+              "rosters": {
+                "href": "/users/252285964/rosters",
+                "title": "Rosters for User: 252285964"
+              },
+              "userTags": {
+                "href": "/users/252285964/userTags",
+                "title": "UserTags for User: 252285964"
+              },
+              "votes": {
+                "href": "/users/252285964/votes",
+                "title": "Votes for User: 252285964"
+              },
+              "wishlist": {
+                "href": "/users/252285964/wishlist",
+                "title": "Wishlist for User: 252285964"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574151,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDE1MSJ9",
+        "sku": 1874009805,
+        "title": "Create NFTs in Solana - MINT your NFTs with Code, Metaplex and Arweave",
+        "project_title": "Create / Mint your own NFT on the Solana Blockchain this is only the beginning of a beautiful journey.  The Project consists of minting your first NFT using code, so possibilities are limitless.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a76890a75c06fafad17c0ce1c72498de/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a76890a75c06fafad17c0ce1c72498de/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a76890a75c06fafad17c0ce1c72498de/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Create-NFTs-in-Solana-MINT-your-NFTs-with-Code-Metaplex-and-Arweave/1874009805",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "31m",
+        "total_videos_duration_seconds": 1831,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 46,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 19, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1874009805",
+            "title": "Create NFTs in Solana - MINT your NFTs with Code, Metaplex and Arweave"
+          },
+          "teacher": {
+            "href": "/users/279355354",
+            "title": "Serpent Academy - Passion for teaching and learning"
+          },
+          "units": {
+            "href": "/classes/1874009805/units",
+            "title": "Units for Class: 1874009805"
+          },
+          "sessions": {
+            "href": "/classes/1874009805/sessions",
+            "title": "Sessions for Class: 1874009805"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1874009805/students",
+            "title": "Students for Class: 1874009805"
+          },
+          "projects": {
+            "href": "/classes/1874009805/projects",
+            "title": "Projects for Class: 1874009805"
+          },
+          "reviews": {
+            "href": "/classes/1874009805/reviews",
+            "title": "Reviews for Class: 1874009805"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17954373,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTc5NTQzNzMifQ==",
+            "username": 279355354,
+            "first_name": "Serpent",
+            "last_name": "Academy",
+            "full_name": "Serpent Academy",
+            "vanity_username": "serpentacademy",
+            "headline": "Passion for teaching and learning",
+            "pic": "https://static.skillshare.com/uploads/users/279355354/user-image-medium.png?1156723000",
+            "pic_sm": "https://static.skillshare.com/uploads/users/279355354/user-image-small.png?1024299628",
+            "pic_lg": "https://static.skillshare.com/uploads/users/279355354/user-image-large.png?1654504564",
+            "_links": {
+              "self": {
+                "href": "/users/279355354",
+                "title": "Serpent Academy - Passion for teaching and learning"
+              },
+              "my_classes": {
+                "href": "/users/279355354/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/279355354/completions",
+                "title": "Completions for User: 279355354"
+              },
+              "discussions": {
+                "href": "/users/279355354/discussions",
+                "title": "Discussions for User: 279355354"
+              },
+              "followers": {
+                "href": "/users/279355354/followers",
+                "title": "Followers for User: 279355354"
+              },
+              "following": {
+                "href": "/users/279355354/following",
+                "title": "Following for User: 279355354"
+              },
+              "notifications": {
+                "href": "/users/279355354/notifications",
+                "title": "Notifications for User: 279355354"
+              },
+              "projects": {
+                "href": "/users/279355354/projects",
+                "title": "Projects for User: 279355354"
+              },
+              "rosters": {
+                "href": "/users/279355354/rosters",
+                "title": "Rosters for User: 279355354"
+              },
+              "userTags": {
+                "href": "/users/279355354/userTags",
+                "title": "UserTags for User: 279355354"
+              },
+              "votes": {
+                "href": "/users/279355354/votes",
+                "title": "Votes for User: 279355354"
+              },
+              "wishlist": {
+                "href": "/users/279355354/wishlist",
+                "title": "Wishlist for User: 279355354"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

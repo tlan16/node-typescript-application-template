@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1367",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1366",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1368",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 570126,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDEyNiJ9",
+        "sku": 1972216734,
+        "title": "ToDoIst Mastery Course - From Complete Beginner to Expert",
+        "project_title": "Once you have finished the course, please post a screenshot of how you have set up your ToDoIst projects, filters, and even your today view so I can review them!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b5593017b33e900920179653e3d4b316/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b5593017b33e900920179653e3d4b316/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b5593017b33e900920179653e3d4b316/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/ToDoIst-Mastery-Course-From-Complete-Beginner-to-Expert/1972216734",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 17,
+        "total_videos_duration": "1h 21m",
+        "total_videos_duration_seconds": 4835,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 408,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 13, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1972216734",
+            "title": "ToDoIst Mastery Course - From Complete Beginner to Expert"
+          },
+          "teacher": {
+            "href": "/users/744466265",
+            "title": "Demetri Panici - Productivity and Intentional Living"
+          },
+          "units": {
+            "href": "/classes/1972216734/units",
+            "title": "Units for Class: 1972216734"
+          },
+          "sessions": {
+            "href": "/classes/1972216734/sessions",
+            "title": "Sessions for Class: 1972216734"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1972216734/students",
+            "title": "Students for Class: 1972216734"
+          },
+          "projects": {
+            "href": "/classes/1972216734/projects",
+            "title": "Projects for Class: 1972216734"
+          },
+          "reviews": {
+            "href": "/classes/1972216734/reviews",
+            "title": "Reviews for Class: 1972216734"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 12465228,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTI0NjUyMjgifQ==",
+            "username": 744466265,
+            "first_name": "Demetri",
+            "last_name": "Panici",
+            "full_name": "Demetri Panici",
+            "vanity_username": "demetripanici",
+            "headline": "Productivity and Intentional Living",
+            "pic": "https://static.skillshare.com/uploads/users/744466265/user-image-medium.jpg?748750276",
+            "pic_sm": "https://static.skillshare.com/uploads/users/744466265/user-image-small.jpg?1312414565",
+            "pic_lg": "https://static.skillshare.com/uploads/users/744466265/user-image-large.jpg?664042943",
+            "_links": {
+              "self": {
+                "href": "/users/744466265",
+                "title": "Demetri Panici - Productivity and Intentional Living"
+              },
+              "my_classes": {
+                "href": "/users/744466265/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/744466265/completions",
+                "title": "Completions for User: 744466265"
+              },
+              "discussions": {
+                "href": "/users/744466265/discussions",
+                "title": "Discussions for User: 744466265"
+              },
+              "followers": {
+                "href": "/users/744466265/followers",
+                "title": "Followers for User: 744466265"
+              },
+              "following": {
+                "href": "/users/744466265/following",
+                "title": "Following for User: 744466265"
+              },
+              "notifications": {
+                "href": "/users/744466265/notifications",
+                "title": "Notifications for User: 744466265"
+              },
+              "projects": {
+                "href": "/users/744466265/projects",
+                "title": "Projects for User: 744466265"
+              },
+              "rosters": {
+                "href": "/users/744466265/rosters",
+                "title": "Rosters for User: 744466265"
+              },
+              "userTags": {
+                "href": "/users/744466265/userTags",
+                "title": "UserTags for User: 744466265"
+              },
+              "votes": {
+                "href": "/users/744466265/votes",
+                "title": "Votes for User: 744466265"
+              },
+              "wishlist": {
+                "href": "/users/744466265/wishlist",
+                "title": "Wishlist for User: 744466265"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570135,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDEzNSJ9",
+        "sku": 1387991194,
+        "title": "Blog Using WordPress",
+        "project_title": "Start your own blog using this class, show you how to start your own blog using WordPress.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/0504815946f5055b919ec8d27724fa00/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/0504815946f5055b919ec8d27724fa00/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/0504815946f5055b919ec8d27724fa00/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Blog-Using-WordPress/1387991194",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 1,
+        "total_videos_duration": "2m",
+        "total_videos_duration_seconds": 91,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 4,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 13, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1387991194",
+            "title": "Blog Using WordPress"
+          },
+          "teacher": {
+            "href": "/users/394265698",
+            "title": "En M."
+          },
+          "units": {
+            "href": "/classes/1387991194/units",
+            "title": "Units for Class: 1387991194"
+          },
+          "sessions": {
+            "href": "/classes/1387991194/sessions",
+            "title": "Sessions for Class: 1387991194"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1387991194/students",
+            "title": "Students for Class: 1387991194"
+          },
+          "projects": {
+            "href": "/classes/1387991194/projects",
+            "title": "Projects for Class: 1387991194"
+          },
+          "reviews": {
+            "href": "/classes/1387991194/reviews",
+            "title": "Reviews for Class: 1387991194"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21668520,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjE2Njg1MjAifQ==",
+            "username": 394265698,
+            "first_name": "En",
+            "last_name": "M.",
+            "full_name": "En M.",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/394265698/user-image-medium.jpg?2078014843",
+            "pic_sm": "https://static.skillshare.com/uploads/users/394265698/user-image-small.jpg?1620708694",
+            "pic_lg": "https://static.skillshare.com/uploads/users/394265698/user-image-large.jpg?606226328",
+            "_links": {
+              "self": {
+                "href": "/users/394265698",
+                "title": "En M."
+              },
+              "my_classes": {
+                "href": "/users/394265698/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/394265698/completions",
+                "title": "Completions for User: 394265698"
+              },
+              "discussions": {
+                "href": "/users/394265698/discussions",
+                "title": "Discussions for User: 394265698"
+              },
+              "followers": {
+                "href": "/users/394265698/followers",
+                "title": "Followers for User: 394265698"
+              },
+              "following": {
+                "href": "/users/394265698/following",
+                "title": "Following for User: 394265698"
+              },
+              "notifications": {
+                "href": "/users/394265698/notifications",
+                "title": "Notifications for User: 394265698"
+              },
+              "projects": {
+                "href": "/users/394265698/projects",
+                "title": "Projects for User: 394265698"
+              },
+              "rosters": {
+                "href": "/users/394265698/rosters",
+                "title": "Rosters for User: 394265698"
+              },
+              "userTags": {
+                "href": "/users/394265698/userTags",
+                "title": "UserTags for User: 394265698"
+              },
+              "votes": {
+                "href": "/users/394265698/votes",
+                "title": "Votes for User: 394265698"
+              },
+              "wishlist": {
+                "href": "/users/394265698/wishlist",
+                "title": "Wishlist for User: 394265698"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570136,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDEzNiJ9",
+        "sku": 1089612839,
+        "title": "Urban Sketching: Learn to Use Continuous Line Drawing and Watercolors",
+        "project_title": "After the introductory lessons, that will give you all the knowledge and skills you need to get started,  we'll get stuck into our final project together - an urban sketch of a pub just around the cor",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/7ed79ad95d06d9a3419dc5360983b366/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/7ed79ad95d06d9a3419dc5360983b366/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/7ed79ad95d06d9a3419dc5360983b366/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Urban-Sketching-Learn-to-Use-Continuous-Line-Drawing-and-Watercolors/1089612839",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "1h 11m",
+        "total_videos_duration_seconds": 4270,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1106,
+        "num_projects": 60,
+        "num_discussions": 16,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 29, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1089612839",
+            "title": "Urban Sketching: Learn to Use Continuous Line Drawing and Watercolors"
+          },
+          "teacher": {
+            "href": "/users/798823257",
+            "title": "Toby Haseler - Urban Sketcher, Continuous Lines"
+          },
+          "units": {
+            "href": "/classes/1089612839/units",
+            "title": "Units for Class: 1089612839"
+          },
+          "sessions": {
+            "href": "/classes/1089612839/sessions",
+            "title": "Sessions for Class: 1089612839"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1089612839/students",
+            "title": "Students for Class: 1089612839"
+          },
+          "projects": {
+            "href": "/classes/1089612839/projects",
+            "title": "Projects for Class: 1089612839"
+          },
+          "reviews": {
+            "href": "/classes/1089612839/reviews",
+            "title": "Reviews for Class: 1089612839"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17934950,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTc5MzQ5NTAifQ==",
+            "username": 798823257,
+            "first_name": "Toby",
+            "last_name": "Haseler",
+            "full_name": "Toby Haseler",
+            "vanity_username": "tobyurbansketch",
+            "headline": "Urban Sketcher, Continuous Lines",
+            "pic": "https://static.skillshare.com/uploads/users/798823257/user-image-medium.jpg?1834276543",
+            "pic_sm": "https://static.skillshare.com/uploads/users/798823257/user-image-small.jpg?1257453322",
+            "pic_lg": "https://static.skillshare.com/uploads/users/798823257/user-image-large.jpg?469265528",
+            "_links": {
+              "self": {
+                "href": "/users/798823257",
+                "title": "Toby Haseler - Urban Sketcher, Continuous Lines"
+              },
+              "my_classes": {
+                "href": "/users/798823257/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/798823257/completions",
+                "title": "Completions for User: 798823257"
+              },
+              "discussions": {
+                "href": "/users/798823257/discussions",
+                "title": "Discussions for User: 798823257"
+              },
+              "followers": {
+                "href": "/users/798823257/followers",
+                "title": "Followers for User: 798823257"
+              },
+              "following": {
+                "href": "/users/798823257/following",
+                "title": "Following for User: 798823257"
+              },
+              "notifications": {
+                "href": "/users/798823257/notifications",
+                "title": "Notifications for User: 798823257"
+              },
+              "projects": {
+                "href": "/users/798823257/projects",
+                "title": "Projects for User: 798823257"
+              },
+              "rosters": {
+                "href": "/users/798823257/rosters",
+                "title": "Rosters for User: 798823257"
+              },
+              "userTags": {
+                "href": "/users/798823257/userTags",
+                "title": "UserTags for User: 798823257"
+              },
+              "votes": {
+                "href": "/users/798823257/votes",
+                "title": "Votes for User: 798823257"
+              },
+              "wishlist": {
+                "href": "/users/798823257/wishlist",
+                "title": "Wishlist for User: 798823257"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570139,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDEzOSJ9",
+        "sku": 1449730833,
+        "title": "Create a Vintage Look Collage in Procreate with the Clone Brush - 10 Mixed Media Brushes Included",
+        "project_title": "Start today’s project by collecting a few photos you have. If you haven’t got a good selection, check out free photo sites online, like unSplash. Work through each of the lessons, applying the concept",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1486f3e594154b9937042ed805c6b202/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1486f3e594154b9937042ed805c6b202/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1486f3e594154b9937042ed805c6b202/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Create-a-Vintage-Look-Collage-in-Procreate-with-the-Clone-Brush-10-Mixed-Media-Brushes-Included/1449730833",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "43m",
+        "total_videos_duration_seconds": 2583,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 423,
+        "num_projects": 36,
+        "num_discussions": 4,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 15, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1449730833",
+            "title": "Create a Vintage Look Collage in Procreate with the Clone Brush - 10 Mixed Media Brushes Included"
+          },
+          "teacher": {
+            "href": "/users/3656902",
+            "title": "Delores Naskrent - Creative Explorer"
+          },
+          "units": {
+            "href": "/classes/1449730833/units",
+            "title": "Units for Class: 1449730833"
+          },
+          "sessions": {
+            "href": "/classes/1449730833/sessions",
+            "title": "Sessions for Class: 1449730833"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1449730833/students",
+            "title": "Students for Class: 1449730833"
+          },
+          "projects": {
+            "href": "/classes/1449730833/projects",
+            "title": "Projects for Class: 1449730833"
+          },
+          "reviews": {
+            "href": "/classes/1449730833/reviews",
+            "title": "Reviews for Class: 1449730833"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3900428,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzkwMDQyOCJ9",
+            "username": 3656902,
+            "first_name": "Delores",
+            "last_name": "Naskrent",
+            "full_name": "Delores Naskrent",
+            "vanity_username": null,
+            "headline": "Creative Explorer",
+            "pic": "https://static.skillshare.com/uploads/users/3656902/user-image-medium.jpg?166433333",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3656902/user-image-small.jpg?784674700",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3656902/user-image-large.jpg?599187734",
+            "_links": {
+              "self": {
+                "href": "/users/3656902",
+                "title": "Delores Naskrent - Creative Explorer"
+              },
+              "my_classes": {
+                "href": "/users/3656902/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3656902/completions",
+                "title": "Completions for User: 3656902"
+              },
+              "discussions": {
+                "href": "/users/3656902/discussions",
+                "title": "Discussions for User: 3656902"
+              },
+              "followers": {
+                "href": "/users/3656902/followers",
+                "title": "Followers for User: 3656902"
+              },
+              "following": {
+                "href": "/users/3656902/following",
+                "title": "Following for User: 3656902"
+              },
+              "notifications": {
+                "href": "/users/3656902/notifications",
+                "title": "Notifications for User: 3656902"
+              },
+              "projects": {
+                "href": "/users/3656902/projects",
+                "title": "Projects for User: 3656902"
+              },
+              "rosters": {
+                "href": "/users/3656902/rosters",
+                "title": "Rosters for User: 3656902"
+              },
+              "userTags": {
+                "href": "/users/3656902/userTags",
+                "title": "UserTags for User: 3656902"
+              },
+              "votes": {
+                "href": "/users/3656902/votes",
+                "title": "Votes for User: 3656902"
+              },
+              "wishlist": {
+                "href": "/users/3656902/wishlist",
+                "title": "Wishlist for User: 3656902"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570146,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDE0NiJ9",
+        "sku": 838167532,
+        "title": "Paint With Texture: Create an Impasto Style Potted Geranium in Acrylic",
+        "project_title": "The class project is a lovely, textured, floral painting on canvas that will be ready to hang on your wall.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/0305d0e6c35b4842d72e073ae5e8396a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/0305d0e6c35b4842d72e073ae5e8396a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/0305d0e6c35b4842d72e073ae5e8396a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Paint-With-Texture-Create-an-Impasto-Style-Potted-Geranium-in-Acrylic/838167532",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "1h 15m",
+        "total_videos_duration_seconds": 4477,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 213,
+        "num_projects": 6,
+        "num_discussions": 4,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 24, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/838167532",
+            "title": "Paint With Texture: Create an Impasto Style Potted Geranium in Acrylic"
+          },
+          "teacher": {
+            "href": "/users/375939897",
+            "title": "Amie Murray - Painter + Art Educator"
+          },
+          "units": {
+            "href": "/classes/838167532/units",
+            "title": "Units for Class: 838167532"
+          },
+          "sessions": {
+            "href": "/classes/838167532/sessions",
+            "title": "Sessions for Class: 838167532"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/838167532/students",
+            "title": "Students for Class: 838167532"
+          },
+          "projects": {
+            "href": "/classes/838167532/projects",
+            "title": "Projects for Class: 838167532"
+          },
+          "reviews": {
+            "href": "/classes/838167532/reviews",
+            "title": "Reviews for Class: 838167532"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11993339,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTE5OTMzMzkifQ==",
+            "username": 375939897,
+            "first_name": "Amie",
+            "last_name": "Murray",
+            "full_name": "Amie Murray",
+            "vanity_username": "amielynnmurray",
+            "headline": "Painter + Art Educator",
+            "pic": "https://static.skillshare.com/uploads/users/375939897/user-image-medium.jpg?1857341807",
+            "pic_sm": "https://static.skillshare.com/uploads/users/375939897/user-image-small.jpg?1035372236",
+            "pic_lg": "https://static.skillshare.com/uploads/users/375939897/user-image-large.jpg?1655273523",
+            "_links": {
+              "self": {
+                "href": "/users/375939897",
+                "title": "Amie Murray - Painter + Art Educator"
+              },
+              "my_classes": {
+                "href": "/users/375939897/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/375939897/completions",
+                "title": "Completions for User: 375939897"
+              },
+              "discussions": {
+                "href": "/users/375939897/discussions",
+                "title": "Discussions for User: 375939897"
+              },
+              "followers": {
+                "href": "/users/375939897/followers",
+                "title": "Followers for User: 375939897"
+              },
+              "following": {
+                "href": "/users/375939897/following",
+                "title": "Following for User: 375939897"
+              },
+              "notifications": {
+                "href": "/users/375939897/notifications",
+                "title": "Notifications for User: 375939897"
+              },
+              "projects": {
+                "href": "/users/375939897/projects",
+                "title": "Projects for User: 375939897"
+              },
+              "rosters": {
+                "href": "/users/375939897/rosters",
+                "title": "Rosters for User: 375939897"
+              },
+              "userTags": {
+                "href": "/users/375939897/userTags",
+                "title": "UserTags for User: 375939897"
+              },
+              "votes": {
+                "href": "/users/375939897/votes",
+                "title": "Votes for User: 375939897"
+              },
+              "wishlist": {
+                "href": "/users/375939897/wishlist",
+                "title": "Wishlist for User: 375939897"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570156,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDE1NiJ9",
+        "sku": 2037746328,
+        "title": "How to come up with a great business idea in 3 steps",
+        "project_title": "The course project will help you reflect on the three steps needed to generate a business idea.  You will work through each step as you complete the classes on this course.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/52dfc78075b0a8a38a753ee1effb1666/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/52dfc78075b0a8a38a753ee1effb1666/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/52dfc78075b0a8a38a753ee1effb1666/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-come-up-with-a-great-business-idea-in-3-steps/2037746328",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "41m",
+        "total_videos_duration_seconds": 2489,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 161,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2037746328",
+            "title": "How to come up with a great business idea in 3 steps"
+          },
+          "teacher": {
+            "href": "/users/169323031",
+            "title": "Wafa Elamin - Health Entrepreneur"
+          },
+          "units": {
+            "href": "/classes/2037746328/units",
+            "title": "Units for Class: 2037746328"
+          },
+          "sessions": {
+            "href": "/classes/2037746328/sessions",
+            "title": "Sessions for Class: 2037746328"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/2037746328/students",
+            "title": "Students for Class: 2037746328"
+          },
+          "projects": {
+            "href": "/classes/2037746328/projects",
+            "title": "Projects for Class: 2037746328"
+          },
+          "reviews": {
+            "href": "/classes/2037746328/reviews",
+            "title": "Reviews for Class: 2037746328"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23498762,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjM0OTg3NjIifQ==",
+            "username": 169323031,
+            "first_name": "Wafa",
+            "last_name": "Elamin",
+            "full_name": "Wafa Elamin",
+            "vanity_username": null,
+            "headline": "Health Entrepreneur",
+            "pic": "https://static.skillshare.com/uploads/users/169323031/user-image-medium.jpg?616494526",
+            "pic_sm": "https://static.skillshare.com/uploads/users/169323031/user-image-small.jpg?633971067",
+            "pic_lg": "https://static.skillshare.com/uploads/users/169323031/user-image-large.jpg?1586598890",
+            "_links": {
+              "self": {
+                "href": "/users/169323031",
+                "title": "Wafa Elamin - Health Entrepreneur"
+              },
+              "my_classes": {
+                "href": "/users/169323031/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/169323031/completions",
+                "title": "Completions for User: 169323031"
+              },
+              "discussions": {
+                "href": "/users/169323031/discussions",
+                "title": "Discussions for User: 169323031"
+              },
+              "followers": {
+                "href": "/users/169323031/followers",
+                "title": "Followers for User: 169323031"
+              },
+              "following": {
+                "href": "/users/169323031/following",
+                "title": "Following for User: 169323031"
+              },
+              "notifications": {
+                "href": "/users/169323031/notifications",
+                "title": "Notifications for User: 169323031"
+              },
+              "projects": {
+                "href": "/users/169323031/projects",
+                "title": "Projects for User: 169323031"
+              },
+              "rosters": {
+                "href": "/users/169323031/rosters",
+                "title": "Rosters for User: 169323031"
+              },
+              "userTags": {
+                "href": "/users/169323031/userTags",
+                "title": "UserTags for User: 169323031"
+              },
+              "votes": {
+                "href": "/users/169323031/votes",
+                "title": "Votes for User: 169323031"
+              },
+              "wishlist": {
+                "href": "/users/169323031/wishlist",
+                "title": "Wishlist for User: 169323031"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570162,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDE2MiJ9",
+        "sku": 617481738,
+        "title": "5 questions in Russian for a sudden interaction - You can talk (to people)!",
+        "project_title": "Hi, everyone!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fd512f1c329573641eb551acfc3e0457/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fd512f1c329573641eb551acfc3e0457/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fd512f1c329573641eb551acfc3e0457/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/5-questions-in-Russian-for-a-sudden-interaction-You-can-talk-to-people/617481738",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "25m",
+        "total_videos_duration_seconds": 1479,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 27,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 18, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/617481738",
+            "title": "5 questions in Russian for a sudden interaction - You can talk (to people)!"
+          },
+          "teacher": {
+            "href": "/users/732360447",
+            "title": "Katya TMI"
+          },
+          "units": {
+            "href": "/classes/617481738/units",
+            "title": "Units for Class: 617481738"
+          },
+          "sessions": {
+            "href": "/classes/617481738/sessions",
+            "title": "Sessions for Class: 617481738"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/617481738/students",
+            "title": "Students for Class: 617481738"
+          },
+          "projects": {
+            "href": "/classes/617481738/projects",
+            "title": "Projects for Class: 617481738"
+          },
+          "reviews": {
+            "href": "/classes/617481738/reviews",
+            "title": "Reviews for Class: 617481738"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25329049,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUzMjkwNDkifQ==",
+            "username": 732360447,
+            "first_name": "Katya",
+            "last_name": "TMI",
+            "full_name": "Katya TMI",
+            "vanity_username": "katsiaryna",
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/732360447/user-image-medium.jpg?1798885020",
+            "pic_sm": "https://static.skillshare.com/uploads/users/732360447/user-image-small.jpg?838146963",
+            "pic_lg": "https://static.skillshare.com/uploads/users/732360447/user-image-large.jpg?244444338",
+            "_links": {
+              "self": {
+                "href": "/users/732360447",
+                "title": "Katya TMI"
+              },
+              "my_classes": {
+                "href": "/users/732360447/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/732360447/completions",
+                "title": "Completions for User: 732360447"
+              },
+              "discussions": {
+                "href": "/users/732360447/discussions",
+                "title": "Discussions for User: 732360447"
+              },
+              "followers": {
+                "href": "/users/732360447/followers",
+                "title": "Followers for User: 732360447"
+              },
+              "following": {
+                "href": "/users/732360447/following",
+                "title": "Following for User: 732360447"
+              },
+              "notifications": {
+                "href": "/users/732360447/notifications",
+                "title": "Notifications for User: 732360447"
+              },
+              "projects": {
+                "href": "/users/732360447/projects",
+                "title": "Projects for User: 732360447"
+              },
+              "rosters": {
+                "href": "/users/732360447/rosters",
+                "title": "Rosters for User: 732360447"
+              },
+              "userTags": {
+                "href": "/users/732360447/userTags",
+                "title": "UserTags for User: 732360447"
+              },
+              "votes": {
+                "href": "/users/732360447/votes",
+                "title": "Votes for User: 732360447"
+              },
+              "wishlist": {
+                "href": "/users/732360447/wishlist",
+                "title": "Wishlist for User: 732360447"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570177,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDE3NyJ9",
+        "sku": 429464630,
+        "title": "Pattern Collections and Portfolios: Dos, Don'ts, and Myths",
+        "project_title": "For your class project, all I’d like for you to do is…&nbsp;\n\nShare a screenshot of your current body of work or a link to your website portfolio, Instagram, or Pinterest.\nShare what your next step is",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f6a852864a4620c53833cde85134d25b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f6a852864a4620c53833cde85134d25b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f6a852864a4620c53833cde85134d25b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Pattern-Collections-and-Portfolios-Dos-Donts-and-Myths/429464630",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 19,
+        "total_videos_duration": "1h 15m",
+        "total_videos_duration_seconds": 4529,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 937,
+        "num_projects": 18,
+        "num_discussions": 6,
+        "is_staff_pick": true,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 26, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/429464630",
+            "title": "Pattern Collections and Portfolios: Dos, Don'ts, and Myths"
+          },
+          "teacher": {
+            "href": "/users/3103855",
+            "title": "Melissa Lee - allow yourself to fail before you succeed"
+          },
+          "units": {
+            "href": "/classes/429464630/units",
+            "title": "Units for Class: 429464630"
+          },
+          "sessions": {
+            "href": "/classes/429464630/sessions",
+            "title": "Sessions for Class: 429464630"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/429464630/students",
+            "title": "Students for Class: 429464630"
+          },
+          "projects": {
+            "href": "/classes/429464630/projects",
+            "title": "Projects for Class: 429464630"
+          },
+          "reviews": {
+            "href": "/classes/429464630/reviews",
+            "title": "Reviews for Class: 429464630"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 803969,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODAzOTY5In0=",
+            "username": 3103855,
+            "first_name": "Melissa",
+            "last_name": "Lee",
+            "full_name": "Melissa Lee",
+            "vanity_username": "melissalee",
+            "headline": "allow yourself to fail before you succeed",
+            "pic": "https://static.skillshare.com/uploads/users/3103855/user-image-medium.jpg?935105799",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3103855/user-image-small.jpg?117585054",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3103855/user-image-large.jpg?590740092",
+            "_links": {
+              "self": {
+                "href": "/users/3103855",
+                "title": "Melissa Lee - allow yourself to fail before you succeed"
+              },
+              "my_classes": {
+                "href": "/users/3103855/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3103855/completions",
+                "title": "Completions for User: 3103855"
+              },
+              "discussions": {
+                "href": "/users/3103855/discussions",
+                "title": "Discussions for User: 3103855"
+              },
+              "followers": {
+                "href": "/users/3103855/followers",
+                "title": "Followers for User: 3103855"
+              },
+              "following": {
+                "href": "/users/3103855/following",
+                "title": "Following for User: 3103855"
+              },
+              "notifications": {
+                "href": "/users/3103855/notifications",
+                "title": "Notifications for User: 3103855"
+              },
+              "projects": {
+                "href": "/users/3103855/projects",
+                "title": "Projects for User: 3103855"
+              },
+              "rosters": {
+                "href": "/users/3103855/rosters",
+                "title": "Rosters for User: 3103855"
+              },
+              "userTags": {
+                "href": "/users/3103855/userTags",
+                "title": "UserTags for User: 3103855"
+              },
+              "votes": {
+                "href": "/users/3103855/votes",
+                "title": "Votes for User: 3103855"
+              },
+              "wishlist": {
+                "href": "/users/3103855/wishlist",
+                "title": "Wishlist for User: 3103855"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570178,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDE3OCJ9",
+        "sku": 1248533568,
+        "title": "Making A Memory Quilt / Recycling Old Clothes  (aka T Shirt Quilt)",
+        "project_title": "In this class I am going to teach you how to make a Memory Quilt, also known as a T shirt Quilt.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/75d316651e30d21053cf755d0b7ec8b9/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/75d316651e30d21053cf755d0b7ec8b9/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/75d316651e30d21053cf755d0b7ec8b9/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Making-A-Memory-Quilt-Recycling-Old-Clothes-aka-T-Shirt-Quilt/1248533568",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "1h 6m",
+        "total_videos_duration_seconds": 3949,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 94,
+        "num_projects": 2,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 24, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1248533568",
+            "title": "Making A Memory Quilt / Recycling Old Clothes  (aka T Shirt Quilt)"
+          },
+          "teacher": {
+            "href": "/users/910639611",
+            "title": "Zoe Balsam Biggs - Memory Quilts & Other Fun Art Stuff"
+          },
+          "units": {
+            "href": "/classes/1248533568/units",
+            "title": "Units for Class: 1248533568"
+          },
+          "sessions": {
+            "href": "/classes/1248533568/sessions",
+            "title": "Sessions for Class: 1248533568"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1248533568/students",
+            "title": "Students for Class: 1248533568"
+          },
+          "projects": {
+            "href": "/classes/1248533568/projects",
+            "title": "Projects for Class: 1248533568"
+          },
+          "reviews": {
+            "href": "/classes/1248533568/reviews",
+            "title": "Reviews for Class: 1248533568"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23955059,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjM5NTUwNTkifQ==",
+            "username": 910639611,
+            "first_name": "Zoe",
+            "last_name": "Balsam Biggs",
+            "full_name": "Zoe Balsam Biggs",
+            "vanity_username": null,
+            "headline": "Memory Quilts & Other Fun Art Stuff",
+            "pic": "https://static.skillshare.com/uploads/users/910639611/user-image-medium.jpg?1960490343",
+            "pic_sm": "https://static.skillshare.com/uploads/users/910639611/user-image-small.jpg?799682850",
+            "pic_lg": "https://static.skillshare.com/uploads/users/910639611/user-image-large.jpg?844987136",
+            "_links": {
+              "self": {
+                "href": "/users/910639611",
+                "title": "Zoe Balsam Biggs - Memory Quilts & Other Fun Art Stuff"
+              },
+              "my_classes": {
+                "href": "/users/910639611/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/910639611/completions",
+                "title": "Completions for User: 910639611"
+              },
+              "discussions": {
+                "href": "/users/910639611/discussions",
+                "title": "Discussions for User: 910639611"
+              },
+              "followers": {
+                "href": "/users/910639611/followers",
+                "title": "Followers for User: 910639611"
+              },
+              "following": {
+                "href": "/users/910639611/following",
+                "title": "Following for User: 910639611"
+              },
+              "notifications": {
+                "href": "/users/910639611/notifications",
+                "title": "Notifications for User: 910639611"
+              },
+              "projects": {
+                "href": "/users/910639611/projects",
+                "title": "Projects for User: 910639611"
+              },
+              "rosters": {
+                "href": "/users/910639611/rosters",
+                "title": "Rosters for User: 910639611"
+              },
+              "userTags": {
+                "href": "/users/910639611/userTags",
+                "title": "UserTags for User: 910639611"
+              },
+              "votes": {
+                "href": "/users/910639611/votes",
+                "title": "Votes for User: 910639611"
+              },
+              "wishlist": {
+                "href": "/users/910639611/wishlist",
+                "title": "Wishlist for User: 910639611"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570179,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDE3OSJ9",
+        "sku": 1107004159,
+        "title": "Watercolor Balcony Flowers : Beat Perfectionism with Loose Painting Techniques",
+        "project_title": "Your assignment is to paint a realistic window with balcony flowers using the loose techniques taught in the class.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/39efd571afcea5fd23920e24eff0ad54/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/39efd571afcea5fd23920e24eff0ad54/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/39efd571afcea5fd23920e24eff0ad54/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolor-Balcony-Flowers-Beat-Perfectionism-with-Loose-Painting-Techniques/1107004159",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "1h 36m",
+        "total_videos_duration_seconds": 5762,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 151,
+        "num_projects": 9,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 28, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1107004159",
+            "title": "Watercolor Balcony Flowers : Beat Perfectionism with Loose Painting Techniques"
+          },
+          "teacher": {
+            "href": "/users/1951206",
+            "title": "Francoise Blayac - Professional Artist"
+          },
+          "units": {
+            "href": "/classes/1107004159/units",
+            "title": "Units for Class: 1107004159"
+          },
+          "sessions": {
+            "href": "/classes/1107004159/sessions",
+            "title": "Sessions for Class: 1107004159"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1107004159/students",
+            "title": "Students for Class: 1107004159"
+          },
+          "projects": {
+            "href": "/classes/1107004159/projects",
+            "title": "Projects for Class: 1107004159"
+          },
+          "reviews": {
+            "href": "/classes/1107004159/reviews",
+            "title": "Reviews for Class: 1107004159"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2651101,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjY1MTEwMSJ9",
+            "username": 1951206,
+            "first_name": "Francoise",
+            "last_name": "Blayac",
+            "full_name": "Francoise Blayac",
+            "vanity_username": null,
+            "headline": "Professional Artist",
+            "pic": "https://static.skillshare.com/uploads/users/1951206/user-image-medium.jpg?995422543",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1951206/user-image-small.jpg?1942222916",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1951206/user-image-large.jpg?1601307179",
+            "_links": {
+              "self": {
+                "href": "/users/1951206",
+                "title": "Francoise Blayac - Professional Artist"
+              },
+              "my_classes": {
+                "href": "/users/1951206/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1951206/completions",
+                "title": "Completions for User: 1951206"
+              },
+              "discussions": {
+                "href": "/users/1951206/discussions",
+                "title": "Discussions for User: 1951206"
+              },
+              "followers": {
+                "href": "/users/1951206/followers",
+                "title": "Followers for User: 1951206"
+              },
+              "following": {
+                "href": "/users/1951206/following",
+                "title": "Following for User: 1951206"
+              },
+              "notifications": {
+                "href": "/users/1951206/notifications",
+                "title": "Notifications for User: 1951206"
+              },
+              "projects": {
+                "href": "/users/1951206/projects",
+                "title": "Projects for User: 1951206"
+              },
+              "rosters": {
+                "href": "/users/1951206/rosters",
+                "title": "Rosters for User: 1951206"
+              },
+              "userTags": {
+                "href": "/users/1951206/userTags",
+                "title": "UserTags for User: 1951206"
+              },
+              "votes": {
+                "href": "/users/1951206/votes",
+                "title": "Votes for User: 1951206"
+              },
+              "wishlist": {
+                "href": "/users/1951206/wishlist",
+                "title": "Wishlist for User: 1951206"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

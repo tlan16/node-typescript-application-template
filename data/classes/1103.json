@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1103",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1102",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1104",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 628612,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyODYxMiJ9",
+        "sku": 1189306361,
+        "title": "Blender: Cosmetic Product Modeling, Lighting and Rendering",
+        "project_title": "Project Instructions",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b41ab83ef7e6c9f631cc17b843277d8b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b41ab83ef7e6c9f631cc17b843277d8b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b41ab83ef7e6c9f631cc17b843277d8b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Blender-Cosmetic-Product-Modeling-Lighting-and-Rendering/1189306361",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "1h 3m",
+        "total_videos_duration_seconds": 3772,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 10,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "2 weeks ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1189306361",
+            "title": "Blender: Cosmetic Product Modeling, Lighting and Rendering"
+          },
+          "teacher": {
+            "href": "/users/207369226",
+            "title": "Alaa Eddine ZAIR - Freelance 3D Generalist"
+          },
+          "units": {
+            "href": "/classes/1189306361/units",
+            "title": "Units for Class: 1189306361"
+          },
+          "sessions": {
+            "href": "/classes/1189306361/sessions",
+            "title": "Sessions for Class: 1189306361"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1189306361/students",
+            "title": "Students for Class: 1189306361"
+          },
+          "projects": {
+            "href": "/classes/1189306361/projects",
+            "title": "Projects for Class: 1189306361"
+          },
+          "reviews": {
+            "href": "/classes/1189306361/reviews",
+            "title": "Reviews for Class: 1189306361"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 30082956,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzAwODI5NTYifQ==",
+            "username": 207369226,
+            "first_name": "Alaa Eddine",
+            "last_name": "ZAIR",
+            "full_name": "Alaa Eddine ZAIR",
+            "vanity_username": "bruendz",
+            "headline": "Freelance 3D Generalist",
+            "pic": "https://static.skillshare.com/uploads/users/207369226/user-image-medium.jpg?2101190053",
+            "pic_sm": "https://static.skillshare.com/uploads/users/207369226/user-image-small.jpg?1041909570",
+            "pic_lg": "https://static.skillshare.com/uploads/users/207369226/user-image-large.jpg?1512875849",
+            "_links": {
+              "self": {
+                "href": "/users/207369226",
+                "title": "Alaa Eddine ZAIR - Freelance 3D Generalist"
+              },
+              "my_classes": {
+                "href": "/users/207369226/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/207369226/completions",
+                "title": "Completions for User: 207369226"
+              },
+              "discussions": {
+                "href": "/users/207369226/discussions",
+                "title": "Discussions for User: 207369226"
+              },
+              "followers": {
+                "href": "/users/207369226/followers",
+                "title": "Followers for User: 207369226"
+              },
+              "following": {
+                "href": "/users/207369226/following",
+                "title": "Following for User: 207369226"
+              },
+              "notifications": {
+                "href": "/users/207369226/notifications",
+                "title": "Notifications for User: 207369226"
+              },
+              "projects": {
+                "href": "/users/207369226/projects",
+                "title": "Projects for User: 207369226"
+              },
+              "rosters": {
+                "href": "/users/207369226/rosters",
+                "title": "Rosters for User: 207369226"
+              },
+              "userTags": {
+                "href": "/users/207369226/userTags",
+                "title": "UserTags for User: 207369226"
+              },
+              "votes": {
+                "href": "/users/207369226/votes",
+                "title": "Votes for User: 207369226"
+              },
+              "wishlist": {
+                "href": "/users/207369226/wishlist",
+                "title": "Wishlist for User: 207369226"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 628626,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyODYyNiJ9",
+        "sku": 1935410676,
+        "title": "The Ultimate Piano for Singers Course - Beginner to advanced",
+        "project_title": "The project for this course will be to sing a song of your choice while accompanying yourself on the piano, using the skills you've acquired during the training. You can use YouTube or Vimeo and share",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e0d348bc96caa5ca4ec18bd8d2c0d889/huge",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e0d348bc96caa5ca4ec18bd8d2c0d889/small",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e0d348bc96caa5ca4ec18bd8d2c0d889/thumbnail",
+        "web_url": "https://www.skillshare.com/en/classes/The-Ultimate-Piano-for-Singers-Course-Beginner-to-advanced/1935410676",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 62,
+        "total_videos_duration": "8h 48m",
+        "total_videos_duration_seconds": 31699,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 3,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "2 weeks ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1935410676",
+            "title": "The Ultimate Piano for Singers Course - Beginner to advanced"
+          },
+          "teacher": {
+            "href": "/users/634336644",
+            "title": "Musique-Head - Singer and Pianist"
+          },
+          "units": {
+            "href": "/classes/1935410676/units",
+            "title": "Units for Class: 1935410676"
+          },
+          "sessions": {
+            "href": "/classes/1935410676/sessions",
+            "title": "Sessions for Class: 1935410676"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1935410676/students",
+            "title": "Students for Class: 1935410676"
+          },
+          "projects": {
+            "href": "/classes/1935410676/projects",
+            "title": "Projects for Class: 1935410676"
+          },
+          "reviews": {
+            "href": "/classes/1935410676/reviews",
+            "title": "Reviews for Class: 1935410676"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 30521518,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzA1MjE1MTgifQ==",
+            "username": 634336644,
+            "first_name": "Musique-Head",
+            "last_name": null,
+            "full_name": "Musique-Head",
+            "vanity_username": null,
+            "headline": "Singer and Pianist",
+            "pic": "https://static.skillshare.com/uploads/users/634336644/user-image-medium.jpg?1850535325",
+            "pic_sm": "https://static.skillshare.com/uploads/users/634336644/user-image-small.jpg?1769501234",
+            "pic_lg": "https://static.skillshare.com/uploads/users/634336644/user-image-large.jpg?1420052854",
+            "_links": {
+              "self": {
+                "href": "/users/634336644",
+                "title": "Musique-Head - Singer and Pianist"
+              },
+              "my_classes": {
+                "href": "/users/634336644/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/634336644/completions",
+                "title": "Completions for User: 634336644"
+              },
+              "discussions": {
+                "href": "/users/634336644/discussions",
+                "title": "Discussions for User: 634336644"
+              },
+              "followers": {
+                "href": "/users/634336644/followers",
+                "title": "Followers for User: 634336644"
+              },
+              "following": {
+                "href": "/users/634336644/following",
+                "title": "Following for User: 634336644"
+              },
+              "notifications": {
+                "href": "/users/634336644/notifications",
+                "title": "Notifications for User: 634336644"
+              },
+              "projects": {
+                "href": "/users/634336644/projects",
+                "title": "Projects for User: 634336644"
+              },
+              "rosters": {
+                "href": "/users/634336644/rosters",
+                "title": "Rosters for User: 634336644"
+              },
+              "userTags": {
+                "href": "/users/634336644/userTags",
+                "title": "UserTags for User: 634336644"
+              },
+              "votes": {
+                "href": "/users/634336644/votes",
+                "title": "Votes for User: 634336644"
+              },
+              "wishlist": {
+                "href": "/users/634336644/wishlist",
+                "title": "Wishlist for User: 634336644"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 628630,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyODYzMCJ9",
+        "sku": 1424748233,
+        "title": "Digital Paper Quilling in Procreate",
+        "project_title": "Your class project is to create a digital 3D paper quilling design in Procreate and share it with the class.   You can choose to create your own version of the sample design from the class or create a",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a6cc036602eb7d24df3c44291d01f1c7/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a6cc036602eb7d24df3c44291d01f1c7/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a6cc036602eb7d24df3c44291d01f1c7/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Digital-Paper-Quilling-in-Procreate/1424748233",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "49m",
+        "total_videos_duration_seconds": 2911,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 13,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "2 weeks ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1424748233",
+            "title": "Digital Paper Quilling in Procreate"
+          },
+          "teacher": {
+            "href": "/users/790218746",
+            "title": "Laurie Russell - Digital Artist | Illustrator | Educator"
+          },
+          "units": {
+            "href": "/classes/1424748233/units",
+            "title": "Units for Class: 1424748233"
+          },
+          "sessions": {
+            "href": "/classes/1424748233/sessions",
+            "title": "Sessions for Class: 1424748233"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1424748233/students",
+            "title": "Students for Class: 1424748233"
+          },
+          "projects": {
+            "href": "/classes/1424748233/projects",
+            "title": "Projects for Class: 1424748233"
+          },
+          "reviews": {
+            "href": "/classes/1424748233/reviews",
+            "title": "Reviews for Class: 1424748233"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27949216,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjc5NDkyMTYifQ==",
+            "username": 790218746,
+            "first_name": "Laurie",
+            "last_name": "Russell",
+            "full_name": "Laurie Russell",
+            "vanity_username": null,
+            "headline": "Digital Artist | Illustrator | Educator",
+            "pic": "https://static.skillshare.com/uploads/users/790218746/user-image-medium.jpg?2093691882",
+            "pic_sm": "https://static.skillshare.com/uploads/users/790218746/user-image-small.jpg?626740588",
+            "pic_lg": "https://static.skillshare.com/uploads/users/790218746/user-image-large.jpg?813688930",
+            "_links": {
+              "self": {
+                "href": "/users/790218746",
+                "title": "Laurie Russell - Digital Artist | Illustrator | Educator"
+              },
+              "my_classes": {
+                "href": "/users/790218746/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/790218746/completions",
+                "title": "Completions for User: 790218746"
+              },
+              "discussions": {
+                "href": "/users/790218746/discussions",
+                "title": "Discussions for User: 790218746"
+              },
+              "followers": {
+                "href": "/users/790218746/followers",
+                "title": "Followers for User: 790218746"
+              },
+              "following": {
+                "href": "/users/790218746/following",
+                "title": "Following for User: 790218746"
+              },
+              "notifications": {
+                "href": "/users/790218746/notifications",
+                "title": "Notifications for User: 790218746"
+              },
+              "projects": {
+                "href": "/users/790218746/projects",
+                "title": "Projects for User: 790218746"
+              },
+              "rosters": {
+                "href": "/users/790218746/rosters",
+                "title": "Rosters for User: 790218746"
+              },
+              "userTags": {
+                "href": "/users/790218746/userTags",
+                "title": "UserTags for User: 790218746"
+              },
+              "votes": {
+                "href": "/users/790218746/votes",
+                "title": "Votes for User: 790218746"
+              },
+              "wishlist": {
+                "href": "/users/790218746/wishlist",
+                "title": "Wishlist for User: 790218746"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 628631,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyODYzMSJ9",
+        "sku": 538953851,
+        "title": "Video Editing with Kdenlive : Master the Basics",
+        "project_title": "Apply what you learned!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b04f5bf44f23cd7d9017e0bd0fc3fbd5/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b04f5bf44f23cd7d9017e0bd0fc3fbd5/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b04f5bf44f23cd7d9017e0bd0fc3fbd5/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Video-Editing-with-Kdenlive-Master-the-Basics/538953851",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 26,
+        "total_videos_duration": "2h 42m",
+        "total_videos_duration_seconds": 9706,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 5,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "2 weeks ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/538953851",
+            "title": "Video Editing with Kdenlive : Master the Basics"
+          },
+          "teacher": {
+            "href": "/users/843815338",
+            "title": "Jonathan Doré - Motion Graphic Designer"
+          },
+          "units": {
+            "href": "/classes/538953851/units",
+            "title": "Units for Class: 538953851"
+          },
+          "sessions": {
+            "href": "/classes/538953851/sessions",
+            "title": "Sessions for Class: 538953851"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/538953851/students",
+            "title": "Students for Class: 538953851"
+          },
+          "projects": {
+            "href": "/classes/538953851/projects",
+            "title": "Projects for Class: 538953851"
+          },
+          "reviews": {
+            "href": "/classes/538953851/reviews",
+            "title": "Reviews for Class: 538953851"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 28141516,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjgxNDE1MTYifQ==",
+            "username": 843815338,
+            "first_name": "Jonathan",
+            "last_name": "Doré",
+            "full_name": "Jonathan Doré",
+            "vanity_username": "nuxttux",
+            "headline": "Motion Graphic Designer",
+            "pic": "https://static.skillshare.com/uploads/users/843815338/user-image-medium.png?172316264",
+            "pic_sm": "https://static.skillshare.com/uploads/users/843815338/user-image-small.png?99473253",
+            "pic_lg": "https://static.skillshare.com/uploads/users/843815338/user-image-large.png?1474066545",
+            "_links": {
+              "self": {
+                "href": "/users/843815338",
+                "title": "Jonathan Doré - Motion Graphic Designer"
+              },
+              "my_classes": {
+                "href": "/users/843815338/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/843815338/completions",
+                "title": "Completions for User: 843815338"
+              },
+              "discussions": {
+                "href": "/users/843815338/discussions",
+                "title": "Discussions for User: 843815338"
+              },
+              "followers": {
+                "href": "/users/843815338/followers",
+                "title": "Followers for User: 843815338"
+              },
+              "following": {
+                "href": "/users/843815338/following",
+                "title": "Following for User: 843815338"
+              },
+              "notifications": {
+                "href": "/users/843815338/notifications",
+                "title": "Notifications for User: 843815338"
+              },
+              "projects": {
+                "href": "/users/843815338/projects",
+                "title": "Projects for User: 843815338"
+              },
+              "rosters": {
+                "href": "/users/843815338/rosters",
+                "title": "Rosters for User: 843815338"
+              },
+              "userTags": {
+                "href": "/users/843815338/userTags",
+                "title": "UserTags for User: 843815338"
+              },
+              "votes": {
+                "href": "/users/843815338/votes",
+                "title": "Votes for User: 843815338"
+              },
+              "wishlist": {
+                "href": "/users/843815338/wishlist",
+                "title": "Wishlist for User: 843815338"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 628635,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyODYzNSJ9",
+        "sku": 104229371,
+        "title": "Your First Digital Illustration, a Whimsical Ladybug: Procreate for newbies",
+        "project_title": "Your project for this class is to create an illustration using Procreate tools and techniques ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c12449da02622ce389fabfa6c91a0589/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c12449da02622ce389fabfa6c91a0589/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c12449da02622ce389fabfa6c91a0589/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Your-First-Digital-Illustration-a-Whimsical-Ladybug-Procreate-for-newbies/104229371",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "32m",
+        "total_videos_duration_seconds": 1893,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 16,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "1 week ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/104229371",
+            "title": "Your First Digital Illustration, a Whimsical Ladybug: Procreate for newbies"
+          },
+          "teacher": {
+            "href": "/users/8970919",
+            "title": "Ritika Sridhar - Artist, Illustrator "
+          },
+          "units": {
+            "href": "/classes/104229371/units",
+            "title": "Units for Class: 104229371"
+          },
+          "sessions": {
+            "href": "/classes/104229371/sessions",
+            "title": "Sessions for Class: 104229371"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/104229371/students",
+            "title": "Students for Class: 104229371"
+          },
+          "projects": {
+            "href": "/classes/104229371/projects",
+            "title": "Projects for Class: 104229371"
+          },
+          "reviews": {
+            "href": "/classes/104229371/reviews",
+            "title": "Reviews for Class: 104229371"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3717457,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzcxNzQ1NyJ9",
+            "username": 8970919,
+            "first_name": "Ritika",
+            "last_name": "Sridhar",
+            "full_name": "Ritika Sridhar",
+            "vanity_username": "ritikasridhar",
+            "headline": "Artist, Illustrator ",
+            "pic": "https://static.skillshare.com/uploads/users/8970919/user-image-medium.jpg?1661196914",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8970919/user-image-small.jpg?547383727",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8970919/user-image-large.jpg?933303289",
+            "_links": {
+              "self": {
+                "href": "/users/8970919",
+                "title": "Ritika Sridhar - Artist, Illustrator "
+              },
+              "my_classes": {
+                "href": "/users/8970919/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8970919/completions",
+                "title": "Completions for User: 8970919"
+              },
+              "discussions": {
+                "href": "/users/8970919/discussions",
+                "title": "Discussions for User: 8970919"
+              },
+              "followers": {
+                "href": "/users/8970919/followers",
+                "title": "Followers for User: 8970919"
+              },
+              "following": {
+                "href": "/users/8970919/following",
+                "title": "Following for User: 8970919"
+              },
+              "notifications": {
+                "href": "/users/8970919/notifications",
+                "title": "Notifications for User: 8970919"
+              },
+              "projects": {
+                "href": "/users/8970919/projects",
+                "title": "Projects for User: 8970919"
+              },
+              "rosters": {
+                "href": "/users/8970919/rosters",
+                "title": "Rosters for User: 8970919"
+              },
+              "userTags": {
+                "href": "/users/8970919/userTags",
+                "title": "UserTags for User: 8970919"
+              },
+              "votes": {
+                "href": "/users/8970919/votes",
+                "title": "Votes for User: 8970919"
+              },
+              "wishlist": {
+                "href": "/users/8970919/wishlist",
+                "title": "Wishlist for User: 8970919"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 628652,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyODY1MiJ9",
+        "sku": 1347862130,
+        "title": "Sketching Basics: Drawing Textures with Markers",
+        "project_title": "Project instructions",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1a2a59392a8ddb2f0a8dafdfb21f919a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1a2a59392a8ddb2f0a8dafdfb21f919a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1a2a59392a8ddb2f0a8dafdfb21f919a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Sketching-Basics-Drawing-Textures-with-Markers/1347862130",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "1h 44m",
+        "total_videos_duration_seconds": 6240,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 12,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "1 week ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1347862130",
+            "title": "Sketching Basics: Drawing Textures with Markers"
+          },
+          "teacher": {
+            "href": "/users/3340536",
+            "title": "Olga Sh - food illustrator | graphic designer"
+          },
+          "units": {
+            "href": "/classes/1347862130/units",
+            "title": "Units for Class: 1347862130"
+          },
+          "sessions": {
+            "href": "/classes/1347862130/sessions",
+            "title": "Sessions for Class: 1347862130"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1347862130/students",
+            "title": "Students for Class: 1347862130"
+          },
+          "projects": {
+            "href": "/classes/1347862130/projects",
+            "title": "Projects for Class: 1347862130"
+          },
+          "reviews": {
+            "href": "/classes/1347862130/reviews",
+            "title": "Reviews for Class: 1347862130"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 940012,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTQwMDEyIn0=",
+            "username": 3340536,
+            "first_name": "Olga",
+            "last_name": "Sh",
+            "full_name": "Olga Sh",
+            "vanity_username": "ollysh",
+            "headline": "food illustrator | graphic designer",
+            "pic": "https://static.skillshare.com/uploads/users/3340536/user-image-medium.jpg?1337040456",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3340536/user-image-small.jpg?1937450503",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3340536/user-image-large.jpg?1476996216",
+            "_links": {
+              "self": {
+                "href": "/users/3340536",
+                "title": "Olga Sh - food illustrator | graphic designer"
+              },
+              "my_classes": {
+                "href": "/users/3340536/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3340536/completions",
+                "title": "Completions for User: 3340536"
+              },
+              "discussions": {
+                "href": "/users/3340536/discussions",
+                "title": "Discussions for User: 3340536"
+              },
+              "followers": {
+                "href": "/users/3340536/followers",
+                "title": "Followers for User: 3340536"
+              },
+              "following": {
+                "href": "/users/3340536/following",
+                "title": "Following for User: 3340536"
+              },
+              "notifications": {
+                "href": "/users/3340536/notifications",
+                "title": "Notifications for User: 3340536"
+              },
+              "projects": {
+                "href": "/users/3340536/projects",
+                "title": "Projects for User: 3340536"
+              },
+              "rosters": {
+                "href": "/users/3340536/rosters",
+                "title": "Rosters for User: 3340536"
+              },
+              "userTags": {
+                "href": "/users/3340536/userTags",
+                "title": "UserTags for User: 3340536"
+              },
+              "votes": {
+                "href": "/users/3340536/votes",
+                "title": "Votes for User: 3340536"
+              },
+              "wishlist": {
+                "href": "/users/3340536/wishlist",
+                "title": "Wishlist for User: 3340536"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 628655,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyODY1NSJ9",
+        "sku": 2026753631,
+        "title": "Learn Compression in Studio One",
+        "project_title": "Project Instructions",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9c88ada03c56c2449a933b2dd79777af/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9c88ada03c56c2449a933b2dd79777af/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9c88ada03c56c2449a933b2dd79777af/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-Compression-in-Studio-One/2026753631",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 23,
+        "total_videos_duration": "2h 29m",
+        "total_videos_duration_seconds": 8943,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 4,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "2 weeks ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2026753631",
+            "title": "Learn Compression in Studio One"
+          },
+          "teacher": {
+            "href": "/users/1494258",
+            "title": "Gary Hiebner - Sound Designer and Composer"
+          },
+          "units": {
+            "href": "/classes/2026753631/units",
+            "title": "Units for Class: 2026753631"
+          },
+          "sessions": {
+            "href": "/classes/2026753631/sessions",
+            "title": "Sessions for Class: 2026753631"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2026753631/students",
+            "title": "Students for Class: 2026753631"
+          },
+          "projects": {
+            "href": "/classes/2026753631/projects",
+            "title": "Projects for Class: 2026753631"
+          },
+          "reviews": {
+            "href": "/classes/2026753631/reviews",
+            "title": "Reviews for Class: 2026753631"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2515906,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUxNTkwNiJ9",
+            "username": 1494258,
+            "first_name": "Gary",
+            "last_name": "Hiebner",
+            "full_name": "Gary Hiebner",
+            "vanity_username": "garyhiebner",
+            "headline": "Sound Designer and Composer",
+            "pic": "https://static.skillshare.com/uploads/users/1494258/user-image-medium.jpg?2065125197",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1494258/user-image-small.jpg?1079272100",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1494258/user-image-large.jpg?668399727",
+            "_links": {
+              "self": {
+                "href": "/users/1494258",
+                "title": "Gary Hiebner - Sound Designer and Composer"
+              },
+              "my_classes": {
+                "href": "/users/1494258/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1494258/completions",
+                "title": "Completions for User: 1494258"
+              },
+              "discussions": {
+                "href": "/users/1494258/discussions",
+                "title": "Discussions for User: 1494258"
+              },
+              "followers": {
+                "href": "/users/1494258/followers",
+                "title": "Followers for User: 1494258"
+              },
+              "following": {
+                "href": "/users/1494258/following",
+                "title": "Following for User: 1494258"
+              },
+              "notifications": {
+                "href": "/users/1494258/notifications",
+                "title": "Notifications for User: 1494258"
+              },
+              "projects": {
+                "href": "/users/1494258/projects",
+                "title": "Projects for User: 1494258"
+              },
+              "rosters": {
+                "href": "/users/1494258/rosters",
+                "title": "Rosters for User: 1494258"
+              },
+              "userTags": {
+                "href": "/users/1494258/userTags",
+                "title": "UserTags for User: 1494258"
+              },
+              "votes": {
+                "href": "/users/1494258/votes",
+                "title": "Votes for User: 1494258"
+              },
+              "wishlist": {
+                "href": "/users/1494258/wishlist",
+                "title": "Wishlist for User: 1494258"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 628656,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyODY1NiJ9",
+        "sku": 2069409889,
+        "title": "Sketching Flowers: Understand How To Draw Flowers Facing Different Angles",
+        "project_title": "Project: Complete a page in your sketchbook showing flowers facing different angles and then draw a final sketch of poppies or daisies from the photos provided.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fb8e4ffe033a59c09db9ce90ad18c644/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fb8e4ffe033a59c09db9ce90ad18c644/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fb8e4ffe033a59c09db9ce90ad18c644/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Sketching-Flowers-Understand-How-To-Draw-Flowers-Facing-Different-Angles/2069409889",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "1h 27m",
+        "total_videos_duration_seconds": 5207,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 19,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "1 week ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2069409889",
+            "title": "Sketching Flowers: Understand How To Draw Flowers Facing Different Angles"
+          },
+          "teacher": {
+            "href": "/users/2354513",
+            "title": "Emily Armstrong - The Pencil Room Online"
+          },
+          "units": {
+            "href": "/classes/2069409889/units",
+            "title": "Units for Class: 2069409889"
+          },
+          "sessions": {
+            "href": "/classes/2069409889/sessions",
+            "title": "Sessions for Class: 2069409889"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2069409889/students",
+            "title": "Students for Class: 2069409889"
+          },
+          "projects": {
+            "href": "/classes/2069409889/projects",
+            "title": "Projects for Class: 2069409889"
+          },
+          "reviews": {
+            "href": "/classes/2069409889/reviews",
+            "title": "Reviews for Class: 2069409889"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2662661,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjY2MjY2MSJ9",
+            "username": 2354513,
+            "first_name": "Emily",
+            "last_name": "Armstrong",
+            "full_name": "Emily Armstrong",
+            "vanity_username": "thepencilroom",
+            "headline": "The Pencil Room Online",
+            "pic": "https://static.skillshare.com/uploads/users/2354513/user-image-medium.jpg?976223213",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2354513/user-image-small.jpg?1775506408",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2354513/user-image-large.jpg?906870442",
+            "_links": {
+              "self": {
+                "href": "/users/2354513",
+                "title": "Emily Armstrong - The Pencil Room Online"
+              },
+              "my_classes": {
+                "href": "/users/2354513/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2354513/completions",
+                "title": "Completions for User: 2354513"
+              },
+              "discussions": {
+                "href": "/users/2354513/discussions",
+                "title": "Discussions for User: 2354513"
+              },
+              "followers": {
+                "href": "/users/2354513/followers",
+                "title": "Followers for User: 2354513"
+              },
+              "following": {
+                "href": "/users/2354513/following",
+                "title": "Following for User: 2354513"
+              },
+              "notifications": {
+                "href": "/users/2354513/notifications",
+                "title": "Notifications for User: 2354513"
+              },
+              "projects": {
+                "href": "/users/2354513/projects",
+                "title": "Projects for User: 2354513"
+              },
+              "rosters": {
+                "href": "/users/2354513/rosters",
+                "title": "Rosters for User: 2354513"
+              },
+              "userTags": {
+                "href": "/users/2354513/userTags",
+                "title": "UserTags for User: 2354513"
+              },
+              "votes": {
+                "href": "/users/2354513/votes",
+                "title": "Votes for User: 2354513"
+              },
+              "wishlist": {
+                "href": "/users/2354513/wishlist",
+                "title": "Wishlist for User: 2354513"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 628657,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyODY1NyJ9",
+        "sku": 806851819,
+        "title": "Whiteboard Animation with Videoscribe: A Complete Beginner's  Guide in 2023",
+        "project_title": "As a Project:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ababeab830dcf6334861f07619442abc/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ababeab830dcf6334861f07619442abc/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ababeab830dcf6334861f07619442abc/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Whiteboard-Animation-with-Videoscribe-A-Complete-Beginners-Guide-in-2023/806851819",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 18,
+        "total_videos_duration": "1h 34m",
+        "total_videos_duration_seconds": 5644,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 7,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "2 weeks ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/806851819",
+            "title": "Whiteboard Animation with Videoscribe: A Complete Beginner's  Guide in 2023"
+          },
+          "teacher": {
+            "href": "/users/65877637",
+            "title": "Dr. Rasheed - Digital Content Creator"
+          },
+          "units": {
+            "href": "/classes/806851819/units",
+            "title": "Units for Class: 806851819"
+          },
+          "sessions": {
+            "href": "/classes/806851819/sessions",
+            "title": "Sessions for Class: 806851819"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/806851819/students",
+            "title": "Students for Class: 806851819"
+          },
+          "projects": {
+            "href": "/classes/806851819/projects",
+            "title": "Projects for Class: 806851819"
+          },
+          "reviews": {
+            "href": "/classes/806851819/reviews",
+            "title": "Reviews for Class: 806851819"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 30744554,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzA3NDQ1NTQifQ==",
+            "username": 65877637,
+            "first_name": "Dr.",
+            "last_name": "Rasheed",
+            "full_name": "Dr. Rasheed",
+            "vanity_username": null,
+            "headline": "Digital Content Creator",
+            "pic": "https://static.skillshare.com/uploads/users/65877637/user-image-medium.png?188904068",
+            "pic_sm": "https://static.skillshare.com/uploads/users/65877637/user-image-small.png?1358936341",
+            "pic_lg": "https://static.skillshare.com/uploads/users/65877637/user-image-large.png?2026830681",
+            "_links": {
+              "self": {
+                "href": "/users/65877637",
+                "title": "Dr. Rasheed - Digital Content Creator"
+              },
+              "my_classes": {
+                "href": "/users/65877637/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/65877637/completions",
+                "title": "Completions for User: 65877637"
+              },
+              "discussions": {
+                "href": "/users/65877637/discussions",
+                "title": "Discussions for User: 65877637"
+              },
+              "followers": {
+                "href": "/users/65877637/followers",
+                "title": "Followers for User: 65877637"
+              },
+              "following": {
+                "href": "/users/65877637/following",
+                "title": "Following for User: 65877637"
+              },
+              "notifications": {
+                "href": "/users/65877637/notifications",
+                "title": "Notifications for User: 65877637"
+              },
+              "projects": {
+                "href": "/users/65877637/projects",
+                "title": "Projects for User: 65877637"
+              },
+              "rosters": {
+                "href": "/users/65877637/rosters",
+                "title": "Rosters for User: 65877637"
+              },
+              "userTags": {
+                "href": "/users/65877637/userTags",
+                "title": "UserTags for User: 65877637"
+              },
+              "votes": {
+                "href": "/users/65877637/votes",
+                "title": "Votes for User: 65877637"
+              },
+              "wishlist": {
+                "href": "/users/65877637/wishlist",
+                "title": "Wishlist for User: 65877637"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 628659,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyODY1OSJ9",
+        "sku": 521198062,
+        "title": "Add a Background to Your Animal Drawing - POSCA Markers and Acrylic Paint - Part 3",
+        "project_title": "Choose a drawing you've made already or create a new one so that you can add a background to it.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d7b62d460750e7106bc0c319dfbb5fee/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d7b62d460750e7106bc0c319dfbb5fee/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d7b62d460750e7106bc0c319dfbb5fee/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Add-a-Background-to-Your-Animal-Drawing-POSCA-Markers-and-Acrylic-Paint-Part-3/521198062",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "1h 16m",
+        "total_videos_duration_seconds": 4549,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 0,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 days ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/521198062",
+            "title": "Add a Background to Your Animal Drawing - POSCA Markers and Acrylic Paint - Part 3"
+          },
+          "teacher": {
+            "href": "/users/226172646",
+            "title": "Andy Villon - Artist and Illustrator"
+          },
+          "units": {
+            "href": "/classes/521198062/units",
+            "title": "Units for Class: 521198062"
+          },
+          "sessions": {
+            "href": "/classes/521198062/sessions",
+            "title": "Sessions for Class: 521198062"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/521198062/students",
+            "title": "Students for Class: 521198062"
+          },
+          "projects": {
+            "href": "/classes/521198062/projects",
+            "title": "Projects for Class: 521198062"
+          },
+          "reviews": {
+            "href": "/classes/521198062/reviews",
+            "title": "Reviews for Class: 521198062"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18338742,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTgzMzg3NDIifQ==",
+            "username": 226172646,
+            "first_name": "Andy",
+            "last_name": "Villon",
+            "full_name": "Andy Villon",
+            "vanity_username": "andycvillon",
+            "headline": "Artist and Illustrator",
+            "pic": "https://static.skillshare.com/uploads/users/226172646/user-image-medium.jpg?669626169",
+            "pic_sm": "https://static.skillshare.com/uploads/users/226172646/user-image-small.jpg?933240528",
+            "pic_lg": "https://static.skillshare.com/uploads/users/226172646/user-image-large.jpg?39245751",
+            "_links": {
+              "self": {
+                "href": "/users/226172646",
+                "title": "Andy Villon - Artist and Illustrator"
+              },
+              "my_classes": {
+                "href": "/users/226172646/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/226172646/completions",
+                "title": "Completions for User: 226172646"
+              },
+              "discussions": {
+                "href": "/users/226172646/discussions",
+                "title": "Discussions for User: 226172646"
+              },
+              "followers": {
+                "href": "/users/226172646/followers",
+                "title": "Followers for User: 226172646"
+              },
+              "following": {
+                "href": "/users/226172646/following",
+                "title": "Following for User: 226172646"
+              },
+              "notifications": {
+                "href": "/users/226172646/notifications",
+                "title": "Notifications for User: 226172646"
+              },
+              "projects": {
+                "href": "/users/226172646/projects",
+                "title": "Projects for User: 226172646"
+              },
+              "rosters": {
+                "href": "/users/226172646/rosters",
+                "title": "Rosters for User: 226172646"
+              },
+              "userTags": {
+                "href": "/users/226172646/userTags",
+                "title": "UserTags for User: 226172646"
+              },
+              "votes": {
+                "href": "/users/226172646/votes",
+                "title": "Votes for User: 226172646"
+              },
+              "wishlist": {
+                "href": "/users/226172646/wishlist",
+                "title": "Wishlist for User: 226172646"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

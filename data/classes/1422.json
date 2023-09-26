@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1422",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1421",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1423",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 574234,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDIzNCJ9",
+        "sku": 393249345,
+        "title": "De pasión a profesión - Curso 1 - El Ikigai y los negocios digitales",
+        "project_title": "En este primer curso de la serie vas a descubrir tu Ikigai. Eso que te hace levantar con ganas por las mañanas, y sobre el cual iremos a desarrollar tu imperio digital ;) ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/4ab6e2731af9fb7fa47511288272c605/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/4ab6e2731af9fb7fa47511288272c605/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/4ab6e2731af9fb7fa47511288272c605/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/De-pasi%C3%B3n-a-profesi%C3%B3n-Curso-1-El-Ikigai-y-los-negocios-digitales/393249345",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "1h 24m",
+        "total_videos_duration_seconds": 5047,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 151,
+        "num_projects": 1,
+        "num_discussions": 17,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/393249345",
+            "title": "De pasión a profesión - Curso 1 - El Ikigai y los negocios digitales"
+          },
+          "teacher": {
+            "href": "/users/9994353",
+            "title": "Carolina Ghelfi - De pasión a profesión"
+          },
+          "units": {
+            "href": "/classes/393249345/units",
+            "title": "Units for Class: 393249345"
+          },
+          "sessions": {
+            "href": "/classes/393249345/sessions",
+            "title": "Sessions for Class: 393249345"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/393249345/students",
+            "title": "Students for Class: 393249345"
+          },
+          "projects": {
+            "href": "/classes/393249345/projects",
+            "title": "Projects for Class: 393249345"
+          },
+          "reviews": {
+            "href": "/classes/393249345/reviews",
+            "title": "Reviews for Class: 393249345"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3157442,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzE1NzQ0MiJ9",
+            "username": 9994353,
+            "first_name": "Carolina",
+            "last_name": "Ghelfi",
+            "full_name": "Carolina Ghelfi",
+            "vanity_username": "carolinaghelfi",
+            "headline": "De pasión a profesión",
+            "pic": "https://static.skillshare.com/uploads/users/9994353/user-image-medium.jpg?1067548942",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9994353/user-image-small.jpg?1095956687",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9994353/user-image-large.jpg?741433875",
+            "_links": {
+              "self": {
+                "href": "/users/9994353",
+                "title": "Carolina Ghelfi - De pasión a profesión"
+              },
+              "my_classes": {
+                "href": "/users/9994353/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9994353/completions",
+                "title": "Completions for User: 9994353"
+              },
+              "discussions": {
+                "href": "/users/9994353/discussions",
+                "title": "Discussions for User: 9994353"
+              },
+              "followers": {
+                "href": "/users/9994353/followers",
+                "title": "Followers for User: 9994353"
+              },
+              "following": {
+                "href": "/users/9994353/following",
+                "title": "Following for User: 9994353"
+              },
+              "notifications": {
+                "href": "/users/9994353/notifications",
+                "title": "Notifications for User: 9994353"
+              },
+              "projects": {
+                "href": "/users/9994353/projects",
+                "title": "Projects for User: 9994353"
+              },
+              "rosters": {
+                "href": "/users/9994353/rosters",
+                "title": "Rosters for User: 9994353"
+              },
+              "userTags": {
+                "href": "/users/9994353/userTags",
+                "title": "UserTags for User: 9994353"
+              },
+              "votes": {
+                "href": "/users/9994353/votes",
+                "title": "Votes for User: 9994353"
+              },
+              "wishlist": {
+                "href": "/users/9994353/wishlist",
+                "title": "Wishlist for User: 9994353"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574238,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDIzOCJ9",
+        "sku": 1274528597,
+        "title": "Narrativa Visual: Tu historia en video",
+        "project_title": "¡Comparte tu proceso creativo!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ad89093f6b4ea4040dbe0fd57c4d2601/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ad89093f6b4ea4040dbe0fd57c4d2601/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ad89093f6b4ea4040dbe0fd57c4d2601/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Narrativa-Visual-Tu-historia-en-video/1274528597",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "1h 2m",
+        "total_videos_duration_seconds": 3699,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 745,
+        "num_projects": 9,
+        "num_discussions": 5,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "Jul 25, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1274528597",
+            "title": "Narrativa Visual: Tu historia en video"
+          },
+          "teacher": {
+            "href": "/users/852333498",
+            "title": "Alex Tienda - Travel Vlogger"
+          },
+          "units": {
+            "href": "/classes/1274528597/units",
+            "title": "Units for Class: 1274528597"
+          },
+          "sessions": {
+            "href": "/classes/1274528597/sessions",
+            "title": "Sessions for Class: 1274528597"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1274528597/students",
+            "title": "Students for Class: 1274528597"
+          },
+          "projects": {
+            "href": "/classes/1274528597/projects",
+            "title": "Projects for Class: 1274528597"
+          },
+          "reviews": {
+            "href": "/classes/1274528597/reviews",
+            "title": "Reviews for Class: 1274528597"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21541529,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjE1NDE1MjkifQ==",
+            "username": 852333498,
+            "first_name": "Alex",
+            "last_name": "Tienda",
+            "full_name": "Alex Tienda",
+            "vanity_username": "alextienda",
+            "headline": "Travel Vlogger",
+            "pic": "https://static.skillshare.com/uploads/users/852333498/user-image-medium.jpg?1892040097",
+            "pic_sm": "https://static.skillshare.com/uploads/users/852333498/user-image-small.jpg?1287469270",
+            "pic_lg": "https://static.skillshare.com/uploads/users/852333498/user-image-large.jpg?2122833500",
+            "_links": {
+              "self": {
+                "href": "/users/852333498",
+                "title": "Alex Tienda - Travel Vlogger"
+              },
+              "my_classes": {
+                "href": "/users/852333498/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/852333498/completions",
+                "title": "Completions for User: 852333498"
+              },
+              "discussions": {
+                "href": "/users/852333498/discussions",
+                "title": "Discussions for User: 852333498"
+              },
+              "followers": {
+                "href": "/users/852333498/followers",
+                "title": "Followers for User: 852333498"
+              },
+              "following": {
+                "href": "/users/852333498/following",
+                "title": "Following for User: 852333498"
+              },
+              "notifications": {
+                "href": "/users/852333498/notifications",
+                "title": "Notifications for User: 852333498"
+              },
+              "projects": {
+                "href": "/users/852333498/projects",
+                "title": "Projects for User: 852333498"
+              },
+              "rosters": {
+                "href": "/users/852333498/rosters",
+                "title": "Rosters for User: 852333498"
+              },
+              "userTags": {
+                "href": "/users/852333498/userTags",
+                "title": "UserTags for User: 852333498"
+              },
+              "votes": {
+                "href": "/users/852333498/votes",
+                "title": "Votes for User: 852333498"
+              },
+              "wishlist": {
+                "href": "/users/852333498/wishlist",
+                "title": "Wishlist for User: 852333498"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574265,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDI2NSJ9",
+        "sku": 145390441,
+        "title": "How to become a content manager? Introduction",
+        "project_title": "Try to understand if a content manager job is what you're looking for and passionate about.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6305838727112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6305838727112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6305838727112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-become-a-content-manager-Introduction/145390441",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "10m",
+        "total_videos_duration_seconds": 606,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 23,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/145390441",
+            "title": "How to become a content manager? Introduction"
+          },
+          "teacher": {
+            "href": "/users/424518747",
+            "title": "It's All About Lifestyle - Lifelong education helps"
+          },
+          "units": {
+            "href": "/classes/145390441/units",
+            "title": "Units for Class: 145390441"
+          },
+          "sessions": {
+            "href": "/classes/145390441/sessions",
+            "title": "Sessions for Class: 145390441"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/145390441/students",
+            "title": "Students for Class: 145390441"
+          },
+          "projects": {
+            "href": "/classes/145390441/projects",
+            "title": "Projects for Class: 145390441"
+          },
+          "reviews": {
+            "href": "/classes/145390441/reviews",
+            "title": "Reviews for Class: 145390441"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25634845,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjU2MzQ4NDUifQ==",
+            "username": 424518747,
+            "first_name": "It's All About",
+            "last_name": "Lifestyle",
+            "full_name": "It's All About Lifestyle",
+            "vanity_username": "its_all_about_lifestyle",
+            "headline": "Lifelong education helps",
+            "pic": "https://static.skillshare.com/uploads/users/424518747/user-image-medium.png?2101991012",
+            "pic_sm": "https://static.skillshare.com/uploads/users/424518747/user-image-small.png?1968326318",
+            "pic_lg": "https://static.skillshare.com/uploads/users/424518747/user-image-large.png?630439722",
+            "_links": {
+              "self": {
+                "href": "/users/424518747",
+                "title": "It's All About Lifestyle - Lifelong education helps"
+              },
+              "my_classes": {
+                "href": "/users/424518747/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/424518747/completions",
+                "title": "Completions for User: 424518747"
+              },
+              "discussions": {
+                "href": "/users/424518747/discussions",
+                "title": "Discussions for User: 424518747"
+              },
+              "followers": {
+                "href": "/users/424518747/followers",
+                "title": "Followers for User: 424518747"
+              },
+              "following": {
+                "href": "/users/424518747/following",
+                "title": "Following for User: 424518747"
+              },
+              "notifications": {
+                "href": "/users/424518747/notifications",
+                "title": "Notifications for User: 424518747"
+              },
+              "projects": {
+                "href": "/users/424518747/projects",
+                "title": "Projects for User: 424518747"
+              },
+              "rosters": {
+                "href": "/users/424518747/rosters",
+                "title": "Rosters for User: 424518747"
+              },
+              "userTags": {
+                "href": "/users/424518747/userTags",
+                "title": "UserTags for User: 424518747"
+              },
+              "votes": {
+                "href": "/users/424518747/votes",
+                "title": "Votes for User: 424518747"
+              },
+              "wishlist": {
+                "href": "/users/424518747/wishlist",
+                "title": "Wishlist for User: 424518747"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574267,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDI2NyJ9",
+        "sku": 691665785,
+        "title": "How to Sew a Zipper Pouch - DIY Pencil case, makeup bag, zippered pouch with Free Sewing Patterns",
+        "project_title": "Today's Project: Zipper Pouch\nLearn the different steps to sew your own zipper pouch.\n\nUse a FREE template to cut your fabric so you don't have to worry about measurements&nbsp;\nLearn how to make zipp",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/cc4df3d993eb560d25ac65eed1b62bc6/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/cc4df3d993eb560d25ac65eed1b62bc6/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/cc4df3d993eb560d25ac65eed1b62bc6/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Sew-a-Zipper-Pouch-DIY-Pencil-case-makeup-bag-zippered-pouch-with-Free-Sewing-Patterns/691665785",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 30,
+        "total_videos_duration": "1h 38m",
+        "total_videos_duration_seconds": 5897,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 98,
+        "num_projects": 3,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/691665785",
+            "title": "How to Sew a Zipper Pouch - DIY Pencil case, makeup bag, zippered pouch with Free Sewing Patterns"
+          },
+          "teacher": {
+            "href": "/users/244074666",
+            "title": "Luciana Caballero - designer+architect +creator +teacher"
+          },
+          "units": {
+            "href": "/classes/691665785/units",
+            "title": "Units for Class: 691665785"
+          },
+          "sessions": {
+            "href": "/classes/691665785/sessions",
+            "title": "Sessions for Class: 691665785"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/691665785/students",
+            "title": "Students for Class: 691665785"
+          },
+          "projects": {
+            "href": "/classes/691665785/projects",
+            "title": "Projects for Class: 691665785"
+          },
+          "reviews": {
+            "href": "/classes/691665785/reviews",
+            "title": "Reviews for Class: 691665785"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11898400,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTE4OTg0MDAifQ==",
+            "username": 244074666,
+            "first_name": "Luciana",
+            "last_name": "Caballero",
+            "full_name": "Luciana Caballero",
+            "vanity_username": null,
+            "headline": "designer+architect +creator +teacher",
+            "pic": "https://static.skillshare.com/uploads/users/244074666/user-image-medium.jpg?17541533",
+            "pic_sm": "https://static.skillshare.com/uploads/users/244074666/user-image-small.jpg?1466947351",
+            "pic_lg": "https://static.skillshare.com/uploads/users/244074666/user-image-large.jpg?1578719721",
+            "_links": {
+              "self": {
+                "href": "/users/244074666",
+                "title": "Luciana Caballero - designer+architect +creator +teacher"
+              },
+              "my_classes": {
+                "href": "/users/244074666/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/244074666/completions",
+                "title": "Completions for User: 244074666"
+              },
+              "discussions": {
+                "href": "/users/244074666/discussions",
+                "title": "Discussions for User: 244074666"
+              },
+              "followers": {
+                "href": "/users/244074666/followers",
+                "title": "Followers for User: 244074666"
+              },
+              "following": {
+                "href": "/users/244074666/following",
+                "title": "Following for User: 244074666"
+              },
+              "notifications": {
+                "href": "/users/244074666/notifications",
+                "title": "Notifications for User: 244074666"
+              },
+              "projects": {
+                "href": "/users/244074666/projects",
+                "title": "Projects for User: 244074666"
+              },
+              "rosters": {
+                "href": "/users/244074666/rosters",
+                "title": "Rosters for User: 244074666"
+              },
+              "userTags": {
+                "href": "/users/244074666/userTags",
+                "title": "UserTags for User: 244074666"
+              },
+              "votes": {
+                "href": "/users/244074666/votes",
+                "title": "Votes for User: 244074666"
+              },
+              "wishlist": {
+                "href": "/users/244074666/wishlist",
+                "title": "Wishlist for User: 244074666"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574272,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDI3MiJ9",
+        "sku": 668536752,
+        "title": "How To Make CHILL Lofi Hip-Hop Beats From Scratch - Music Production For Beginners",
+        "project_title": "The best way for you to learn the concepts in this course is to practice. .. so. ..",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d2f869446865977bd823eba65fdc044b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d2f869446865977bd823eba65fdc044b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d2f869446865977bd823eba65fdc044b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Make-CHILL-Lofi-Hip-Hop-Beats-From-Scratch-Music-Production-For-Beginners/668536752",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "59m",
+        "total_videos_duration_seconds": 3516,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 126,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/668536752",
+            "title": "How To Make CHILL Lofi Hip-Hop Beats From Scratch - Music Production For Beginners"
+          },
+          "teacher": {
+            "href": "/users/2401290",
+            "title": "Kia Orion - Artist & Music Producer"
+          },
+          "units": {
+            "href": "/classes/668536752/units",
+            "title": "Units for Class: 668536752"
+          },
+          "sessions": {
+            "href": "/classes/668536752/sessions",
+            "title": "Sessions for Class: 668536752"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/668536752/students",
+            "title": "Students for Class: 668536752"
+          },
+          "projects": {
+            "href": "/classes/668536752/projects",
+            "title": "Projects for Class: 668536752"
+          },
+          "reviews": {
+            "href": "/classes/668536752/reviews",
+            "title": "Reviews for Class: 668536752"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6268032,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjI2ODAzMiJ9",
+            "username": 2401290,
+            "first_name": "Kia",
+            "last_name": "Orion",
+            "full_name": "Kia Orion",
+            "vanity_username": "kiaorion",
+            "headline": "Artist & Music Producer",
+            "pic": "https://static.skillshare.com/uploads/users/2401290/user-image-medium.jpg?115540310",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2401290/user-image-small.jpg?1266589008",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2401290/user-image-large.jpg?797951926",
+            "_links": {
+              "self": {
+                "href": "/users/2401290",
+                "title": "Kia Orion - Artist & Music Producer"
+              },
+              "my_classes": {
+                "href": "/users/2401290/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2401290/completions",
+                "title": "Completions for User: 2401290"
+              },
+              "discussions": {
+                "href": "/users/2401290/discussions",
+                "title": "Discussions for User: 2401290"
+              },
+              "followers": {
+                "href": "/users/2401290/followers",
+                "title": "Followers for User: 2401290"
+              },
+              "following": {
+                "href": "/users/2401290/following",
+                "title": "Following for User: 2401290"
+              },
+              "notifications": {
+                "href": "/users/2401290/notifications",
+                "title": "Notifications for User: 2401290"
+              },
+              "projects": {
+                "href": "/users/2401290/projects",
+                "title": "Projects for User: 2401290"
+              },
+              "rosters": {
+                "href": "/users/2401290/rosters",
+                "title": "Rosters for User: 2401290"
+              },
+              "userTags": {
+                "href": "/users/2401290/userTags",
+                "title": "UserTags for User: 2401290"
+              },
+              "votes": {
+                "href": "/users/2401290/votes",
+                "title": "Votes for User: 2401290"
+              },
+              "wishlist": {
+                "href": "/users/2401290/wishlist",
+                "title": "Wishlist for User: 2401290"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574279,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDI3OSJ9",
+        "sku": 913183801,
+        "title": "Como desenhar retratos: Dicas simples para começar hoje",
+        "project_title": "O projeto do curso consiste em desenhar uma cabeça em qualquer posição. Neste curso eu vou abordar as seguintes vistas:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d137e82052bcbd0a7d970e511d7f3251/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d137e82052bcbd0a7d970e511d7f3251/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d137e82052bcbd0a7d970e511d7f3251/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Como-desenhar-retratos-Dicas-simples-para-come%C3%A7ar-hoje/913183801",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 21,
+        "total_videos_duration": "1h 39m",
+        "total_videos_duration_seconds": 5935,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 117,
+        "num_projects": 2,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/913183801",
+            "title": "Como desenhar retratos: Dicas simples para começar hoje"
+          },
+          "teacher": {
+            "href": "/users/4741768",
+            "title": "Matheus Macedo - Realistic Drawing Artist"
+          },
+          "units": {
+            "href": "/classes/913183801/units",
+            "title": "Units for Class: 913183801"
+          },
+          "sessions": {
+            "href": "/classes/913183801/sessions",
+            "title": "Sessions for Class: 913183801"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/913183801/students",
+            "title": "Students for Class: 913183801"
+          },
+          "projects": {
+            "href": "/classes/913183801/projects",
+            "title": "Projects for Class: 913183801"
+          },
+          "reviews": {
+            "href": "/classes/913183801/reviews",
+            "title": "Reviews for Class: 913183801"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7549128,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzU0OTEyOCJ9",
+            "username": 4741768,
+            "first_name": "Matheus",
+            "last_name": "Macedo",
+            "full_name": "Matheus Macedo",
+            "vanity_username": "mlmacedo",
+            "headline": "Realistic Drawing Artist",
+            "pic": "https://static.skillshare.com/uploads/users/4741768/user-image-medium.jpg?1466808617",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4741768/user-image-small.jpg?803937453",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4741768/user-image-large.jpg?1146686813",
+            "_links": {
+              "self": {
+                "href": "/users/4741768",
+                "title": "Matheus Macedo - Realistic Drawing Artist"
+              },
+              "my_classes": {
+                "href": "/users/4741768/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4741768/completions",
+                "title": "Completions for User: 4741768"
+              },
+              "discussions": {
+                "href": "/users/4741768/discussions",
+                "title": "Discussions for User: 4741768"
+              },
+              "followers": {
+                "href": "/users/4741768/followers",
+                "title": "Followers for User: 4741768"
+              },
+              "following": {
+                "href": "/users/4741768/following",
+                "title": "Following for User: 4741768"
+              },
+              "notifications": {
+                "href": "/users/4741768/notifications",
+                "title": "Notifications for User: 4741768"
+              },
+              "projects": {
+                "href": "/users/4741768/projects",
+                "title": "Projects for User: 4741768"
+              },
+              "rosters": {
+                "href": "/users/4741768/rosters",
+                "title": "Rosters for User: 4741768"
+              },
+              "userTags": {
+                "href": "/users/4741768/userTags",
+                "title": "UserTags for User: 4741768"
+              },
+              "votes": {
+                "href": "/users/4741768/votes",
+                "title": "Votes for User: 4741768"
+              },
+              "wishlist": {
+                "href": "/users/4741768/wishlist",
+                "title": "Wishlist for User: 4741768"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574282,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDI4MiJ9",
+        "sku": 1763524466,
+        "title": "7 Day Mini Mandala Challenge | Relax your mind & create Mandala",
+        "project_title": "You can draw the Any Mini Mandalas from the 7 Designs which we have created in this challenge along with me and submit your results here. I will be personally reviewing them and share my honest review",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/4447f395b2175575571e961e4f177927/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/4447f395b2175575571e961e4f177927/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/4447f395b2175575571e961e4f177927/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/7-Day-Mini-Mandala-Challenge-Relax-your-mind-create-Mandala/1763524466",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "40m",
+        "total_videos_duration_seconds": 2386,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 42,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1763524466",
+            "title": "7 Day Mini Mandala Challenge | Relax your mind & create Mandala"
+          },
+          "teacher": {
+            "href": "/users/605369427",
+            "title": "Swamini Kulkarni @miniswa_ - I am an Artist, Singer and a Youtuber!"
+          },
+          "units": {
+            "href": "/classes/1763524466/units",
+            "title": "Units for Class: 1763524466"
+          },
+          "sessions": {
+            "href": "/classes/1763524466/sessions",
+            "title": "Sessions for Class: 1763524466"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1763524466/students",
+            "title": "Students for Class: 1763524466"
+          },
+          "projects": {
+            "href": "/classes/1763524466/projects",
+            "title": "Projects for Class: 1763524466"
+          },
+          "reviews": {
+            "href": "/classes/1763524466/reviews",
+            "title": "Reviews for Class: 1763524466"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15394924,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTUzOTQ5MjQifQ==",
+            "username": 605369427,
+            "first_name": "Swamini Kulkarni",
+            "last_name": "@miniswa_",
+            "full_name": "Swamini Kulkarni @miniswa_",
+            "vanity_username": "swaminikulkarni",
+            "headline": "I am an Artist, Singer and a Youtuber!",
+            "pic": "https://static.skillshare.com/uploads/users/605369427/user-image-medium.jpg?545657692",
+            "pic_sm": "https://static.skillshare.com/uploads/users/605369427/user-image-small.jpg?88331686",
+            "pic_lg": "https://static.skillshare.com/uploads/users/605369427/user-image-large.jpg?714348639",
+            "_links": {
+              "self": {
+                "href": "/users/605369427",
+                "title": "Swamini Kulkarni @miniswa_ - I am an Artist, Singer and a Youtuber!"
+              },
+              "my_classes": {
+                "href": "/users/605369427/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/605369427/completions",
+                "title": "Completions for User: 605369427"
+              },
+              "discussions": {
+                "href": "/users/605369427/discussions",
+                "title": "Discussions for User: 605369427"
+              },
+              "followers": {
+                "href": "/users/605369427/followers",
+                "title": "Followers for User: 605369427"
+              },
+              "following": {
+                "href": "/users/605369427/following",
+                "title": "Following for User: 605369427"
+              },
+              "notifications": {
+                "href": "/users/605369427/notifications",
+                "title": "Notifications for User: 605369427"
+              },
+              "projects": {
+                "href": "/users/605369427/projects",
+                "title": "Projects for User: 605369427"
+              },
+              "rosters": {
+                "href": "/users/605369427/rosters",
+                "title": "Rosters for User: 605369427"
+              },
+              "userTags": {
+                "href": "/users/605369427/userTags",
+                "title": "UserTags for User: 605369427"
+              },
+              "votes": {
+                "href": "/users/605369427/votes",
+                "title": "Votes for User: 605369427"
+              },
+              "wishlist": {
+                "href": "/users/605369427/wishlist",
+                "title": "Wishlist for User: 605369427"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574284,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDI4NCJ9",
+        "sku": 129030257,
+        "title": "JavaScript Interview Questions - Coding Interview 2022",
+        "project_title": "In this course every lecture is a small project that we must implement",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/8e72904a2e88465b4c6c29f4ad986177/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/8e72904a2e88465b4c6c29f4ad986177/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/8e72904a2e88465b4c6c29f4ad986177/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/JavaScript-Interview-Questions-Coding-Interview-2022/129030257",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 51,
+        "total_videos_duration": "3h 44m",
+        "total_videos_duration_seconds": 13429,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 83,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/129030257",
+            "title": "JavaScript Interview Questions - Coding Interview 2022"
+          },
+          "teacher": {
+            "href": "/users/8754536",
+            "title": "Oleksandr Kocherhin"
+          },
+          "units": {
+            "href": "/classes/129030257/units",
+            "title": "Units for Class: 129030257"
+          },
+          "sessions": {
+            "href": "/classes/129030257/sessions",
+            "title": "Sessions for Class: 129030257"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/129030257/students",
+            "title": "Students for Class: 129030257"
+          },
+          "projects": {
+            "href": "/classes/129030257/projects",
+            "title": "Projects for Class: 129030257"
+          },
+          "reviews": {
+            "href": "/classes/129030257/reviews",
+            "title": "Reviews for Class: 129030257"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9153508,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTE1MzUwOCJ9",
+            "username": 8754536,
+            "first_name": "Oleksandr",
+            "last_name": "Kocherhin",
+            "full_name": "Oleksandr Kocherhin",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/8754536/user-image-medium.jpg?2121580127",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8754536/user-image-small.jpg?264408285",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8754536/user-image-large.jpg?1286667618",
+            "_links": {
+              "self": {
+                "href": "/users/8754536",
+                "title": "Oleksandr Kocherhin"
+              },
+              "my_classes": {
+                "href": "/users/8754536/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8754536/completions",
+                "title": "Completions for User: 8754536"
+              },
+              "discussions": {
+                "href": "/users/8754536/discussions",
+                "title": "Discussions for User: 8754536"
+              },
+              "followers": {
+                "href": "/users/8754536/followers",
+                "title": "Followers for User: 8754536"
+              },
+              "following": {
+                "href": "/users/8754536/following",
+                "title": "Following for User: 8754536"
+              },
+              "notifications": {
+                "href": "/users/8754536/notifications",
+                "title": "Notifications for User: 8754536"
+              },
+              "projects": {
+                "href": "/users/8754536/projects",
+                "title": "Projects for User: 8754536"
+              },
+              "rosters": {
+                "href": "/users/8754536/rosters",
+                "title": "Rosters for User: 8754536"
+              },
+              "userTags": {
+                "href": "/users/8754536/userTags",
+                "title": "UserTags for User: 8754536"
+              },
+              "votes": {
+                "href": "/users/8754536/votes",
+                "title": "Votes for User: 8754536"
+              },
+              "wishlist": {
+                "href": "/users/8754536/wishlist",
+                "title": "Wishlist for User: 8754536"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574286,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDI4NiJ9",
+        "sku": 1775002296,
+        "title": "Alcohol Ink - Beginner Sunset Silhouette Seascape Project - Bold Colors",
+        "project_title": "Seascape Magic for Alcohol Ink Beginners Project: You will complete a stunning colorful Sunset!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/7bcd4d762097fff8a6e40d0fd3baed10/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/7bcd4d762097fff8a6e40d0fd3baed10/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/7bcd4d762097fff8a6e40d0fd3baed10/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Alcohol-Ink-Beginner-Sunset-Silhouette-Seascape-Project-Bold-Colors/1775002296",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "54m",
+        "total_videos_duration_seconds": 3217,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 73,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 22, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1775002296",
+            "title": "Alcohol Ink - Beginner Sunset Silhouette Seascape Project - Bold Colors"
+          },
+          "teacher": {
+            "href": "/users/1040722",
+            "title": "Kellie Chasse - Sharing Art with 100,000 students & counting! "
+          },
+          "units": {
+            "href": "/classes/1775002296/units",
+            "title": "Units for Class: 1775002296"
+          },
+          "sessions": {
+            "href": "/classes/1775002296/sessions",
+            "title": "Sessions for Class: 1775002296"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1775002296/students",
+            "title": "Students for Class: 1775002296"
+          },
+          "projects": {
+            "href": "/classes/1775002296/projects",
+            "title": "Projects for Class: 1775002296"
+          },
+          "reviews": {
+            "href": "/classes/1775002296/reviews",
+            "title": "Reviews for Class: 1775002296"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1230953,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTIzMDk1MyJ9",
+            "username": 1040722,
+            "first_name": "Kellie",
+            "last_name": "Chasse",
+            "full_name": "Kellie Chasse",
+            "vanity_username": "kellielynnart",
+            "headline": "Sharing Art with 100,000 students & counting! ",
+            "pic": "https://static.skillshare.com/uploads/users/1040722/user-image-medium.jpg?1972454701",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1040722/user-image-small.jpg?1740639864",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1040722/user-image-large.jpg?8462229",
+            "_links": {
+              "self": {
+                "href": "/users/1040722",
+                "title": "Kellie Chasse - Sharing Art with 100,000 students & counting! "
+              },
+              "my_classes": {
+                "href": "/users/1040722/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1040722/completions",
+                "title": "Completions for User: 1040722"
+              },
+              "discussions": {
+                "href": "/users/1040722/discussions",
+                "title": "Discussions for User: 1040722"
+              },
+              "followers": {
+                "href": "/users/1040722/followers",
+                "title": "Followers for User: 1040722"
+              },
+              "following": {
+                "href": "/users/1040722/following",
+                "title": "Following for User: 1040722"
+              },
+              "notifications": {
+                "href": "/users/1040722/notifications",
+                "title": "Notifications for User: 1040722"
+              },
+              "projects": {
+                "href": "/users/1040722/projects",
+                "title": "Projects for User: 1040722"
+              },
+              "rosters": {
+                "href": "/users/1040722/rosters",
+                "title": "Rosters for User: 1040722"
+              },
+              "userTags": {
+                "href": "/users/1040722/userTags",
+                "title": "UserTags for User: 1040722"
+              },
+              "votes": {
+                "href": "/users/1040722/votes",
+                "title": "Votes for User: 1040722"
+              },
+              "wishlist": {
+                "href": "/users/1040722/wishlist",
+                "title": "Wishlist for User: 1040722"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574288,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDI4OCJ9",
+        "sku": 1117611947,
+        "title": "Sell Text as NFT – Create in minutes!",
+        "project_title": "Create an awesome NFT Text project, either as a video or a static design, and share it with everyone. Don't forget to mention which program you used for your design.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/018f810867b89e0fc1b9e626920a874f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/018f810867b89e0fc1b9e626920a874f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/018f810867b89e0fc1b9e626920a874f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Sell-Text-as-NFT-%E2%80%93-Create-in-minutes/1117611947",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "19m",
+        "total_videos_duration_seconds": 1114,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 48,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1117611947",
+            "title": "Sell Text as NFT – Create in minutes!"
+          },
+          "teacher": {
+            "href": "/users/186124002",
+            "title": "Nadine Abou el Atta - Storyteller | Editor | Content Creator"
+          },
+          "units": {
+            "href": "/classes/1117611947/units",
+            "title": "Units for Class: 1117611947"
+          },
+          "sessions": {
+            "href": "/classes/1117611947/sessions",
+            "title": "Sessions for Class: 1117611947"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1117611947/students",
+            "title": "Students for Class: 1117611947"
+          },
+          "projects": {
+            "href": "/classes/1117611947/projects",
+            "title": "Projects for Class: 1117611947"
+          },
+          "reviews": {
+            "href": "/classes/1117611947/reviews",
+            "title": "Reviews for Class: 1117611947"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21992257,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjE5OTIyNTcifQ==",
+            "username": 186124002,
+            "first_name": "Nadine",
+            "last_name": "Abou el Atta",
+            "full_name": "Nadine Abou el Atta",
+            "vanity_username": null,
+            "headline": "Storyteller | Editor | Content Creator",
+            "pic": "https://static.skillshare.com/uploads/users/186124002/user-image-medium.jpg?335546340",
+            "pic_sm": "https://static.skillshare.com/uploads/users/186124002/user-image-small.jpg?903139356",
+            "pic_lg": "https://static.skillshare.com/uploads/users/186124002/user-image-large.jpg?949545872",
+            "_links": {
+              "self": {
+                "href": "/users/186124002",
+                "title": "Nadine Abou el Atta - Storyteller | Editor | Content Creator"
+              },
+              "my_classes": {
+                "href": "/users/186124002/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/186124002/completions",
+                "title": "Completions for User: 186124002"
+              },
+              "discussions": {
+                "href": "/users/186124002/discussions",
+                "title": "Discussions for User: 186124002"
+              },
+              "followers": {
+                "href": "/users/186124002/followers",
+                "title": "Followers for User: 186124002"
+              },
+              "following": {
+                "href": "/users/186124002/following",
+                "title": "Following for User: 186124002"
+              },
+              "notifications": {
+                "href": "/users/186124002/notifications",
+                "title": "Notifications for User: 186124002"
+              },
+              "projects": {
+                "href": "/users/186124002/projects",
+                "title": "Projects for User: 186124002"
+              },
+              "rosters": {
+                "href": "/users/186124002/rosters",
+                "title": "Rosters for User: 186124002"
+              },
+              "userTags": {
+                "href": "/users/186124002/userTags",
+                "title": "UserTags for User: 186124002"
+              },
+              "votes": {
+                "href": "/users/186124002/votes",
+                "title": "Votes for User: 186124002"
+              },
+              "wishlist": {
+                "href": "/users/186124002/wishlist",
+                "title": "Wishlist for User: 186124002"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

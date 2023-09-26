@@ -8,7 +8,6 @@ cd "$PROJECT_DIR" || exit 1
 
 # Set the maximum size in bytes
 max_size=40000000 # 40 MB
-split_threshold=50000000 # 50 MB
 
 # Initialize the total size to 0
 total_size=0
@@ -19,36 +18,10 @@ function get_File_file_bytes() {
   stat --printf="%s" "$file"
 }
 
-function splitFile() {
-  local path dir fileName
-  path="$(realpath "$1")"
-  fileName=$(basename -- "$path")
-  dir="${path%%.*}"
-  mkdir "$dir"
-  cd "$dir" || exit 1
-  mv "$path" "${dir}/${fileName}"
-  7z -v10m -mx=9 a "${fileName}.7z" "$fileName" > /dev/null
-  rm -f "$fileName"
-  cd ..
-}
-
 # reset to last remote commit
 git reset --quiet "origin/$(git rev-parse --abbrev-ref HEAD)"
 
-# shellcheck disable=SC2044
-for file in *.* **/*; do
-  if [ ! -f "$file" ]; then
-    continue
-  fi
-
-  file_size=$(get_File_file_bytes "$file")
-  if [ "$file_size" -lt "$split_threshold" ]; then
-    continue
-  fi
-
-  splitFile "$file"
-done
-
+counter=0
 # shellcheck disable=SC2044
 for file in *.* **/*; do
   if [[ "$file" == *"URLs.txt" ]] || [ ! -f "$file" ]; then
@@ -56,10 +29,11 @@ for file in *.* **/*; do
   fi
   file_size=$(get_File_file_bytes "$file")
 
-  if [ $total_size -gt $max_size ] ; then
+  if [ $total_size -gt $max_size ] || [ $counter -gt 100 ] ; then
     git commit --message "$total_size"
     git push --force-with-lease
     total_size=0
+    counter=0
     continue
   fi
 
@@ -67,6 +41,7 @@ for file in *.* **/*; do
     git add "$file"
     echo "Added $file"
     total_size=$((total_size + file_size))
+    counter=$((counter + 1))
   fi
 done
 

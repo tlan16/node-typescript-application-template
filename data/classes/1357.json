@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1357",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1356",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1358",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 569284,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2OTI4NCJ9",
+        "sku": 1378367655,
+        "title": "Blockprinting: Gravez vos tampons feuilles tropicales",
+        "project_title": "Vous pouvez télécharger les modèles des feuilles ici.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a928a0f2e45f56a216032e714282ec22/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a928a0f2e45f56a216032e714282ec22/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a928a0f2e45f56a216032e714282ec22/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Blockprinting-Gravez-vos-tampons-feuilles-tropicales/1378367655",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "1h 5m",
+        "total_videos_duration_seconds": 3911,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 43,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": true,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 24, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1378367655",
+            "title": "Blockprinting: Gravez vos tampons feuilles tropicales"
+          },
+          "teacher": {
+            "href": "/users/6186241",
+            "title": "Marie Le Moal"
+          },
+          "units": {
+            "href": "/classes/1378367655/units",
+            "title": "Units for Class: 1378367655"
+          },
+          "sessions": {
+            "href": "/classes/1378367655/sessions",
+            "title": "Sessions for Class: 1378367655"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1378367655/students",
+            "title": "Students for Class: 1378367655"
+          },
+          "projects": {
+            "href": "/classes/1378367655/projects",
+            "title": "Projects for Class: 1378367655"
+          },
+          "reviews": {
+            "href": "/classes/1378367655/reviews",
+            "title": "Reviews for Class: 1378367655"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9042346,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTA0MjM0NiJ9",
+            "username": 6186241,
+            "first_name": "Marie",
+            "last_name": "Le Moal",
+            "full_name": "Marie Le Moal",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/6186241/user-image-medium.jpg?1926779503",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6186241/user-image-small.jpg?578818438",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6186241/user-image-large.jpg?2145272245",
+            "_links": {
+              "self": {
+                "href": "/users/6186241",
+                "title": "Marie Le Moal"
+              },
+              "my_classes": {
+                "href": "/users/6186241/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6186241/completions",
+                "title": "Completions for User: 6186241"
+              },
+              "discussions": {
+                "href": "/users/6186241/discussions",
+                "title": "Discussions for User: 6186241"
+              },
+              "followers": {
+                "href": "/users/6186241/followers",
+                "title": "Followers for User: 6186241"
+              },
+              "following": {
+                "href": "/users/6186241/following",
+                "title": "Following for User: 6186241"
+              },
+              "notifications": {
+                "href": "/users/6186241/notifications",
+                "title": "Notifications for User: 6186241"
+              },
+              "projects": {
+                "href": "/users/6186241/projects",
+                "title": "Projects for User: 6186241"
+              },
+              "rosters": {
+                "href": "/users/6186241/rosters",
+                "title": "Rosters for User: 6186241"
+              },
+              "userTags": {
+                "href": "/users/6186241/userTags",
+                "title": "UserTags for User: 6186241"
+              },
+              "votes": {
+                "href": "/users/6186241/votes",
+                "title": "Votes for User: 6186241"
+              },
+              "wishlist": {
+                "href": "/users/6186241/wishlist",
+                "title": "Wishlist for User: 6186241"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 569286,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2OTI4NiJ9",
+        "sku": 1041642859,
+        "title": "Procreate-Animation für Einsteiger: Erstelle deine eigenen GIFs & Sticker",
+        "project_title": "In diesem Kurs wirst du kleine Animationen unterschiedlicher Art erstellen, die du als Reaction Sticker verwenden kannst. Vergiss bitte nicht, deinen Fortschritt mit uns allen in der Galerie zu teilen",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/779d05496090655fecbc28e3db1d5bbd/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/779d05496090655fecbc28e3db1d5bbd/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/779d05496090655fecbc28e3db1d5bbd/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Procreate-Animation-f%C3%BCr-Einsteiger-Erstelle-deine-eigenen-GIFs-Sticker/1041642859",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "45m",
+        "total_videos_duration_seconds": 2676,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 347,
+        "num_projects": 14,
+        "num_discussions": 1,
+        "is_staff_pick": true,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 4, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1041642859",
+            "title": "Procreate-Animation für Einsteiger: Erstelle deine eigenen GIFs & Sticker"
+          },
+          "teacher": {
+            "href": "/users/1380684",
+            "title": "Vera Rehaag - Freelance Artist"
+          },
+          "units": {
+            "href": "/classes/1041642859/units",
+            "title": "Units for Class: 1041642859"
+          },
+          "sessions": {
+            "href": "/classes/1041642859/sessions",
+            "title": "Sessions for Class: 1041642859"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1041642859/students",
+            "title": "Students for Class: 1041642859"
+          },
+          "projects": {
+            "href": "/classes/1041642859/projects",
+            "title": "Projects for Class: 1041642859"
+          },
+          "reviews": {
+            "href": "/classes/1041642859/reviews",
+            "title": "Reviews for Class: 1041642859"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9510621,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTUxMDYyMSJ9",
+            "username": 1380684,
+            "first_name": "Vera",
+            "last_name": "Rehaag",
+            "full_name": "Vera Rehaag",
+            "vanity_username": "verarehaag",
+            "headline": "Freelance Artist",
+            "pic": "https://static.skillshare.com/uploads/users/1380684/user-image-medium.jpg?116918560",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1380684/user-image-small.jpg?492867361",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1380684/user-image-large.jpg?1163643102",
+            "_links": {
+              "self": {
+                "href": "/users/1380684",
+                "title": "Vera Rehaag - Freelance Artist"
+              },
+              "my_classes": {
+                "href": "/users/1380684/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1380684/completions",
+                "title": "Completions for User: 1380684"
+              },
+              "discussions": {
+                "href": "/users/1380684/discussions",
+                "title": "Discussions for User: 1380684"
+              },
+              "followers": {
+                "href": "/users/1380684/followers",
+                "title": "Followers for User: 1380684"
+              },
+              "following": {
+                "href": "/users/1380684/following",
+                "title": "Following for User: 1380684"
+              },
+              "notifications": {
+                "href": "/users/1380684/notifications",
+                "title": "Notifications for User: 1380684"
+              },
+              "projects": {
+                "href": "/users/1380684/projects",
+                "title": "Projects for User: 1380684"
+              },
+              "rosters": {
+                "href": "/users/1380684/rosters",
+                "title": "Rosters for User: 1380684"
+              },
+              "userTags": {
+                "href": "/users/1380684/userTags",
+                "title": "UserTags for User: 1380684"
+              },
+              "votes": {
+                "href": "/users/1380684/votes",
+                "title": "Votes for User: 1380684"
+              },
+              "wishlist": {
+                "href": "/users/1380684/wishlist",
+                "title": "Wishlist for User: 1380684"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 569311,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2OTMxMSJ9",
+        "sku": 125018294,
+        "title": "Music Production Masterclass: Write Songs In FL Studio 20, EDM, Beats, Mixing In FL Studio 20",
+        "project_title": "Making music is great. But 90% of people thinks that it can't be done for free. \"We need good studio equipment, with a Macbook Pro, and expensive microphone\".",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/4612c18968b8eb03f4725f45eeadb00c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/4612c18968b8eb03f4725f45eeadb00c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/4612c18968b8eb03f4725f45eeadb00c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Music-Production-Masterclass-Write-Songs-In-FL-Studio-20-EDM-Beats-Mixing-In-FL-Studio-20/125018294",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 139,
+        "total_videos_duration": "12h 31m",
+        "total_videos_duration_seconds": 45047,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 314,
+        "num_projects": 0,
+        "num_discussions": 4,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/125018294",
+            "title": "Music Production Masterclass: Write Songs In FL Studio 20, EDM, Beats, Mixing In FL Studio 20"
+          },
+          "teacher": {
+            "href": "/users/130321079",
+            "title": "Joseph Khoury - Creative Artist"
+          },
+          "units": {
+            "href": "/classes/125018294/units",
+            "title": "Units for Class: 125018294"
+          },
+          "sessions": {
+            "href": "/classes/125018294/sessions",
+            "title": "Sessions for Class: 125018294"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/125018294/students",
+            "title": "Students for Class: 125018294"
+          },
+          "projects": {
+            "href": "/classes/125018294/projects",
+            "title": "Projects for Class: 125018294"
+          },
+          "reviews": {
+            "href": "/classes/125018294/reviews",
+            "title": "Reviews for Class: 125018294"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17402154,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTc0MDIxNTQifQ==",
+            "username": 130321079,
+            "first_name": "Joseph",
+            "last_name": "Khoury",
+            "full_name": "Joseph Khoury",
+            "vanity_username": null,
+            "headline": "Creative Artist",
+            "pic": "https://static.skillshare.com/uploads/users/130321079/user-image-medium.jpg?1083355470",
+            "pic_sm": "https://static.skillshare.com/uploads/users/130321079/user-image-small.jpg?1704405836",
+            "pic_lg": "https://static.skillshare.com/uploads/users/130321079/user-image-large.jpg?1990978047",
+            "_links": {
+              "self": {
+                "href": "/users/130321079",
+                "title": "Joseph Khoury - Creative Artist"
+              },
+              "my_classes": {
+                "href": "/users/130321079/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/130321079/completions",
+                "title": "Completions for User: 130321079"
+              },
+              "discussions": {
+                "href": "/users/130321079/discussions",
+                "title": "Discussions for User: 130321079"
+              },
+              "followers": {
+                "href": "/users/130321079/followers",
+                "title": "Followers for User: 130321079"
+              },
+              "following": {
+                "href": "/users/130321079/following",
+                "title": "Following for User: 130321079"
+              },
+              "notifications": {
+                "href": "/users/130321079/notifications",
+                "title": "Notifications for User: 130321079"
+              },
+              "projects": {
+                "href": "/users/130321079/projects",
+                "title": "Projects for User: 130321079"
+              },
+              "rosters": {
+                "href": "/users/130321079/rosters",
+                "title": "Rosters for User: 130321079"
+              },
+              "userTags": {
+                "href": "/users/130321079/userTags",
+                "title": "UserTags for User: 130321079"
+              },
+              "votes": {
+                "href": "/users/130321079/votes",
+                "title": "Votes for User: 130321079"
+              },
+              "wishlist": {
+                "href": "/users/130321079/wishlist",
+                "title": "Wishlist for User: 130321079"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 569324,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2OTMyNCJ9",
+        "sku": 1842725671,
+        "title": "Colour Interactions (UI Bootcamp Week 7)",
+        "project_title": "Share your experiments created in this section:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/da39f509dd4c292ab74c2a7455eb2dd9/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/da39f509dd4c292ab74c2a7455eb2dd9/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/da39f509dd4c292ab74c2a7455eb2dd9/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Colour-Interactions-UI-Bootcamp-Week-7/1842725671",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "19m",
+        "total_videos_duration_seconds": 1124,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 113,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1842725671",
+            "title": "Colour Interactions (UI Bootcamp Week 7)"
+          },
+          "teacher": {
+            "href": "/users/7497979",
+            "title": "Rob Sutcliffe - UI Designer / Developer"
+          },
+          "units": {
+            "href": "/classes/1842725671/units",
+            "title": "Units for Class: 1842725671"
+          },
+          "sessions": {
+            "href": "/classes/1842725671/sessions",
+            "title": "Sessions for Class: 1842725671"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1842725671/students",
+            "title": "Students for Class: 1842725671"
+          },
+          "projects": {
+            "href": "/classes/1842725671/projects",
+            "title": "Projects for Class: 1842725671"
+          },
+          "reviews": {
+            "href": "/classes/1842725671/reviews",
+            "title": "Reviews for Class: 1842725671"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 270206,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjcwMjA2In0=",
+            "username": 7497979,
+            "first_name": "Rob",
+            "last_name": "Sutcliffe",
+            "full_name": "Rob Sutcliffe",
+            "vanity_username": "firefields",
+            "headline": "UI Designer / Developer",
+            "pic": "https://static.skillshare.com/uploads/users/7497979/user-image-medium.jpg?1453320993",
+            "pic_sm": "https://static.skillshare.com/uploads/users/7497979/user-image-small.jpg?1902620165",
+            "pic_lg": "https://static.skillshare.com/uploads/users/7497979/user-image-large.jpg?2059971986",
+            "_links": {
+              "self": {
+                "href": "/users/7497979",
+                "title": "Rob Sutcliffe - UI Designer / Developer"
+              },
+              "my_classes": {
+                "href": "/users/7497979/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/7497979/completions",
+                "title": "Completions for User: 7497979"
+              },
+              "discussions": {
+                "href": "/users/7497979/discussions",
+                "title": "Discussions for User: 7497979"
+              },
+              "followers": {
+                "href": "/users/7497979/followers",
+                "title": "Followers for User: 7497979"
+              },
+              "following": {
+                "href": "/users/7497979/following",
+                "title": "Following for User: 7497979"
+              },
+              "notifications": {
+                "href": "/users/7497979/notifications",
+                "title": "Notifications for User: 7497979"
+              },
+              "projects": {
+                "href": "/users/7497979/projects",
+                "title": "Projects for User: 7497979"
+              },
+              "rosters": {
+                "href": "/users/7497979/rosters",
+                "title": "Rosters for User: 7497979"
+              },
+              "userTags": {
+                "href": "/users/7497979/userTags",
+                "title": "UserTags for User: 7497979"
+              },
+              "votes": {
+                "href": "/users/7497979/votes",
+                "title": "Votes for User: 7497979"
+              },
+              "wishlist": {
+                "href": "/users/7497979/wishlist",
+                "title": "Wishlist for User: 7497979"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 569335,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2OTMzNSJ9",
+        "sku": 226367935,
+        "title": "Create Realistic Looking Mountains in Blender",
+        "project_title": "By the end of this course, you will create a fully procedural mountain formation in Blender, just by using nodes.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/02c51f3174faf1e90a05f009d23785ad/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/02c51f3174faf1e90a05f009d23785ad/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/02c51f3174faf1e90a05f009d23785ad/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Create-Realistic-Looking-Mountains-in-Blender/226367935",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 26,
+        "total_videos_duration": "2h 30m",
+        "total_videos_duration_seconds": 8999,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 344,
+        "num_projects": 3,
+        "num_discussions": 6,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 26, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/226367935",
+            "title": "Create Realistic Looking Mountains in Blender"
+          },
+          "teacher": {
+            "href": "/users/21163377",
+            "title": "Yassine Larayedh - VFX Artist"
+          },
+          "units": {
+            "href": "/classes/226367935/units",
+            "title": "Units for Class: 226367935"
+          },
+          "sessions": {
+            "href": "/classes/226367935/sessions",
+            "title": "Sessions for Class: 226367935"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/226367935/students",
+            "title": "Students for Class: 226367935"
+          },
+          "projects": {
+            "href": "/classes/226367935/projects",
+            "title": "Projects for Class: 226367935"
+          },
+          "reviews": {
+            "href": "/classes/226367935/reviews",
+            "title": "Reviews for Class: 226367935"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19617182,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTk2MTcxODIifQ==",
+            "username": 21163377,
+            "first_name": "Yassine",
+            "last_name": "Larayedh",
+            "full_name": "Yassine Larayedh",
+            "vanity_username": "yassinelarayedh",
+            "headline": "VFX Artist",
+            "pic": "https://static.skillshare.com/uploads/users/21163377/user-image-medium.jpg?1167503114",
+            "pic_sm": "https://static.skillshare.com/uploads/users/21163377/user-image-small.jpg?1154675582",
+            "pic_lg": "https://static.skillshare.com/uploads/users/21163377/user-image-large.jpg?252556317",
+            "_links": {
+              "self": {
+                "href": "/users/21163377",
+                "title": "Yassine Larayedh - VFX Artist"
+              },
+              "my_classes": {
+                "href": "/users/21163377/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/21163377/completions",
+                "title": "Completions for User: 21163377"
+              },
+              "discussions": {
+                "href": "/users/21163377/discussions",
+                "title": "Discussions for User: 21163377"
+              },
+              "followers": {
+                "href": "/users/21163377/followers",
+                "title": "Followers for User: 21163377"
+              },
+              "following": {
+                "href": "/users/21163377/following",
+                "title": "Following for User: 21163377"
+              },
+              "notifications": {
+                "href": "/users/21163377/notifications",
+                "title": "Notifications for User: 21163377"
+              },
+              "projects": {
+                "href": "/users/21163377/projects",
+                "title": "Projects for User: 21163377"
+              },
+              "rosters": {
+                "href": "/users/21163377/rosters",
+                "title": "Rosters for User: 21163377"
+              },
+              "userTags": {
+                "href": "/users/21163377/userTags",
+                "title": "UserTags for User: 21163377"
+              },
+              "votes": {
+                "href": "/users/21163377/votes",
+                "title": "Votes for User: 21163377"
+              },
+              "wishlist": {
+                "href": "/users/21163377/wishlist",
+                "title": "Wishlist for User: 21163377"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 569338,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2OTMzOCJ9",
+        "sku": 1342591428,
+        "title": "Animating Text Guide using Adobe After Effects",
+        "project_title": "Assignment:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/0b45b039b815bd8575bca0b383692fb1/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/0b45b039b815bd8575bca0b383692fb1/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/0b45b039b815bd8575bca0b383692fb1/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Animating-Text-Guide-using-Adobe-After-Effects/1342591428",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "40m",
+        "total_videos_duration_seconds": 2379,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 91,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1342591428",
+            "title": "Animating Text Guide using Adobe After Effects"
+          },
+          "teacher": {
+            "href": "/users/9257344",
+            "title": "M Jake - Lets Create VFX & Cool Stuff Together"
+          },
+          "units": {
+            "href": "/classes/1342591428/units",
+            "title": "Units for Class: 1342591428"
+          },
+          "sessions": {
+            "href": "/classes/1342591428/sessions",
+            "title": "Sessions for Class: 1342591428"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1342591428/students",
+            "title": "Students for Class: 1342591428"
+          },
+          "projects": {
+            "href": "/classes/1342591428/projects",
+            "title": "Projects for Class: 1342591428"
+          },
+          "reviews": {
+            "href": "/classes/1342591428/reviews",
+            "title": "Reviews for Class: 1342591428"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 556274,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTU2Mjc0In0=",
+            "username": 9257344,
+            "first_name": "M",
+            "last_name": "Jake",
+            "full_name": "M Jake",
+            "vanity_username": "mjake",
+            "headline": "Lets Create VFX & Cool Stuff Together",
+            "pic": "https://static.skillshare.com/uploads/users/9257344/user-image-medium.jpg?2095845392",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9257344/user-image-small.jpg?975856549",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9257344/user-image-large.jpg?611732489",
+            "_links": {
+              "self": {
+                "href": "/users/9257344",
+                "title": "M Jake - Lets Create VFX & Cool Stuff Together"
+              },
+              "my_classes": {
+                "href": "/users/9257344/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9257344/completions",
+                "title": "Completions for User: 9257344"
+              },
+              "discussions": {
+                "href": "/users/9257344/discussions",
+                "title": "Discussions for User: 9257344"
+              },
+              "followers": {
+                "href": "/users/9257344/followers",
+                "title": "Followers for User: 9257344"
+              },
+              "following": {
+                "href": "/users/9257344/following",
+                "title": "Following for User: 9257344"
+              },
+              "notifications": {
+                "href": "/users/9257344/notifications",
+                "title": "Notifications for User: 9257344"
+              },
+              "projects": {
+                "href": "/users/9257344/projects",
+                "title": "Projects for User: 9257344"
+              },
+              "rosters": {
+                "href": "/users/9257344/rosters",
+                "title": "Rosters for User: 9257344"
+              },
+              "userTags": {
+                "href": "/users/9257344/userTags",
+                "title": "UserTags for User: 9257344"
+              },
+              "votes": {
+                "href": "/users/9257344/votes",
+                "title": "Votes for User: 9257344"
+              },
+              "wishlist": {
+                "href": "/users/9257344/wishlist",
+                "title": "Wishlist for User: 9257344"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 569341,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2OTM0MSJ9",
+        "sku": 1888582468,
+        "title": "Explore Watercolor Florals : 5 Techniques for Painting Poppies",
+        "project_title": "Class Project",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/061ea7a2fe0dbe2f2c9361e41f141952/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/061ea7a2fe0dbe2f2c9361e41f141952/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/061ea7a2fe0dbe2f2c9361e41f141952/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Explore-Watercolor-Florals-5-Techniques-for-Painting-Poppies/1888582468",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 20,
+        "total_videos_duration": "2h 56m",
+        "total_videos_duration_seconds": 10577,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 548,
+        "num_projects": 22,
+        "num_discussions": 7,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 21, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1888582468",
+            "title": "Explore Watercolor Florals : 5 Techniques for Painting Poppies"
+          },
+          "teacher": {
+            "href": "/users/1116396",
+            "title": "Garima Srivastava - Artist and Illustrator "
+          },
+          "units": {
+            "href": "/classes/1888582468/units",
+            "title": "Units for Class: 1888582468"
+          },
+          "sessions": {
+            "href": "/classes/1888582468/sessions",
+            "title": "Sessions for Class: 1888582468"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1888582468/students",
+            "title": "Students for Class: 1888582468"
+          },
+          "projects": {
+            "href": "/classes/1888582468/projects",
+            "title": "Projects for Class: 1888582468"
+          },
+          "reviews": {
+            "href": "/classes/1888582468/reviews",
+            "title": "Reviews for Class: 1888582468"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6498938,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjQ5ODkzOCJ9",
+            "username": 1116396,
+            "first_name": "Garima",
+            "last_name": "Srivastava",
+            "full_name": "Garima Srivastava",
+            "vanity_username": null,
+            "headline": "Artist and Illustrator ",
+            "pic": "https://static.skillshare.com/uploads/users/1116396/user-image-medium.jpg?1846095209",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1116396/user-image-small.jpg?1010096631",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1116396/user-image-large.jpg?1018249054",
+            "_links": {
+              "self": {
+                "href": "/users/1116396",
+                "title": "Garima Srivastava - Artist and Illustrator "
+              },
+              "my_classes": {
+                "href": "/users/1116396/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1116396/completions",
+                "title": "Completions for User: 1116396"
+              },
+              "discussions": {
+                "href": "/users/1116396/discussions",
+                "title": "Discussions for User: 1116396"
+              },
+              "followers": {
+                "href": "/users/1116396/followers",
+                "title": "Followers for User: 1116396"
+              },
+              "following": {
+                "href": "/users/1116396/following",
+                "title": "Following for User: 1116396"
+              },
+              "notifications": {
+                "href": "/users/1116396/notifications",
+                "title": "Notifications for User: 1116396"
+              },
+              "projects": {
+                "href": "/users/1116396/projects",
+                "title": "Projects for User: 1116396"
+              },
+              "rosters": {
+                "href": "/users/1116396/rosters",
+                "title": "Rosters for User: 1116396"
+              },
+              "userTags": {
+                "href": "/users/1116396/userTags",
+                "title": "UserTags for User: 1116396"
+              },
+              "votes": {
+                "href": "/users/1116396/votes",
+                "title": "Votes for User: 1116396"
+              },
+              "wishlist": {
+                "href": "/users/1116396/wishlist",
+                "title": "Wishlist for User: 1116396"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 569345,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2OTM0NSJ9",
+        "sku": 1452248342,
+        "title": "How to Use Flash: Lighting for Digital Photography",
+        "project_title": "Share 1 (One) Image Taken With a Flash",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/06e9d9ff7696620c05d38f4533eff17f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/06e9d9ff7696620c05d38f4533eff17f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/06e9d9ff7696620c05d38f4533eff17f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Use-Flash-Lighting-for-Digital-Photography/1452248342",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 18,
+        "total_videos_duration": "1h 47m",
+        "total_videos_duration_seconds": 6391,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 950,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 26, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1452248342",
+            "title": "How to Use Flash: Lighting for Digital Photography"
+          },
+          "teacher": {
+            "href": "/users/150428643",
+            "title": "Fynn Badgley - Fashion & Portrait Photographer"
+          },
+          "units": {
+            "href": "/classes/1452248342/units",
+            "title": "Units for Class: 1452248342"
+          },
+          "sessions": {
+            "href": "/classes/1452248342/sessions",
+            "title": "Sessions for Class: 1452248342"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1452248342/students",
+            "title": "Students for Class: 1452248342"
+          },
+          "projects": {
+            "href": "/classes/1452248342/projects",
+            "title": "Projects for Class: 1452248342"
+          },
+          "reviews": {
+            "href": "/classes/1452248342/reviews",
+            "title": "Reviews for Class: 1452248342"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16282630,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTYyODI2MzAifQ==",
+            "username": 150428643,
+            "first_name": "Fynn",
+            "last_name": "Badgley",
+            "full_name": "Fynn Badgley",
+            "vanity_username": "fynnbadgley",
+            "headline": "Fashion & Portrait Photographer",
+            "pic": "https://static.skillshare.com/uploads/users/150428643/user-image-medium.jpg?1952821578",
+            "pic_sm": "https://static.skillshare.com/uploads/users/150428643/user-image-small.jpg?47269885",
+            "pic_lg": "https://static.skillshare.com/uploads/users/150428643/user-image-large.jpg?666158473",
+            "_links": {
+              "self": {
+                "href": "/users/150428643",
+                "title": "Fynn Badgley - Fashion & Portrait Photographer"
+              },
+              "my_classes": {
+                "href": "/users/150428643/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/150428643/completions",
+                "title": "Completions for User: 150428643"
+              },
+              "discussions": {
+                "href": "/users/150428643/discussions",
+                "title": "Discussions for User: 150428643"
+              },
+              "followers": {
+                "href": "/users/150428643/followers",
+                "title": "Followers for User: 150428643"
+              },
+              "following": {
+                "href": "/users/150428643/following",
+                "title": "Following for User: 150428643"
+              },
+              "notifications": {
+                "href": "/users/150428643/notifications",
+                "title": "Notifications for User: 150428643"
+              },
+              "projects": {
+                "href": "/users/150428643/projects",
+                "title": "Projects for User: 150428643"
+              },
+              "rosters": {
+                "href": "/users/150428643/rosters",
+                "title": "Rosters for User: 150428643"
+              },
+              "userTags": {
+                "href": "/users/150428643/userTags",
+                "title": "UserTags for User: 150428643"
+              },
+              "votes": {
+                "href": "/users/150428643/votes",
+                "title": "Votes for User: 150428643"
+              },
+              "wishlist": {
+                "href": "/users/150428643/wishlist",
+                "title": "Wishlist for User: 150428643"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 569348,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2OTM0OCJ9",
+        "sku": 51569957,
+        "title": "Bitesize Watercolor: Master Painting the Flat Wash",
+        "project_title": "For your class project, you will create your own flat wash guidebook describing the techniques and supplies that work best for you.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b7ea6d2db1c424821f1a604543771ef9/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b7ea6d2db1c424821f1a604543771ef9/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b7ea6d2db1c424821f1a604543771ef9/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Bitesize-Watercolor-Master-Painting-the-Flat-Wash/51569957",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "23m",
+        "total_videos_duration_seconds": 1377,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 164,
+        "num_projects": 14,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Sep 14, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/51569957",
+            "title": "Bitesize Watercolor: Master Painting the Flat Wash"
+          },
+          "teacher": {
+            "href": "/users/139904606",
+            "title": "Shelley Skail - Artist, Illustrator, friendly nerd"
+          },
+          "units": {
+            "href": "/classes/51569957/units",
+            "title": "Units for Class: 51569957"
+          },
+          "sessions": {
+            "href": "/classes/51569957/sessions",
+            "title": "Sessions for Class: 51569957"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/51569957/students",
+            "title": "Students for Class: 51569957"
+          },
+          "projects": {
+            "href": "/classes/51569957/projects",
+            "title": "Projects for Class: 51569957"
+          },
+          "reviews": {
+            "href": "/classes/51569957/reviews",
+            "title": "Reviews for Class: 51569957"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10417797,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTA0MTc3OTcifQ==",
+            "username": 139904606,
+            "first_name": "Shelley",
+            "last_name": "Skail",
+            "full_name": "Shelley Skail",
+            "vanity_username": "shelleyskail",
+            "headline": "Artist, Illustrator, friendly nerd",
+            "pic": "https://static.skillshare.com/uploads/users/139904606/user-image-medium.jpg?1390867262",
+            "pic_sm": "https://static.skillshare.com/uploads/users/139904606/user-image-small.jpg?964920660",
+            "pic_lg": "https://static.skillshare.com/uploads/users/139904606/user-image-large.jpg?1467933283",
+            "_links": {
+              "self": {
+                "href": "/users/139904606",
+                "title": "Shelley Skail - Artist, Illustrator, friendly nerd"
+              },
+              "my_classes": {
+                "href": "/users/139904606/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/139904606/completions",
+                "title": "Completions for User: 139904606"
+              },
+              "discussions": {
+                "href": "/users/139904606/discussions",
+                "title": "Discussions for User: 139904606"
+              },
+              "followers": {
+                "href": "/users/139904606/followers",
+                "title": "Followers for User: 139904606"
+              },
+              "following": {
+                "href": "/users/139904606/following",
+                "title": "Following for User: 139904606"
+              },
+              "notifications": {
+                "href": "/users/139904606/notifications",
+                "title": "Notifications for User: 139904606"
+              },
+              "projects": {
+                "href": "/users/139904606/projects",
+                "title": "Projects for User: 139904606"
+              },
+              "rosters": {
+                "href": "/users/139904606/rosters",
+                "title": "Rosters for User: 139904606"
+              },
+              "userTags": {
+                "href": "/users/139904606/userTags",
+                "title": "UserTags for User: 139904606"
+              },
+              "votes": {
+                "href": "/users/139904606/votes",
+                "title": "Votes for User: 139904606"
+              },
+              "wishlist": {
+                "href": "/users/139904606/wishlist",
+                "title": "Wishlist for User: 139904606"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 569352,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2OTM1MiJ9",
+        "sku": 36785550,
+        "title": "Easy Infinity loop in After Effects │ Motion Graphic │ Motion Design",
+        "project_title": "You will be creating a sneaky animated eye loop in After Effects, covering all the steps from design to rendering and of course, we are open to see what is in your head:) ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/05eb3be022bb0cad3aaa81ba7bba840d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/05eb3be022bb0cad3aaa81ba7bba840d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/05eb3be022bb0cad3aaa81ba7bba840d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Easy-Infinity-loop-in-After-Effects-%E2%94%82-Motion-Graphic-%E2%94%82-Motion-Design/36785550",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "46m",
+        "total_videos_duration_seconds": 2766,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 112,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/36785550",
+            "title": "Easy Infinity loop in After Effects │ Motion Graphic │ Motion Design"
+          },
+          "teacher": {
+            "href": "/users/598752286",
+            "title": "Sasha Luvr - Work in third dimension"
+          },
+          "units": {
+            "href": "/classes/36785550/units",
+            "title": "Units for Class: 36785550"
+          },
+          "sessions": {
+            "href": "/classes/36785550/sessions",
+            "title": "Sessions for Class: 36785550"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/36785550/students",
+            "title": "Students for Class: 36785550"
+          },
+          "projects": {
+            "href": "/classes/36785550/projects",
+            "title": "Projects for Class: 36785550"
+          },
+          "reviews": {
+            "href": "/classes/36785550/reviews",
+            "title": "Reviews for Class: 36785550"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18912439,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTg5MTI0MzkifQ==",
+            "username": 598752286,
+            "first_name": "Sasha",
+            "last_name": "Luvr",
+            "full_name": "Sasha Luvr",
+            "vanity_username": "sashaluvr",
+            "headline": "Work in third dimension",
+            "pic": "https://static.skillshare.com/uploads/users/598752286/user-image-medium.jpg?1780123547",
+            "pic_sm": "https://static.skillshare.com/uploads/users/598752286/user-image-small.jpg?1335164834",
+            "pic_lg": "https://static.skillshare.com/uploads/users/598752286/user-image-large.jpg?61784177",
+            "_links": {
+              "self": {
+                "href": "/users/598752286",
+                "title": "Sasha Luvr - Work in third dimension"
+              },
+              "my_classes": {
+                "href": "/users/598752286/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/598752286/completions",
+                "title": "Completions for User: 598752286"
+              },
+              "discussions": {
+                "href": "/users/598752286/discussions",
+                "title": "Discussions for User: 598752286"
+              },
+              "followers": {
+                "href": "/users/598752286/followers",
+                "title": "Followers for User: 598752286"
+              },
+              "following": {
+                "href": "/users/598752286/following",
+                "title": "Following for User: 598752286"
+              },
+              "notifications": {
+                "href": "/users/598752286/notifications",
+                "title": "Notifications for User: 598752286"
+              },
+              "projects": {
+                "href": "/users/598752286/projects",
+                "title": "Projects for User: 598752286"
+              },
+              "rosters": {
+                "href": "/users/598752286/rosters",
+                "title": "Rosters for User: 598752286"
+              },
+              "userTags": {
+                "href": "/users/598752286/userTags",
+                "title": "UserTags for User: 598752286"
+              },
+              "votes": {
+                "href": "/users/598752286/votes",
+                "title": "Votes for User: 598752286"
+              },
+              "wishlist": {
+                "href": "/users/598752286/wishlist",
+                "title": "Wishlist for User: 598752286"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

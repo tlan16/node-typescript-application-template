@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1374",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1373",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1375",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 570801,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDgwMSJ9",
+        "sku": 1054867642,
+        "title": "Modern React Fundamentals: Build a Quote Generator",
+        "project_title": "Your class project is to build a single-page React application featuring your favourite quotes or even favourite facts, which will be full of all the essential modern React techniques! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d0aa9fe1ba8de0814bd53b2889b47f11/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d0aa9fe1ba8de0814bd53b2889b47f11/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d0aa9fe1ba8de0814bd53b2889b47f11/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Modern-React-Fundamentals-Build-a-Quote-Generator/1054867642",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "1h 35m",
+        "total_videos_duration_seconds": 5711,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 156,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 24, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1054867642",
+            "title": "Modern React Fundamentals: Build a Quote Generator"
+          },
+          "teacher": {
+            "href": "/users/28423139",
+            "title": "David Sealey - Web Developer"
+          },
+          "units": {
+            "href": "/classes/1054867642/units",
+            "title": "Units for Class: 1054867642"
+          },
+          "sessions": {
+            "href": "/classes/1054867642/sessions",
+            "title": "Sessions for Class: 1054867642"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1054867642/students",
+            "title": "Students for Class: 1054867642"
+          },
+          "projects": {
+            "href": "/classes/1054867642/projects",
+            "title": "Projects for Class: 1054867642"
+          },
+          "reviews": {
+            "href": "/classes/1054867642/reviews",
+            "title": "Reviews for Class: 1054867642"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15028049,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTUwMjgwNDkifQ==",
+            "username": 28423139,
+            "first_name": "David",
+            "last_name": "Sealey",
+            "full_name": "David Sealey",
+            "vanity_username": "davidjsealey",
+            "headline": "Web Developer",
+            "pic": "https://static.skillshare.com/uploads/users/28423139/user-image-medium.png?1677454139",
+            "pic_sm": "https://static.skillshare.com/uploads/users/28423139/user-image-small.png?281506999",
+            "pic_lg": "https://static.skillshare.com/uploads/users/28423139/user-image-large.png?138733780",
+            "_links": {
+              "self": {
+                "href": "/users/28423139",
+                "title": "David Sealey - Web Developer"
+              },
+              "my_classes": {
+                "href": "/users/28423139/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/28423139/completions",
+                "title": "Completions for User: 28423139"
+              },
+              "discussions": {
+                "href": "/users/28423139/discussions",
+                "title": "Discussions for User: 28423139"
+              },
+              "followers": {
+                "href": "/users/28423139/followers",
+                "title": "Followers for User: 28423139"
+              },
+              "following": {
+                "href": "/users/28423139/following",
+                "title": "Following for User: 28423139"
+              },
+              "notifications": {
+                "href": "/users/28423139/notifications",
+                "title": "Notifications for User: 28423139"
+              },
+              "projects": {
+                "href": "/users/28423139/projects",
+                "title": "Projects for User: 28423139"
+              },
+              "rosters": {
+                "href": "/users/28423139/rosters",
+                "title": "Rosters for User: 28423139"
+              },
+              "userTags": {
+                "href": "/users/28423139/userTags",
+                "title": "UserTags for User: 28423139"
+              },
+              "votes": {
+                "href": "/users/28423139/votes",
+                "title": "Votes for User: 28423139"
+              },
+              "wishlist": {
+                "href": "/users/28423139/wishlist",
+                "title": "Wishlist for User: 28423139"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570803,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDgwMyJ9",
+        "sku": 1786748146,
+        "title": "Mastering Mood Boards: Creating the Perfect one for your Design Project",
+        "project_title": "The project for this class is all about applying the newly learned skills in either recreating the mood boards for the example projects discussed in the class, or in creating the mood board for a moto",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ca0c0d0cf8245a6baa773e330a8a987b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ca0c0d0cf8245a6baa773e330a8a987b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ca0c0d0cf8245a6baa773e330a8a987b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Mastering-Mood-Boards-Creating-the-Perfect-one-for-your-Design-Project/1786748146",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "40m",
+        "total_videos_duration_seconds": 2407,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 127,
+        "num_projects": 1,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1786748146",
+            "title": "Mastering Mood Boards: Creating the Perfect one for your Design Project"
+          },
+          "teacher": {
+            "href": "/users/936161007",
+            "title": "Ketan Sai Pothuganti - Branding Expert, Founder of Brandzpree"
+          },
+          "units": {
+            "href": "/classes/1786748146/units",
+            "title": "Units for Class: 1786748146"
+          },
+          "sessions": {
+            "href": "/classes/1786748146/sessions",
+            "title": "Sessions for Class: 1786748146"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1786748146/students",
+            "title": "Students for Class: 1786748146"
+          },
+          "projects": {
+            "href": "/classes/1786748146/projects",
+            "title": "Projects for Class: 1786748146"
+          },
+          "reviews": {
+            "href": "/classes/1786748146/reviews",
+            "title": "Reviews for Class: 1786748146"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13824232,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTM4MjQyMzIifQ==",
+            "username": 936161007,
+            "first_name": "Ketan Sai",
+            "last_name": "Pothuganti",
+            "full_name": "Ketan Sai Pothuganti",
+            "vanity_username": "ketansai",
+            "headline": "Branding Expert, Founder of Brandzpree",
+            "pic": "https://static.skillshare.com/uploads/users/936161007/user-image-medium.jpg?1186210924",
+            "pic_sm": "https://static.skillshare.com/uploads/users/936161007/user-image-small.jpg?2081330561",
+            "pic_lg": "https://static.skillshare.com/uploads/users/936161007/user-image-large.jpg?161978637",
+            "_links": {
+              "self": {
+                "href": "/users/936161007",
+                "title": "Ketan Sai Pothuganti - Branding Expert, Founder of Brandzpree"
+              },
+              "my_classes": {
+                "href": "/users/936161007/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/936161007/completions",
+                "title": "Completions for User: 936161007"
+              },
+              "discussions": {
+                "href": "/users/936161007/discussions",
+                "title": "Discussions for User: 936161007"
+              },
+              "followers": {
+                "href": "/users/936161007/followers",
+                "title": "Followers for User: 936161007"
+              },
+              "following": {
+                "href": "/users/936161007/following",
+                "title": "Following for User: 936161007"
+              },
+              "notifications": {
+                "href": "/users/936161007/notifications",
+                "title": "Notifications for User: 936161007"
+              },
+              "projects": {
+                "href": "/users/936161007/projects",
+                "title": "Projects for User: 936161007"
+              },
+              "rosters": {
+                "href": "/users/936161007/rosters",
+                "title": "Rosters for User: 936161007"
+              },
+              "userTags": {
+                "href": "/users/936161007/userTags",
+                "title": "UserTags for User: 936161007"
+              },
+              "votes": {
+                "href": "/users/936161007/votes",
+                "title": "Votes for User: 936161007"
+              },
+              "wishlist": {
+                "href": "/users/936161007/wishlist",
+                "title": "Wishlist for User: 936161007"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570805,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDgwNSJ9",
+        "sku": 404549940,
+        "title": "Make Greek yogurt, cheese cake and frozen yogurt from scratch",
+        "project_title": "Here is your turn, get your household equipment ready. Once you know the reason and mechanism of baking, you can make the flavor of your choice. You can replace the jam with chocolate, Nutella, sugar ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f5f5cf53b843a9c030828e197f1ef52d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f5f5cf53b843a9c030828e197f1ef52d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f5f5cf53b843a9c030828e197f1ef52d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Make-Greek-yogurt-cheese-cake-and-frozen-yogurt-from-scratch/404549940",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 18,
+        "total_videos_duration": "1h 44m",
+        "total_videos_duration_seconds": 6226,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 22,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 2, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/404549940",
+            "title": "Make Greek yogurt, cheese cake and frozen yogurt from scratch"
+          },
+          "teacher": {
+            "href": "/users/648841293",
+            "title": "Haiying Yang - Artist, Educator"
+          },
+          "units": {
+            "href": "/classes/404549940/units",
+            "title": "Units for Class: 404549940"
+          },
+          "sessions": {
+            "href": "/classes/404549940/sessions",
+            "title": "Sessions for Class: 404549940"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/404549940/students",
+            "title": "Students for Class: 404549940"
+          },
+          "projects": {
+            "href": "/classes/404549940/projects",
+            "title": "Projects for Class: 404549940"
+          },
+          "reviews": {
+            "href": "/classes/404549940/reviews",
+            "title": "Reviews for Class: 404549940"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17734950,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTc3MzQ5NTAifQ==",
+            "username": 648841293,
+            "first_name": "Haiying",
+            "last_name": "Yang",
+            "full_name": "Haiying Yang",
+            "vanity_username": "yanghaiying",
+            "headline": "Artist, Educator",
+            "pic": "https://static.skillshare.com/uploads/users/648841293/user-image-medium.jpg?1803519320",
+            "pic_sm": "https://static.skillshare.com/uploads/users/648841293/user-image-small.jpg?1288992786",
+            "pic_lg": "https://static.skillshare.com/uploads/users/648841293/user-image-large.jpg?360519024",
+            "_links": {
+              "self": {
+                "href": "/users/648841293",
+                "title": "Haiying Yang - Artist, Educator"
+              },
+              "my_classes": {
+                "href": "/users/648841293/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/648841293/completions",
+                "title": "Completions for User: 648841293"
+              },
+              "discussions": {
+                "href": "/users/648841293/discussions",
+                "title": "Discussions for User: 648841293"
+              },
+              "followers": {
+                "href": "/users/648841293/followers",
+                "title": "Followers for User: 648841293"
+              },
+              "following": {
+                "href": "/users/648841293/following",
+                "title": "Following for User: 648841293"
+              },
+              "notifications": {
+                "href": "/users/648841293/notifications",
+                "title": "Notifications for User: 648841293"
+              },
+              "projects": {
+                "href": "/users/648841293/projects",
+                "title": "Projects for User: 648841293"
+              },
+              "rosters": {
+                "href": "/users/648841293/rosters",
+                "title": "Rosters for User: 648841293"
+              },
+              "userTags": {
+                "href": "/users/648841293/userTags",
+                "title": "UserTags for User: 648841293"
+              },
+              "votes": {
+                "href": "/users/648841293/votes",
+                "title": "Votes for User: 648841293"
+              },
+              "wishlist": {
+                "href": "/users/648841293/wishlist",
+                "title": "Wishlist for User: 648841293"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570828,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDgyOCJ9",
+        "sku": 1448473095,
+        "title": "Jumpstart Java: An Easy Introduction Into Computer Programming for True Beginners",
+        "project_title": "Your project will consist of answering 12 questions. Each question will help you answer the next question. The project is designed to build upon itself. The final 4 questions provide minimal informati",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/afb062faa2b7e5372cf7c248c9821b49/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/afb062faa2b7e5372cf7c248c9821b49/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/afb062faa2b7e5372cf7c248c9821b49/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Jumpstart-Java-An-Easy-Introduction-Into-Computer-Programming-for-True-Beginners/1448473095",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "56m",
+        "total_videos_duration_seconds": 3377,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 36,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 17, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1448473095",
+            "title": "Jumpstart Java: An Easy Introduction Into Computer Programming for True Beginners"
+          },
+          "teacher": {
+            "href": "/users/658705572",
+            "title": "Lenell Davis"
+          },
+          "units": {
+            "href": "/classes/1448473095/units",
+            "title": "Units for Class: 1448473095"
+          },
+          "sessions": {
+            "href": "/classes/1448473095/sessions",
+            "title": "Sessions for Class: 1448473095"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1448473095/students",
+            "title": "Students for Class: 1448473095"
+          },
+          "projects": {
+            "href": "/classes/1448473095/projects",
+            "title": "Projects for Class: 1448473095"
+          },
+          "reviews": {
+            "href": "/classes/1448473095/reviews",
+            "title": "Reviews for Class: 1448473095"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 24554116,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjQ1NTQxMTYifQ==",
+            "username": 658705572,
+            "first_name": "Lenell",
+            "last_name": "Davis",
+            "full_name": "Lenell Davis",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/658705572/user-image-medium.png?1373162221",
+            "pic_sm": "https://static.skillshare.com/uploads/users/658705572/user-image-small.png?1771125992",
+            "pic_lg": "https://static.skillshare.com/uploads/users/658705572/user-image-large.png?2143390091",
+            "_links": {
+              "self": {
+                "href": "/users/658705572",
+                "title": "Lenell Davis"
+              },
+              "my_classes": {
+                "href": "/users/658705572/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/658705572/completions",
+                "title": "Completions for User: 658705572"
+              },
+              "discussions": {
+                "href": "/users/658705572/discussions",
+                "title": "Discussions for User: 658705572"
+              },
+              "followers": {
+                "href": "/users/658705572/followers",
+                "title": "Followers for User: 658705572"
+              },
+              "following": {
+                "href": "/users/658705572/following",
+                "title": "Following for User: 658705572"
+              },
+              "notifications": {
+                "href": "/users/658705572/notifications",
+                "title": "Notifications for User: 658705572"
+              },
+              "projects": {
+                "href": "/users/658705572/projects",
+                "title": "Projects for User: 658705572"
+              },
+              "rosters": {
+                "href": "/users/658705572/rosters",
+                "title": "Rosters for User: 658705572"
+              },
+              "userTags": {
+                "href": "/users/658705572/userTags",
+                "title": "UserTags for User: 658705572"
+              },
+              "votes": {
+                "href": "/users/658705572/votes",
+                "title": "Votes for User: 658705572"
+              },
+              "wishlist": {
+                "href": "/users/658705572/wishlist",
+                "title": "Wishlist for User: 658705572"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570834,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDgzNCJ9",
+        "sku": 1577749298,
+        "title": "Watercolour Essentials: Developing Your Style",
+        "project_title": "Assignment:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/dc55f9b192a881efb7a852819b39014f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/dc55f9b192a881efb7a852819b39014f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/dc55f9b192a881efb7a852819b39014f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolour-Essentials-Developing-Your-Style/1577749298",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "2h 59m",
+        "total_videos_duration_seconds": 10740,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 43,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1577749298",
+            "title": "Watercolour Essentials: Developing Your Style"
+          },
+          "teacher": {
+            "href": "/users/784918632",
+            "title": "Watercolour Mentor (Darren Yeo Artist) - Art Classes, Mentoring & Inspiration!"
+          },
+          "units": {
+            "href": "/classes/1577749298/units",
+            "title": "Units for Class: 1577749298"
+          },
+          "sessions": {
+            "href": "/classes/1577749298/sessions",
+            "title": "Sessions for Class: 1577749298"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1577749298/students",
+            "title": "Students for Class: 1577749298"
+          },
+          "projects": {
+            "href": "/classes/1577749298/projects",
+            "title": "Projects for Class: 1577749298"
+          },
+          "reviews": {
+            "href": "/classes/1577749298/reviews",
+            "title": "Reviews for Class: 1577749298"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15531448,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTU1MzE0NDgifQ==",
+            "username": 784918632,
+            "first_name": "Watercolour Mentor",
+            "last_name": "(Darren Yeo Artist)",
+            "full_name": "Watercolour Mentor (Darren Yeo Artist)",
+            "vanity_username": "watercolourmentor",
+            "headline": "Art Classes, Mentoring & Inspiration!",
+            "pic": "https://static.skillshare.com/uploads/users/784918632/user-image-medium.png?1334630925",
+            "pic_sm": "https://static.skillshare.com/uploads/users/784918632/user-image-small.png?1729399454",
+            "pic_lg": "https://static.skillshare.com/uploads/users/784918632/user-image-large.png?1521920203",
+            "_links": {
+              "self": {
+                "href": "/users/784918632",
+                "title": "Watercolour Mentor (Darren Yeo Artist) - Art Classes, Mentoring & Inspiration!"
+              },
+              "my_classes": {
+                "href": "/users/784918632/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/784918632/completions",
+                "title": "Completions for User: 784918632"
+              },
+              "discussions": {
+                "href": "/users/784918632/discussions",
+                "title": "Discussions for User: 784918632"
+              },
+              "followers": {
+                "href": "/users/784918632/followers",
+                "title": "Followers for User: 784918632"
+              },
+              "following": {
+                "href": "/users/784918632/following",
+                "title": "Following for User: 784918632"
+              },
+              "notifications": {
+                "href": "/users/784918632/notifications",
+                "title": "Notifications for User: 784918632"
+              },
+              "projects": {
+                "href": "/users/784918632/projects",
+                "title": "Projects for User: 784918632"
+              },
+              "rosters": {
+                "href": "/users/784918632/rosters",
+                "title": "Rosters for User: 784918632"
+              },
+              "userTags": {
+                "href": "/users/784918632/userTags",
+                "title": "UserTags for User: 784918632"
+              },
+              "votes": {
+                "href": "/users/784918632/votes",
+                "title": "Votes for User: 784918632"
+              },
+              "wishlist": {
+                "href": "/users/784918632/wishlist",
+                "title": "Wishlist for User: 784918632"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570840,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDg0MCJ9",
+        "sku": 2025447512,
+        "title": "Signature Logos: Creating a Custom Logo with Sharpies and Adobe Illustrator",
+        "project_title": "Create your own custom signature logo using what you learn in the course. Then post your design here in the class project section! Here is my signature logo.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/3c26bf79cdaac862cbb43bc7700e07bb/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/3c26bf79cdaac862cbb43bc7700e07bb/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/3c26bf79cdaac862cbb43bc7700e07bb/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Signature-Logos-Creating-a-Custom-Logo-with-Sharpies-and-Adobe-Illustrator/2025447512",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "25m",
+        "total_videos_duration_seconds": 1486,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 206,
+        "num_projects": 2,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 25, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2025447512",
+            "title": "Signature Logos: Creating a Custom Logo with Sharpies and Adobe Illustrator"
+          },
+          "teacher": {
+            "href": "/users/3076938",
+            "title": "Derrick Mitchell - Designer | Teacher | Artist | Innovator"
+          },
+          "units": {
+            "href": "/classes/2025447512/units",
+            "title": "Units for Class: 2025447512"
+          },
+          "sessions": {
+            "href": "/classes/2025447512/sessions",
+            "title": "Sessions for Class: 2025447512"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2025447512/students",
+            "title": "Students for Class: 2025447512"
+          },
+          "projects": {
+            "href": "/classes/2025447512/projects",
+            "title": "Projects for Class: 2025447512"
+          },
+          "reviews": {
+            "href": "/classes/2025447512/reviews",
+            "title": "Reviews for Class: 2025447512"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 720137,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzIwMTM3In0=",
+            "username": 3076938,
+            "first_name": "Derrick",
+            "last_name": "Mitchell",
+            "full_name": "Derrick Mitchell",
+            "vanity_username": "derrickmitchell",
+            "headline": "Designer | Teacher | Artist | Innovator",
+            "pic": "https://static.skillshare.com/uploads/users/3076938/user-image-medium.jpg?1190878233",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3076938/user-image-small.jpg?2050417631",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3076938/user-image-large.jpg?1743184164",
+            "_links": {
+              "self": {
+                "href": "/users/3076938",
+                "title": "Derrick Mitchell - Designer | Teacher | Artist | Innovator"
+              },
+              "my_classes": {
+                "href": "/users/3076938/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3076938/completions",
+                "title": "Completions for User: 3076938"
+              },
+              "discussions": {
+                "href": "/users/3076938/discussions",
+                "title": "Discussions for User: 3076938"
+              },
+              "followers": {
+                "href": "/users/3076938/followers",
+                "title": "Followers for User: 3076938"
+              },
+              "following": {
+                "href": "/users/3076938/following",
+                "title": "Following for User: 3076938"
+              },
+              "notifications": {
+                "href": "/users/3076938/notifications",
+                "title": "Notifications for User: 3076938"
+              },
+              "projects": {
+                "href": "/users/3076938/projects",
+                "title": "Projects for User: 3076938"
+              },
+              "rosters": {
+                "href": "/users/3076938/rosters",
+                "title": "Rosters for User: 3076938"
+              },
+              "userTags": {
+                "href": "/users/3076938/userTags",
+                "title": "UserTags for User: 3076938"
+              },
+              "votes": {
+                "href": "/users/3076938/votes",
+                "title": "Votes for User: 3076938"
+              },
+              "wishlist": {
+                "href": "/users/3076938/wishlist",
+                "title": "Wishlist for User: 3076938"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570848,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDg0OCJ9",
+        "sku": 327903043,
+        "title": "Beginner's Soap Making : Melt 'n' Pour Soap for Beginners",
+        "project_title": "Soap Making for Beginners! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e70fac5cc9908ce4c650e0cc30605978/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e70fac5cc9908ce4c650e0cc30605978/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e70fac5cc9908ce4c650e0cc30605978/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Beginners-Soap-Making-Melt-n-Pour-Soap-for-Beginners/327903043",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 29,
+        "total_videos_duration": "41m",
+        "total_videos_duration_seconds": 2455,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 192,
+        "num_projects": 2,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 19, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/327903043",
+            "title": "Beginner's Soap Making : Melt 'n' Pour Soap for Beginners"
+          },
+          "teacher": {
+            "href": "/users/225047554",
+            "title": "Sonal N - Teacher"
+          },
+          "units": {
+            "href": "/classes/327903043/units",
+            "title": "Units for Class: 327903043"
+          },
+          "sessions": {
+            "href": "/classes/327903043/sessions",
+            "title": "Sessions for Class: 327903043"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/327903043/students",
+            "title": "Students for Class: 327903043"
+          },
+          "projects": {
+            "href": "/classes/327903043/projects",
+            "title": "Projects for Class: 327903043"
+          },
+          "reviews": {
+            "href": "/classes/327903043/reviews",
+            "title": "Reviews for Class: 327903043"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 22070986,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjIwNzA5ODYifQ==",
+            "username": 225047554,
+            "first_name": "Sonal",
+            "last_name": "N",
+            "full_name": "Sonal N",
+            "vanity_username": null,
+            "headline": "Teacher",
+            "pic": "https://static.skillshare.com/uploads/users/225047554/user-image-medium.jpg?1983245169",
+            "pic_sm": "https://static.skillshare.com/uploads/users/225047554/user-image-small.jpg?1664839771",
+            "pic_lg": "https://static.skillshare.com/uploads/users/225047554/user-image-large.jpg?1201374286",
+            "_links": {
+              "self": {
+                "href": "/users/225047554",
+                "title": "Sonal N - Teacher"
+              },
+              "my_classes": {
+                "href": "/users/225047554/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/225047554/completions",
+                "title": "Completions for User: 225047554"
+              },
+              "discussions": {
+                "href": "/users/225047554/discussions",
+                "title": "Discussions for User: 225047554"
+              },
+              "followers": {
+                "href": "/users/225047554/followers",
+                "title": "Followers for User: 225047554"
+              },
+              "following": {
+                "href": "/users/225047554/following",
+                "title": "Following for User: 225047554"
+              },
+              "notifications": {
+                "href": "/users/225047554/notifications",
+                "title": "Notifications for User: 225047554"
+              },
+              "projects": {
+                "href": "/users/225047554/projects",
+                "title": "Projects for User: 225047554"
+              },
+              "rosters": {
+                "href": "/users/225047554/rosters",
+                "title": "Rosters for User: 225047554"
+              },
+              "userTags": {
+                "href": "/users/225047554/userTags",
+                "title": "UserTags for User: 225047554"
+              },
+              "votes": {
+                "href": "/users/225047554/votes",
+                "title": "Votes for User: 225047554"
+              },
+              "wishlist": {
+                "href": "/users/225047554/wishlist",
+                "title": "Wishlist for User: 225047554"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570871,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDg3MSJ9",
+        "sku": 1069629746,
+        "title": "How to Paint Realistic Eyes in Watercolor - Level Up your Portraits",
+        "project_title": "The project for this class is to paint a realistic eye.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/30e6143af42672f682d1628bd3681859/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/30e6143af42672f682d1628bd3681859/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/30e6143af42672f682d1628bd3681859/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Paint-Realistic-Eyes-in-Watercolor-Level-Up-your-Portraits/1069629746",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "2h",
+        "total_videos_duration_seconds": 7213,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 582,
+        "num_projects": 10,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 4, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1069629746",
+            "title": "How to Paint Realistic Eyes in Watercolor - Level Up your Portraits"
+          },
+          "teacher": {
+            "href": "/users/605611160",
+            "title": "Tanja Jensen - Artist - Sculpting, drawing and painting"
+          },
+          "units": {
+            "href": "/classes/1069629746/units",
+            "title": "Units for Class: 1069629746"
+          },
+          "sessions": {
+            "href": "/classes/1069629746/sessions",
+            "title": "Sessions for Class: 1069629746"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1069629746/students",
+            "title": "Students for Class: 1069629746"
+          },
+          "projects": {
+            "href": "/classes/1069629746/projects",
+            "title": "Projects for Class: 1069629746"
+          },
+          "reviews": {
+            "href": "/classes/1069629746/reviews",
+            "title": "Reviews for Class: 1069629746"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 20981849,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjA5ODE4NDkifQ==",
+            "username": 605611160,
+            "first_name": "Tanja",
+            "last_name": "Jensen",
+            "full_name": "Tanja Jensen",
+            "vanity_username": null,
+            "headline": "Artist - Sculpting, drawing and painting",
+            "pic": "https://static.skillshare.com/uploads/users/605611160/user-image-medium.jpg?1105015765",
+            "pic_sm": "https://static.skillshare.com/uploads/users/605611160/user-image-small.jpg?734409126",
+            "pic_lg": "https://static.skillshare.com/uploads/users/605611160/user-image-large.jpg?240971403",
+            "_links": {
+              "self": {
+                "href": "/users/605611160",
+                "title": "Tanja Jensen - Artist - Sculpting, drawing and painting"
+              },
+              "my_classes": {
+                "href": "/users/605611160/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/605611160/completions",
+                "title": "Completions for User: 605611160"
+              },
+              "discussions": {
+                "href": "/users/605611160/discussions",
+                "title": "Discussions for User: 605611160"
+              },
+              "followers": {
+                "href": "/users/605611160/followers",
+                "title": "Followers for User: 605611160"
+              },
+              "following": {
+                "href": "/users/605611160/following",
+                "title": "Following for User: 605611160"
+              },
+              "notifications": {
+                "href": "/users/605611160/notifications",
+                "title": "Notifications for User: 605611160"
+              },
+              "projects": {
+                "href": "/users/605611160/projects",
+                "title": "Projects for User: 605611160"
+              },
+              "rosters": {
+                "href": "/users/605611160/rosters",
+                "title": "Rosters for User: 605611160"
+              },
+              "userTags": {
+                "href": "/users/605611160/userTags",
+                "title": "UserTags for User: 605611160"
+              },
+              "votes": {
+                "href": "/users/605611160/votes",
+                "title": "Votes for User: 605611160"
+              },
+              "wishlist": {
+                "href": "/users/605611160/wishlist",
+                "title": "Wishlist for User: 605611160"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570893,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDg5MyJ9",
+        "sku": 725458719,
+        "title": "INTRODUCTION TO OIL PAINTING - A Quick Start!",
+        "project_title": "You'll be creating:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/251ed87f8f5454b8e312d40282521692/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/251ed87f8f5454b8e312d40282521692/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/251ed87f8f5454b8e312d40282521692/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/INTRODUCTION-TO-OIL-PAINTING-A-Quick-Start/725458719",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 36,
+        "total_videos_duration": "4h 29m",
+        "total_videos_duration_seconds": 16125,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 327,
+        "num_projects": 4,
+        "num_discussions": 4,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 7, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/725458719",
+            "title": "INTRODUCTION TO OIL PAINTING - A Quick Start!"
+          },
+          "teacher": {
+            "href": "/users/7738877",
+            "title": "Sheila Finch - Professional Fine Artist"
+          },
+          "units": {
+            "href": "/classes/725458719/units",
+            "title": "Units for Class: 725458719"
+          },
+          "sessions": {
+            "href": "/classes/725458719/sessions",
+            "title": "Sessions for Class: 725458719"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/725458719/students",
+            "title": "Students for Class: 725458719"
+          },
+          "projects": {
+            "href": "/classes/725458719/projects",
+            "title": "Projects for Class: 725458719"
+          },
+          "reviews": {
+            "href": "/classes/725458719/reviews",
+            "title": "Reviews for Class: 725458719"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7407893,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzQwNzg5MyJ9",
+            "username": 7738877,
+            "first_name": "Sheila",
+            "last_name": "Finch",
+            "full_name": "Sheila Finch",
+            "vanity_username": "sheilafinchfineart",
+            "headline": "Professional Fine Artist",
+            "pic": "https://static.skillshare.com/uploads/users/7738877/user-image-medium.jpg?1158399807",
+            "pic_sm": "https://static.skillshare.com/uploads/users/7738877/user-image-small.jpg?2022212399",
+            "pic_lg": "https://static.skillshare.com/uploads/users/7738877/user-image-large.jpg?1912510716",
+            "_links": {
+              "self": {
+                "href": "/users/7738877",
+                "title": "Sheila Finch - Professional Fine Artist"
+              },
+              "my_classes": {
+                "href": "/users/7738877/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/7738877/completions",
+                "title": "Completions for User: 7738877"
+              },
+              "discussions": {
+                "href": "/users/7738877/discussions",
+                "title": "Discussions for User: 7738877"
+              },
+              "followers": {
+                "href": "/users/7738877/followers",
+                "title": "Followers for User: 7738877"
+              },
+              "following": {
+                "href": "/users/7738877/following",
+                "title": "Following for User: 7738877"
+              },
+              "notifications": {
+                "href": "/users/7738877/notifications",
+                "title": "Notifications for User: 7738877"
+              },
+              "projects": {
+                "href": "/users/7738877/projects",
+                "title": "Projects for User: 7738877"
+              },
+              "rosters": {
+                "href": "/users/7738877/rosters",
+                "title": "Rosters for User: 7738877"
+              },
+              "userTags": {
+                "href": "/users/7738877/userTags",
+                "title": "UserTags for User: 7738877"
+              },
+              "votes": {
+                "href": "/users/7738877/votes",
+                "title": "Votes for User: 7738877"
+              },
+              "wishlist": {
+                "href": "/users/7738877/wishlist",
+                "title": "Wishlist for User: 7738877"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 570898,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3MDg5OCJ9",
+        "sku": 755536364,
+        "title": "Decision Making 101: Learn Effective Decision Making Strategies to Make the Right Decisions",
+        "project_title": "3. Once complete, write a report of the decision-making process and post it in the Final Project section.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a4e5e2d9b51cb6d2d0c2e87efec24ae3/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a4e5e2d9b51cb6d2d0c2e87efec24ae3/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a4e5e2d9b51cb6d2d0c2e87efec24ae3/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Decision-Making-101-Learn-Effective-Decision-Making-Strategies-to-Make-the-Right-Decisions/755536364",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "15m",
+        "total_videos_duration_seconds": 919,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 30,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 17, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/755536364",
+            "title": "Decision Making 101: Learn Effective Decision Making Strategies to Make the Right Decisions"
+          },
+          "teacher": {
+            "href": "/users/526359184",
+            "title": "Arman Chowdhury - Confidence thru Communication"
+          },
+          "units": {
+            "href": "/classes/755536364/units",
+            "title": "Units for Class: 755536364"
+          },
+          "sessions": {
+            "href": "/classes/755536364/sessions",
+            "title": "Sessions for Class: 755536364"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/755536364/students",
+            "title": "Students for Class: 755536364"
+          },
+          "projects": {
+            "href": "/classes/755536364/projects",
+            "title": "Projects for Class: 755536364"
+          },
+          "reviews": {
+            "href": "/classes/755536364/reviews",
+            "title": "Reviews for Class: 755536364"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19535478,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTk1MzU0NzgifQ==",
+            "username": 526359184,
+            "first_name": "Arman",
+            "last_name": "Chowdhury",
+            "full_name": "Arman Chowdhury",
+            "vanity_username": null,
+            "headline": "Confidence thru Communication",
+            "pic": "https://static.skillshare.com/uploads/users/526359184/user-image-medium.jpg?380869792",
+            "pic_sm": "https://static.skillshare.com/uploads/users/526359184/user-image-small.jpg?223691445",
+            "pic_lg": "https://static.skillshare.com/uploads/users/526359184/user-image-large.jpg?1122943310",
+            "_links": {
+              "self": {
+                "href": "/users/526359184",
+                "title": "Arman Chowdhury - Confidence thru Communication"
+              },
+              "my_classes": {
+                "href": "/users/526359184/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/526359184/completions",
+                "title": "Completions for User: 526359184"
+              },
+              "discussions": {
+                "href": "/users/526359184/discussions",
+                "title": "Discussions for User: 526359184"
+              },
+              "followers": {
+                "href": "/users/526359184/followers",
+                "title": "Followers for User: 526359184"
+              },
+              "following": {
+                "href": "/users/526359184/following",
+                "title": "Following for User: 526359184"
+              },
+              "notifications": {
+                "href": "/users/526359184/notifications",
+                "title": "Notifications for User: 526359184"
+              },
+              "projects": {
+                "href": "/users/526359184/projects",
+                "title": "Projects for User: 526359184"
+              },
+              "rosters": {
+                "href": "/users/526359184/rosters",
+                "title": "Rosters for User: 526359184"
+              },
+              "userTags": {
+                "href": "/users/526359184/userTags",
+                "title": "UserTags for User: 526359184"
+              },
+              "votes": {
+                "href": "/users/526359184/votes",
+                "title": "Votes for User: 526359184"
+              },
+              "wishlist": {
+                "href": "/users/526359184/wishlist",
+                "title": "Wishlist for User: 526359184"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

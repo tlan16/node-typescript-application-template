@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1010",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1009",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1011",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 624642,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDY0MiJ9",
+        "sku": 131061702,
+        "title": "How to Sew a Zippered Pencil / Glasses Case: Hand or Machine Sewing",
+        "project_title": "How to Sew a Zippered Pencil / Glasses Case: Hand or Machine Sewing",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9c925bb55b7d46cf37d9ef036b61aba6/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9c925bb55b7d46cf37d9ef036b61aba6/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9c925bb55b7d46cf37d9ef036b61aba6/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Sew-a-Zippered-Pencil-Glasses-Case-Hand-or-Machine-Sewing/131061702",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "15m",
+        "total_videos_duration_seconds": 877,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 27,
+        "num_projects": 3,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "3 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/131061702",
+            "title": "How to Sew a Zippered Pencil / Glasses Case: Hand or Machine Sewing"
+          },
+          "teacher": {
+            "href": "/users/3532895",
+            "title": "Ruth Shanley - Creative, teacher, explorer "
+          },
+          "units": {
+            "href": "/classes/131061702/units",
+            "title": "Units for Class: 131061702"
+          },
+          "sessions": {
+            "href": "/classes/131061702/sessions",
+            "title": "Sessions for Class: 131061702"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/131061702/students",
+            "title": "Students for Class: 131061702"
+          },
+          "projects": {
+            "href": "/classes/131061702/projects",
+            "title": "Projects for Class: 131061702"
+          },
+          "reviews": {
+            "href": "/classes/131061702/reviews",
+            "title": "Reviews for Class: 131061702"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6673403,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjY3MzQwMyJ9",
+            "username": 3532895,
+            "first_name": "Ruth",
+            "last_name": "Shanley",
+            "full_name": "Ruth Shanley",
+            "vanity_username": null,
+            "headline": "Creative, teacher, explorer ",
+            "pic": "https://static.skillshare.com/uploads/users/3532895/user-image-medium.jpg?968120805",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3532895/user-image-small.jpg?664962824",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3532895/user-image-large.jpg?868218617",
+            "_links": {
+              "self": {
+                "href": "/users/3532895",
+                "title": "Ruth Shanley - Creative, teacher, explorer "
+              },
+              "my_classes": {
+                "href": "/users/3532895/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3532895/completions",
+                "title": "Completions for User: 3532895"
+              },
+              "discussions": {
+                "href": "/users/3532895/discussions",
+                "title": "Discussions for User: 3532895"
+              },
+              "followers": {
+                "href": "/users/3532895/followers",
+                "title": "Followers for User: 3532895"
+              },
+              "following": {
+                "href": "/users/3532895/following",
+                "title": "Following for User: 3532895"
+              },
+              "notifications": {
+                "href": "/users/3532895/notifications",
+                "title": "Notifications for User: 3532895"
+              },
+              "projects": {
+                "href": "/users/3532895/projects",
+                "title": "Projects for User: 3532895"
+              },
+              "rosters": {
+                "href": "/users/3532895/rosters",
+                "title": "Rosters for User: 3532895"
+              },
+              "userTags": {
+                "href": "/users/3532895/userTags",
+                "title": "UserTags for User: 3532895"
+              },
+              "votes": {
+                "href": "/users/3532895/votes",
+                "title": "Votes for User: 3532895"
+              },
+              "wishlist": {
+                "href": "/users/3532895/wishlist",
+                "title": "Wishlist for User: 3532895"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624653,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDY1MyJ9",
+        "sku": 1364256840,
+        "title": "Home Interior Design for More Joy: Cultivating Happiness through Decor",
+        "project_title": "For the class project, I encourage you to contribute a picture of an item in your home that brings immense happiness to your heart. Explain why it has such an effect on you. Share the story behind it ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/be4d688a8657ef63c67e37e807a25684/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/be4d688a8657ef63c67e37e807a25684/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/be4d688a8657ef63c67e37e807a25684/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Home-Interior-Design-for-More-Joy-Cultivating-Happiness-through-Decor/1364256840",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "27m",
+        "total_videos_duration_seconds": 1602,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 571,
+        "num_projects": 20,
+        "num_discussions": 1,
+        "is_staff_pick": true,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "2 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1364256840",
+            "title": "Home Interior Design for More Joy: Cultivating Happiness through Decor"
+          },
+          "teacher": {
+            "href": "/users/9426628",
+            "title": "Ana Marcu - Home Wellbeing, Licensed architect "
+          },
+          "units": {
+            "href": "/classes/1364256840/units",
+            "title": "Units for Class: 1364256840"
+          },
+          "sessions": {
+            "href": "/classes/1364256840/sessions",
+            "title": "Sessions for Class: 1364256840"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1364256840/students",
+            "title": "Students for Class: 1364256840"
+          },
+          "projects": {
+            "href": "/classes/1364256840/projects",
+            "title": "Projects for Class: 1364256840"
+          },
+          "reviews": {
+            "href": "/classes/1364256840/reviews",
+            "title": "Reviews for Class: 1364256840"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1682906,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTY4MjkwNiJ9",
+            "username": 9426628,
+            "first_name": "Ana",
+            "last_name": "Marcu",
+            "full_name": "Ana Marcu",
+            "vanity_username": "anamarcu",
+            "headline": "Home Wellbeing, Licensed architect ",
+            "pic": "https://static.skillshare.com/uploads/users/9426628/user-image-medium.jpg?60498679",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9426628/user-image-small.jpg?2128757227",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9426628/user-image-large.jpg?907984808",
+            "_links": {
+              "self": {
+                "href": "/users/9426628",
+                "title": "Ana Marcu - Home Wellbeing, Licensed architect "
+              },
+              "my_classes": {
+                "href": "/users/9426628/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9426628/completions",
+                "title": "Completions for User: 9426628"
+              },
+              "discussions": {
+                "href": "/users/9426628/discussions",
+                "title": "Discussions for User: 9426628"
+              },
+              "followers": {
+                "href": "/users/9426628/followers",
+                "title": "Followers for User: 9426628"
+              },
+              "following": {
+                "href": "/users/9426628/following",
+                "title": "Following for User: 9426628"
+              },
+              "notifications": {
+                "href": "/users/9426628/notifications",
+                "title": "Notifications for User: 9426628"
+              },
+              "projects": {
+                "href": "/users/9426628/projects",
+                "title": "Projects for User: 9426628"
+              },
+              "rosters": {
+                "href": "/users/9426628/rosters",
+                "title": "Rosters for User: 9426628"
+              },
+              "userTags": {
+                "href": "/users/9426628/userTags",
+                "title": "UserTags for User: 9426628"
+              },
+              "votes": {
+                "href": "/users/9426628/votes",
+                "title": "Votes for User: 9426628"
+              },
+              "wishlist": {
+                "href": "/users/9426628/wishlist",
+                "title": "Wishlist for User: 9426628"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624666,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDY2NiJ9",
+        "sku": 2040513868,
+        "title": "Drawing human characters from imagination: How to draw people from imagination Anatomy for beginners",
+        "project_title": "Your assignment is to take the information you learned in this class and create 3 different characters without looking at any references. Once you've done that, share them here or on your social media",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9feef216e82eb308c2376aa64d3cee6c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9feef216e82eb308c2376aa64d3cee6c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9feef216e82eb308c2376aa64d3cee6c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Drawing-human-characters-from-imagination-How-to-draw-people-from-imagination-Anatomy-for-beginners/2040513868",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "43m",
+        "total_videos_duration_seconds": 2562,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 32,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "3 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2040513868",
+            "title": "Drawing human characters from imagination: How to draw people from imagination Anatomy for beginners"
+          },
+          "teacher": {
+            "href": "/users/328038942",
+            "title": "Samuel Ben-Ezra - Artist and IT Technician"
+          },
+          "units": {
+            "href": "/classes/2040513868/units",
+            "title": "Units for Class: 2040513868"
+          },
+          "sessions": {
+            "href": "/classes/2040513868/sessions",
+            "title": "Sessions for Class: 2040513868"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2040513868/students",
+            "title": "Students for Class: 2040513868"
+          },
+          "projects": {
+            "href": "/classes/2040513868/projects",
+            "title": "Projects for Class: 2040513868"
+          },
+          "reviews": {
+            "href": "/classes/2040513868/reviews",
+            "title": "Reviews for Class: 2040513868"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23178815,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjMxNzg4MTUifQ==",
+            "username": 328038942,
+            "first_name": "Samuel",
+            "last_name": "Ben-Ezra",
+            "full_name": "Samuel Ben-Ezra",
+            "vanity_username": "sammys_studio",
+            "headline": "Artist and IT Technician",
+            "pic": "https://static.skillshare.com/uploads/users/328038942/user-image-medium.jpg?1581085868",
+            "pic_sm": "https://static.skillshare.com/uploads/users/328038942/user-image-small.jpg?1968842553",
+            "pic_lg": "https://static.skillshare.com/uploads/users/328038942/user-image-large.jpg?939878438",
+            "_links": {
+              "self": {
+                "href": "/users/328038942",
+                "title": "Samuel Ben-Ezra - Artist and IT Technician"
+              },
+              "my_classes": {
+                "href": "/users/328038942/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/328038942/completions",
+                "title": "Completions for User: 328038942"
+              },
+              "discussions": {
+                "href": "/users/328038942/discussions",
+                "title": "Discussions for User: 328038942"
+              },
+              "followers": {
+                "href": "/users/328038942/followers",
+                "title": "Followers for User: 328038942"
+              },
+              "following": {
+                "href": "/users/328038942/following",
+                "title": "Following for User: 328038942"
+              },
+              "notifications": {
+                "href": "/users/328038942/notifications",
+                "title": "Notifications for User: 328038942"
+              },
+              "projects": {
+                "href": "/users/328038942/projects",
+                "title": "Projects for User: 328038942"
+              },
+              "rosters": {
+                "href": "/users/328038942/rosters",
+                "title": "Rosters for User: 328038942"
+              },
+              "userTags": {
+                "href": "/users/328038942/userTags",
+                "title": "UserTags for User: 328038942"
+              },
+              "votes": {
+                "href": "/users/328038942/votes",
+                "title": "Votes for User: 328038942"
+              },
+              "wishlist": {
+                "href": "/users/328038942/wishlist",
+                "title": "Wishlist for User: 328038942"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624674,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDY3NCJ9",
+        "sku": 616982794,
+        "title": "Learn Hot to Install and Use Facebook Pixel for Tracking your Ads Results in 2023 | no coding",
+        "project_title": "Objective:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/05cb442902d7c0802d6b18886d3dee90/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/05cb442902d7c0802d6b18886d3dee90/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/05cb442902d7c0802d6b18886d3dee90/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-Hot-to-Install-and-Use-Facebook-Pixel-for-Tracking-your-Ads-Results-in-2023-no-coding/616982794",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "33m",
+        "total_videos_duration_seconds": 1990,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 40,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "3 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/616982794",
+            "title": "Learn Hot to Install and Use Facebook Pixel for Tracking your Ads Results in 2023 | no coding"
+          },
+          "teacher": {
+            "href": "/users/5831239",
+            "title": "Rita Zinger - Digital Marketing Expert"
+          },
+          "units": {
+            "href": "/classes/616982794/units",
+            "title": "Units for Class: 616982794"
+          },
+          "sessions": {
+            "href": "/classes/616982794/sessions",
+            "title": "Sessions for Class: 616982794"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/616982794/students",
+            "title": "Students for Class: 616982794"
+          },
+          "projects": {
+            "href": "/classes/616982794/projects",
+            "title": "Projects for Class: 616982794"
+          },
+          "reviews": {
+            "href": "/classes/616982794/reviews",
+            "title": "Reviews for Class: 616982794"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8187830,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODE4NzgzMCJ9",
+            "username": 5831239,
+            "first_name": "Rita",
+            "last_name": "Zinger",
+            "full_name": "Rita Zinger",
+            "vanity_username": "margozinger",
+            "headline": "Digital Marketing Expert",
+            "pic": "https://static.skillshare.com/uploads/users/5831239/user-image-medium.jpg?1041326187",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5831239/user-image-small.jpg?354466686",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5831239/user-image-large.jpg?1370279464",
+            "_links": {
+              "self": {
+                "href": "/users/5831239",
+                "title": "Rita Zinger - Digital Marketing Expert"
+              },
+              "my_classes": {
+                "href": "/users/5831239/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5831239/completions",
+                "title": "Completions for User: 5831239"
+              },
+              "discussions": {
+                "href": "/users/5831239/discussions",
+                "title": "Discussions for User: 5831239"
+              },
+              "followers": {
+                "href": "/users/5831239/followers",
+                "title": "Followers for User: 5831239"
+              },
+              "following": {
+                "href": "/users/5831239/following",
+                "title": "Following for User: 5831239"
+              },
+              "notifications": {
+                "href": "/users/5831239/notifications",
+                "title": "Notifications for User: 5831239"
+              },
+              "projects": {
+                "href": "/users/5831239/projects",
+                "title": "Projects for User: 5831239"
+              },
+              "rosters": {
+                "href": "/users/5831239/rosters",
+                "title": "Rosters for User: 5831239"
+              },
+              "userTags": {
+                "href": "/users/5831239/userTags",
+                "title": "UserTags for User: 5831239"
+              },
+              "votes": {
+                "href": "/users/5831239/votes",
+                "title": "Votes for User: 5831239"
+              },
+              "wishlist": {
+                "href": "/users/5831239/wishlist",
+                "title": "Wishlist for User: 5831239"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624681,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDY4MSJ9",
+        "sku": 592676960,
+        "title": "Design & Sew A Keepsake Apron: Give a Special Second Life to Repurposed Materials",
+        "project_title": "For the class project,  you will follow along with me to learn step by step how to sew your Keepsake Apron utilizing the sewing techniques that are taught in the mini-lessons at the beginning of the c",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/3a8e6f829384ce0242dd4b3b017787ae/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/3a8e6f829384ce0242dd4b3b017787ae/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/3a8e6f829384ce0242dd4b3b017787ae/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Design-Sew-A-Keepsake-Apron-Give-a-Special-Second-Life-to-Repurposed-Materials/592676960",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "1h 9m",
+        "total_videos_duration_seconds": 4131,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 17,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "2 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/592676960",
+            "title": "Design & Sew A Keepsake Apron: Give a Special Second Life to Repurposed Materials"
+          },
+          "teacher": {
+            "href": "/users/6143883",
+            "title": "Maura Marcks - Clothing Designer"
+          },
+          "units": {
+            "href": "/classes/592676960/units",
+            "title": "Units for Class: 592676960"
+          },
+          "sessions": {
+            "href": "/classes/592676960/sessions",
+            "title": "Sessions for Class: 592676960"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/592676960/students",
+            "title": "Students for Class: 592676960"
+          },
+          "projects": {
+            "href": "/classes/592676960/projects",
+            "title": "Projects for Class: 592676960"
+          },
+          "reviews": {
+            "href": "/classes/592676960/reviews",
+            "title": "Reviews for Class: 592676960"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2155567,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjE1NTU2NyJ9",
+            "username": 6143883,
+            "first_name": "Maura",
+            "last_name": "Marcks",
+            "full_name": "Maura Marcks",
+            "vanity_username": "mauramarcks",
+            "headline": "Clothing Designer",
+            "pic": "https://static.skillshare.com/uploads/users/6143883/user-image-medium.jpg?1646454514",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6143883/user-image-small.jpg?264876758",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6143883/user-image-large.jpg?1690228074",
+            "_links": {
+              "self": {
+                "href": "/users/6143883",
+                "title": "Maura Marcks - Clothing Designer"
+              },
+              "my_classes": {
+                "href": "/users/6143883/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6143883/completions",
+                "title": "Completions for User: 6143883"
+              },
+              "discussions": {
+                "href": "/users/6143883/discussions",
+                "title": "Discussions for User: 6143883"
+              },
+              "followers": {
+                "href": "/users/6143883/followers",
+                "title": "Followers for User: 6143883"
+              },
+              "following": {
+                "href": "/users/6143883/following",
+                "title": "Following for User: 6143883"
+              },
+              "notifications": {
+                "href": "/users/6143883/notifications",
+                "title": "Notifications for User: 6143883"
+              },
+              "projects": {
+                "href": "/users/6143883/projects",
+                "title": "Projects for User: 6143883"
+              },
+              "rosters": {
+                "href": "/users/6143883/rosters",
+                "title": "Rosters for User: 6143883"
+              },
+              "userTags": {
+                "href": "/users/6143883/userTags",
+                "title": "UserTags for User: 6143883"
+              },
+              "votes": {
+                "href": "/users/6143883/votes",
+                "title": "Votes for User: 6143883"
+              },
+              "wishlist": {
+                "href": "/users/6143883/wishlist",
+                "title": "Wishlist for User: 6143883"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624682,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDY4MiJ9",
+        "sku": 945962060,
+        "title": "15 Days Gouache Challenge : Paint 15 Expressive Landscapes using Gouache",
+        "project_title": "This class is project oriented! Your goal is to complete all 7 landscapes in your sketchbook. I have attached the reference images I have used for the class. You can download it and refer along to see",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/67fa167be304ec4b4442fbcc163e8606/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/67fa167be304ec4b4442fbcc163e8606/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/67fa167be304ec4b4442fbcc163e8606/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/15-Days-Gouache-Challenge-Paint-15-Expressive-Landscapes-using-Gouache/945962060",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 52,
+        "total_videos_duration": "9h 14m",
+        "total_videos_duration_seconds": 33220,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 448,
+        "num_projects": 16,
+        "num_discussions": 7,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "3 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/945962060",
+            "title": "15 Days Gouache Challenge : Paint 15 Expressive Landscapes using Gouache"
+          },
+          "teacher": {
+            "href": "/users/296052266",
+            "title": "Payal Sinha - TheSimplyAesthetic- Artist & Educator"
+          },
+          "units": {
+            "href": "/classes/945962060/units",
+            "title": "Units for Class: 945962060"
+          },
+          "sessions": {
+            "href": "/classes/945962060/sessions",
+            "title": "Sessions for Class: 945962060"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/945962060/students",
+            "title": "Students for Class: 945962060"
+          },
+          "projects": {
+            "href": "/classes/945962060/projects",
+            "title": "Projects for Class: 945962060"
+          },
+          "reviews": {
+            "href": "/classes/945962060/reviews",
+            "title": "Reviews for Class: 945962060"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19145518,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTkxNDU1MTgifQ==",
+            "username": 296052266,
+            "first_name": "Payal",
+            "last_name": "Sinha",
+            "full_name": "Payal Sinha",
+            "vanity_username": "thesimplyaesthetic",
+            "headline": "TheSimplyAesthetic- Artist & Educator",
+            "pic": "https://static.skillshare.com/uploads/users/296052266/user-image-medium.png?1933396313",
+            "pic_sm": "https://static.skillshare.com/uploads/users/296052266/user-image-small.png?498857822",
+            "pic_lg": "https://static.skillshare.com/uploads/users/296052266/user-image-large.png?235031506",
+            "_links": {
+              "self": {
+                "href": "/users/296052266",
+                "title": "Payal Sinha - TheSimplyAesthetic- Artist & Educator"
+              },
+              "my_classes": {
+                "href": "/users/296052266/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/296052266/completions",
+                "title": "Completions for User: 296052266"
+              },
+              "discussions": {
+                "href": "/users/296052266/discussions",
+                "title": "Discussions for User: 296052266"
+              },
+              "followers": {
+                "href": "/users/296052266/followers",
+                "title": "Followers for User: 296052266"
+              },
+              "following": {
+                "href": "/users/296052266/following",
+                "title": "Following for User: 296052266"
+              },
+              "notifications": {
+                "href": "/users/296052266/notifications",
+                "title": "Notifications for User: 296052266"
+              },
+              "projects": {
+                "href": "/users/296052266/projects",
+                "title": "Projects for User: 296052266"
+              },
+              "rosters": {
+                "href": "/users/296052266/rosters",
+                "title": "Rosters for User: 296052266"
+              },
+              "userTags": {
+                "href": "/users/296052266/userTags",
+                "title": "UserTags for User: 296052266"
+              },
+              "votes": {
+                "href": "/users/296052266/votes",
+                "title": "Votes for User: 296052266"
+              },
+              "wishlist": {
+                "href": "/users/296052266/wishlist",
+                "title": "Wishlist for User: 296052266"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624686,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDY4NiJ9",
+        "sku": 644315331,
+        "title": "Value Drawing and Shading for Beginners- Still Life",
+        "project_title": "The project will consist of three drawings.   ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/dc00e408cfc4363d0c7064207b457a6a/huge",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/dc00e408cfc4363d0c7064207b457a6a/small",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/dc00e408cfc4363d0c7064207b457a6a/thumbnail",
+        "web_url": "https://www.skillshare.com/en/classes/Value-Drawing-and-Shading-for-Beginners-Still-Life/644315331",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "3h 15m",
+        "total_videos_duration_seconds": 11690,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 14,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "3 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/644315331",
+            "title": "Value Drawing and Shading for Beginners- Still Life"
+          },
+          "teacher": {
+            "href": "/users/63474231",
+            "title": "Katie McGuire"
+          },
+          "units": {
+            "href": "/classes/644315331/units",
+            "title": "Units for Class: 644315331"
+          },
+          "sessions": {
+            "href": "/classes/644315331/sessions",
+            "title": "Sessions for Class: 644315331"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/644315331/students",
+            "title": "Students for Class: 644315331"
+          },
+          "projects": {
+            "href": "/classes/644315331/projects",
+            "title": "Projects for Class: 644315331"
+          },
+          "reviews": {
+            "href": "/classes/644315331/reviews",
+            "title": "Reviews for Class: 644315331"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 29080543,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjkwODA1NDMifQ==",
+            "username": 63474231,
+            "first_name": "Katie",
+            "last_name": "McGuire",
+            "full_name": "Katie McGuire",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/63474231/user-image-medium.jpg?2012545116",
+            "pic_sm": "https://static.skillshare.com/uploads/users/63474231/user-image-small.jpg?298035371",
+            "pic_lg": "https://static.skillshare.com/uploads/users/63474231/user-image-large.jpg?618129093",
+            "_links": {
+              "self": {
+                "href": "/users/63474231",
+                "title": "Katie McGuire"
+              },
+              "my_classes": {
+                "href": "/users/63474231/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/63474231/completions",
+                "title": "Completions for User: 63474231"
+              },
+              "discussions": {
+                "href": "/users/63474231/discussions",
+                "title": "Discussions for User: 63474231"
+              },
+              "followers": {
+                "href": "/users/63474231/followers",
+                "title": "Followers for User: 63474231"
+              },
+              "following": {
+                "href": "/users/63474231/following",
+                "title": "Following for User: 63474231"
+              },
+              "notifications": {
+                "href": "/users/63474231/notifications",
+                "title": "Notifications for User: 63474231"
+              },
+              "projects": {
+                "href": "/users/63474231/projects",
+                "title": "Projects for User: 63474231"
+              },
+              "rosters": {
+                "href": "/users/63474231/rosters",
+                "title": "Rosters for User: 63474231"
+              },
+              "userTags": {
+                "href": "/users/63474231/userTags",
+                "title": "UserTags for User: 63474231"
+              },
+              "votes": {
+                "href": "/users/63474231/votes",
+                "title": "Votes for User: 63474231"
+              },
+              "wishlist": {
+                "href": "/users/63474231/wishlist",
+                "title": "Wishlist for User: 63474231"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624687,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDY4NyJ9",
+        "sku": 233208708,
+        "title": "Cinematic Advanced Photo Manipulation | Adobe Photoshop",
+        "project_title": "Using the same images, try to create a better concept with different color modes and share it with us. And here are the files that we will use in this class:https://drive. google. com/drive/folders/15",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/7162977f52faedca37da5c10433e4cc2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/7162977f52faedca37da5c10433e4cc2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/7162977f52faedca37da5c10433e4cc2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Cinematic-Advanced-Photo-Manipulation-Adobe-Photoshop/233208708",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "1h 2m",
+        "total_videos_duration_seconds": 3718,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 93,
+        "num_projects": 5,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "3 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/233208708",
+            "title": "Cinematic Advanced Photo Manipulation | Adobe Photoshop"
+          },
+          "teacher": {
+            "href": "/users/64272075",
+            "title": "Nour Art - Digital artist, Youtuber"
+          },
+          "units": {
+            "href": "/classes/233208708/units",
+            "title": "Units for Class: 233208708"
+          },
+          "sessions": {
+            "href": "/classes/233208708/sessions",
+            "title": "Sessions for Class: 233208708"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/233208708/students",
+            "title": "Students for Class: 233208708"
+          },
+          "projects": {
+            "href": "/classes/233208708/projects",
+            "title": "Projects for Class: 233208708"
+          },
+          "reviews": {
+            "href": "/classes/233208708/reviews",
+            "title": "Reviews for Class: 233208708"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26622446,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjY2MjI0NDYifQ==",
+            "username": 64272075,
+            "first_name": "Nour",
+            "last_name": "Art",
+            "full_name": "Nour Art",
+            "vanity_username": null,
+            "headline": "Digital artist, Youtuber",
+            "pic": "https://static.skillshare.com/uploads/users/64272075/user-image-medium.jpg?1152137233",
+            "pic_sm": "https://static.skillshare.com/uploads/users/64272075/user-image-small.jpg?1934767221",
+            "pic_lg": "https://static.skillshare.com/uploads/users/64272075/user-image-large.jpg?1084320760",
+            "_links": {
+              "self": {
+                "href": "/users/64272075",
+                "title": "Nour Art - Digital artist, Youtuber"
+              },
+              "my_classes": {
+                "href": "/users/64272075/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/64272075/completions",
+                "title": "Completions for User: 64272075"
+              },
+              "discussions": {
+                "href": "/users/64272075/discussions",
+                "title": "Discussions for User: 64272075"
+              },
+              "followers": {
+                "href": "/users/64272075/followers",
+                "title": "Followers for User: 64272075"
+              },
+              "following": {
+                "href": "/users/64272075/following",
+                "title": "Following for User: 64272075"
+              },
+              "notifications": {
+                "href": "/users/64272075/notifications",
+                "title": "Notifications for User: 64272075"
+              },
+              "projects": {
+                "href": "/users/64272075/projects",
+                "title": "Projects for User: 64272075"
+              },
+              "rosters": {
+                "href": "/users/64272075/rosters",
+                "title": "Rosters for User: 64272075"
+              },
+              "userTags": {
+                "href": "/users/64272075/userTags",
+                "title": "UserTags for User: 64272075"
+              },
+              "votes": {
+                "href": "/users/64272075/votes",
+                "title": "Votes for User: 64272075"
+              },
+              "wishlist": {
+                "href": "/users/64272075/wishlist",
+                "title": "Wishlist for User: 64272075"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624694,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDY5NCJ9",
+        "sku": 308103184,
+        "title": "Elevate Your 3D Designs: Lighting and Materials in Blender",
+        "project_title": "Share how you brought your scene or object to life with lighting, texture, and materials!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6d8dd0bac54c6c8305ea228729f920aa/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6d8dd0bac54c6c8305ea228729f920aa/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6d8dd0bac54c6c8305ea228729f920aa/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Elevate-Your-3D-Designs-Lighting-and-Materials-in-Blender/308103184",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "49m",
+        "total_videos_duration_seconds": 2922,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 121,
+        "num_projects": 10,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "3 weeks ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/308103184",
+            "title": "Elevate Your 3D Designs: Lighting and Materials in Blender"
+          },
+          "teacher": {
+            "href": "/users/349713592",
+            "title": "Derek Elliott - Product Designer + Animator"
+          },
+          "units": {
+            "href": "/classes/308103184/units",
+            "title": "Units for Class: 308103184"
+          },
+          "sessions": {
+            "href": "/classes/308103184/sessions",
+            "title": "Sessions for Class: 308103184"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/308103184/students",
+            "title": "Students for Class: 308103184"
+          },
+          "projects": {
+            "href": "/classes/308103184/projects",
+            "title": "Projects for Class: 308103184"
+          },
+          "reviews": {
+            "href": "/classes/308103184/reviews",
+            "title": "Reviews for Class: 308103184"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26174090,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYxNzQwOTAifQ==",
+            "username": 349713592,
+            "first_name": "Derek",
+            "last_name": "Elliott",
+            "full_name": "Derek Elliott",
+            "vanity_username": "derrk",
+            "headline": "Product Designer + Animator",
+            "pic": "https://static.skillshare.com/uploads/users/349713592/user-image-medium.jpg?946965351",
+            "pic_sm": "https://static.skillshare.com/uploads/users/349713592/user-image-small.jpg?2054162107",
+            "pic_lg": "https://static.skillshare.com/uploads/users/349713592/user-image-large.jpg?459171407",
+            "_links": {
+              "self": {
+                "href": "/users/349713592",
+                "title": "Derek Elliott - Product Designer + Animator"
+              },
+              "my_classes": {
+                "href": "/users/349713592/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/349713592/completions",
+                "title": "Completions for User: 349713592"
+              },
+              "discussions": {
+                "href": "/users/349713592/discussions",
+                "title": "Discussions for User: 349713592"
+              },
+              "followers": {
+                "href": "/users/349713592/followers",
+                "title": "Followers for User: 349713592"
+              },
+              "following": {
+                "href": "/users/349713592/following",
+                "title": "Following for User: 349713592"
+              },
+              "notifications": {
+                "href": "/users/349713592/notifications",
+                "title": "Notifications for User: 349713592"
+              },
+              "projects": {
+                "href": "/users/349713592/projects",
+                "title": "Projects for User: 349713592"
+              },
+              "rosters": {
+                "href": "/users/349713592/rosters",
+                "title": "Rosters for User: 349713592"
+              },
+              "userTags": {
+                "href": "/users/349713592/userTags",
+                "title": "UserTags for User: 349713592"
+              },
+              "votes": {
+                "href": "/users/349713592/votes",
+                "title": "Votes for User: 349713592"
+              },
+              "wishlist": {
+                "href": "/users/349713592/wishlist",
+                "title": "Wishlist for User: 349713592"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624696,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDY5NiJ9",
+        "sku": 1954902863,
+        "title": "Animation in Blender: Bring Your 3D Renders to Life",
+        "project_title": "Show us your looping animation!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/21e1dec765b4bc8110fb32fd798f850a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/21e1dec765b4bc8110fb32fd798f850a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/21e1dec765b4bc8110fb32fd798f850a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Animation-in-Blender-Bring-Your-3D-Renders-to-Life/1954902863",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "60m",
+        "total_videos_duration_seconds": 3579,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 143,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "3 weeks ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1954902863",
+            "title": "Animation in Blender: Bring Your 3D Renders to Life"
+          },
+          "teacher": {
+            "href": "/users/349713592",
+            "title": "Derek Elliott - Product Designer + Animator"
+          },
+          "units": {
+            "href": "/classes/1954902863/units",
+            "title": "Units for Class: 1954902863"
+          },
+          "sessions": {
+            "href": "/classes/1954902863/sessions",
+            "title": "Sessions for Class: 1954902863"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1954902863/students",
+            "title": "Students for Class: 1954902863"
+          },
+          "projects": {
+            "href": "/classes/1954902863/projects",
+            "title": "Projects for Class: 1954902863"
+          },
+          "reviews": {
+            "href": "/classes/1954902863/reviews",
+            "title": "Reviews for Class: 1954902863"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26174090,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYxNzQwOTAifQ==",
+            "username": 349713592,
+            "first_name": "Derek",
+            "last_name": "Elliott",
+            "full_name": "Derek Elliott",
+            "vanity_username": "derrk",
+            "headline": "Product Designer + Animator",
+            "pic": "https://static.skillshare.com/uploads/users/349713592/user-image-medium.jpg?946965351",
+            "pic_sm": "https://static.skillshare.com/uploads/users/349713592/user-image-small.jpg?2054162107",
+            "pic_lg": "https://static.skillshare.com/uploads/users/349713592/user-image-large.jpg?459171407",
+            "_links": {
+              "self": {
+                "href": "/users/349713592",
+                "title": "Derek Elliott - Product Designer + Animator"
+              },
+              "my_classes": {
+                "href": "/users/349713592/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/349713592/completions",
+                "title": "Completions for User: 349713592"
+              },
+              "discussions": {
+                "href": "/users/349713592/discussions",
+                "title": "Discussions for User: 349713592"
+              },
+              "followers": {
+                "href": "/users/349713592/followers",
+                "title": "Followers for User: 349713592"
+              },
+              "following": {
+                "href": "/users/349713592/following",
+                "title": "Following for User: 349713592"
+              },
+              "notifications": {
+                "href": "/users/349713592/notifications",
+                "title": "Notifications for User: 349713592"
+              },
+              "projects": {
+                "href": "/users/349713592/projects",
+                "title": "Projects for User: 349713592"
+              },
+              "rosters": {
+                "href": "/users/349713592/rosters",
+                "title": "Rosters for User: 349713592"
+              },
+              "userTags": {
+                "href": "/users/349713592/userTags",
+                "title": "UserTags for User: 349713592"
+              },
+              "votes": {
+                "href": "/users/349713592/votes",
+                "title": "Votes for User: 349713592"
+              },
+              "wishlist": {
+                "href": "/users/349713592/wishlist",
+                "title": "Wishlist for User: 349713592"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

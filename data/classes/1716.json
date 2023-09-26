@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1716",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1715",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1717",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2767",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 596309,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5NjMwOSJ9",
+        "sku": 2068155759,
+        "title": "Programming in R: Getting Started with RStudio",
+        "project_title": "Throughout the course, you will find One (1) video quiz and ene (1) video activity. This will help you practice and be more familiar with RStudio and programming in R for data analysis. All my lecture",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6320881477112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6320881477112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6320881477112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Programming-in-R-Getting-Started-with-RStudio/2068155759",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "52m",
+        "total_videos_duration_seconds": 3138,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 35,
+        "num_projects": 1,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2068155759",
+            "title": "Programming in R: Getting Started with RStudio"
+          },
+          "teacher": {
+            "href": "/users/309000866",
+            "title": "Emmanuel Segui - Data Analysis Made Easy!"
+          },
+          "units": {
+            "href": "/classes/2068155759/units",
+            "title": "Units for Class: 2068155759"
+          },
+          "sessions": {
+            "href": "/classes/2068155759/sessions",
+            "title": "Sessions for Class: 2068155759"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/2068155759/students",
+            "title": "Students for Class: 2068155759"
+          },
+          "projects": {
+            "href": "/classes/2068155759/projects",
+            "title": "Projects for Class: 2068155759"
+          },
+          "reviews": {
+            "href": "/classes/2068155759/reviews",
+            "title": "Reviews for Class: 2068155759"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27873558,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjc4NzM1NTgifQ==",
+            "username": 309000866,
+            "first_name": "Emmanuel",
+            "last_name": "Segui",
+            "full_name": "Emmanuel Segui",
+            "vanity_username": null,
+            "headline": "Data Analysis Made Easy!",
+            "pic": "https://static.skillshare.com/uploads/users/309000866/user-image-medium.jpg?336532359",
+            "pic_sm": "https://static.skillshare.com/uploads/users/309000866/user-image-small.jpg?1379772448",
+            "pic_lg": "https://static.skillshare.com/uploads/users/309000866/user-image-large.jpg?596240008",
+            "_links": {
+              "self": {
+                "href": "/users/309000866",
+                "title": "Emmanuel Segui - Data Analysis Made Easy!"
+              },
+              "my_classes": {
+                "href": "/users/309000866/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/309000866/completions",
+                "title": "Completions for User: 309000866"
+              },
+              "discussions": {
+                "href": "/users/309000866/discussions",
+                "title": "Discussions for User: 309000866"
+              },
+              "followers": {
+                "href": "/users/309000866/followers",
+                "title": "Followers for User: 309000866"
+              },
+              "following": {
+                "href": "/users/309000866/following",
+                "title": "Following for User: 309000866"
+              },
+              "notifications": {
+                "href": "/users/309000866/notifications",
+                "title": "Notifications for User: 309000866"
+              },
+              "projects": {
+                "href": "/users/309000866/projects",
+                "title": "Projects for User: 309000866"
+              },
+              "rosters": {
+                "href": "/users/309000866/rosters",
+                "title": "Rosters for User: 309000866"
+              },
+              "userTags": {
+                "href": "/users/309000866/userTags",
+                "title": "UserTags for User: 309000866"
+              },
+              "votes": {
+                "href": "/users/309000866/votes",
+                "title": "Votes for User: 309000866"
+              },
+              "wishlist": {
+                "href": "/users/309000866/wishlist",
+                "title": "Wishlist for User: 309000866"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 596327,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5NjMyNyJ9",
+        "sku": 925216489,
+        "title": "Modelado 3D: Crea personajes asombrosos en Cinema 4D",
+        "project_title": "En está clase construiremos mediante un proceso creativo un personaje modelado en 3D con Cinema 4D, el proceso que aprenderás consta de:- Conceptualización",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/5d447f3a7bb1bef7bab8d92a45893b5e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/5d447f3a7bb1bef7bab8d92a45893b5e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/5d447f3a7bb1bef7bab8d92a45893b5e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Modelado-3D-Crea-personajes-asombrosos-en-Cinema-4D/925216489",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 21,
+        "total_videos_duration": "1h 44m",
+        "total_videos_duration_seconds": 6228,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 79,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": true,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "12 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/925216489",
+            "title": "Modelado 3D: Crea personajes asombrosos en Cinema 4D"
+          },
+          "teacher": {
+            "href": "/users/31986855",
+            "title": "Cristian Rivas - Director de arte, ilustrador 3D"
+          },
+          "units": {
+            "href": "/classes/925216489/units",
+            "title": "Units for Class: 925216489"
+          },
+          "sessions": {
+            "href": "/classes/925216489/sessions",
+            "title": "Sessions for Class: 925216489"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/925216489/students",
+            "title": "Students for Class: 925216489"
+          },
+          "projects": {
+            "href": "/classes/925216489/projects",
+            "title": "Projects for Class: 925216489"
+          },
+          "reviews": {
+            "href": "/classes/925216489/reviews",
+            "title": "Reviews for Class: 925216489"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26080636,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYwODA2MzYifQ==",
+            "username": 31986855,
+            "first_name": "Cristian",
+            "last_name": "Rivas",
+            "full_name": "Cristian Rivas",
+            "vanity_username": "elrivas333",
+            "headline": "Director de arte, ilustrador 3D",
+            "pic": "https://static.skillshare.com/uploads/users/31986855/user-image-medium.png?2101664667",
+            "pic_sm": "https://static.skillshare.com/uploads/users/31986855/user-image-small.png?836708212",
+            "pic_lg": "https://static.skillshare.com/uploads/users/31986855/user-image-large.png?1802402077",
+            "_links": {
+              "self": {
+                "href": "/users/31986855",
+                "title": "Cristian Rivas - Director de arte, ilustrador 3D"
+              },
+              "my_classes": {
+                "href": "/users/31986855/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/31986855/completions",
+                "title": "Completions for User: 31986855"
+              },
+              "discussions": {
+                "href": "/users/31986855/discussions",
+                "title": "Discussions for User: 31986855"
+              },
+              "followers": {
+                "href": "/users/31986855/followers",
+                "title": "Followers for User: 31986855"
+              },
+              "following": {
+                "href": "/users/31986855/following",
+                "title": "Following for User: 31986855"
+              },
+              "notifications": {
+                "href": "/users/31986855/notifications",
+                "title": "Notifications for User: 31986855"
+              },
+              "projects": {
+                "href": "/users/31986855/projects",
+                "title": "Projects for User: 31986855"
+              },
+              "rosters": {
+                "href": "/users/31986855/rosters",
+                "title": "Rosters for User: 31986855"
+              },
+              "userTags": {
+                "href": "/users/31986855/userTags",
+                "title": "UserTags for User: 31986855"
+              },
+              "votes": {
+                "href": "/users/31986855/votes",
+                "title": "Votes for User: 31986855"
+              },
+              "wishlist": {
+                "href": "/users/31986855/wishlist",
+                "title": "Wishlist for User: 31986855"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 596333,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5NjMzMyJ9",
+        "sku": 211505905,
+        "title": "Beginners Guide To Adobe Illustrator For Anyone",
+        "project_title": "We will complete total three projects.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/62cb62ab131e280f9ab3e1e27a32217d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/62cb62ab131e280f9ab3e1e27a32217d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/62cb62ab131e280f9ab3e1e27a32217d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Beginners-Guide-To-Adobe-Illustrator-For-Anyone/211505905",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 23,
+        "total_videos_duration": "1h 57m",
+        "total_videos_duration_seconds": 7044,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 88,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "11 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/211505905",
+            "title": "Beginners Guide To Adobe Illustrator For Anyone"
+          },
+          "teacher": {
+            "href": "/users/3170058",
+            "title": "Uttam Kumar - Photographer | Designer | Instructor"
+          },
+          "units": {
+            "href": "/classes/211505905/units",
+            "title": "Units for Class: 211505905"
+          },
+          "sessions": {
+            "href": "/classes/211505905/sessions",
+            "title": "Sessions for Class: 211505905"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/211505905/students",
+            "title": "Students for Class: 211505905"
+          },
+          "projects": {
+            "href": "/classes/211505905/projects",
+            "title": "Projects for Class: 211505905"
+          },
+          "reviews": {
+            "href": "/classes/211505905/reviews",
+            "title": "Reviews for Class: 211505905"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4101874,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDEwMTg3NCJ9",
+            "username": 3170058,
+            "first_name": "Uttam Kumar",
+            "last_name": null,
+            "full_name": "Uttam Kumar",
+            "vanity_username": "uttamkumar",
+            "headline": "Photographer | Designer | Instructor",
+            "pic": "https://static.skillshare.com/uploads/users/3170058/user-image-medium.jpg?309547665",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3170058/user-image-small.jpg?624342205",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3170058/user-image-large.jpg?1286874943",
+            "_links": {
+              "self": {
+                "href": "/users/3170058",
+                "title": "Uttam Kumar - Photographer | Designer | Instructor"
+              },
+              "my_classes": {
+                "href": "/users/3170058/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3170058/completions",
+                "title": "Completions for User: 3170058"
+              },
+              "discussions": {
+                "href": "/users/3170058/discussions",
+                "title": "Discussions for User: 3170058"
+              },
+              "followers": {
+                "href": "/users/3170058/followers",
+                "title": "Followers for User: 3170058"
+              },
+              "following": {
+                "href": "/users/3170058/following",
+                "title": "Following for User: 3170058"
+              },
+              "notifications": {
+                "href": "/users/3170058/notifications",
+                "title": "Notifications for User: 3170058"
+              },
+              "projects": {
+                "href": "/users/3170058/projects",
+                "title": "Projects for User: 3170058"
+              },
+              "rosters": {
+                "href": "/users/3170058/rosters",
+                "title": "Rosters for User: 3170058"
+              },
+              "userTags": {
+                "href": "/users/3170058/userTags",
+                "title": "UserTags for User: 3170058"
+              },
+              "votes": {
+                "href": "/users/3170058/votes",
+                "title": "Votes for User: 3170058"
+              },
+              "wishlist": {
+                "href": "/users/3170058/wishlist",
+                "title": "Wishlist for User: 3170058"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 596334,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5NjMzNCJ9",
+        "sku": 1398320533,
+        "title": "Let's Write Horror: Breaking the Block with 7 Strategies",
+        "project_title": "2-Sentence Horror Story Project",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1219f6771ae057279af80d971fd1dcfc/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1219f6771ae057279af80d971fd1dcfc/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1219f6771ae057279af80d971fd1dcfc/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Lets-Write-Horror-Breaking-the-Block-with-7-Strategies/1398320533",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "16m",
+        "total_videos_duration_seconds": 973,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 33,
+        "num_projects": 1,
+        "num_discussions": 4,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "11 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1398320533",
+            "title": "Let's Write Horror: Breaking the Block with 7 Strategies"
+          },
+          "teacher": {
+            "href": "/users/2432863",
+            "title": "Udern Stroud - Satirist/Artist/Writer/Graphics"
+          },
+          "units": {
+            "href": "/classes/1398320533/units",
+            "title": "Units for Class: 1398320533"
+          },
+          "sessions": {
+            "href": "/classes/1398320533/sessions",
+            "title": "Sessions for Class: 1398320533"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1398320533/students",
+            "title": "Students for Class: 1398320533"
+          },
+          "projects": {
+            "href": "/classes/1398320533/projects",
+            "title": "Projects for Class: 1398320533"
+          },
+          "reviews": {
+            "href": "/classes/1398320533/reviews",
+            "title": "Reviews for Class: 1398320533"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2711547,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjcxMTU0NyJ9",
+            "username": 2432863,
+            "first_name": "Udern",
+            "last_name": "Stroud",
+            "full_name": "Udern Stroud",
+            "vanity_username": "udern-stroud",
+            "headline": "Satirist/Artist/Writer/Graphics",
+            "pic": "https://static.skillshare.com/uploads/users/2432863/user-image-medium.png?150567366",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2432863/user-image-small.png?617203986",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2432863/user-image-large.png?1020315986",
+            "_links": {
+              "self": {
+                "href": "/users/2432863",
+                "title": "Udern Stroud - Satirist/Artist/Writer/Graphics"
+              },
+              "my_classes": {
+                "href": "/users/2432863/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2432863/completions",
+                "title": "Completions for User: 2432863"
+              },
+              "discussions": {
+                "href": "/users/2432863/discussions",
+                "title": "Discussions for User: 2432863"
+              },
+              "followers": {
+                "href": "/users/2432863/followers",
+                "title": "Followers for User: 2432863"
+              },
+              "following": {
+                "href": "/users/2432863/following",
+                "title": "Following for User: 2432863"
+              },
+              "notifications": {
+                "href": "/users/2432863/notifications",
+                "title": "Notifications for User: 2432863"
+              },
+              "projects": {
+                "href": "/users/2432863/projects",
+                "title": "Projects for User: 2432863"
+              },
+              "rosters": {
+                "href": "/users/2432863/rosters",
+                "title": "Rosters for User: 2432863"
+              },
+              "userTags": {
+                "href": "/users/2432863/userTags",
+                "title": "UserTags for User: 2432863"
+              },
+              "votes": {
+                "href": "/users/2432863/votes",
+                "title": "Votes for User: 2432863"
+              },
+              "wishlist": {
+                "href": "/users/2432863/wishlist",
+                "title": "Wishlist for User: 2432863"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 596348,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5NjM0OCJ9",
+        "sku": 1394895297,
+        "title": "Watercolor Greeting Cards: Fall and Winter Holidays",
+        "project_title": "For the class project paint a fall and a winter themed greeting card. Use one of the photos I provided in the class materials or pick your own. Try to make one vignette with soft edges and the other o",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9ae633740d499653a3e01f300ccae0ae/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9ae633740d499653a3e01f300ccae0ae/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9ae633740d499653a3e01f300ccae0ae/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolor-Greeting-Cards-Fall-and-Winter-Holidays/1394895297",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "1h 12m",
+        "total_videos_duration_seconds": 4319,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 20,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "11 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1394895297",
+            "title": "Watercolor Greeting Cards: Fall and Winter Holidays"
+          },
+          "teacher": {
+            "href": "/users/8051937",
+            "title": "Ksenia Annis - Figurative artist"
+          },
+          "units": {
+            "href": "/classes/1394895297/units",
+            "title": "Units for Class: 1394895297"
+          },
+          "sessions": {
+            "href": "/classes/1394895297/sessions",
+            "title": "Sessions for Class: 1394895297"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1394895297/students",
+            "title": "Students for Class: 1394895297"
+          },
+          "projects": {
+            "href": "/classes/1394895297/projects",
+            "title": "Projects for Class: 1394895297"
+          },
+          "reviews": {
+            "href": "/classes/1394895297/reviews",
+            "title": "Reviews for Class: 1394895297"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3389339,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzM4OTMzOSJ9",
+            "username": 8051937,
+            "first_name": "Ksenia",
+            "last_name": "Annis",
+            "full_name": "Ksenia Annis",
+            "vanity_username": "tummyrubbstudio",
+            "headline": "Figurative artist",
+            "pic": "https://static.skillshare.com/uploads/users/8051937/user-image-medium.jpg?1544221751",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8051937/user-image-small.jpg?1102376166",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8051937/user-image-large.jpg?1965372515",
+            "_links": {
+              "self": {
+                "href": "/users/8051937",
+                "title": "Ksenia Annis - Figurative artist"
+              },
+              "my_classes": {
+                "href": "/users/8051937/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8051937/completions",
+                "title": "Completions for User: 8051937"
+              },
+              "discussions": {
+                "href": "/users/8051937/discussions",
+                "title": "Discussions for User: 8051937"
+              },
+              "followers": {
+                "href": "/users/8051937/followers",
+                "title": "Followers for User: 8051937"
+              },
+              "following": {
+                "href": "/users/8051937/following",
+                "title": "Following for User: 8051937"
+              },
+              "notifications": {
+                "href": "/users/8051937/notifications",
+                "title": "Notifications for User: 8051937"
+              },
+              "projects": {
+                "href": "/users/8051937/projects",
+                "title": "Projects for User: 8051937"
+              },
+              "rosters": {
+                "href": "/users/8051937/rosters",
+                "title": "Rosters for User: 8051937"
+              },
+              "userTags": {
+                "href": "/users/8051937/userTags",
+                "title": "UserTags for User: 8051937"
+              },
+              "votes": {
+                "href": "/users/8051937/votes",
+                "title": "Votes for User: 8051937"
+              },
+              "wishlist": {
+                "href": "/users/8051937/wishlist",
+                "title": "Wishlist for User: 8051937"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 596359,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5NjM1OSJ9",
+        "sku": 454052884,
+        "title": "Abstract Painting Design, Values and Composition Masterclass",
+        "project_title": "It will be great to see your painting progress and your ideas realted to each lesson which you can upload into the Projects  You can also write your experience doing the project and ask any questions.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1c176874959431ea1787c1e62a497cc7/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1c176874959431ea1787c1e62a497cc7/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1c176874959431ea1787c1e62a497cc7/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Abstract-Painting-Design-Values-and-Composition-Masterclass/454052884",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 16,
+        "total_videos_duration": "2h 45m",
+        "total_videos_duration_seconds": 9910,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 262,
+        "num_projects": 4,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "11 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/454052884",
+            "title": "Abstract Painting Design, Values and Composition Masterclass"
+          },
+          "teacher": {
+            "href": "/users/557577966",
+            "title": "Joy Fahey - Joy of Art"
+          },
+          "units": {
+            "href": "/classes/454052884/units",
+            "title": "Units for Class: 454052884"
+          },
+          "sessions": {
+            "href": "/classes/454052884/sessions",
+            "title": "Sessions for Class: 454052884"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/454052884/students",
+            "title": "Students for Class: 454052884"
+          },
+          "projects": {
+            "href": "/classes/454052884/projects",
+            "title": "Projects for Class: 454052884"
+          },
+          "reviews": {
+            "href": "/classes/454052884/reviews",
+            "title": "Reviews for Class: 454052884"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15218732,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTUyMTg3MzIifQ==",
+            "username": 557577966,
+            "first_name": "Joy",
+            "last_name": "Fahey",
+            "full_name": "Joy Fahey",
+            "vanity_username": "joyfahey",
+            "headline": "Joy of Art",
+            "pic": "https://static.skillshare.com/uploads/users/557577966/user-image-medium.jpg?2069088314",
+            "pic_sm": "https://static.skillshare.com/uploads/users/557577966/user-image-small.jpg?792257878",
+            "pic_lg": "https://static.skillshare.com/uploads/users/557577966/user-image-large.jpg?601064563",
+            "_links": {
+              "self": {
+                "href": "/users/557577966",
+                "title": "Joy Fahey - Joy of Art"
+              },
+              "my_classes": {
+                "href": "/users/557577966/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/557577966/completions",
+                "title": "Completions for User: 557577966"
+              },
+              "discussions": {
+                "href": "/users/557577966/discussions",
+                "title": "Discussions for User: 557577966"
+              },
+              "followers": {
+                "href": "/users/557577966/followers",
+                "title": "Followers for User: 557577966"
+              },
+              "following": {
+                "href": "/users/557577966/following",
+                "title": "Following for User: 557577966"
+              },
+              "notifications": {
+                "href": "/users/557577966/notifications",
+                "title": "Notifications for User: 557577966"
+              },
+              "projects": {
+                "href": "/users/557577966/projects",
+                "title": "Projects for User: 557577966"
+              },
+              "rosters": {
+                "href": "/users/557577966/rosters",
+                "title": "Rosters for User: 557577966"
+              },
+              "userTags": {
+                "href": "/users/557577966/userTags",
+                "title": "UserTags for User: 557577966"
+              },
+              "votes": {
+                "href": "/users/557577966/votes",
+                "title": "Votes for User: 557577966"
+              },
+              "wishlist": {
+                "href": "/users/557577966/wishlist",
+                "title": "Wishlist for User: 557577966"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 596381,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5NjM4MSJ9",
+        "sku": 1837871735,
+        "title": "How To Paint A Parrot In Watercolour ; An Intermediate Watercolor Lesson",
+        "project_title": "Your project is to paint your own parrot or bird using the skills that you've learned in this class.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/2d7d1e8807bb4944e01038ae337f2fad/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/2d7d1e8807bb4944e01038ae337f2fad/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/2d7d1e8807bb4944e01038ae337f2fad/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Paint-A-Parrot-In-Watercolour-An-Intermediate-Watercolor-Lesson/1837871735",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "59m",
+        "total_videos_duration_seconds": 3542,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 48,
+        "num_projects": 1,
+        "num_discussions": 7,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "12 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1837871735",
+            "title": "How To Paint A Parrot In Watercolour ; An Intermediate Watercolor Lesson"
+          },
+          "teacher": {
+            "href": "/users/794434003",
+            "title": "Lindsey Dawn Art - Watercolour Artist"
+          },
+          "units": {
+            "href": "/classes/1837871735/units",
+            "title": "Units for Class: 1837871735"
+          },
+          "sessions": {
+            "href": "/classes/1837871735/sessions",
+            "title": "Sessions for Class: 1837871735"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1837871735/students",
+            "title": "Students for Class: 1837871735"
+          },
+          "projects": {
+            "href": "/classes/1837871735/projects",
+            "title": "Projects for Class: 1837871735"
+          },
+          "reviews": {
+            "href": "/classes/1837871735/reviews",
+            "title": "Reviews for Class: 1837871735"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11457267,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTE0NTcyNjcifQ==",
+            "username": 794434003,
+            "first_name": "Lindsey",
+            "last_name": "Dawn Art",
+            "full_name": "Lindsey Dawn Art",
+            "vanity_username": "lindseydawnart",
+            "headline": "Watercolour Artist",
+            "pic": "https://static.skillshare.com/uploads/users/794434003/user-image-medium.jpg?685130569",
+            "pic_sm": "https://static.skillshare.com/uploads/users/794434003/user-image-small.jpg?647138995",
+            "pic_lg": "https://static.skillshare.com/uploads/users/794434003/user-image-large.jpg?417058574",
+            "_links": {
+              "self": {
+                "href": "/users/794434003",
+                "title": "Lindsey Dawn Art - Watercolour Artist"
+              },
+              "my_classes": {
+                "href": "/users/794434003/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/794434003/completions",
+                "title": "Completions for User: 794434003"
+              },
+              "discussions": {
+                "href": "/users/794434003/discussions",
+                "title": "Discussions for User: 794434003"
+              },
+              "followers": {
+                "href": "/users/794434003/followers",
+                "title": "Followers for User: 794434003"
+              },
+              "following": {
+                "href": "/users/794434003/following",
+                "title": "Following for User: 794434003"
+              },
+              "notifications": {
+                "href": "/users/794434003/notifications",
+                "title": "Notifications for User: 794434003"
+              },
+              "projects": {
+                "href": "/users/794434003/projects",
+                "title": "Projects for User: 794434003"
+              },
+              "rosters": {
+                "href": "/users/794434003/rosters",
+                "title": "Rosters for User: 794434003"
+              },
+              "userTags": {
+                "href": "/users/794434003/userTags",
+                "title": "UserTags for User: 794434003"
+              },
+              "votes": {
+                "href": "/users/794434003/votes",
+                "title": "Votes for User: 794434003"
+              },
+              "wishlist": {
+                "href": "/users/794434003/wishlist",
+                "title": "Wishlist for User: 794434003"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 596394,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5NjM5NCJ9",
+        "sku": 393424760,
+        "title": "How to Setup a Domain Controller on Windows Server 2022",
+        "project_title": "As part of this Class we recommend that you follow along and do this on your own environment.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/23f57b9b8053d36284a942f7074fcdb5/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/23f57b9b8053d36284a942f7074fcdb5/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/23f57b9b8053d36284a942f7074fcdb5/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Setup-a-Domain-Controller-on-Windows-Server-2022/393424760",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "43m",
+        "total_videos_duration_seconds": 2589,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 51,
+        "num_projects": 0,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "9 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/393424760",
+            "title": "How to Setup a Domain Controller on Windows Server 2022"
+          },
+          "teacher": {
+            "href": "/users/296991404",
+            "title": "Emilio Aguero - ...all things tech"
+          },
+          "units": {
+            "href": "/classes/393424760/units",
+            "title": "Units for Class: 393424760"
+          },
+          "sessions": {
+            "href": "/classes/393424760/sessions",
+            "title": "Sessions for Class: 393424760"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/393424760/students",
+            "title": "Students for Class: 393424760"
+          },
+          "projects": {
+            "href": "/classes/393424760/projects",
+            "title": "Projects for Class: 393424760"
+          },
+          "reviews": {
+            "href": "/classes/393424760/reviews",
+            "title": "Reviews for Class: 393424760"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17096883,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTcwOTY4ODMifQ==",
+            "username": 296991404,
+            "first_name": "Emilio",
+            "last_name": "Aguero",
+            "full_name": "Emilio Aguero",
+            "vanity_username": "emilioaguero",
+            "headline": "...all things tech",
+            "pic": "https://static.skillshare.com/uploads/users/296991404/user-image-medium.jpg?469114460",
+            "pic_sm": "https://static.skillshare.com/uploads/users/296991404/user-image-small.jpg?2050471645",
+            "pic_lg": "https://static.skillshare.com/uploads/users/296991404/user-image-large.jpg?2084369587",
+            "_links": {
+              "self": {
+                "href": "/users/296991404",
+                "title": "Emilio Aguero - ...all things tech"
+              },
+              "my_classes": {
+                "href": "/users/296991404/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/296991404/completions",
+                "title": "Completions for User: 296991404"
+              },
+              "discussions": {
+                "href": "/users/296991404/discussions",
+                "title": "Discussions for User: 296991404"
+              },
+              "followers": {
+                "href": "/users/296991404/followers",
+                "title": "Followers for User: 296991404"
+              },
+              "following": {
+                "href": "/users/296991404/following",
+                "title": "Following for User: 296991404"
+              },
+              "notifications": {
+                "href": "/users/296991404/notifications",
+                "title": "Notifications for User: 296991404"
+              },
+              "projects": {
+                "href": "/users/296991404/projects",
+                "title": "Projects for User: 296991404"
+              },
+              "rosters": {
+                "href": "/users/296991404/rosters",
+                "title": "Rosters for User: 296991404"
+              },
+              "userTags": {
+                "href": "/users/296991404/userTags",
+                "title": "UserTags for User: 296991404"
+              },
+              "votes": {
+                "href": "/users/296991404/votes",
+                "title": "Votes for User: 296991404"
+              },
+              "wishlist": {
+                "href": "/users/296991404/wishlist",
+                "title": "Wishlist for User: 296991404"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 596400,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5NjQwMCJ9",
+        "sku": 1437837399,
+        "title": "Watercolor Travel Journal: Turn Your Adventures Into Vibrant Paintings",
+        "project_title": "Instructions for Your Class Project:\n1. Check the RESOURCE SECTION for the reference photo and photo of the final painting. &nbsp;\n2. Prepare your materials. Feel free to maximize the&nbsp;materials y",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b31f002b1a15cf3210173386bc894fee/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b31f002b1a15cf3210173386bc894fee/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b31f002b1a15cf3210173386bc894fee/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolor-Travel-Journal-Turn-Your-Adventures-Into-Vibrant-Paintings/1437837399",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "1h 24m",
+        "total_videos_duration_seconds": 5066,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 564,
+        "num_projects": 49,
+        "num_discussions": 12,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "11 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1437837399",
+            "title": "Watercolor Travel Journal: Turn Your Adventures Into Vibrant Paintings"
+          },
+          "teacher": {
+            "href": "/users/9898547",
+            "title": "Bianca Rayala - Top Teacher | Watercolor Artist"
+          },
+          "units": {
+            "href": "/classes/1437837399/units",
+            "title": "Units for Class: 1437837399"
+          },
+          "sessions": {
+            "href": "/classes/1437837399/sessions",
+            "title": "Sessions for Class: 1437837399"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1437837399/students",
+            "title": "Students for Class: 1437837399"
+          },
+          "projects": {
+            "href": "/classes/1437837399/projects",
+            "title": "Projects for Class: 1437837399"
+          },
+          "reviews": {
+            "href": "/classes/1437837399/reviews",
+            "title": "Reviews for Class: 1437837399"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4459345,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDQ1OTM0NSJ9",
+            "username": 9898547,
+            "first_name": "Bianca",
+            "last_name": "Rayala",
+            "full_name": "Bianca Rayala",
+            "vanity_username": "biancafloresrayala",
+            "headline": "Top Teacher | Watercolor Artist",
+            "pic": "https://static.skillshare.com/uploads/users/9898547/user-image-medium.jpg?274336677",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9898547/user-image-small.jpg?1094911447",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9898547/user-image-large.jpg?274218136",
+            "_links": {
+              "self": {
+                "href": "/users/9898547",
+                "title": "Bianca Rayala - Top Teacher | Watercolor Artist"
+              },
+              "my_classes": {
+                "href": "/users/9898547/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9898547/completions",
+                "title": "Completions for User: 9898547"
+              },
+              "discussions": {
+                "href": "/users/9898547/discussions",
+                "title": "Discussions for User: 9898547"
+              },
+              "followers": {
+                "href": "/users/9898547/followers",
+                "title": "Followers for User: 9898547"
+              },
+              "following": {
+                "href": "/users/9898547/following",
+                "title": "Following for User: 9898547"
+              },
+              "notifications": {
+                "href": "/users/9898547/notifications",
+                "title": "Notifications for User: 9898547"
+              },
+              "projects": {
+                "href": "/users/9898547/projects",
+                "title": "Projects for User: 9898547"
+              },
+              "rosters": {
+                "href": "/users/9898547/rosters",
+                "title": "Rosters for User: 9898547"
+              },
+              "userTags": {
+                "href": "/users/9898547/userTags",
+                "title": "UserTags for User: 9898547"
+              },
+              "votes": {
+                "href": "/users/9898547/votes",
+                "title": "Votes for User: 9898547"
+              },
+              "wishlist": {
+                "href": "/users/9898547/wishlist",
+                "title": "Wishlist for User: 9898547"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 596402,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU5NjQwMiJ9",
+        "sku": 825428523,
+        "title": "Ilustración a partir de una fotografía: Crea retratos femeninos poderosos en Procreate",
+        "project_title": "En tu proyecto final crearás un retrato femenino poderoso utilizando todas las técnicas y conocimientos que verás en esta clase por medio de algunos pasos:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/772cd6174028520e630bd8742fa5f9fc/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/772cd6174028520e630bd8742fa5f9fc/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/772cd6174028520e630bd8742fa5f9fc/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Ilustraci%C3%B3n-a-partir-de-una-fotograf%C3%ADa-Crea-retratos-femeninos-poderosos-en-Procreate/825428523",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "45m",
+        "total_videos_duration_seconds": 2716,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 81,
+        "num_projects": 5,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "12 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/825428523",
+            "title": "Ilustración a partir de una fotografía: Crea retratos femeninos poderosos en Procreate"
+          },
+          "teacher": {
+            "href": "/users/323549300",
+            "title": "Majo Araujo - Diseñadora gráfica e ilustradora | @argenike"
+          },
+          "units": {
+            "href": "/classes/825428523/units",
+            "title": "Units for Class: 825428523"
+          },
+          "sessions": {
+            "href": "/classes/825428523/sessions",
+            "title": "Sessions for Class: 825428523"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/825428523/students",
+            "title": "Students for Class: 825428523"
+          },
+          "projects": {
+            "href": "/classes/825428523/projects",
+            "title": "Projects for Class: 825428523"
+          },
+          "reviews": {
+            "href": "/classes/825428523/reviews",
+            "title": "Reviews for Class: 825428523"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27544851,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjc1NDQ4NTEifQ==",
+            "username": 323549300,
+            "first_name": "Majo",
+            "last_name": "Araujo",
+            "full_name": "Majo Araujo",
+            "vanity_username": "argenike",
+            "headline": "Diseñadora gráfica e ilustradora | @argenike",
+            "pic": "https://static.skillshare.com/uploads/users/323549300/user-image-medium.png?1940164286",
+            "pic_sm": "https://static.skillshare.com/uploads/users/323549300/user-image-small.png?1896227130",
+            "pic_lg": "https://static.skillshare.com/uploads/users/323549300/user-image-large.png?278566671",
+            "_links": {
+              "self": {
+                "href": "/users/323549300",
+                "title": "Majo Araujo - Diseñadora gráfica e ilustradora | @argenike"
+              },
+              "my_classes": {
+                "href": "/users/323549300/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/323549300/completions",
+                "title": "Completions for User: 323549300"
+              },
+              "discussions": {
+                "href": "/users/323549300/discussions",
+                "title": "Discussions for User: 323549300"
+              },
+              "followers": {
+                "href": "/users/323549300/followers",
+                "title": "Followers for User: 323549300"
+              },
+              "following": {
+                "href": "/users/323549300/following",
+                "title": "Following for User: 323549300"
+              },
+              "notifications": {
+                "href": "/users/323549300/notifications",
+                "title": "Notifications for User: 323549300"
+              },
+              "projects": {
+                "href": "/users/323549300/projects",
+                "title": "Projects for User: 323549300"
+              },
+              "rosters": {
+                "href": "/users/323549300/rosters",
+                "title": "Rosters for User: 323549300"
+              },
+              "userTags": {
+                "href": "/users/323549300/userTags",
+                "title": "UserTags for User: 323549300"
+              },
+              "votes": {
+                "href": "/users/323549300/votes",
+                "title": "Votes for User: 323549300"
+              },
+              "wishlist": {
+                "href": "/users/323549300/wishlist",
+                "title": "Wishlist for User: 323549300"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

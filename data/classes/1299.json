@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1299",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1298",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1300",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 563078,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2MzA3OCJ9",
+        "sku": 1444043033,
+        "title": "Botanical Rose -Step by Step",
+        "project_title": "I have 10 attachments for you to refer to and make learning easier with me.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/411619fba09c673d4c036c5d29ff9b74/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/411619fba09c673d4c036c5d29ff9b74/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/411619fba09c673d4c036c5d29ff9b74/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Botanical-Rose-Step-by-Step/1444043033",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "35m",
+        "total_videos_duration_seconds": 2104,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 189,
+        "num_projects": 12,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1444043033",
+            "title": "Botanical Rose -Step by Step"
+          },
+          "teacher": {
+            "href": "/users/3245309",
+            "title": "Esther Peck - Educator, Author"
+          },
+          "units": {
+            "href": "/classes/1444043033/units",
+            "title": "Units for Class: 1444043033"
+          },
+          "sessions": {
+            "href": "/classes/1444043033/sessions",
+            "title": "Sessions for Class: 1444043033"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1444043033/students",
+            "title": "Students for Class: 1444043033"
+          },
+          "projects": {
+            "href": "/classes/1444043033/projects",
+            "title": "Projects for Class: 1444043033"
+          },
+          "reviews": {
+            "href": "/classes/1444043033/reviews",
+            "title": "Reviews for Class: 1444043033"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6939996,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjkzOTk5NiJ9",
+            "username": 3245309,
+            "first_name": "Esther",
+            "last_name": "Peck",
+            "full_name": "Esther Peck",
+            "vanity_username": "estherpeck",
+            "headline": "Educator, Author",
+            "pic": "https://static.skillshare.com/uploads/users/3245309/user-image-medium.jpg?346985890",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3245309/user-image-small.jpg?1563129581",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3245309/user-image-large.jpg?1971000002",
+            "_links": {
+              "self": {
+                "href": "/users/3245309",
+                "title": "Esther Peck - Educator, Author"
+              },
+              "my_classes": {
+                "href": "/users/3245309/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3245309/completions",
+                "title": "Completions for User: 3245309"
+              },
+              "discussions": {
+                "href": "/users/3245309/discussions",
+                "title": "Discussions for User: 3245309"
+              },
+              "followers": {
+                "href": "/users/3245309/followers",
+                "title": "Followers for User: 3245309"
+              },
+              "following": {
+                "href": "/users/3245309/following",
+                "title": "Following for User: 3245309"
+              },
+              "notifications": {
+                "href": "/users/3245309/notifications",
+                "title": "Notifications for User: 3245309"
+              },
+              "projects": {
+                "href": "/users/3245309/projects",
+                "title": "Projects for User: 3245309"
+              },
+              "rosters": {
+                "href": "/users/3245309/rosters",
+                "title": "Rosters for User: 3245309"
+              },
+              "userTags": {
+                "href": "/users/3245309/userTags",
+                "title": "UserTags for User: 3245309"
+              },
+              "votes": {
+                "href": "/users/3245309/votes",
+                "title": "Votes for User: 3245309"
+              },
+              "wishlist": {
+                "href": "/users/3245309/wishlist",
+                "title": "Wishlist for User: 3245309"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 563113,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2MzExMyJ9",
+        "sku": 1772199175,
+        "title": "Vue JS 3: Composition API (with Pinia & Vite)",
+        "project_title": "In the second half of this course, you will create a real-world note-taking app called Noteballs, completely from scratch.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/011f051ebaa182c66832d1d5eb7374cc/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/011f051ebaa182c66832d1d5eb7374cc/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/011f051ebaa182c66832d1d5eb7374cc/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Vue-JS-3-Composition-API-with-Pinia-Vite/1772199175",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 105,
+        "total_videos_duration": "6h 17m",
+        "total_videos_duration_seconds": 22604,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 240,
+        "num_projects": 0,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 23, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1772199175",
+            "title": "Vue JS 3: Composition API (with Pinia & Vite)"
+          },
+          "teacher": {
+            "href": "/users/5961265",
+            "title": "Danny Connell - Teacher & Indie App Developer"
+          },
+          "units": {
+            "href": "/classes/1772199175/units",
+            "title": "Units for Class: 1772199175"
+          },
+          "sessions": {
+            "href": "/classes/1772199175/sessions",
+            "title": "Sessions for Class: 1772199175"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1772199175/students",
+            "title": "Students for Class: 1772199175"
+          },
+          "projects": {
+            "href": "/classes/1772199175/projects",
+            "title": "Projects for Class: 1772199175"
+          },
+          "reviews": {
+            "href": "/classes/1772199175/reviews",
+            "title": "Reviews for Class: 1772199175"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9212813,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTIxMjgxMyJ9",
+            "username": 5961265,
+            "first_name": "Danny",
+            "last_name": "Connell",
+            "full_name": "Danny Connell",
+            "vanity_username": null,
+            "headline": "Teacher & Indie App Developer",
+            "pic": "https://static.skillshare.com/uploads/users/5961265/user-image-medium.png?1856188585",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5961265/user-image-small.png?1184683584",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5961265/user-image-large.png?229903624",
+            "_links": {
+              "self": {
+                "href": "/users/5961265",
+                "title": "Danny Connell - Teacher & Indie App Developer"
+              },
+              "my_classes": {
+                "href": "/users/5961265/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5961265/completions",
+                "title": "Completions for User: 5961265"
+              },
+              "discussions": {
+                "href": "/users/5961265/discussions",
+                "title": "Discussions for User: 5961265"
+              },
+              "followers": {
+                "href": "/users/5961265/followers",
+                "title": "Followers for User: 5961265"
+              },
+              "following": {
+                "href": "/users/5961265/following",
+                "title": "Following for User: 5961265"
+              },
+              "notifications": {
+                "href": "/users/5961265/notifications",
+                "title": "Notifications for User: 5961265"
+              },
+              "projects": {
+                "href": "/users/5961265/projects",
+                "title": "Projects for User: 5961265"
+              },
+              "rosters": {
+                "href": "/users/5961265/rosters",
+                "title": "Rosters for User: 5961265"
+              },
+              "userTags": {
+                "href": "/users/5961265/userTags",
+                "title": "UserTags for User: 5961265"
+              },
+              "votes": {
+                "href": "/users/5961265/votes",
+                "title": "Votes for User: 5961265"
+              },
+              "wishlist": {
+                "href": "/users/5961265/wishlist",
+                "title": "Wishlist for User: 5961265"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 563133,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2MzEzMyJ9",
+        "sku": 459270913,
+        "title": "Coaching skills for managers",
+        "project_title": "Your class project is to practice coaching.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9150dd4177d99dc850c500cabc8a1930/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9150dd4177d99dc850c500cabc8a1930/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9150dd4177d99dc850c500cabc8a1930/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Coaching-skills-for-managers/459270913",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "33m",
+        "total_videos_duration_seconds": 1984,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 106,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 19, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/459270913",
+            "title": "Coaching skills for managers"
+          },
+          "teacher": {
+            "href": "/users/4677049",
+            "title": "Carol Mould - Project and Change Management Trainer"
+          },
+          "units": {
+            "href": "/classes/459270913/units",
+            "title": "Units for Class: 459270913"
+          },
+          "sessions": {
+            "href": "/classes/459270913/sessions",
+            "title": "Sessions for Class: 459270913"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/459270913/students",
+            "title": "Students for Class: 459270913"
+          },
+          "projects": {
+            "href": "/classes/459270913/projects",
+            "title": "Projects for Class: 459270913"
+          },
+          "reviews": {
+            "href": "/classes/459270913/reviews",
+            "title": "Reviews for Class: 459270913"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4298902,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDI5ODkwMiJ9",
+            "username": 4677049,
+            "first_name": "Carol",
+            "last_name": "Mould",
+            "full_name": "Carol Mould",
+            "vanity_username": "carolmould",
+            "headline": "Project and Change Management Trainer",
+            "pic": "https://static.skillshare.com/uploads/users/4677049/user-image-medium.png?1252914722",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4677049/user-image-small.png?604028730",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4677049/user-image-large.png?1289626287",
+            "_links": {
+              "self": {
+                "href": "/users/4677049",
+                "title": "Carol Mould - Project and Change Management Trainer"
+              },
+              "my_classes": {
+                "href": "/users/4677049/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4677049/completions",
+                "title": "Completions for User: 4677049"
+              },
+              "discussions": {
+                "href": "/users/4677049/discussions",
+                "title": "Discussions for User: 4677049"
+              },
+              "followers": {
+                "href": "/users/4677049/followers",
+                "title": "Followers for User: 4677049"
+              },
+              "following": {
+                "href": "/users/4677049/following",
+                "title": "Following for User: 4677049"
+              },
+              "notifications": {
+                "href": "/users/4677049/notifications",
+                "title": "Notifications for User: 4677049"
+              },
+              "projects": {
+                "href": "/users/4677049/projects",
+                "title": "Projects for User: 4677049"
+              },
+              "rosters": {
+                "href": "/users/4677049/rosters",
+                "title": "Rosters for User: 4677049"
+              },
+              "userTags": {
+                "href": "/users/4677049/userTags",
+                "title": "UserTags for User: 4677049"
+              },
+              "votes": {
+                "href": "/users/4677049/votes",
+                "title": "Votes for User: 4677049"
+              },
+              "wishlist": {
+                "href": "/users/4677049/wishlist",
+                "title": "Wishlist for User: 4677049"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 563141,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2MzE0MSJ9",
+        "sku": 1503193835,
+        "title": "Learn Japan's secret to longevity - Understanding Ikigai's (reason for being) true definition",
+        "project_title": "Your class project is to PLAY YOUR WELL-BEING IKIGAI PUZZLE",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/01df4075d1c9f5d2728ef3d601128941/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/01df4075d1c9f5d2728ef3d601128941/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/01df4075d1c9f5d2728ef3d601128941/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-Japans-secret-to-longevity-Understanding-Ikigais-reason-for-being-true-definition/1503193835",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "36m",
+        "total_videos_duration_seconds": 2157,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 105,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 28, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1503193835",
+            "title": "Learn Japan's secret to longevity - Understanding Ikigai's (reason for being) true definition"
+          },
+          "teacher": {
+            "href": "/users/993344768",
+            "title": "Saori O. - Founder, Author, & Wellness Coach"
+          },
+          "units": {
+            "href": "/classes/1503193835/units",
+            "title": "Units for Class: 1503193835"
+          },
+          "sessions": {
+            "href": "/classes/1503193835/sessions",
+            "title": "Sessions for Class: 1503193835"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1503193835/students",
+            "title": "Students for Class: 1503193835"
+          },
+          "projects": {
+            "href": "/classes/1503193835/projects",
+            "title": "Projects for Class: 1503193835"
+          },
+          "reviews": {
+            "href": "/classes/1503193835/reviews",
+            "title": "Reviews for Class: 1503193835"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25069756,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUwNjk3NTYifQ==",
+            "username": 993344768,
+            "first_name": "Saori",
+            "last_name": "O.",
+            "full_name": "Saori O.",
+            "vanity_username": "mogami_wellness",
+            "headline": "Founder, Author, & Wellness Coach",
+            "pic": "https://static.skillshare.com/uploads/users/993344768/user-image-medium.png?586332424",
+            "pic_sm": "https://static.skillshare.com/uploads/users/993344768/user-image-small.png?1307655701",
+            "pic_lg": "https://static.skillshare.com/uploads/users/993344768/user-image-large.png?221439805",
+            "_links": {
+              "self": {
+                "href": "/users/993344768",
+                "title": "Saori O. - Founder, Author, & Wellness Coach"
+              },
+              "my_classes": {
+                "href": "/users/993344768/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/993344768/completions",
+                "title": "Completions for User: 993344768"
+              },
+              "discussions": {
+                "href": "/users/993344768/discussions",
+                "title": "Discussions for User: 993344768"
+              },
+              "followers": {
+                "href": "/users/993344768/followers",
+                "title": "Followers for User: 993344768"
+              },
+              "following": {
+                "href": "/users/993344768/following",
+                "title": "Following for User: 993344768"
+              },
+              "notifications": {
+                "href": "/users/993344768/notifications",
+                "title": "Notifications for User: 993344768"
+              },
+              "projects": {
+                "href": "/users/993344768/projects",
+                "title": "Projects for User: 993344768"
+              },
+              "rosters": {
+                "href": "/users/993344768/rosters",
+                "title": "Rosters for User: 993344768"
+              },
+              "userTags": {
+                "href": "/users/993344768/userTags",
+                "title": "UserTags for User: 993344768"
+              },
+              "votes": {
+                "href": "/users/993344768/votes",
+                "title": "Votes for User: 993344768"
+              },
+              "wishlist": {
+                "href": "/users/993344768/wishlist",
+                "title": "Wishlist for User: 993344768"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 563152,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2MzE1MiJ9",
+        "sku": 2117290388,
+        "title": "Fiverr Masterclass - Starting Right to beome Top Rated",
+        "project_title": "Create your Fiverr Profile and share the details with us. What you want to do is do some ranking research and find out what could be the best medium for your keywords. Show us your thumbnail picture a",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/96f755442b09e0beb44eaa69856904db/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/96f755442b09e0beb44eaa69856904db/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/96f755442b09e0beb44eaa69856904db/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Fiverr-Masterclass-Starting-Right-to-beome-Top-Rated/2117290388",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "47m",
+        "total_videos_duration_seconds": 2832,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 188,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2117290388",
+            "title": "Fiverr Masterclass - Starting Right to beome Top Rated"
+          },
+          "teacher": {
+            "href": "/users/648977013",
+            "title": "Waqar Hussain - Creating Brand Identities"
+          },
+          "units": {
+            "href": "/classes/2117290388/units",
+            "title": "Units for Class: 2117290388"
+          },
+          "sessions": {
+            "href": "/classes/2117290388/sessions",
+            "title": "Sessions for Class: 2117290388"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/2117290388/students",
+            "title": "Students for Class: 2117290388"
+          },
+          "projects": {
+            "href": "/classes/2117290388/projects",
+            "title": "Projects for Class: 2117290388"
+          },
+          "reviews": {
+            "href": "/classes/2117290388/reviews",
+            "title": "Reviews for Class: 2117290388"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11773716,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTE3NzM3MTYifQ==",
+            "username": 648977013,
+            "first_name": "Waqar",
+            "last_name": "Hussain",
+            "full_name": "Waqar Hussain",
+            "vanity_username": "waqhz",
+            "headline": "Creating Brand Identities",
+            "pic": "https://static.skillshare.com/uploads/users/648977013/user-image-medium.jpg?2136126271",
+            "pic_sm": "https://static.skillshare.com/uploads/users/648977013/user-image-small.jpg?279222270",
+            "pic_lg": "https://static.skillshare.com/uploads/users/648977013/user-image-large.jpg?1234608354",
+            "_links": {
+              "self": {
+                "href": "/users/648977013",
+                "title": "Waqar Hussain - Creating Brand Identities"
+              },
+              "my_classes": {
+                "href": "/users/648977013/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/648977013/completions",
+                "title": "Completions for User: 648977013"
+              },
+              "discussions": {
+                "href": "/users/648977013/discussions",
+                "title": "Discussions for User: 648977013"
+              },
+              "followers": {
+                "href": "/users/648977013/followers",
+                "title": "Followers for User: 648977013"
+              },
+              "following": {
+                "href": "/users/648977013/following",
+                "title": "Following for User: 648977013"
+              },
+              "notifications": {
+                "href": "/users/648977013/notifications",
+                "title": "Notifications for User: 648977013"
+              },
+              "projects": {
+                "href": "/users/648977013/projects",
+                "title": "Projects for User: 648977013"
+              },
+              "rosters": {
+                "href": "/users/648977013/rosters",
+                "title": "Rosters for User: 648977013"
+              },
+              "userTags": {
+                "href": "/users/648977013/userTags",
+                "title": "UserTags for User: 648977013"
+              },
+              "votes": {
+                "href": "/users/648977013/votes",
+                "title": "Votes for User: 648977013"
+              },
+              "wishlist": {
+                "href": "/users/648977013/wishlist",
+                "title": "Wishlist for User: 648977013"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 563169,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2MzE2OSJ9",
+        "sku": 2061485715,
+        "title": "Watercolor Painting: Get to Know Your Water & Colors With Moody Washes",
+        "project_title": "In this project, you'll have the opportunity to create four captivating and moody watercolor washes.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/4dc8de526ab07ac1b9e025eaca70005e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/4dc8de526ab07ac1b9e025eaca70005e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/4dc8de526ab07ac1b9e025eaca70005e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolor-Painting-Get-to-Know-Your-Water-Colors-With-Moody-Washes/2061485715",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 17,
+        "total_videos_duration": "1h 41m",
+        "total_videos_duration_seconds": 6080,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 710,
+        "num_projects": 38,
+        "num_discussions": 9,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 1, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2061485715",
+            "title": "Watercolor Painting: Get to Know Your Water & Colors With Moody Washes"
+          },
+          "teacher": {
+            "href": "/users/8174520",
+            "title": "Marie-Noëlle Wurm - Artist, illustrator, HSP"
+          },
+          "units": {
+            "href": "/classes/2061485715/units",
+            "title": "Units for Class: 2061485715"
+          },
+          "sessions": {
+            "href": "/classes/2061485715/sessions",
+            "title": "Sessions for Class: 2061485715"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2061485715/students",
+            "title": "Students for Class: 2061485715"
+          },
+          "projects": {
+            "href": "/classes/2061485715/projects",
+            "title": "Projects for Class: 2061485715"
+          },
+          "reviews": {
+            "href": "/classes/2061485715/reviews",
+            "title": "Reviews for Class: 2061485715"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 584225,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTg0MjI1In0=",
+            "username": 8174520,
+            "first_name": "Marie-Noëlle",
+            "last_name": "Wurm",
+            "full_name": "Marie-Noëlle Wurm",
+            "vanity_username": "marienoellewurm",
+            "headline": "Artist, illustrator, HSP",
+            "pic": "https://static.skillshare.com/uploads/users/8174520/user-image-medium.jpg?265959856",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8174520/user-image-small.jpg?1067042287",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8174520/user-image-large.jpg?1584405009",
+            "_links": {
+              "self": {
+                "href": "/users/8174520",
+                "title": "Marie-Noëlle Wurm - Artist, illustrator, HSP"
+              },
+              "my_classes": {
+                "href": "/users/8174520/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8174520/completions",
+                "title": "Completions for User: 8174520"
+              },
+              "discussions": {
+                "href": "/users/8174520/discussions",
+                "title": "Discussions for User: 8174520"
+              },
+              "followers": {
+                "href": "/users/8174520/followers",
+                "title": "Followers for User: 8174520"
+              },
+              "following": {
+                "href": "/users/8174520/following",
+                "title": "Following for User: 8174520"
+              },
+              "notifications": {
+                "href": "/users/8174520/notifications",
+                "title": "Notifications for User: 8174520"
+              },
+              "projects": {
+                "href": "/users/8174520/projects",
+                "title": "Projects for User: 8174520"
+              },
+              "rosters": {
+                "href": "/users/8174520/rosters",
+                "title": "Rosters for User: 8174520"
+              },
+              "userTags": {
+                "href": "/users/8174520/userTags",
+                "title": "UserTags for User: 8174520"
+              },
+              "votes": {
+                "href": "/users/8174520/votes",
+                "title": "Votes for User: 8174520"
+              },
+              "wishlist": {
+                "href": "/users/8174520/wishlist",
+                "title": "Wishlist for User: 8174520"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 563173,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2MzE3MyJ9",
+        "sku": 1419843482,
+        "title": "Create 3D Packaging Mockups in Minutes - Adobe Dimension CC",
+        "project_title": "Create your own 3D packaging mock-up, using the techniques you’ll learn in this class. Actively following along is the best way to remember the steps, so I highly recommend creating your own version t",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/eba19f68b5a7416124dd378c6940ecf0/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/eba19f68b5a7416124dd378c6940ecf0/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/eba19f68b5a7416124dd378c6940ecf0/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Create-3D-Packaging-Mockups-in-Minutes-Adobe-Dimension-CC/1419843482",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "1h 16m",
+        "total_videos_duration_seconds": 4537,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 425,
+        "num_projects": 3,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 14, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1419843482",
+            "title": "Create 3D Packaging Mockups in Minutes - Adobe Dimension CC"
+          },
+          "teacher": {
+            "href": "/users/4259704",
+            "title": "Jason Miller - Freelance Graphic Designer"
+          },
+          "units": {
+            "href": "/classes/1419843482/units",
+            "title": "Units for Class: 1419843482"
+          },
+          "sessions": {
+            "href": "/classes/1419843482/sessions",
+            "title": "Sessions for Class: 1419843482"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1419843482/students",
+            "title": "Students for Class: 1419843482"
+          },
+          "projects": {
+            "href": "/classes/1419843482/projects",
+            "title": "Projects for Class: 1419843482"
+          },
+          "reviews": {
+            "href": "/classes/1419843482/reviews",
+            "title": "Reviews for Class: 1419843482"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9297502,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTI5NzUwMiJ9",
+            "username": 4259704,
+            "first_name": "Jason",
+            "last_name": "Miller",
+            "full_name": "Jason Miller",
+            "vanity_username": null,
+            "headline": "Freelance Graphic Designer",
+            "pic": "https://static.skillshare.com/uploads/users/4259704/user-image-medium.jpg?2063539686",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4259704/user-image-small.jpg?721105912",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4259704/user-image-large.jpg?1600630902",
+            "_links": {
+              "self": {
+                "href": "/users/4259704",
+                "title": "Jason Miller - Freelance Graphic Designer"
+              },
+              "my_classes": {
+                "href": "/users/4259704/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4259704/completions",
+                "title": "Completions for User: 4259704"
+              },
+              "discussions": {
+                "href": "/users/4259704/discussions",
+                "title": "Discussions for User: 4259704"
+              },
+              "followers": {
+                "href": "/users/4259704/followers",
+                "title": "Followers for User: 4259704"
+              },
+              "following": {
+                "href": "/users/4259704/following",
+                "title": "Following for User: 4259704"
+              },
+              "notifications": {
+                "href": "/users/4259704/notifications",
+                "title": "Notifications for User: 4259704"
+              },
+              "projects": {
+                "href": "/users/4259704/projects",
+                "title": "Projects for User: 4259704"
+              },
+              "rosters": {
+                "href": "/users/4259704/rosters",
+                "title": "Rosters for User: 4259704"
+              },
+              "userTags": {
+                "href": "/users/4259704/userTags",
+                "title": "UserTags for User: 4259704"
+              },
+              "votes": {
+                "href": "/users/4259704/votes",
+                "title": "Votes for User: 4259704"
+              },
+              "wishlist": {
+                "href": "/users/4259704/wishlist",
+                "title": "Wishlist for User: 4259704"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 563184,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2MzE4NCJ9",
+        "sku": 1198484107,
+        "title": "Accurate Sketching:  A System for Drawing in Pencil from a Reference Photo",
+        "project_title": "Assignment:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/78943fde488f30a27f2eb15ffa6c0d9a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/78943fde488f30a27f2eb15ffa6c0d9a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/78943fde488f30a27f2eb15ffa6c0d9a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Accurate-Sketching-A-System-for-Drawing-in-Pencil-from-a-Reference-Photo/1198484107",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "33m",
+        "total_videos_duration_seconds": 1974,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 264,
+        "num_projects": 1,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 22, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1198484107",
+            "title": "Accurate Sketching:  A System for Drawing in Pencil from a Reference Photo"
+          },
+          "teacher": {
+            "href": "/users/16684282",
+            "title": "Jamie Boots - Wildlife Artist, Teacher"
+          },
+          "units": {
+            "href": "/classes/1198484107/units",
+            "title": "Units for Class: 1198484107"
+          },
+          "sessions": {
+            "href": "/classes/1198484107/sessions",
+            "title": "Sessions for Class: 1198484107"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1198484107/students",
+            "title": "Students for Class: 1198484107"
+          },
+          "projects": {
+            "href": "/classes/1198484107/projects",
+            "title": "Projects for Class: 1198484107"
+          },
+          "reviews": {
+            "href": "/classes/1198484107/reviews",
+            "title": "Reviews for Class: 1198484107"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18558696,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTg1NTg2OTYifQ==",
+            "username": 16684282,
+            "first_name": "Jamie",
+            "last_name": "Boots",
+            "full_name": "Jamie Boots",
+            "vanity_username": null,
+            "headline": "Wildlife Artist, Teacher",
+            "pic": "https://static.skillshare.com/uploads/users/16684282/user-image-medium.jpg?938356829",
+            "pic_sm": "https://static.skillshare.com/uploads/users/16684282/user-image-small.jpg?1869348155",
+            "pic_lg": "https://static.skillshare.com/uploads/users/16684282/user-image-large.jpg?378551735",
+            "_links": {
+              "self": {
+                "href": "/users/16684282",
+                "title": "Jamie Boots - Wildlife Artist, Teacher"
+              },
+              "my_classes": {
+                "href": "/users/16684282/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/16684282/completions",
+                "title": "Completions for User: 16684282"
+              },
+              "discussions": {
+                "href": "/users/16684282/discussions",
+                "title": "Discussions for User: 16684282"
+              },
+              "followers": {
+                "href": "/users/16684282/followers",
+                "title": "Followers for User: 16684282"
+              },
+              "following": {
+                "href": "/users/16684282/following",
+                "title": "Following for User: 16684282"
+              },
+              "notifications": {
+                "href": "/users/16684282/notifications",
+                "title": "Notifications for User: 16684282"
+              },
+              "projects": {
+                "href": "/users/16684282/projects",
+                "title": "Projects for User: 16684282"
+              },
+              "rosters": {
+                "href": "/users/16684282/rosters",
+                "title": "Rosters for User: 16684282"
+              },
+              "userTags": {
+                "href": "/users/16684282/userTags",
+                "title": "UserTags for User: 16684282"
+              },
+              "votes": {
+                "href": "/users/16684282/votes",
+                "title": "Votes for User: 16684282"
+              },
+              "wishlist": {
+                "href": "/users/16684282/wishlist",
+                "title": "Wishlist for User: 16684282"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 563233,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2MzIzMyJ9",
+        "sku": 26198134,
+        "title": "Speak Your Truth: Mindful Content Creation for YouTube",
+        "project_title": "Upload your plan, progress, and project!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a538efe2085e3a180a116c41e90b34a5/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a538efe2085e3a180a116c41e90b34a5/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a538efe2085e3a180a116c41e90b34a5/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Speak-Your-Truth-Mindful-Content-Creation-for-YouTube/26198134",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "46m",
+        "total_videos_duration_seconds": 2761,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 4952,
+        "num_projects": 25,
+        "num_discussions": 38,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "Apr 26, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/26198134",
+            "title": "Speak Your Truth: Mindful Content Creation for YouTube"
+          },
+          "teacher": {
+            "href": "/users/352843192",
+            "title": "Hindz - YouTuber & Podcaster"
+          },
+          "units": {
+            "href": "/classes/26198134/units",
+            "title": "Units for Class: 26198134"
+          },
+          "sessions": {
+            "href": "/classes/26198134/sessions",
+            "title": "Sessions for Class: 26198134"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/26198134/students",
+            "title": "Students for Class: 26198134"
+          },
+          "projects": {
+            "href": "/classes/26198134/projects",
+            "title": "Projects for Class: 26198134"
+          },
+          "reviews": {
+            "href": "/classes/26198134/reviews",
+            "title": "Reviews for Class: 26198134"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25076848,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUwNzY4NDgifQ==",
+            "username": 352843192,
+            "first_name": "Hindz",
+            "last_name": null,
+            "full_name": "Hindz",
+            "vanity_username": null,
+            "headline": "YouTuber & Podcaster",
+            "pic": "https://static.skillshare.com/uploads/users/352843192/user-image-medium.jpg?195110083",
+            "pic_sm": "https://static.skillshare.com/uploads/users/352843192/user-image-small.jpg?717832738",
+            "pic_lg": "https://static.skillshare.com/uploads/users/352843192/user-image-large.jpg?710916038",
+            "_links": {
+              "self": {
+                "href": "/users/352843192",
+                "title": "Hindz - YouTuber & Podcaster"
+              },
+              "my_classes": {
+                "href": "/users/352843192/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/352843192/completions",
+                "title": "Completions for User: 352843192"
+              },
+              "discussions": {
+                "href": "/users/352843192/discussions",
+                "title": "Discussions for User: 352843192"
+              },
+              "followers": {
+                "href": "/users/352843192/followers",
+                "title": "Followers for User: 352843192"
+              },
+              "following": {
+                "href": "/users/352843192/following",
+                "title": "Following for User: 352843192"
+              },
+              "notifications": {
+                "href": "/users/352843192/notifications",
+                "title": "Notifications for User: 352843192"
+              },
+              "projects": {
+                "href": "/users/352843192/projects",
+                "title": "Projects for User: 352843192"
+              },
+              "rosters": {
+                "href": "/users/352843192/rosters",
+                "title": "Rosters for User: 352843192"
+              },
+              "userTags": {
+                "href": "/users/352843192/userTags",
+                "title": "UserTags for User: 352843192"
+              },
+              "votes": {
+                "href": "/users/352843192/votes",
+                "title": "Votes for User: 352843192"
+              },
+              "wishlist": {
+                "href": "/users/352843192/wishlist",
+                "title": "Wishlist for User: 352843192"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 563235,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2MzIzNSJ9",
+        "sku": 1018074111,
+        "title": "Spring Color Trends: Learn to Mix Inspiring Color Palettes in Watercolor",
+        "project_title": "Design Brief:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6961676035715a4c5f94c646b90719bd/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6961676035715a4c5f94c646b90719bd/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6961676035715a4c5f94c646b90719bd/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Spring-Color-Trends-Learn-to-Mix-Inspiring-Color-Palettes-in-Watercolor/1018074111",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "45m",
+        "total_videos_duration_seconds": 2678,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 172,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1018074111",
+            "title": "Spring Color Trends: Learn to Mix Inspiring Color Palettes in Watercolor"
+          },
+          "teacher": {
+            "href": "/users/8825468",
+            "title": "Irina Trzaskos - Watercolor Artist & Illustrator"
+          },
+          "units": {
+            "href": "/classes/1018074111/units",
+            "title": "Units for Class: 1018074111"
+          },
+          "sessions": {
+            "href": "/classes/1018074111/sessions",
+            "title": "Sessions for Class: 1018074111"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1018074111/students",
+            "title": "Students for Class: 1018074111"
+          },
+          "projects": {
+            "href": "/classes/1018074111/projects",
+            "title": "Projects for Class: 1018074111"
+          },
+          "reviews": {
+            "href": "/classes/1018074111/reviews",
+            "title": "Reviews for Class: 1018074111"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 536804,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTM2ODA0In0=",
+            "username": 8825468,
+            "first_name": "Irina",
+            "last_name": "Trzaskos",
+            "full_name": "Irina Trzaskos",
+            "vanity_username": "irinatrzaskos",
+            "headline": "Watercolor Artist & Illustrator",
+            "pic": "https://static.skillshare.com/uploads/users/8825468/user-image-medium.jpg?1825101576",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8825468/user-image-small.jpg?2047498135",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8825468/user-image-large.jpg?110078882",
+            "_links": {
+              "self": {
+                "href": "/users/8825468",
+                "title": "Irina Trzaskos - Watercolor Artist & Illustrator"
+              },
+              "my_classes": {
+                "href": "/users/8825468/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8825468/completions",
+                "title": "Completions for User: 8825468"
+              },
+              "discussions": {
+                "href": "/users/8825468/discussions",
+                "title": "Discussions for User: 8825468"
+              },
+              "followers": {
+                "href": "/users/8825468/followers",
+                "title": "Followers for User: 8825468"
+              },
+              "following": {
+                "href": "/users/8825468/following",
+                "title": "Following for User: 8825468"
+              },
+              "notifications": {
+                "href": "/users/8825468/notifications",
+                "title": "Notifications for User: 8825468"
+              },
+              "projects": {
+                "href": "/users/8825468/projects",
+                "title": "Projects for User: 8825468"
+              },
+              "rosters": {
+                "href": "/users/8825468/rosters",
+                "title": "Rosters for User: 8825468"
+              },
+              "userTags": {
+                "href": "/users/8825468/userTags",
+                "title": "UserTags for User: 8825468"
+              },
+              "votes": {
+                "href": "/users/8825468/votes",
+                "title": "Votes for User: 8825468"
+              },
+              "wishlist": {
+                "href": "/users/8825468/wishlist",
+                "title": "Wishlist for User: 8825468"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

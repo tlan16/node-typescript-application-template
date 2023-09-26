@@ -1,0 +1,29 @@
+# node packages
+node_modules
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Editors
+.idea
+.vscode
+
+# OS
+.DS_Store
+
+# Build
+dist
+
+# docker
+docker/Dockerfile
+docker/docker-compose.yml
+
+# Coverage
+coverages
+
+# Logs
+*.log

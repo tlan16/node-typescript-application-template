@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1767",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1766",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1768",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2767",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 600757,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMDc1NyJ9",
+        "sku": 635605669,
+        "title": "Urban Sketching: Draw the Guggenheim Museum in NYC",
+        "project_title": "Project",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b04b18ca2b19c3f82f053c0c94beff69/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b04b18ca2b19c3f82f053c0c94beff69/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b04b18ca2b19c3f82f053c0c94beff69/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Urban-Sketching-Draw-the-Guggenheim-Museum-in-NYC/635605669",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "26m",
+        "total_videos_duration_seconds": 1559,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 67,
+        "num_projects": 6,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/635605669",
+            "title": "Urban Sketching: Draw the Guggenheim Museum in NYC"
+          },
+          "teacher": {
+            "href": "/users/6732283",
+            "title": "David Drazil - Architect Who Loves to Sketch"
+          },
+          "units": {
+            "href": "/classes/635605669/units",
+            "title": "Units for Class: 635605669"
+          },
+          "sessions": {
+            "href": "/classes/635605669/sessions",
+            "title": "Sessions for Class: 635605669"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/635605669/students",
+            "title": "Students for Class: 635605669"
+          },
+          "projects": {
+            "href": "/classes/635605669/projects",
+            "title": "Projects for Class: 635605669"
+          },
+          "reviews": {
+            "href": "/classes/635605669/reviews",
+            "title": "Reviews for Class: 635605669"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1066782,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTA2Njc4MiJ9",
+            "username": 6732283,
+            "first_name": "David",
+            "last_name": "Drazil",
+            "full_name": "David Drazil",
+            "vanity_username": "david_drazil",
+            "headline": "Architect Who Loves to Sketch",
+            "pic": "https://static.skillshare.com/uploads/users/6732283/user-image-medium.jpg?1791187522",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6732283/user-image-small.jpg?396289677",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6732283/user-image-large.jpg?654575968",
+            "_links": {
+              "self": {
+                "href": "/users/6732283",
+                "title": "David Drazil - Architect Who Loves to Sketch"
+              },
+              "my_classes": {
+                "href": "/users/6732283/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6732283/completions",
+                "title": "Completions for User: 6732283"
+              },
+              "discussions": {
+                "href": "/users/6732283/discussions",
+                "title": "Discussions for User: 6732283"
+              },
+              "followers": {
+                "href": "/users/6732283/followers",
+                "title": "Followers for User: 6732283"
+              },
+              "following": {
+                "href": "/users/6732283/following",
+                "title": "Following for User: 6732283"
+              },
+              "notifications": {
+                "href": "/users/6732283/notifications",
+                "title": "Notifications for User: 6732283"
+              },
+              "projects": {
+                "href": "/users/6732283/projects",
+                "title": "Projects for User: 6732283"
+              },
+              "rosters": {
+                "href": "/users/6732283/rosters",
+                "title": "Rosters for User: 6732283"
+              },
+              "userTags": {
+                "href": "/users/6732283/userTags",
+                "title": "UserTags for User: 6732283"
+              },
+              "votes": {
+                "href": "/users/6732283/votes",
+                "title": "Votes for User: 6732283"
+              },
+              "wishlist": {
+                "href": "/users/6732283/wishlist",
+                "title": "Wishlist for User: 6732283"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 600776,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMDc3NiJ9",
+        "sku": 292089270,
+        "title": "Another 7 tips/tricks I wish I knew before I started making music - FL Studio",
+        "project_title": "Assignment",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/68ae5e4447def15c69b4bc8559226e7d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/68ae5e4447def15c69b4bc8559226e7d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/68ae5e4447def15c69b4bc8559226e7d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Another-7-tipstricks-I-wish-I-knew-before-I-started-making-music-FL-Studio/292089270",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "13m",
+        "total_videos_duration_seconds": 750,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 35,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "11 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/292089270",
+            "title": "Another 7 tips/tricks I wish I knew before I started making music - FL Studio"
+          },
+          "teacher": {
+            "href": "/users/39494665",
+            "title": "Mr. Belt & Wezol - DJ/producer duo from the Netherlands"
+          },
+          "units": {
+            "href": "/classes/292089270/units",
+            "title": "Units for Class: 292089270"
+          },
+          "sessions": {
+            "href": "/classes/292089270/sessions",
+            "title": "Sessions for Class: 292089270"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/292089270/students",
+            "title": "Students for Class: 292089270"
+          },
+          "projects": {
+            "href": "/classes/292089270/projects",
+            "title": "Projects for Class: 292089270"
+          },
+          "reviews": {
+            "href": "/classes/292089270/reviews",
+            "title": "Reviews for Class: 292089270"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15363038,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTUzNjMwMzgifQ==",
+            "username": 39494665,
+            "first_name": "Mr. Belt & Wezol",
+            "last_name": null,
+            "full_name": "Mr. Belt & Wezol",
+            "vanity_username": "mrbeltandwezol",
+            "headline": "DJ/producer duo from the Netherlands",
+            "pic": "https://static.skillshare.com/uploads/users/39494665/user-image-medium.jpg?515445115",
+            "pic_sm": "https://static.skillshare.com/uploads/users/39494665/user-image-small.jpg?1456050353",
+            "pic_lg": "https://static.skillshare.com/uploads/users/39494665/user-image-large.jpg?1385895282",
+            "_links": {
+              "self": {
+                "href": "/users/39494665",
+                "title": "Mr. Belt & Wezol - DJ/producer duo from the Netherlands"
+              },
+              "my_classes": {
+                "href": "/users/39494665/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/39494665/completions",
+                "title": "Completions for User: 39494665"
+              },
+              "discussions": {
+                "href": "/users/39494665/discussions",
+                "title": "Discussions for User: 39494665"
+              },
+              "followers": {
+                "href": "/users/39494665/followers",
+                "title": "Followers for User: 39494665"
+              },
+              "following": {
+                "href": "/users/39494665/following",
+                "title": "Following for User: 39494665"
+              },
+              "notifications": {
+                "href": "/users/39494665/notifications",
+                "title": "Notifications for User: 39494665"
+              },
+              "projects": {
+                "href": "/users/39494665/projects",
+                "title": "Projects for User: 39494665"
+              },
+              "rosters": {
+                "href": "/users/39494665/rosters",
+                "title": "Rosters for User: 39494665"
+              },
+              "userTags": {
+                "href": "/users/39494665/userTags",
+                "title": "UserTags for User: 39494665"
+              },
+              "votes": {
+                "href": "/users/39494665/votes",
+                "title": "Votes for User: 39494665"
+              },
+              "wishlist": {
+                "href": "/users/39494665/wishlist",
+                "title": "Wishlist for User: 39494665"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 600787,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMDc4NyJ9",
+        "sku": 341223219,
+        "title": "Blender Beginner Crash Course: Create a Jack-o-Lantern Scene",
+        "project_title": "Congratulations on completing this course!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/76dedafef0b06f964c75279298db1a8b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/76dedafef0b06f964c75279298db1a8b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/76dedafef0b06f964c75279298db1a8b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Blender-Beginner-Crash-Course-Create-a-Jack-o-Lantern-Scene/341223219",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "55m",
+        "total_videos_duration_seconds": 3277,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 50,
+        "num_projects": 3,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "11 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/341223219",
+            "title": "Blender Beginner Crash Course: Create a Jack-o-Lantern Scene"
+          },
+          "teacher": {
+            "href": "/users/5531651",
+            "title": "Ruan Lotter - VFX & 3D Artist"
+          },
+          "units": {
+            "href": "/classes/341223219/units",
+            "title": "Units for Class: 341223219"
+          },
+          "sessions": {
+            "href": "/classes/341223219/sessions",
+            "title": "Sessions for Class: 341223219"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/341223219/students",
+            "title": "Students for Class: 341223219"
+          },
+          "projects": {
+            "href": "/classes/341223219/projects",
+            "title": "Projects for Class: 341223219"
+          },
+          "reviews": {
+            "href": "/classes/341223219/reviews",
+            "title": "Reviews for Class: 341223219"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3189744,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzE4OTc0NCJ9",
+            "username": 5531651,
+            "first_name": "Ruan",
+            "last_name": "Lotter",
+            "full_name": "Ruan Lotter",
+            "vanity_username": "ruanlotter",
+            "headline": "VFX & 3D Artist",
+            "pic": "https://static.skillshare.com/uploads/users/5531651/user-image-medium.jpg?647141944",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5531651/user-image-small.jpg?1965376715",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5531651/user-image-large.jpg?1487192919",
+            "_links": {
+              "self": {
+                "href": "/users/5531651",
+                "title": "Ruan Lotter - VFX & 3D Artist"
+              },
+              "my_classes": {
+                "href": "/users/5531651/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5531651/completions",
+                "title": "Completions for User: 5531651"
+              },
+              "discussions": {
+                "href": "/users/5531651/discussions",
+                "title": "Discussions for User: 5531651"
+              },
+              "followers": {
+                "href": "/users/5531651/followers",
+                "title": "Followers for User: 5531651"
+              },
+              "following": {
+                "href": "/users/5531651/following",
+                "title": "Following for User: 5531651"
+              },
+              "notifications": {
+                "href": "/users/5531651/notifications",
+                "title": "Notifications for User: 5531651"
+              },
+              "projects": {
+                "href": "/users/5531651/projects",
+                "title": "Projects for User: 5531651"
+              },
+              "rosters": {
+                "href": "/users/5531651/rosters",
+                "title": "Rosters for User: 5531651"
+              },
+              "userTags": {
+                "href": "/users/5531651/userTags",
+                "title": "UserTags for User: 5531651"
+              },
+              "votes": {
+                "href": "/users/5531651/votes",
+                "title": "Votes for User: 5531651"
+              },
+              "wishlist": {
+                "href": "/users/5531651/wishlist",
+                "title": "Wishlist for User: 5531651"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 600805,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMDgwNSJ9",
+        "sku": 158013844,
+        "title": "7 Day Watercolour Challenge - Sunsets and Silhouettes - Improve your painting in 1 WEEK",
+        "project_title": "Hello!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d32d9bbf54b2d73801f4e37e3da06acf/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d32d9bbf54b2d73801f4e37e3da06acf/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d32d9bbf54b2d73801f4e37e3da06acf/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/7-Day-Watercolour-Challenge-Sunsets-and-Silhouettes-Improve-your-painting-in-1-WEEK/158013844",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 25,
+        "total_videos_duration": "2h 29m",
+        "total_videos_duration_seconds": 8925,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 22,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/158013844",
+            "title": "7 Day Watercolour Challenge - Sunsets and Silhouettes - Improve your painting in 1 WEEK"
+          },
+          "teacher": {
+            "href": "/users/642111132",
+            "title": "Emily Curtis - Artist/Painter"
+          },
+          "units": {
+            "href": "/classes/158013844/units",
+            "title": "Units for Class: 158013844"
+          },
+          "sessions": {
+            "href": "/classes/158013844/sessions",
+            "title": "Sessions for Class: 158013844"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/158013844/students",
+            "title": "Students for Class: 158013844"
+          },
+          "projects": {
+            "href": "/classes/158013844/projects",
+            "title": "Projects for Class: 158013844"
+          },
+          "reviews": {
+            "href": "/classes/158013844/reviews",
+            "title": "Reviews for Class: 158013844"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10957313,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTA5NTczMTMifQ==",
+            "username": 642111132,
+            "first_name": "Emily",
+            "last_name": "Curtis",
+            "full_name": "Emily Curtis",
+            "vanity_username": null,
+            "headline": "Artist/Painter",
+            "pic": "https://static.skillshare.com/uploads/users/642111132/user-image-medium.jpg?1253150474",
+            "pic_sm": "https://static.skillshare.com/uploads/users/642111132/user-image-small.jpg?240700480",
+            "pic_lg": "https://static.skillshare.com/uploads/users/642111132/user-image-large.jpg?1464904386",
+            "_links": {
+              "self": {
+                "href": "/users/642111132",
+                "title": "Emily Curtis - Artist/Painter"
+              },
+              "my_classes": {
+                "href": "/users/642111132/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/642111132/completions",
+                "title": "Completions for User: 642111132"
+              },
+              "discussions": {
+                "href": "/users/642111132/discussions",
+                "title": "Discussions for User: 642111132"
+              },
+              "followers": {
+                "href": "/users/642111132/followers",
+                "title": "Followers for User: 642111132"
+              },
+              "following": {
+                "href": "/users/642111132/following",
+                "title": "Following for User: 642111132"
+              },
+              "notifications": {
+                "href": "/users/642111132/notifications",
+                "title": "Notifications for User: 642111132"
+              },
+              "projects": {
+                "href": "/users/642111132/projects",
+                "title": "Projects for User: 642111132"
+              },
+              "rosters": {
+                "href": "/users/642111132/rosters",
+                "title": "Rosters for User: 642111132"
+              },
+              "userTags": {
+                "href": "/users/642111132/userTags",
+                "title": "UserTags for User: 642111132"
+              },
+              "votes": {
+                "href": "/users/642111132/votes",
+                "title": "Votes for User: 642111132"
+              },
+              "wishlist": {
+                "href": "/users/642111132/wishlist",
+                "title": "Wishlist for User: 642111132"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 600808,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMDgwOCJ9",
+        "sku": 1417809697,
+        "title": "Blender 3D for Beginners: Model a Mushroom Terrarium",
+        "project_title": "You made it to the end of the class, Congratulations!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/98c0259d8805586f2866fee6f4d74895/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/98c0259d8805586f2866fee6f4d74895/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/98c0259d8805586f2866fee6f4d74895/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Blender-3D-for-Beginners-Model-a-Mushroom-Terrarium/1417809697",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "3h 29m",
+        "total_videos_duration_seconds": 12516,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 536,
+        "num_projects": 72,
+        "num_discussions": 18,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1417809697",
+            "title": "Blender 3D for Beginners: Model a Mushroom Terrarium"
+          },
+          "teacher": {
+            "href": "/users/255903839",
+            "title": "Harry Helps - Professional 3d Artist"
+          },
+          "units": {
+            "href": "/classes/1417809697/units",
+            "title": "Units for Class: 1417809697"
+          },
+          "sessions": {
+            "href": "/classes/1417809697/sessions",
+            "title": "Sessions for Class: 1417809697"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1417809697/students",
+            "title": "Students for Class: 1417809697"
+          },
+          "projects": {
+            "href": "/classes/1417809697/projects",
+            "title": "Projects for Class: 1417809697"
+          },
+          "reviews": {
+            "href": "/classes/1417809697/reviews",
+            "title": "Reviews for Class: 1417809697"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 24672185,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjQ2NzIxODUifQ==",
+            "username": 255903839,
+            "first_name": "Harry",
+            "last_name": "Helps",
+            "full_name": "Harry Helps",
+            "vanity_username": "harry-helps",
+            "headline": "Professional 3d Artist",
+            "pic": "https://static.skillshare.com/uploads/users/255903839/user-image-medium.png?786927049",
+            "pic_sm": "https://static.skillshare.com/uploads/users/255903839/user-image-small.png?1678031513",
+            "pic_lg": "https://static.skillshare.com/uploads/users/255903839/user-image-large.png?479443511",
+            "_links": {
+              "self": {
+                "href": "/users/255903839",
+                "title": "Harry Helps - Professional 3d Artist"
+              },
+              "my_classes": {
+                "href": "/users/255903839/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/255903839/completions",
+                "title": "Completions for User: 255903839"
+              },
+              "discussions": {
+                "href": "/users/255903839/discussions",
+                "title": "Discussions for User: 255903839"
+              },
+              "followers": {
+                "href": "/users/255903839/followers",
+                "title": "Followers for User: 255903839"
+              },
+              "following": {
+                "href": "/users/255903839/following",
+                "title": "Following for User: 255903839"
+              },
+              "notifications": {
+                "href": "/users/255903839/notifications",
+                "title": "Notifications for User: 255903839"
+              },
+              "projects": {
+                "href": "/users/255903839/projects",
+                "title": "Projects for User: 255903839"
+              },
+              "rosters": {
+                "href": "/users/255903839/rosters",
+                "title": "Rosters for User: 255903839"
+              },
+              "userTags": {
+                "href": "/users/255903839/userTags",
+                "title": "UserTags for User: 255903839"
+              },
+              "votes": {
+                "href": "/users/255903839/votes",
+                "title": "Votes for User: 255903839"
+              },
+              "wishlist": {
+                "href": "/users/255903839/wishlist",
+                "title": "Wishlist for User: 255903839"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 600810,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMDgxMCJ9",
+        "sku": 1035561288,
+        "title": "New York City Urban Landscape in Watercolour",
+        "project_title": "Assignment:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6b3050ced191354644da22afbaf85c95/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6b3050ced191354644da22afbaf85c95/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6b3050ced191354644da22afbaf85c95/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/New-York-City-Urban-Landscape-in-Watercolour/1035561288",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "1h 15m",
+        "total_videos_duration_seconds": 4488,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 35,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1035561288",
+            "title": "New York City Urban Landscape in Watercolour"
+          },
+          "teacher": {
+            "href": "/users/784918632",
+            "title": "Watercolour Mentor (Darren Yeo Artist) - Art Classes, Mentoring & Inspiration!"
+          },
+          "units": {
+            "href": "/classes/1035561288/units",
+            "title": "Units for Class: 1035561288"
+          },
+          "sessions": {
+            "href": "/classes/1035561288/sessions",
+            "title": "Sessions for Class: 1035561288"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1035561288/students",
+            "title": "Students for Class: 1035561288"
+          },
+          "projects": {
+            "href": "/classes/1035561288/projects",
+            "title": "Projects for Class: 1035561288"
+          },
+          "reviews": {
+            "href": "/classes/1035561288/reviews",
+            "title": "Reviews for Class: 1035561288"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15531448,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTU1MzE0NDgifQ==",
+            "username": 784918632,
+            "first_name": "Watercolour Mentor",
+            "last_name": "(Darren Yeo Artist)",
+            "full_name": "Watercolour Mentor (Darren Yeo Artist)",
+            "vanity_username": "watercolourmentor",
+            "headline": "Art Classes, Mentoring & Inspiration!",
+            "pic": "https://static.skillshare.com/uploads/users/784918632/user-image-medium.png?1334630925",
+            "pic_sm": "https://static.skillshare.com/uploads/users/784918632/user-image-small.png?1729399454",
+            "pic_lg": "https://static.skillshare.com/uploads/users/784918632/user-image-large.png?1521920203",
+            "_links": {
+              "self": {
+                "href": "/users/784918632",
+                "title": "Watercolour Mentor (Darren Yeo Artist) - Art Classes, Mentoring & Inspiration!"
+              },
+              "my_classes": {
+                "href": "/users/784918632/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/784918632/completions",
+                "title": "Completions for User: 784918632"
+              },
+              "discussions": {
+                "href": "/users/784918632/discussions",
+                "title": "Discussions for User: 784918632"
+              },
+              "followers": {
+                "href": "/users/784918632/followers",
+                "title": "Followers for User: 784918632"
+              },
+              "following": {
+                "href": "/users/784918632/following",
+                "title": "Following for User: 784918632"
+              },
+              "notifications": {
+                "href": "/users/784918632/notifications",
+                "title": "Notifications for User: 784918632"
+              },
+              "projects": {
+                "href": "/users/784918632/projects",
+                "title": "Projects for User: 784918632"
+              },
+              "rosters": {
+                "href": "/users/784918632/rosters",
+                "title": "Rosters for User: 784918632"
+              },
+              "userTags": {
+                "href": "/users/784918632/userTags",
+                "title": "UserTags for User: 784918632"
+              },
+              "votes": {
+                "href": "/users/784918632/votes",
+                "title": "Votes for User: 784918632"
+              },
+              "wishlist": {
+                "href": "/users/784918632/wishlist",
+                "title": "Wishlist for User: 784918632"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 600824,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMDgyNCJ9",
+        "sku": 433488816,
+        "title": "Indian Tribal Art -The Warli Tree of Life",
+        "project_title": "For this class project use these handy tips to come up with your own Warli Tree of Life painting!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/307573d3d489a9ccf94411727d07973c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/307573d3d489a9ccf94411727d07973c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/307573d3d489a9ccf94411727d07973c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Indian-Tribal-Art-The-Warli-Tree-of-Life/433488816",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 20m",
+        "total_videos_duration_seconds": 4787,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 6,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/433488816",
+            "title": "Indian Tribal Art -The Warli Tree of Life"
+          },
+          "teacher": {
+            "href": "/users/9486654",
+            "title": "Brinda Nilesh - Artist @ Brinda's Art for Heart"
+          },
+          "units": {
+            "href": "/classes/433488816/units",
+            "title": "Units for Class: 433488816"
+          },
+          "sessions": {
+            "href": "/classes/433488816/sessions",
+            "title": "Sessions for Class: 433488816"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/433488816/students",
+            "title": "Students for Class: 433488816"
+          },
+          "projects": {
+            "href": "/classes/433488816/projects",
+            "title": "Projects for Class: 433488816"
+          },
+          "reviews": {
+            "href": "/classes/433488816/reviews",
+            "title": "Reviews for Class: 433488816"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2928222,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjkyODIyMiJ9",
+            "username": 9486654,
+            "first_name": "Brinda",
+            "last_name": "Nilesh",
+            "full_name": "Brinda Nilesh",
+            "vanity_username": "brindasartforheart",
+            "headline": "Artist @ Brinda's Art for Heart",
+            "pic": "https://static.skillshare.com/uploads/users/9486654/user-image-medium.jpg?1685752058",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9486654/user-image-small.jpg?205488068",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9486654/user-image-large.jpg?1399063210",
+            "_links": {
+              "self": {
+                "href": "/users/9486654",
+                "title": "Brinda Nilesh - Artist @ Brinda's Art for Heart"
+              },
+              "my_classes": {
+                "href": "/users/9486654/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9486654/completions",
+                "title": "Completions for User: 9486654"
+              },
+              "discussions": {
+                "href": "/users/9486654/discussions",
+                "title": "Discussions for User: 9486654"
+              },
+              "followers": {
+                "href": "/users/9486654/followers",
+                "title": "Followers for User: 9486654"
+              },
+              "following": {
+                "href": "/users/9486654/following",
+                "title": "Following for User: 9486654"
+              },
+              "notifications": {
+                "href": "/users/9486654/notifications",
+                "title": "Notifications for User: 9486654"
+              },
+              "projects": {
+                "href": "/users/9486654/projects",
+                "title": "Projects for User: 9486654"
+              },
+              "rosters": {
+                "href": "/users/9486654/rosters",
+                "title": "Rosters for User: 9486654"
+              },
+              "userTags": {
+                "href": "/users/9486654/userTags",
+                "title": "UserTags for User: 9486654"
+              },
+              "votes": {
+                "href": "/users/9486654/votes",
+                "title": "Votes for User: 9486654"
+              },
+              "wishlist": {
+                "href": "/users/9486654/wishlist",
+                "title": "Wishlist for User: 9486654"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 600839,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMDgzOSJ9",
+        "sku": 1834374142,
+        "title": "Colored Pencil for Beginners: Layering and Blending",
+        "project_title": "The Class Project consists of drawing a pear, or anything similar, with colored pencil. I recommend you choose something simple if you are a beginner. I chose a pear because it is just slightly more c",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/470c4b8a4ae6c5a662f4c06ecfcf7223/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/470c4b8a4ae6c5a662f4c06ecfcf7223/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/470c4b8a4ae6c5a662f4c06ecfcf7223/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Colored-Pencil-for-Beginners-Layering-and-Blending/1834374142",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "58m",
+        "total_videos_duration_seconds": 3450,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1249,
+        "num_projects": 34,
+        "num_discussions": 4,
+        "is_staff_pick": true,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "11 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1834374142",
+            "title": "Colored Pencil for Beginners: Layering and Blending"
+          },
+          "teacher": {
+            "href": "/users/4741768",
+            "title": "Matheus Macedo - Realistic Drawing Artist"
+          },
+          "units": {
+            "href": "/classes/1834374142/units",
+            "title": "Units for Class: 1834374142"
+          },
+          "sessions": {
+            "href": "/classes/1834374142/sessions",
+            "title": "Sessions for Class: 1834374142"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1834374142/students",
+            "title": "Students for Class: 1834374142"
+          },
+          "projects": {
+            "href": "/classes/1834374142/projects",
+            "title": "Projects for Class: 1834374142"
+          },
+          "reviews": {
+            "href": "/classes/1834374142/reviews",
+            "title": "Reviews for Class: 1834374142"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7549128,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzU0OTEyOCJ9",
+            "username": 4741768,
+            "first_name": "Matheus",
+            "last_name": "Macedo",
+            "full_name": "Matheus Macedo",
+            "vanity_username": "mlmacedo",
+            "headline": "Realistic Drawing Artist",
+            "pic": "https://static.skillshare.com/uploads/users/4741768/user-image-medium.jpg?1466808617",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4741768/user-image-small.jpg?803937453",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4741768/user-image-large.jpg?1146686813",
+            "_links": {
+              "self": {
+                "href": "/users/4741768",
+                "title": "Matheus Macedo - Realistic Drawing Artist"
+              },
+              "my_classes": {
+                "href": "/users/4741768/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4741768/completions",
+                "title": "Completions for User: 4741768"
+              },
+              "discussions": {
+                "href": "/users/4741768/discussions",
+                "title": "Discussions for User: 4741768"
+              },
+              "followers": {
+                "href": "/users/4741768/followers",
+                "title": "Followers for User: 4741768"
+              },
+              "following": {
+                "href": "/users/4741768/following",
+                "title": "Following for User: 4741768"
+              },
+              "notifications": {
+                "href": "/users/4741768/notifications",
+                "title": "Notifications for User: 4741768"
+              },
+              "projects": {
+                "href": "/users/4741768/projects",
+                "title": "Projects for User: 4741768"
+              },
+              "rosters": {
+                "href": "/users/4741768/rosters",
+                "title": "Rosters for User: 4741768"
+              },
+              "userTags": {
+                "href": "/users/4741768/userTags",
+                "title": "UserTags for User: 4741768"
+              },
+              "votes": {
+                "href": "/users/4741768/votes",
+                "title": "Votes for User: 4741768"
+              },
+              "wishlist": {
+                "href": "/users/4741768/wishlist",
+                "title": "Wishlist for User: 4741768"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 600848,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMDg0OCJ9",
+        "sku": 1988271369,
+        "title": "Watercolor Fall Postcards for Beginners",
+        "project_title": "For the \"Class Project\" we will be painting three absolutely beautiful fall inspired paintings with watercolors.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/7fecbad512c1664ffc2ef994688bc818/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/7fecbad512c1664ffc2ef994688bc818/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/7fecbad512c1664ffc2ef994688bc818/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolor-Fall-Postcards-for-Beginners/1988271369",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "1h 51m",
+        "total_videos_duration_seconds": 6630,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 12,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 weeks ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1988271369",
+            "title": "Watercolor Fall Postcards for Beginners"
+          },
+          "teacher": {
+            "href": "/users/771900377",
+            "title": "Manishaa Shriivastava - Artist illustrator learner.. "
+          },
+          "units": {
+            "href": "/classes/1988271369/units",
+            "title": "Units for Class: 1988271369"
+          },
+          "sessions": {
+            "href": "/classes/1988271369/sessions",
+            "title": "Sessions for Class: 1988271369"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1988271369/students",
+            "title": "Students for Class: 1988271369"
+          },
+          "projects": {
+            "href": "/classes/1988271369/projects",
+            "title": "Projects for Class: 1988271369"
+          },
+          "reviews": {
+            "href": "/classes/1988271369/reviews",
+            "title": "Reviews for Class: 1988271369"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13704385,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTM3MDQzODUifQ==",
+            "username": 771900377,
+            "first_name": "Manishaa",
+            "last_name": "Shriivastava",
+            "full_name": "Manishaa Shriivastava",
+            "vanity_username": null,
+            "headline": "Artist illustrator learner.. ",
+            "pic": "https://static.skillshare.com/uploads/users/771900377/user-image-medium.jpg?1536674238",
+            "pic_sm": "https://static.skillshare.com/uploads/users/771900377/user-image-small.jpg?1784021122",
+            "pic_lg": "https://static.skillshare.com/uploads/users/771900377/user-image-large.jpg?1242353814",
+            "_links": {
+              "self": {
+                "href": "/users/771900377",
+                "title": "Manishaa Shriivastava - Artist illustrator learner.. "
+              },
+              "my_classes": {
+                "href": "/users/771900377/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/771900377/completions",
+                "title": "Completions for User: 771900377"
+              },
+              "discussions": {
+                "href": "/users/771900377/discussions",
+                "title": "Discussions for User: 771900377"
+              },
+              "followers": {
+                "href": "/users/771900377/followers",
+                "title": "Followers for User: 771900377"
+              },
+              "following": {
+                "href": "/users/771900377/following",
+                "title": "Following for User: 771900377"
+              },
+              "notifications": {
+                "href": "/users/771900377/notifications",
+                "title": "Notifications for User: 771900377"
+              },
+              "projects": {
+                "href": "/users/771900377/projects",
+                "title": "Projects for User: 771900377"
+              },
+              "rosters": {
+                "href": "/users/771900377/rosters",
+                "title": "Rosters for User: 771900377"
+              },
+              "userTags": {
+                "href": "/users/771900377/userTags",
+                "title": "UserTags for User: 771900377"
+              },
+              "votes": {
+                "href": "/users/771900377/votes",
+                "title": "Votes for User: 771900377"
+              },
+              "wishlist": {
+                "href": "/users/771900377/wishlist",
+                "title": "Wishlist for User: 771900377"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 600852,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMDg1MiJ9",
+        "sku": 1557024409,
+        "title": "How To Paint Snowy Pine Trees | Acrylic Masterclass",
+        "project_title": "Share your work! Now it's your turn to create all these winter artworks and hang them on your wall or use them as home decor :)",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1d45bd31d9cdf0420fec0cf08c649199/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1d45bd31d9cdf0420fec0cf08c649199/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1d45bd31d9cdf0420fec0cf08c649199/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Paint-Snowy-Pine-Trees-Acrylic-Masterclass/1557024409",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 59,
+        "total_videos_duration": "9h 17m",
+        "total_videos_duration_seconds": 33444,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 26,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1557024409",
+            "title": "How To Paint Snowy Pine Trees | Acrylic Masterclass"
+          },
+          "teacher": {
+            "href": "/users/188922009",
+            "title": "Debasree Dey - Acrylic Artist & Educator"
+          },
+          "units": {
+            "href": "/classes/1557024409/units",
+            "title": "Units for Class: 1557024409"
+          },
+          "sessions": {
+            "href": "/classes/1557024409/sessions",
+            "title": "Sessions for Class: 1557024409"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1557024409/students",
+            "title": "Students for Class: 1557024409"
+          },
+          "projects": {
+            "href": "/classes/1557024409/projects",
+            "title": "Projects for Class: 1557024409"
+          },
+          "reviews": {
+            "href": "/classes/1557024409/reviews",
+            "title": "Reviews for Class: 1557024409"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10130179,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTAxMzAxNzkifQ==",
+            "username": 188922009,
+            "first_name": "Debasree Dey",
+            "last_name": null,
+            "full_name": "Debasree Dey",
+            "vanity_username": "debasreedeyart",
+            "headline": "Acrylic Artist & Educator",
+            "pic": "https://static.skillshare.com/uploads/users/188922009/user-image-medium.jpg?1020027892",
+            "pic_sm": "https://static.skillshare.com/uploads/users/188922009/user-image-small.jpg?1580720525",
+            "pic_lg": "https://static.skillshare.com/uploads/users/188922009/user-image-large.jpg?1548642251",
+            "_links": {
+              "self": {
+                "href": "/users/188922009",
+                "title": "Debasree Dey - Acrylic Artist & Educator"
+              },
+              "my_classes": {
+                "href": "/users/188922009/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/188922009/completions",
+                "title": "Completions for User: 188922009"
+              },
+              "discussions": {
+                "href": "/users/188922009/discussions",
+                "title": "Discussions for User: 188922009"
+              },
+              "followers": {
+                "href": "/users/188922009/followers",
+                "title": "Followers for User: 188922009"
+              },
+              "following": {
+                "href": "/users/188922009/following",
+                "title": "Following for User: 188922009"
+              },
+              "notifications": {
+                "href": "/users/188922009/notifications",
+                "title": "Notifications for User: 188922009"
+              },
+              "projects": {
+                "href": "/users/188922009/projects",
+                "title": "Projects for User: 188922009"
+              },
+              "rosters": {
+                "href": "/users/188922009/rosters",
+                "title": "Rosters for User: 188922009"
+              },
+              "userTags": {
+                "href": "/users/188922009/userTags",
+                "title": "UserTags for User: 188922009"
+              },
+              "votes": {
+                "href": "/users/188922009/votes",
+                "title": "Votes for User: 188922009"
+              },
+              "wishlist": {
+                "href": "/users/188922009/wishlist",
+                "title": "Wishlist for User: 188922009"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

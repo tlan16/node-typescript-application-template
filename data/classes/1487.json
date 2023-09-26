@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1487",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1486",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1488",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 579043,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTA0MyJ9",
+        "sku": 1779834402,
+        "title": "Create a free tier Oracle Cloud account and get started",
+        "project_title": "Follow the lab as shown in class videos and below are the documentation for reference",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1f4ee5fe299fc0e41a22ac7478e0af70/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1f4ee5fe299fc0e41a22ac7478e0af70/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1f4ee5fe299fc0e41a22ac7478e0af70/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Create-a-free-tier-Oracle-Cloud-account-and-get-started/1779834402",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "16m",
+        "total_videos_duration_seconds": 952,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 16,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1779834402",
+            "title": "Create a free tier Oracle Cloud account and get started"
+          },
+          "teacher": {
+            "href": "/users/539880476",
+            "title": "BEENUM LEARNING - Simplifying Imaginations"
+          },
+          "units": {
+            "href": "/classes/1779834402/units",
+            "title": "Units for Class: 1779834402"
+          },
+          "sessions": {
+            "href": "/classes/1779834402/sessions",
+            "title": "Sessions for Class: 1779834402"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1779834402/students",
+            "title": "Students for Class: 1779834402"
+          },
+          "projects": {
+            "href": "/classes/1779834402/projects",
+            "title": "Projects for Class: 1779834402"
+          },
+          "reviews": {
+            "href": "/classes/1779834402/reviews",
+            "title": "Reviews for Class: 1779834402"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26325128,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYzMjUxMjgifQ==",
+            "username": 539880476,
+            "first_name": "BEENUM",
+            "last_name": "LEARNING",
+            "full_name": "BEENUM LEARNING",
+            "vanity_username": "beenumlearning",
+            "headline": "Simplifying Imaginations",
+            "pic": "https://static.skillshare.com/uploads/users/539880476/user-image-medium.png?2014172944",
+            "pic_sm": "https://static.skillshare.com/uploads/users/539880476/user-image-small.png?593690442",
+            "pic_lg": "https://static.skillshare.com/uploads/users/539880476/user-image-large.png?2032216491",
+            "_links": {
+              "self": {
+                "href": "/users/539880476",
+                "title": "BEENUM LEARNING - Simplifying Imaginations"
+              },
+              "my_classes": {
+                "href": "/users/539880476/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/539880476/completions",
+                "title": "Completions for User: 539880476"
+              },
+              "discussions": {
+                "href": "/users/539880476/discussions",
+                "title": "Discussions for User: 539880476"
+              },
+              "followers": {
+                "href": "/users/539880476/followers",
+                "title": "Followers for User: 539880476"
+              },
+              "following": {
+                "href": "/users/539880476/following",
+                "title": "Following for User: 539880476"
+              },
+              "notifications": {
+                "href": "/users/539880476/notifications",
+                "title": "Notifications for User: 539880476"
+              },
+              "projects": {
+                "href": "/users/539880476/projects",
+                "title": "Projects for User: 539880476"
+              },
+              "rosters": {
+                "href": "/users/539880476/rosters",
+                "title": "Rosters for User: 539880476"
+              },
+              "userTags": {
+                "href": "/users/539880476/userTags",
+                "title": "UserTags for User: 539880476"
+              },
+              "votes": {
+                "href": "/users/539880476/votes",
+                "title": "Votes for User: 539880476"
+              },
+              "wishlist": {
+                "href": "/users/539880476/wishlist",
+                "title": "Wishlist for User: 539880476"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579044,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTA0NCJ9",
+        "sku": 1725315823,
+        "title": "Wedding Videography: How to Capture a Cinematic Wedding Film",
+        "project_title": "Your project is to film your first wedding. And as long as the couple is happy with it,  please share your work in the student project section. If you do, I promise to share my thoughts, opinions, and",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/91fa23c63c983690d7296bad67a30cf1/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/91fa23c63c983690d7296bad67a30cf1/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/91fa23c63c983690d7296bad67a30cf1/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Wedding-Videography-How-to-Capture-a-Cinematic-Wedding-Film/1725315823",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "58m",
+        "total_videos_duration_seconds": 3450,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 338,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 27, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1725315823",
+            "title": "Wedding Videography: How to Capture a Cinematic Wedding Film"
+          },
+          "teacher": {
+            "href": "/users/739912973",
+            "title": "Chris Brooker - Filmmaker & YouTuber"
+          },
+          "units": {
+            "href": "/classes/1725315823/units",
+            "title": "Units for Class: 1725315823"
+          },
+          "sessions": {
+            "href": "/classes/1725315823/sessions",
+            "title": "Sessions for Class: 1725315823"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1725315823/students",
+            "title": "Students for Class: 1725315823"
+          },
+          "projects": {
+            "href": "/classes/1725315823/projects",
+            "title": "Projects for Class: 1725315823"
+          },
+          "reviews": {
+            "href": "/classes/1725315823/reviews",
+            "title": "Reviews for Class: 1725315823"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19393486,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTkzOTM0ODYifQ==",
+            "username": 739912973,
+            "first_name": "Chris",
+            "last_name": "Brooker",
+            "full_name": "Chris Brooker",
+            "vanity_username": "brookerfilms",
+            "headline": "Filmmaker & YouTuber",
+            "pic": "https://static.skillshare.com/uploads/users/739912973/user-image-medium.png?1652805382",
+            "pic_sm": "https://static.skillshare.com/uploads/users/739912973/user-image-small.png?304934586",
+            "pic_lg": "https://static.skillshare.com/uploads/users/739912973/user-image-large.png?344720221",
+            "_links": {
+              "self": {
+                "href": "/users/739912973",
+                "title": "Chris Brooker - Filmmaker & YouTuber"
+              },
+              "my_classes": {
+                "href": "/users/739912973/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/739912973/completions",
+                "title": "Completions for User: 739912973"
+              },
+              "discussions": {
+                "href": "/users/739912973/discussions",
+                "title": "Discussions for User: 739912973"
+              },
+              "followers": {
+                "href": "/users/739912973/followers",
+                "title": "Followers for User: 739912973"
+              },
+              "following": {
+                "href": "/users/739912973/following",
+                "title": "Following for User: 739912973"
+              },
+              "notifications": {
+                "href": "/users/739912973/notifications",
+                "title": "Notifications for User: 739912973"
+              },
+              "projects": {
+                "href": "/users/739912973/projects",
+                "title": "Projects for User: 739912973"
+              },
+              "rosters": {
+                "href": "/users/739912973/rosters",
+                "title": "Rosters for User: 739912973"
+              },
+              "userTags": {
+                "href": "/users/739912973/userTags",
+                "title": "UserTags for User: 739912973"
+              },
+              "votes": {
+                "href": "/users/739912973/votes",
+                "title": "Votes for User: 739912973"
+              },
+              "wishlist": {
+                "href": "/users/739912973/wishlist",
+                "title": "Wishlist for User: 739912973"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579046,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTA0NiJ9",
+        "sku": 1901590416,
+        "title": "How to provision an Oracle Integration (OIC) instance",
+        "project_title": "Follow the lab as shown in class videos and for documentation refer below links",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/8863d0c57a89ec1e7cee7cba6e0c17bb/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/8863d0c57a89ec1e7cee7cba6e0c17bb/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/8863d0c57a89ec1e7cee7cba6e0c17bb/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-provision-an-Oracle-Integration-OIC-instance/1901590416",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "24m",
+        "total_videos_duration_seconds": 1449,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 5,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1901590416",
+            "title": "How to provision an Oracle Integration (OIC) instance"
+          },
+          "teacher": {
+            "href": "/users/539880476",
+            "title": "BEENUM LEARNING - Simplifying Imaginations"
+          },
+          "units": {
+            "href": "/classes/1901590416/units",
+            "title": "Units for Class: 1901590416"
+          },
+          "sessions": {
+            "href": "/classes/1901590416/sessions",
+            "title": "Sessions for Class: 1901590416"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1901590416/students",
+            "title": "Students for Class: 1901590416"
+          },
+          "projects": {
+            "href": "/classes/1901590416/projects",
+            "title": "Projects for Class: 1901590416"
+          },
+          "reviews": {
+            "href": "/classes/1901590416/reviews",
+            "title": "Reviews for Class: 1901590416"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26325128,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYzMjUxMjgifQ==",
+            "username": 539880476,
+            "first_name": "BEENUM",
+            "last_name": "LEARNING",
+            "full_name": "BEENUM LEARNING",
+            "vanity_username": "beenumlearning",
+            "headline": "Simplifying Imaginations",
+            "pic": "https://static.skillshare.com/uploads/users/539880476/user-image-medium.png?2014172944",
+            "pic_sm": "https://static.skillshare.com/uploads/users/539880476/user-image-small.png?593690442",
+            "pic_lg": "https://static.skillshare.com/uploads/users/539880476/user-image-large.png?2032216491",
+            "_links": {
+              "self": {
+                "href": "/users/539880476",
+                "title": "BEENUM LEARNING - Simplifying Imaginations"
+              },
+              "my_classes": {
+                "href": "/users/539880476/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/539880476/completions",
+                "title": "Completions for User: 539880476"
+              },
+              "discussions": {
+                "href": "/users/539880476/discussions",
+                "title": "Discussions for User: 539880476"
+              },
+              "followers": {
+                "href": "/users/539880476/followers",
+                "title": "Followers for User: 539880476"
+              },
+              "following": {
+                "href": "/users/539880476/following",
+                "title": "Following for User: 539880476"
+              },
+              "notifications": {
+                "href": "/users/539880476/notifications",
+                "title": "Notifications for User: 539880476"
+              },
+              "projects": {
+                "href": "/users/539880476/projects",
+                "title": "Projects for User: 539880476"
+              },
+              "rosters": {
+                "href": "/users/539880476/rosters",
+                "title": "Rosters for User: 539880476"
+              },
+              "userTags": {
+                "href": "/users/539880476/userTags",
+                "title": "UserTags for User: 539880476"
+              },
+              "votes": {
+                "href": "/users/539880476/votes",
+                "title": "Votes for User: 539880476"
+              },
+              "wishlist": {
+                "href": "/users/539880476/wishlist",
+                "title": "Wishlist for User: 539880476"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579047,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTA0NyJ9",
+        "sku": 132768746,
+        "title": "Usando seu celular para criar videos incríveis!",
+        "project_title": "Criar um video de 5 minutos ou menos usando os principios encinados nessa aula.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/87afc92413fefb91d8b2ef3f60dd5b7e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/87afc92413fefb91d8b2ef3f60dd5b7e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/87afc92413fefb91d8b2ef3f60dd5b7e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Usando-seu-celular-para-criar-videos-incr%C3%ADveis/132768746",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "47m",
+        "total_videos_duration_seconds": 2847,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 131,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 15, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/132768746",
+            "title": "Usando seu celular para criar videos incríveis!"
+          },
+          "teacher": {
+            "href": "/users/20112390",
+            "title": "Lucas Pelizaro - Filmmaker"
+          },
+          "units": {
+            "href": "/classes/132768746/units",
+            "title": "Units for Class: 132768746"
+          },
+          "sessions": {
+            "href": "/classes/132768746/sessions",
+            "title": "Sessions for Class: 132768746"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/132768746/students",
+            "title": "Students for Class: 132768746"
+          },
+          "projects": {
+            "href": "/classes/132768746/projects",
+            "title": "Projects for Class: 132768746"
+          },
+          "reviews": {
+            "href": "/classes/132768746/reviews",
+            "title": "Reviews for Class: 132768746"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 12395434,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTIzOTU0MzQifQ==",
+            "username": 20112390,
+            "first_name": "Lucas",
+            "last_name": "Pelizaro",
+            "full_name": "Lucas Pelizaro",
+            "vanity_username": "pelizaro",
+            "headline": "Filmmaker",
+            "pic": "https://static.skillshare.com/uploads/users/20112390/user-image-medium.jpg?194633912",
+            "pic_sm": "https://static.skillshare.com/uploads/users/20112390/user-image-small.jpg?454387492",
+            "pic_lg": "https://static.skillshare.com/uploads/users/20112390/user-image-large.jpg?1095472660",
+            "_links": {
+              "self": {
+                "href": "/users/20112390",
+                "title": "Lucas Pelizaro - Filmmaker"
+              },
+              "my_classes": {
+                "href": "/users/20112390/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/20112390/completions",
+                "title": "Completions for User: 20112390"
+              },
+              "discussions": {
+                "href": "/users/20112390/discussions",
+                "title": "Discussions for User: 20112390"
+              },
+              "followers": {
+                "href": "/users/20112390/followers",
+                "title": "Followers for User: 20112390"
+              },
+              "following": {
+                "href": "/users/20112390/following",
+                "title": "Following for User: 20112390"
+              },
+              "notifications": {
+                "href": "/users/20112390/notifications",
+                "title": "Notifications for User: 20112390"
+              },
+              "projects": {
+                "href": "/users/20112390/projects",
+                "title": "Projects for User: 20112390"
+              },
+              "rosters": {
+                "href": "/users/20112390/rosters",
+                "title": "Rosters for User: 20112390"
+              },
+              "userTags": {
+                "href": "/users/20112390/userTags",
+                "title": "UserTags for User: 20112390"
+              },
+              "votes": {
+                "href": "/users/20112390/votes",
+                "title": "Votes for User: 20112390"
+              },
+              "wishlist": {
+                "href": "/users/20112390/wishlist",
+                "title": "Wishlist for User: 20112390"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579054,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTA1NCJ9",
+        "sku": 557805988,
+        "title": "How to Cold Call",
+        "project_title": "The class project for this course is to show me and the rest of the students your first script introduction.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/755c28884cd0dcefb87754699b1d06e2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/755c28884cd0dcefb87754699b1d06e2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/755c28884cd0dcefb87754699b1d06e2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Cold-Call/557805988",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "34m",
+        "total_videos_duration_seconds": 2018,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 102,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 7, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/557805988",
+            "title": "How to Cold Call"
+          },
+          "teacher": {
+            "href": "/users/848584160",
+            "title": "Kathryn Tilley - Online Excel Instructor"
+          },
+          "units": {
+            "href": "/classes/557805988/units",
+            "title": "Units for Class: 557805988"
+          },
+          "sessions": {
+            "href": "/classes/557805988/sessions",
+            "title": "Sessions for Class: 557805988"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/557805988/students",
+            "title": "Students for Class: 557805988"
+          },
+          "projects": {
+            "href": "/classes/557805988/projects",
+            "title": "Projects for Class: 557805988"
+          },
+          "reviews": {
+            "href": "/classes/557805988/reviews",
+            "title": "Reviews for Class: 557805988"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17901225,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTc5MDEyMjUifQ==",
+            "username": 848584160,
+            "first_name": "Kathryn",
+            "last_name": "Tilley",
+            "full_name": "Kathryn Tilley",
+            "vanity_username": null,
+            "headline": "Online Excel Instructor",
+            "pic": "https://static.skillshare.com/uploads/users/848584160/user-image-medium.png?1819064048",
+            "pic_sm": "https://static.skillshare.com/uploads/users/848584160/user-image-small.png?1493908048",
+            "pic_lg": "https://static.skillshare.com/uploads/users/848584160/user-image-large.png?1011628660",
+            "_links": {
+              "self": {
+                "href": "/users/848584160",
+                "title": "Kathryn Tilley - Online Excel Instructor"
+              },
+              "my_classes": {
+                "href": "/users/848584160/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/848584160/completions",
+                "title": "Completions for User: 848584160"
+              },
+              "discussions": {
+                "href": "/users/848584160/discussions",
+                "title": "Discussions for User: 848584160"
+              },
+              "followers": {
+                "href": "/users/848584160/followers",
+                "title": "Followers for User: 848584160"
+              },
+              "following": {
+                "href": "/users/848584160/following",
+                "title": "Following for User: 848584160"
+              },
+              "notifications": {
+                "href": "/users/848584160/notifications",
+                "title": "Notifications for User: 848584160"
+              },
+              "projects": {
+                "href": "/users/848584160/projects",
+                "title": "Projects for User: 848584160"
+              },
+              "rosters": {
+                "href": "/users/848584160/rosters",
+                "title": "Rosters for User: 848584160"
+              },
+              "userTags": {
+                "href": "/users/848584160/userTags",
+                "title": "UserTags for User: 848584160"
+              },
+              "votes": {
+                "href": "/users/848584160/votes",
+                "title": "Votes for User: 848584160"
+              },
+              "wishlist": {
+                "href": "/users/848584160/wishlist",
+                "title": "Wishlist for User: 848584160"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579057,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTA1NyJ9",
+        "sku": 1084394601,
+        "title": "Creating a mixed media Floral Artwork using Pencils, Pens and Colored Pencils",
+        "project_title": "If you have drawn along with me, please do post your results here in the Project section. If you want another challenge, get some different flowers or a photo of them and do another mixed media artwor",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6307420374112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6307420374112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6307420374112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Creating-a-mixed-media-Floral-Artwork-using-Pencils-Pens-and-Colored-Pencils/1084394601",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "2h 42m",
+        "total_videos_duration_seconds": 9691,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 43,
+        "num_projects": 2,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 7, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1084394601",
+            "title": "Creating a mixed media Floral Artwork using Pencils, Pens and Colored Pencils"
+          },
+          "teacher": {
+            "href": "/users/2275009",
+            "title": "Benjamin A - Art Teacher, illustrator Art by Benjamin"
+          },
+          "units": {
+            "href": "/classes/1084394601/units",
+            "title": "Units for Class: 1084394601"
+          },
+          "sessions": {
+            "href": "/classes/1084394601/sessions",
+            "title": "Sessions for Class: 1084394601"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1084394601/students",
+            "title": "Students for Class: 1084394601"
+          },
+          "projects": {
+            "href": "/classes/1084394601/projects",
+            "title": "Projects for Class: 1084394601"
+          },
+          "reviews": {
+            "href": "/classes/1084394601/reviews",
+            "title": "Reviews for Class: 1084394601"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3354029,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzM1NDAyOSJ9",
+            "username": 2275009,
+            "first_name": "Benjamin",
+            "last_name": "A",
+            "full_name": "Benjamin A",
+            "vanity_username": "artbybenjamin",
+            "headline": "Art Teacher, illustrator Art by Benjamin",
+            "pic": "https://static.skillshare.com/uploads/users/2275009/user-image-medium.jpg?804216924",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2275009/user-image-small.jpg?833522209",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2275009/user-image-large.jpg?291137885",
+            "_links": {
+              "self": {
+                "href": "/users/2275009",
+                "title": "Benjamin A - Art Teacher, illustrator Art by Benjamin"
+              },
+              "my_classes": {
+                "href": "/users/2275009/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2275009/completions",
+                "title": "Completions for User: 2275009"
+              },
+              "discussions": {
+                "href": "/users/2275009/discussions",
+                "title": "Discussions for User: 2275009"
+              },
+              "followers": {
+                "href": "/users/2275009/followers",
+                "title": "Followers for User: 2275009"
+              },
+              "following": {
+                "href": "/users/2275009/following",
+                "title": "Following for User: 2275009"
+              },
+              "notifications": {
+                "href": "/users/2275009/notifications",
+                "title": "Notifications for User: 2275009"
+              },
+              "projects": {
+                "href": "/users/2275009/projects",
+                "title": "Projects for User: 2275009"
+              },
+              "rosters": {
+                "href": "/users/2275009/rosters",
+                "title": "Rosters for User: 2275009"
+              },
+              "userTags": {
+                "href": "/users/2275009/userTags",
+                "title": "UserTags for User: 2275009"
+              },
+              "votes": {
+                "href": "/users/2275009/votes",
+                "title": "Votes for User: 2275009"
+              },
+              "wishlist": {
+                "href": "/users/2275009/wishlist",
+                "title": "Wishlist for User: 2275009"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579067,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTA2NyJ9",
+        "sku": 556024183,
+        "title": "Express Yourself Through Art Journaling: Three Creative Journaling Techniques",
+        "project_title": "Assignment:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1955fd67aaac338e4b2597d84cbbefbf/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1955fd67aaac338e4b2597d84cbbefbf/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1955fd67aaac338e4b2597d84cbbefbf/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Express-Yourself-Through-Art-Journaling-Three-Creative-Journaling-Techniques/556024183",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "38m",
+        "total_videos_duration_seconds": 2251,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 972,
+        "num_projects": 15,
+        "num_discussions": 4,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/556024183",
+            "title": "Express Yourself Through Art Journaling: Three Creative Journaling Techniques"
+          },
+          "teacher": {
+            "href": "/users/339895178",
+            "title": "Ashton Womack - Artist & Surface Pattern Designer"
+          },
+          "units": {
+            "href": "/classes/556024183/units",
+            "title": "Units for Class: 556024183"
+          },
+          "sessions": {
+            "href": "/classes/556024183/sessions",
+            "title": "Sessions for Class: 556024183"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/556024183/students",
+            "title": "Students for Class: 556024183"
+          },
+          "projects": {
+            "href": "/classes/556024183/projects",
+            "title": "Projects for Class: 556024183"
+          },
+          "reviews": {
+            "href": "/classes/556024183/reviews",
+            "title": "Reviews for Class: 556024183"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21425924,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjE0MjU5MjQifQ==",
+            "username": 339895178,
+            "first_name": "Ashton",
+            "last_name": "Womack",
+            "full_name": "Ashton Womack",
+            "vanity_username": "ashwomack",
+            "headline": "Artist & Surface Pattern Designer",
+            "pic": "https://static.skillshare.com/uploads/users/339895178/user-image-medium.png?1935993656",
+            "pic_sm": "https://static.skillshare.com/uploads/users/339895178/user-image-small.png?775935821",
+            "pic_lg": "https://static.skillshare.com/uploads/users/339895178/user-image-large.png?1880410549",
+            "_links": {
+              "self": {
+                "href": "/users/339895178",
+                "title": "Ashton Womack - Artist & Surface Pattern Designer"
+              },
+              "my_classes": {
+                "href": "/users/339895178/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/339895178/completions",
+                "title": "Completions for User: 339895178"
+              },
+              "discussions": {
+                "href": "/users/339895178/discussions",
+                "title": "Discussions for User: 339895178"
+              },
+              "followers": {
+                "href": "/users/339895178/followers",
+                "title": "Followers for User: 339895178"
+              },
+              "following": {
+                "href": "/users/339895178/following",
+                "title": "Following for User: 339895178"
+              },
+              "notifications": {
+                "href": "/users/339895178/notifications",
+                "title": "Notifications for User: 339895178"
+              },
+              "projects": {
+                "href": "/users/339895178/projects",
+                "title": "Projects for User: 339895178"
+              },
+              "rosters": {
+                "href": "/users/339895178/rosters",
+                "title": "Rosters for User: 339895178"
+              },
+              "userTags": {
+                "href": "/users/339895178/userTags",
+                "title": "UserTags for User: 339895178"
+              },
+              "votes": {
+                "href": "/users/339895178/votes",
+                "title": "Votes for User: 339895178"
+              },
+              "wishlist": {
+                "href": "/users/339895178/wishlist",
+                "title": "Wishlist for User: 339895178"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579081,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTA4MSJ9",
+        "sku": 289210010,
+        "title": "Coastal Christmas Card Class",
+        "project_title": "Create either a Card with a Watercolour Background or by using your Supplies in a non-traditional way and post a picture of your final project!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ae5fa8c71aeb0cc3e590752a883d2611/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ae5fa8c71aeb0cc3e590752a883d2611/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ae5fa8c71aeb0cc3e590752a883d2611/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Coastal-Christmas-Card-Class/289210010",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "50m",
+        "total_videos_duration_seconds": 3023,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 11,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 5, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/289210010",
+            "title": "Coastal Christmas Card Class"
+          },
+          "teacher": {
+            "href": "/users/551657318",
+            "title": "Artsy. Island Girl - Teacher "
+          },
+          "units": {
+            "href": "/classes/289210010/units",
+            "title": "Units for Class: 289210010"
+          },
+          "sessions": {
+            "href": "/classes/289210010/sessions",
+            "title": "Sessions for Class: 289210010"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/289210010/students",
+            "title": "Students for Class: 289210010"
+          },
+          "projects": {
+            "href": "/classes/289210010/projects",
+            "title": "Projects for Class: 289210010"
+          },
+          "reviews": {
+            "href": "/classes/289210010/reviews",
+            "title": "Reviews for Class: 289210010"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19924190,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTk5MjQxOTAifQ==",
+            "username": 551657318,
+            "first_name": "Artsy. Island",
+            "last_name": "Girl",
+            "full_name": "Artsy. Island Girl",
+            "vanity_username": "artsyislandgirl",
+            "headline": "Teacher ",
+            "pic": "https://static.skillshare.com/uploads/users/551657318/user-image-medium.jpg?99879617",
+            "pic_sm": "https://static.skillshare.com/uploads/users/551657318/user-image-small.jpg?1528052382",
+            "pic_lg": "https://static.skillshare.com/uploads/users/551657318/user-image-large.jpg?1266894294",
+            "_links": {
+              "self": {
+                "href": "/users/551657318",
+                "title": "Artsy. Island Girl - Teacher "
+              },
+              "my_classes": {
+                "href": "/users/551657318/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/551657318/completions",
+                "title": "Completions for User: 551657318"
+              },
+              "discussions": {
+                "href": "/users/551657318/discussions",
+                "title": "Discussions for User: 551657318"
+              },
+              "followers": {
+                "href": "/users/551657318/followers",
+                "title": "Followers for User: 551657318"
+              },
+              "following": {
+                "href": "/users/551657318/following",
+                "title": "Following for User: 551657318"
+              },
+              "notifications": {
+                "href": "/users/551657318/notifications",
+                "title": "Notifications for User: 551657318"
+              },
+              "projects": {
+                "href": "/users/551657318/projects",
+                "title": "Projects for User: 551657318"
+              },
+              "rosters": {
+                "href": "/users/551657318/rosters",
+                "title": "Rosters for User: 551657318"
+              },
+              "userTags": {
+                "href": "/users/551657318/userTags",
+                "title": "UserTags for User: 551657318"
+              },
+              "votes": {
+                "href": "/users/551657318/votes",
+                "title": "Votes for User: 551657318"
+              },
+              "wishlist": {
+                "href": "/users/551657318/wishlist",
+                "title": "Wishlist for User: 551657318"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579086,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTA4NiJ9",
+        "sku": 449539449,
+        "title": "Personal Branding for Creatives: Design Your Instagram Social Media Kit for Business Success",
+        "project_title": "Develop your own social media kit and design your first post to post on social media. This class comes with a workbook t helps you through the tasks and exercises to build the right strategy for your ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6aa1e2e31a4592866c1714cc5dfd316d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6aa1e2e31a4592866c1714cc5dfd316d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6aa1e2e31a4592866c1714cc5dfd316d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Personal-Branding-for-Creatives-Design-Your-Instagram-Social-Media-Kit-for-Business-Success/449539449",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 17,
+        "total_videos_duration": "1h 40m",
+        "total_videos_duration_seconds": 6012,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1024,
+        "num_projects": 4,
+        "num_discussions": 7,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 14, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/449539449",
+            "title": "Personal Branding for Creatives: Design Your Instagram Social Media Kit for Business Success"
+          },
+          "teacher": {
+            "href": "/users/6623721",
+            "title": "Patricia Reiners - UX/UI Designer // Innovation //"
+          },
+          "units": {
+            "href": "/classes/449539449/units",
+            "title": "Units for Class: 449539449"
+          },
+          "sessions": {
+            "href": "/classes/449539449/sessions",
+            "title": "Sessions for Class: 449539449"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/449539449/students",
+            "title": "Students for Class: 449539449"
+          },
+          "projects": {
+            "href": "/classes/449539449/projects",
+            "title": "Projects for Class: 449539449"
+          },
+          "reviews": {
+            "href": "/classes/449539449/reviews",
+            "title": "Reviews for Class: 449539449"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6311965,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjMxMTk2NSJ9",
+            "username": 6623721,
+            "first_name": "Patricia",
+            "last_name": "Reiners",
+            "full_name": "Patricia Reiners",
+            "vanity_username": null,
+            "headline": "UX/UI Designer // Innovation //",
+            "pic": "https://static.skillshare.com/uploads/users/6623721/user-image-medium.jpg?343794364",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6623721/user-image-small.jpg?1947721485",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6623721/user-image-large.jpg?762649456",
+            "_links": {
+              "self": {
+                "href": "/users/6623721",
+                "title": "Patricia Reiners - UX/UI Designer // Innovation //"
+              },
+              "my_classes": {
+                "href": "/users/6623721/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6623721/completions",
+                "title": "Completions for User: 6623721"
+              },
+              "discussions": {
+                "href": "/users/6623721/discussions",
+                "title": "Discussions for User: 6623721"
+              },
+              "followers": {
+                "href": "/users/6623721/followers",
+                "title": "Followers for User: 6623721"
+              },
+              "following": {
+                "href": "/users/6623721/following",
+                "title": "Following for User: 6623721"
+              },
+              "notifications": {
+                "href": "/users/6623721/notifications",
+                "title": "Notifications for User: 6623721"
+              },
+              "projects": {
+                "href": "/users/6623721/projects",
+                "title": "Projects for User: 6623721"
+              },
+              "rosters": {
+                "href": "/users/6623721/rosters",
+                "title": "Rosters for User: 6623721"
+              },
+              "userTags": {
+                "href": "/users/6623721/userTags",
+                "title": "UserTags for User: 6623721"
+              },
+              "votes": {
+                "href": "/users/6623721/votes",
+                "title": "Votes for User: 6623721"
+              },
+              "wishlist": {
+                "href": "/users/6623721/wishlist",
+                "title": "Wishlist for User: 6623721"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579107,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTEwNyJ9",
+        "sku": 470102155,
+        "title": "How to create cartoon faces",
+        "project_title": "For this project you will need a pencil, paper and maybe a marker or a dark pen, to later go over your drawing to give it a more finished look if that is your goal. you may perhaps need a device such ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9fa8206974f3800a02d44428d63a8861/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9fa8206974f3800a02d44428d63a8861/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9fa8206974f3800a02d44428d63a8861/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-create-cartoon-faces/470102155",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "25m",
+        "total_videos_duration_seconds": 1476,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 48,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/470102155",
+            "title": "How to create cartoon faces"
+          },
+          "teacher": {
+            "href": "/users/466898036",
+            "title": "Jay Dubb - cartoonist/freelance illustrator"
+          },
+          "units": {
+            "href": "/classes/470102155/units",
+            "title": "Units for Class: 470102155"
+          },
+          "sessions": {
+            "href": "/classes/470102155/sessions",
+            "title": "Sessions for Class: 470102155"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/470102155/students",
+            "title": "Students for Class: 470102155"
+          },
+          "projects": {
+            "href": "/classes/470102155/projects",
+            "title": "Projects for Class: 470102155"
+          },
+          "reviews": {
+            "href": "/classes/470102155/reviews",
+            "title": "Reviews for Class: 470102155"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 14720968,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTQ3MjA5NjgifQ==",
+            "username": 466898036,
+            "first_name": "Jay",
+            "last_name": "Dubb",
+            "full_name": "Jay Dubb",
+            "vanity_username": null,
+            "headline": "cartoonist/freelance illustrator",
+            "pic": "https://static.skillshare.com/uploads/users/466898036/user-image-medium.png?1011547172",
+            "pic_sm": "https://static.skillshare.com/uploads/users/466898036/user-image-small.png?267230456",
+            "pic_lg": "https://static.skillshare.com/uploads/users/466898036/user-image-large.png?1152027474",
+            "_links": {
+              "self": {
+                "href": "/users/466898036",
+                "title": "Jay Dubb - cartoonist/freelance illustrator"
+              },
+              "my_classes": {
+                "href": "/users/466898036/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/466898036/completions",
+                "title": "Completions for User: 466898036"
+              },
+              "discussions": {
+                "href": "/users/466898036/discussions",
+                "title": "Discussions for User: 466898036"
+              },
+              "followers": {
+                "href": "/users/466898036/followers",
+                "title": "Followers for User: 466898036"
+              },
+              "following": {
+                "href": "/users/466898036/following",
+                "title": "Following for User: 466898036"
+              },
+              "notifications": {
+                "href": "/users/466898036/notifications",
+                "title": "Notifications for User: 466898036"
+              },
+              "projects": {
+                "href": "/users/466898036/projects",
+                "title": "Projects for User: 466898036"
+              },
+              "rosters": {
+                "href": "/users/466898036/rosters",
+                "title": "Rosters for User: 466898036"
+              },
+              "userTags": {
+                "href": "/users/466898036/userTags",
+                "title": "UserTags for User: 466898036"
+              },
+              "votes": {
+                "href": "/users/466898036/votes",
+                "title": "Votes for User: 466898036"
+              },
+              "wishlist": {
+                "href": "/users/466898036/wishlist",
+                "title": "Wishlist for User: 466898036"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

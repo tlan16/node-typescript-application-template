@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=991",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=990",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=992",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 623761,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyMzc2MSJ9",
+        "sku": 123360556,
+        "title": "ChatGPT for Designers: Supercharge Your Design Workflow",
+        "project_title": "In this hands-on project, let's use ChatGPT to work with our design workflow. This project will motivate you to practice your new skills, experiment with ChatGPT's capabilities, and share your work.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/27eb4952c9571dbaa4f14e1269ab70a0/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/27eb4952c9571dbaa4f14e1269ab70a0/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/27eb4952c9571dbaa4f14e1269ab70a0/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/ChatGPT-for-Designers-Supercharge-Your-Design-Workflow/123360556",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "1h 7m",
+        "total_videos_duration_seconds": 4004,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 183,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/123360556",
+            "title": "ChatGPT for Designers: Supercharge Your Design Workflow"
+          },
+          "teacher": {
+            "href": "/users/3525649",
+            "title": "Faisal Memon - Product | Engineer | Entrepreneur"
+          },
+          "units": {
+            "href": "/classes/123360556/units",
+            "title": "Units for Class: 123360556"
+          },
+          "sessions": {
+            "href": "/classes/123360556/sessions",
+            "title": "Sessions for Class: 123360556"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/123360556/students",
+            "title": "Students for Class: 123360556"
+          },
+          "projects": {
+            "href": "/classes/123360556/projects",
+            "title": "Projects for Class: 123360556"
+          },
+          "reviews": {
+            "href": "/classes/123360556/reviews",
+            "title": "Reviews for Class: 123360556"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3160801,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzE2MDgwMSJ9",
+            "username": 3525649,
+            "first_name": "Faisal",
+            "last_name": "Memon",
+            "full_name": "Faisal Memon",
+            "vanity_username": null,
+            "headline": "Product | Engineer | Entrepreneur",
+            "pic": "https://static.skillshare.com/uploads/users/3525649/user-image-medium.jpg?993727429",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3525649/user-image-small.jpg?1374640911",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3525649/user-image-large.jpg?1593558685",
+            "_links": {
+              "self": {
+                "href": "/users/3525649",
+                "title": "Faisal Memon - Product | Engineer | Entrepreneur"
+              },
+              "my_classes": {
+                "href": "/users/3525649/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3525649/completions",
+                "title": "Completions for User: 3525649"
+              },
+              "discussions": {
+                "href": "/users/3525649/discussions",
+                "title": "Discussions for User: 3525649"
+              },
+              "followers": {
+                "href": "/users/3525649/followers",
+                "title": "Followers for User: 3525649"
+              },
+              "following": {
+                "href": "/users/3525649/following",
+                "title": "Following for User: 3525649"
+              },
+              "notifications": {
+                "href": "/users/3525649/notifications",
+                "title": "Notifications for User: 3525649"
+              },
+              "projects": {
+                "href": "/users/3525649/projects",
+                "title": "Projects for User: 3525649"
+              },
+              "rosters": {
+                "href": "/users/3525649/rosters",
+                "title": "Rosters for User: 3525649"
+              },
+              "userTags": {
+                "href": "/users/3525649/userTags",
+                "title": "UserTags for User: 3525649"
+              },
+              "votes": {
+                "href": "/users/3525649/votes",
+                "title": "Votes for User: 3525649"
+              },
+              "wishlist": {
+                "href": "/users/3525649/wishlist",
+                "title": "Wishlist for User: 3525649"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 623762,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyMzc2MiJ9",
+        "sku": 2083266521,
+        "title": "Easy Watermelon Slices with Oil Pastel:Learn to paint 15 beautiful and vibrant Watermelon Slices",
+        "project_title": "For the class project",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/2db977750e8a4c009940657e7eefdab5/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/2db977750e8a4c009940657e7eefdab5/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/2db977750e8a4c009940657e7eefdab5/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Easy-Watermelon-Slices-with-Oil-PastelLearn-to-paint-15-beautiful-and-vibrant-Watermelon-Slices/2083266521",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 24,
+        "total_videos_duration": "3h 19m",
+        "total_videos_duration_seconds": 11932,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 21,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2083266521",
+            "title": "Easy Watermelon Slices with Oil Pastel:Learn to paint 15 beautiful and vibrant Watermelon Slices"
+          },
+          "teacher": {
+            "href": "/users/2621268",
+            "title": "Vishal Munshi"
+          },
+          "units": {
+            "href": "/classes/2083266521/units",
+            "title": "Units for Class: 2083266521"
+          },
+          "sessions": {
+            "href": "/classes/2083266521/sessions",
+            "title": "Sessions for Class: 2083266521"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2083266521/students",
+            "title": "Students for Class: 2083266521"
+          },
+          "projects": {
+            "href": "/classes/2083266521/projects",
+            "title": "Projects for Class: 2083266521"
+          },
+          "reviews": {
+            "href": "/classes/2083266521/reviews",
+            "title": "Reviews for Class: 2083266521"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4030704,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDAzMDcwNCJ9",
+            "username": 2621268,
+            "first_name": "Vishal",
+            "last_name": "Munshi",
+            "full_name": "Vishal Munshi",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/2621268/user-image-medium.jpg?852330361",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2621268/user-image-small.jpg?1537300970",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2621268/user-image-large.jpg?590451890",
+            "_links": {
+              "self": {
+                "href": "/users/2621268",
+                "title": "Vishal Munshi"
+              },
+              "my_classes": {
+                "href": "/users/2621268/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2621268/completions",
+                "title": "Completions for User: 2621268"
+              },
+              "discussions": {
+                "href": "/users/2621268/discussions",
+                "title": "Discussions for User: 2621268"
+              },
+              "followers": {
+                "href": "/users/2621268/followers",
+                "title": "Followers for User: 2621268"
+              },
+              "following": {
+                "href": "/users/2621268/following",
+                "title": "Following for User: 2621268"
+              },
+              "notifications": {
+                "href": "/users/2621268/notifications",
+                "title": "Notifications for User: 2621268"
+              },
+              "projects": {
+                "href": "/users/2621268/projects",
+                "title": "Projects for User: 2621268"
+              },
+              "rosters": {
+                "href": "/users/2621268/rosters",
+                "title": "Rosters for User: 2621268"
+              },
+              "userTags": {
+                "href": "/users/2621268/userTags",
+                "title": "UserTags for User: 2621268"
+              },
+              "votes": {
+                "href": "/users/2621268/votes",
+                "title": "Votes for User: 2621268"
+              },
+              "wishlist": {
+                "href": "/users/2621268/wishlist",
+                "title": "Wishlist for User: 2621268"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 623765,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyMzc2NSJ9",
+        "sku": 490060917,
+        "title": "Ink and Watercolor Portrait Made Easy #1 - Sketch a Woman in Simple Steps",
+        "project_title": "Your project will be to sketch a woman's face. We will be focusing on the rules for achieving a believable, harmonious face, and not on resemblance. Following the class, you will be able to sketch a w",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ebece786d8fb96253e3c153d27bdaf71/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ebece786d8fb96253e3c153d27bdaf71/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ebece786d8fb96253e3c153d27bdaf71/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Ink-and-Watercolor-Portrait-Made-Easy-1-Sketch-a-Woman-in-Simple-Steps/490060917",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "50m",
+        "total_videos_duration_seconds": 2995,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 60,
+        "num_projects": 9,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/490060917",
+            "title": "Ink and Watercolor Portrait Made Easy #1 - Sketch a Woman in Simple Steps"
+          },
+          "teacher": {
+            "href": "/users/6366019",
+            "title": "Elisabetta Furcht - Making Art Accessible "
+          },
+          "units": {
+            "href": "/classes/490060917/units",
+            "title": "Units for Class: 490060917"
+          },
+          "sessions": {
+            "href": "/classes/490060917/sessions",
+            "title": "Sessions for Class: 490060917"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/490060917/students",
+            "title": "Students for Class: 490060917"
+          },
+          "projects": {
+            "href": "/classes/490060917/projects",
+            "title": "Projects for Class: 490060917"
+          },
+          "reviews": {
+            "href": "/classes/490060917/reviews",
+            "title": "Reviews for Class: 490060917"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8351620,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODM1MTYyMCJ9",
+            "username": 6366019,
+            "first_name": "Elisabetta",
+            "last_name": "Furcht",
+            "full_name": "Elisabetta Furcht",
+            "vanity_username": "elisabettafurcht",
+            "headline": "Making Art Accessible ",
+            "pic": "https://static.skillshare.com/uploads/users/6366019/user-image-medium.jpg?1559808655",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6366019/user-image-small.jpg?471070940",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6366019/user-image-large.jpg?1700605414",
+            "_links": {
+              "self": {
+                "href": "/users/6366019",
+                "title": "Elisabetta Furcht - Making Art Accessible "
+              },
+              "my_classes": {
+                "href": "/users/6366019/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6366019/completions",
+                "title": "Completions for User: 6366019"
+              },
+              "discussions": {
+                "href": "/users/6366019/discussions",
+                "title": "Discussions for User: 6366019"
+              },
+              "followers": {
+                "href": "/users/6366019/followers",
+                "title": "Followers for User: 6366019"
+              },
+              "following": {
+                "href": "/users/6366019/following",
+                "title": "Following for User: 6366019"
+              },
+              "notifications": {
+                "href": "/users/6366019/notifications",
+                "title": "Notifications for User: 6366019"
+              },
+              "projects": {
+                "href": "/users/6366019/projects",
+                "title": "Projects for User: 6366019"
+              },
+              "rosters": {
+                "href": "/users/6366019/rosters",
+                "title": "Rosters for User: 6366019"
+              },
+              "userTags": {
+                "href": "/users/6366019/userTags",
+                "title": "UserTags for User: 6366019"
+              },
+              "votes": {
+                "href": "/users/6366019/votes",
+                "title": "Votes for User: 6366019"
+              },
+              "wishlist": {
+                "href": "/users/6366019/wishlist",
+                "title": "Wishlist for User: 6366019"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 623786,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyMzc4NiJ9",
+        "sku": 1454707685,
+        "title": "New Elementor Container-Based Workflow (2023): Build a Fitness Website Landing Page from Scratch",
+        "project_title": "For the project, we'll be building a landing page for a fictional fitness website step-by-step.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/0b9f39f93bdc4ef03cbfc734e7fd1099/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/0b9f39f93bdc4ef03cbfc734e7fd1099/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/0b9f39f93bdc4ef03cbfc734e7fd1099/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/New-Elementor-Container-Based-Workflow-2023-Build-a-Fitness-Website-Landing-Page-from-Scratch/1454707685",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 24,
+        "total_videos_duration": "3h 8m",
+        "total_videos_duration_seconds": 11261,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 242,
+        "num_projects": 3,
+        "num_discussions": 5,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1454707685",
+            "title": "New Elementor Container-Based Workflow (2023): Build a Fitness Website Landing Page from Scratch"
+          },
+          "teacher": {
+            "href": "/users/837068707",
+            "title": "Ken Mbesa - Web Design | Blender 3D Modeling"
+          },
+          "units": {
+            "href": "/classes/1454707685/units",
+            "title": "Units for Class: 1454707685"
+          },
+          "sessions": {
+            "href": "/classes/1454707685/sessions",
+            "title": "Sessions for Class: 1454707685"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1454707685/students",
+            "title": "Students for Class: 1454707685"
+          },
+          "projects": {
+            "href": "/classes/1454707685/projects",
+            "title": "Projects for Class: 1454707685"
+          },
+          "reviews": {
+            "href": "/classes/1454707685/reviews",
+            "title": "Reviews for Class: 1454707685"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 14942179,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTQ5NDIxNzkifQ==",
+            "username": 837068707,
+            "first_name": "Ken",
+            "last_name": "Mbesa",
+            "full_name": "Ken Mbesa",
+            "vanity_username": "kenmbesa",
+            "headline": "Web Design | Blender 3D Modeling",
+            "pic": "https://static.skillshare.com/uploads/users/837068707/user-image-medium.jpg?1619791773",
+            "pic_sm": "https://static.skillshare.com/uploads/users/837068707/user-image-small.jpg?1523756696",
+            "pic_lg": "https://static.skillshare.com/uploads/users/837068707/user-image-large.jpg?1194500824",
+            "_links": {
+              "self": {
+                "href": "/users/837068707",
+                "title": "Ken Mbesa - Web Design | Blender 3D Modeling"
+              },
+              "my_classes": {
+                "href": "/users/837068707/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/837068707/completions",
+                "title": "Completions for User: 837068707"
+              },
+              "discussions": {
+                "href": "/users/837068707/discussions",
+                "title": "Discussions for User: 837068707"
+              },
+              "followers": {
+                "href": "/users/837068707/followers",
+                "title": "Followers for User: 837068707"
+              },
+              "following": {
+                "href": "/users/837068707/following",
+                "title": "Following for User: 837068707"
+              },
+              "notifications": {
+                "href": "/users/837068707/notifications",
+                "title": "Notifications for User: 837068707"
+              },
+              "projects": {
+                "href": "/users/837068707/projects",
+                "title": "Projects for User: 837068707"
+              },
+              "rosters": {
+                "href": "/users/837068707/rosters",
+                "title": "Rosters for User: 837068707"
+              },
+              "userTags": {
+                "href": "/users/837068707/userTags",
+                "title": "UserTags for User: 837068707"
+              },
+              "votes": {
+                "href": "/users/837068707/votes",
+                "title": "Votes for User: 837068707"
+              },
+              "wishlist": {
+                "href": "/users/837068707/wishlist",
+                "title": "Wishlist for User: 837068707"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 623787,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyMzc4NyJ9",
+        "sku": 1302275419,
+        "title": "Surface Pattern Design: Automated Diamond Repeat in Affinity Designer",
+        "project_title": "Find all the class resources under this link.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/985afd1728f0791bab1ba8b25c53ae3c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/985afd1728f0791bab1ba8b25c53ae3c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/985afd1728f0791bab1ba8b25c53ae3c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Surface-Pattern-Design-Automated-Diamond-Repeat-in-Affinity-Designer/1302275419",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "1h 48m",
+        "total_videos_duration_seconds": 6501,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 833,
+        "num_projects": 93,
+        "num_discussions": 36,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1302275419",
+            "title": "Surface Pattern Design: Automated Diamond Repeat in Affinity Designer"
+          },
+          "teacher": {
+            "href": "/users/3983120",
+            "title": "Weronika Salach - Art with MAGIC"
+          },
+          "units": {
+            "href": "/classes/1302275419/units",
+            "title": "Units for Class: 1302275419"
+          },
+          "sessions": {
+            "href": "/classes/1302275419/sessions",
+            "title": "Sessions for Class: 1302275419"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1302275419/students",
+            "title": "Students for Class: 1302275419"
+          },
+          "projects": {
+            "href": "/classes/1302275419/projects",
+            "title": "Projects for Class: 1302275419"
+          },
+          "reviews": {
+            "href": "/classes/1302275419/reviews",
+            "title": "Reviews for Class: 1302275419"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2935387,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjkzNTM4NyJ9",
+            "username": 3983120,
+            "first_name": "Weronika",
+            "last_name": "Salach",
+            "full_name": "Weronika Salach",
+            "vanity_username": "weronikasalach",
+            "headline": "Art with MAGIC",
+            "pic": "https://static.skillshare.com/uploads/users/3983120/user-image-medium.png?564423293",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3983120/user-image-small.png?1502657889",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3983120/user-image-large.png?1095202526",
+            "_links": {
+              "self": {
+                "href": "/users/3983120",
+                "title": "Weronika Salach - Art with MAGIC"
+              },
+              "my_classes": {
+                "href": "/users/3983120/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3983120/completions",
+                "title": "Completions for User: 3983120"
+              },
+              "discussions": {
+                "href": "/users/3983120/discussions",
+                "title": "Discussions for User: 3983120"
+              },
+              "followers": {
+                "href": "/users/3983120/followers",
+                "title": "Followers for User: 3983120"
+              },
+              "following": {
+                "href": "/users/3983120/following",
+                "title": "Following for User: 3983120"
+              },
+              "notifications": {
+                "href": "/users/3983120/notifications",
+                "title": "Notifications for User: 3983120"
+              },
+              "projects": {
+                "href": "/users/3983120/projects",
+                "title": "Projects for User: 3983120"
+              },
+              "rosters": {
+                "href": "/users/3983120/rosters",
+                "title": "Rosters for User: 3983120"
+              },
+              "userTags": {
+                "href": "/users/3983120/userTags",
+                "title": "UserTags for User: 3983120"
+              },
+              "votes": {
+                "href": "/users/3983120/votes",
+                "title": "Votes for User: 3983120"
+              },
+              "wishlist": {
+                "href": "/users/3983120/wishlist",
+                "title": "Wishlist for User: 3983120"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 623792,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyMzc5MiJ9",
+        "sku": 597892168,
+        "title": "How to learn a new language with ChatGPT",
+        "project_title": "The project for this class will be the following:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6327144211112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6327144211112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6327144211112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-learn-a-new-language-with-ChatGPT/597892168",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "14m",
+        "total_videos_duration_seconds": 866,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 53,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/597892168",
+            "title": "How to learn a new language with ChatGPT"
+          },
+          "teacher": {
+            "href": "/users/337364667",
+            "title": "Adriana Languages - Teacher and content creator"
+          },
+          "units": {
+            "href": "/classes/597892168/units",
+            "title": "Units for Class: 597892168"
+          },
+          "sessions": {
+            "href": "/classes/597892168/sessions",
+            "title": "Sessions for Class: 597892168"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/597892168/students",
+            "title": "Students for Class: 597892168"
+          },
+          "projects": {
+            "href": "/classes/597892168/projects",
+            "title": "Projects for Class: 597892168"
+          },
+          "reviews": {
+            "href": "/classes/597892168/reviews",
+            "title": "Reviews for Class: 597892168"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11224606,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTEyMjQ2MDYifQ==",
+            "username": 337364667,
+            "first_name": "Adriana",
+            "last_name": "Languages",
+            "full_name": "Adriana Languages",
+            "vanity_username": null,
+            "headline": "Teacher and content creator",
+            "pic": "https://static.skillshare.com/uploads/users/337364667/user-image-medium.png?1428294272",
+            "pic_sm": "https://static.skillshare.com/uploads/users/337364667/user-image-small.png?96383163",
+            "pic_lg": "https://static.skillshare.com/uploads/users/337364667/user-image-large.png?63997047",
+            "_links": {
+              "self": {
+                "href": "/users/337364667",
+                "title": "Adriana Languages - Teacher and content creator"
+              },
+              "my_classes": {
+                "href": "/users/337364667/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/337364667/completions",
+                "title": "Completions for User: 337364667"
+              },
+              "discussions": {
+                "href": "/users/337364667/discussions",
+                "title": "Discussions for User: 337364667"
+              },
+              "followers": {
+                "href": "/users/337364667/followers",
+                "title": "Followers for User: 337364667"
+              },
+              "following": {
+                "href": "/users/337364667/following",
+                "title": "Following for User: 337364667"
+              },
+              "notifications": {
+                "href": "/users/337364667/notifications",
+                "title": "Notifications for User: 337364667"
+              },
+              "projects": {
+                "href": "/users/337364667/projects",
+                "title": "Projects for User: 337364667"
+              },
+              "rosters": {
+                "href": "/users/337364667/rosters",
+                "title": "Rosters for User: 337364667"
+              },
+              "userTags": {
+                "href": "/users/337364667/userTags",
+                "title": "UserTags for User: 337364667"
+              },
+              "votes": {
+                "href": "/users/337364667/votes",
+                "title": "Votes for User: 337364667"
+              },
+              "wishlist": {
+                "href": "/users/337364667/wishlist",
+                "title": "Wishlist for User: 337364667"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 623794,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyMzc5NCJ9",
+        "sku": 413721073,
+        "title": "Learn Panasonic GH6 Basics for Video - A Beginners Guide",
+        "project_title": "Create a stock video clip or a short video with the Panasonic GH6 in 5. 7K resolution and any frame rate you choose and share the clip using the skills you have learned in the course. . Alternatively ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/5094d4039955511f5f640a4805bc1518/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/5094d4039955511f5f640a4805bc1518/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/5094d4039955511f5f640a4805bc1518/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-Panasonic-GH6-Basics-for-Video-A-Beginners-Guide/413721073",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "1h 13m",
+        "total_videos_duration_seconds": 4378,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 15,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/413721073",
+            "title": "Learn Panasonic GH6 Basics for Video - A Beginners Guide"
+          },
+          "teacher": {
+            "href": "/users/8454601",
+            "title": "Greg Hung - Travel Videographer"
+          },
+          "units": {
+            "href": "/classes/413721073/units",
+            "title": "Units for Class: 413721073"
+          },
+          "sessions": {
+            "href": "/classes/413721073/sessions",
+            "title": "Sessions for Class: 413721073"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/413721073/students",
+            "title": "Students for Class: 413721073"
+          },
+          "projects": {
+            "href": "/classes/413721073/projects",
+            "title": "Projects for Class: 413721073"
+          },
+          "reviews": {
+            "href": "/classes/413721073/reviews",
+            "title": "Reviews for Class: 413721073"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 676598,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjc2NTk4In0=",
+            "username": 8454601,
+            "first_name": "Greg",
+            "last_name": "Hung",
+            "full_name": "Greg Hung",
+            "vanity_username": "chicvoyage",
+            "headline": "Travel Videographer",
+            "pic": "https://static.skillshare.com/uploads/users/8454601/user-image-medium.jpg?1474035145",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8454601/user-image-small.jpg?604480330",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8454601/user-image-large.jpg?2058079539",
+            "_links": {
+              "self": {
+                "href": "/users/8454601",
+                "title": "Greg Hung - Travel Videographer"
+              },
+              "my_classes": {
+                "href": "/users/8454601/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8454601/completions",
+                "title": "Completions for User: 8454601"
+              },
+              "discussions": {
+                "href": "/users/8454601/discussions",
+                "title": "Discussions for User: 8454601"
+              },
+              "followers": {
+                "href": "/users/8454601/followers",
+                "title": "Followers for User: 8454601"
+              },
+              "following": {
+                "href": "/users/8454601/following",
+                "title": "Following for User: 8454601"
+              },
+              "notifications": {
+                "href": "/users/8454601/notifications",
+                "title": "Notifications for User: 8454601"
+              },
+              "projects": {
+                "href": "/users/8454601/projects",
+                "title": "Projects for User: 8454601"
+              },
+              "rosters": {
+                "href": "/users/8454601/rosters",
+                "title": "Rosters for User: 8454601"
+              },
+              "userTags": {
+                "href": "/users/8454601/userTags",
+                "title": "UserTags for User: 8454601"
+              },
+              "votes": {
+                "href": "/users/8454601/votes",
+                "title": "Votes for User: 8454601"
+              },
+              "wishlist": {
+                "href": "/users/8454601/wishlist",
+                "title": "Wishlist for User: 8454601"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 623797,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyMzc5NyJ9",
+        "sku": 1661221070,
+        "title": "Crochet your own bag: Learn how to crochet a crossbody bag",
+        "project_title": "In this class you will crochet a crossbody bag.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/345b5c0bcf4a7452572d887c93a58d44/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/345b5c0bcf4a7452572d887c93a58d44/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/345b5c0bcf4a7452572d887c93a58d44/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Crochet-your-own-bag-Learn-how-to-crochet-a-crossbody-bag/1661221070",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "26m",
+        "total_videos_duration_seconds": 1556,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 21,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1661221070",
+            "title": "Crochet your own bag: Learn how to crochet a crossbody bag"
+          },
+          "teacher": {
+            "href": "/users/260129897",
+            "title": "Miriam Masendu - Crochet Designer and Instructor  "
+          },
+          "units": {
+            "href": "/classes/1661221070/units",
+            "title": "Units for Class: 1661221070"
+          },
+          "sessions": {
+            "href": "/classes/1661221070/sessions",
+            "title": "Sessions for Class: 1661221070"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1661221070/students",
+            "title": "Students for Class: 1661221070"
+          },
+          "projects": {
+            "href": "/classes/1661221070/projects",
+            "title": "Projects for Class: 1661221070"
+          },
+          "reviews": {
+            "href": "/classes/1661221070/reviews",
+            "title": "Reviews for Class: 1661221070"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 29353581,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjkzNTM1ODEifQ==",
+            "username": 260129897,
+            "first_name": "Miriam",
+            "last_name": "Masendu",
+            "full_name": "Miriam Masendu",
+            "vanity_username": null,
+            "headline": "Crochet Designer and Instructor  ",
+            "pic": "https://static.skillshare.com/uploads/users/260129897/user-image-medium.jpg?826055605",
+            "pic_sm": "https://static.skillshare.com/uploads/users/260129897/user-image-small.jpg?2062622765",
+            "pic_lg": "https://static.skillshare.com/uploads/users/260129897/user-image-large.jpg?2008637893",
+            "_links": {
+              "self": {
+                "href": "/users/260129897",
+                "title": "Miriam Masendu - Crochet Designer and Instructor  "
+              },
+              "my_classes": {
+                "href": "/users/260129897/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/260129897/completions",
+                "title": "Completions for User: 260129897"
+              },
+              "discussions": {
+                "href": "/users/260129897/discussions",
+                "title": "Discussions for User: 260129897"
+              },
+              "followers": {
+                "href": "/users/260129897/followers",
+                "title": "Followers for User: 260129897"
+              },
+              "following": {
+                "href": "/users/260129897/following",
+                "title": "Following for User: 260129897"
+              },
+              "notifications": {
+                "href": "/users/260129897/notifications",
+                "title": "Notifications for User: 260129897"
+              },
+              "projects": {
+                "href": "/users/260129897/projects",
+                "title": "Projects for User: 260129897"
+              },
+              "rosters": {
+                "href": "/users/260129897/rosters",
+                "title": "Rosters for User: 260129897"
+              },
+              "userTags": {
+                "href": "/users/260129897/userTags",
+                "title": "UserTags for User: 260129897"
+              },
+              "votes": {
+                "href": "/users/260129897/votes",
+                "title": "Votes for User: 260129897"
+              },
+              "wishlist": {
+                "href": "/users/260129897/wishlist",
+                "title": "Wishlist for User: 260129897"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 623806,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyMzgwNiJ9",
+        "sku": 973908563,
+        "title": "Success on Substack: Craft a Subscription Newsletter Worth Reading",
+        "project_title": "Tell us about your newsletter!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/811ca8e6c94bbf223c0771c32da1898f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/811ca8e6c94bbf223c0771c32da1898f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/811ca8e6c94bbf223c0771c32da1898f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Success-on-Substack-Craft-a-Subscription-Newsletter-Worth-Reading/973908563",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 8m",
+        "total_videos_duration_seconds": 4097,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1016,
+        "num_projects": 85,
+        "num_discussions": 8,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "1 month ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/973908563",
+            "title": "Success on Substack: Craft a Subscription Newsletter Worth Reading"
+          },
+          "teacher": {
+            "href": "/users/316466918",
+            "title": "Marlee Grace - Dancer, Writer, Quilter"
+          },
+          "units": {
+            "href": "/classes/973908563/units",
+            "title": "Units for Class: 973908563"
+          },
+          "sessions": {
+            "href": "/classes/973908563/sessions",
+            "title": "Sessions for Class: 973908563"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/973908563/students",
+            "title": "Students for Class: 973908563"
+          },
+          "projects": {
+            "href": "/classes/973908563/projects",
+            "title": "Projects for Class: 973908563"
+          },
+          "reviews": {
+            "href": "/classes/973908563/reviews",
+            "title": "Reviews for Class: 973908563"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 29771467,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjk3NzE0NjcifQ==",
+            "username": 316466918,
+            "first_name": "Marlee",
+            "last_name": "Grace",
+            "full_name": "Marlee Grace",
+            "vanity_username": null,
+            "headline": "Dancer, Writer, Quilter",
+            "pic": "https://static.skillshare.com/uploads/users/316466918/user-image-medium.png?364660167",
+            "pic_sm": "https://static.skillshare.com/uploads/users/316466918/user-image-small.png?562229956",
+            "pic_lg": "https://static.skillshare.com/uploads/users/316466918/user-image-large.png?345037825",
+            "_links": {
+              "self": {
+                "href": "/users/316466918",
+                "title": "Marlee Grace - Dancer, Writer, Quilter"
+              },
+              "my_classes": {
+                "href": "/users/316466918/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/316466918/completions",
+                "title": "Completions for User: 316466918"
+              },
+              "discussions": {
+                "href": "/users/316466918/discussions",
+                "title": "Discussions for User: 316466918"
+              },
+              "followers": {
+                "href": "/users/316466918/followers",
+                "title": "Followers for User: 316466918"
+              },
+              "following": {
+                "href": "/users/316466918/following",
+                "title": "Following for User: 316466918"
+              },
+              "notifications": {
+                "href": "/users/316466918/notifications",
+                "title": "Notifications for User: 316466918"
+              },
+              "projects": {
+                "href": "/users/316466918/projects",
+                "title": "Projects for User: 316466918"
+              },
+              "rosters": {
+                "href": "/users/316466918/rosters",
+                "title": "Rosters for User: 316466918"
+              },
+              "userTags": {
+                "href": "/users/316466918/userTags",
+                "title": "UserTags for User: 316466918"
+              },
+              "votes": {
+                "href": "/users/316466918/votes",
+                "title": "Votes for User: 316466918"
+              },
+              "wishlist": {
+                "href": "/users/316466918/wishlist",
+                "title": "Wishlist for User: 316466918"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 623807,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyMzgwNyJ9",
+        "sku": 2059755589,
+        "title": "Learn Shapes and Animation in PowerPoint: Beginner's Guide",
+        "project_title": "Hello welcome back in this Class Project you have to find ideas of PowerPoint slide you can make that can include Text and shapes or if you don't have any idea Please do the same project i have showed",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f6655b69547f22d5f9004932ea1ef09e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f6655b69547f22d5f9004932ea1ef09e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f6655b69547f22d5f9004932ea1ef09e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-Shapes-and-Animation-in-PowerPoint-Beginners-Guide/2059755589",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 21,
+        "total_videos_duration": "7h 4m",
+        "total_videos_duration_seconds": 25457,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 29,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "3 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2059755589",
+            "title": "Learn Shapes and Animation in PowerPoint: Beginner's Guide"
+          },
+          "teacher": {
+            "href": "/users/475923067",
+            "title": "Rebero I. - Graphics designer"
+          },
+          "units": {
+            "href": "/classes/2059755589/units",
+            "title": "Units for Class: 2059755589"
+          },
+          "sessions": {
+            "href": "/classes/2059755589/sessions",
+            "title": "Sessions for Class: 2059755589"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/2059755589/students",
+            "title": "Students for Class: 2059755589"
+          },
+          "projects": {
+            "href": "/classes/2059755589/projects",
+            "title": "Projects for Class: 2059755589"
+          },
+          "reviews": {
+            "href": "/classes/2059755589/reviews",
+            "title": "Reviews for Class: 2059755589"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21165161,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjExNjUxNjEifQ==",
+            "username": 475923067,
+            "first_name": "Rebero",
+            "last_name": "I.",
+            "full_name": "Rebero I.",
+            "vanity_username": "reberoinnocent",
+            "headline": "Graphics designer",
+            "pic": "https://static.skillshare.com/uploads/users/475923067/user-image-medium.jpg?1326446730",
+            "pic_sm": "https://static.skillshare.com/uploads/users/475923067/user-image-small.jpg?1707452803",
+            "pic_lg": "https://static.skillshare.com/uploads/users/475923067/user-image-large.jpg?1376228092",
+            "_links": {
+              "self": {
+                "href": "/users/475923067",
+                "title": "Rebero I. - Graphics designer"
+              },
+              "my_classes": {
+                "href": "/users/475923067/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/475923067/completions",
+                "title": "Completions for User: 475923067"
+              },
+              "discussions": {
+                "href": "/users/475923067/discussions",
+                "title": "Discussions for User: 475923067"
+              },
+              "followers": {
+                "href": "/users/475923067/followers",
+                "title": "Followers for User: 475923067"
+              },
+              "following": {
+                "href": "/users/475923067/following",
+                "title": "Following for User: 475923067"
+              },
+              "notifications": {
+                "href": "/users/475923067/notifications",
+                "title": "Notifications for User: 475923067"
+              },
+              "projects": {
+                "href": "/users/475923067/projects",
+                "title": "Projects for User: 475923067"
+              },
+              "rosters": {
+                "href": "/users/475923067/rosters",
+                "title": "Rosters for User: 475923067"
+              },
+              "userTags": {
+                "href": "/users/475923067/userTags",
+                "title": "UserTags for User: 475923067"
+              },
+              "votes": {
+                "href": "/users/475923067/votes",
+                "title": "Votes for User: 475923067"
+              },
+              "wishlist": {
+                "href": "/users/475923067/wishlist",
+                "title": "Wishlist for User: 475923067"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

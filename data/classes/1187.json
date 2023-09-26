@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1187",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1186",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1188",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 549897,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0OTg5NyJ9",
+        "sku": 1420486848,
+        "title": "DOODLY Mastery course Unleash your DOODLE ART Creativity",
+        "project_title": "Students need to create a 2. 5-minute doodle video that can be uploaded on youtube.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/78c03c8af243f36b840be9dd0c721077/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/78c03c8af243f36b840be9dd0c721077/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/78c03c8af243f36b840be9dd0c721077/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/DOODLY-Mastery-course-Unleash-your-DOODLE-ART-Creativity/1420486848",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 16,
+        "total_videos_duration": "1h 38m",
+        "total_videos_duration_seconds": 5894,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 342,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1420486848",
+            "title": "DOODLY Mastery course Unleash your DOODLE ART Creativity"
+          },
+          "teacher": {
+            "href": "/users/643069",
+            "title": "VINOD KJ - Teller of tales|Youtuber|Blogger"
+          },
+          "units": {
+            "href": "/classes/1420486848/units",
+            "title": "Units for Class: 1420486848"
+          },
+          "sessions": {
+            "href": "/classes/1420486848/sessions",
+            "title": "Sessions for Class: 1420486848"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1420486848/students",
+            "title": "Students for Class: 1420486848"
+          },
+          "projects": {
+            "href": "/classes/1420486848/projects",
+            "title": "Projects for Class: 1420486848"
+          },
+          "reviews": {
+            "href": "/classes/1420486848/reviews",
+            "title": "Reviews for Class: 1420486848"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 106513,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTA2NTEzIn0=",
+            "username": 643069,
+            "first_name": "VINOD",
+            "last_name": "KJ",
+            "full_name": "VINOD KJ",
+            "vanity_username": "vinodkj",
+            "headline": "Teller of tales|Youtuber|Blogger",
+            "pic": "https://static.skillshare.com/uploads/users/643069/user-image-medium.jpg?1187455647",
+            "pic_sm": "https://static.skillshare.com/uploads/users/643069/user-image-small.jpg?211008748",
+            "pic_lg": "https://static.skillshare.com/uploads/users/643069/user-image-large.jpg?281675613",
+            "_links": {
+              "self": {
+                "href": "/users/643069",
+                "title": "VINOD KJ - Teller of tales|Youtuber|Blogger"
+              },
+              "my_classes": {
+                "href": "/users/643069/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/643069/completions",
+                "title": "Completions for User: 643069"
+              },
+              "discussions": {
+                "href": "/users/643069/discussions",
+                "title": "Discussions for User: 643069"
+              },
+              "followers": {
+                "href": "/users/643069/followers",
+                "title": "Followers for User: 643069"
+              },
+              "following": {
+                "href": "/users/643069/following",
+                "title": "Following for User: 643069"
+              },
+              "notifications": {
+                "href": "/users/643069/notifications",
+                "title": "Notifications for User: 643069"
+              },
+              "projects": {
+                "href": "/users/643069/projects",
+                "title": "Projects for User: 643069"
+              },
+              "rosters": {
+                "href": "/users/643069/rosters",
+                "title": "Rosters for User: 643069"
+              },
+              "userTags": {
+                "href": "/users/643069/userTags",
+                "title": "UserTags for User: 643069"
+              },
+              "votes": {
+                "href": "/users/643069/votes",
+                "title": "Votes for User: 643069"
+              },
+              "wishlist": {
+                "href": "/users/643069/wishlist",
+                "title": "Wishlist for User: 643069"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 549900,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0OTkwMCJ9",
+        "sku": 1918255609,
+        "title": "Watercolour Sea Turtle; Adding Texture and Depth to your Watercolour Paintings",
+        "project_title": "Your project is to have a go at painting your own sea turtle.   You can follow my tutorial step by step to paint this exact turtle (I've included a reference photo and a line drawing in the projects a",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a846c198f5e78ab98446853879b052a5/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a846c198f5e78ab98446853879b052a5/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a846c198f5e78ab98446853879b052a5/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolour-Sea-Turtle-Adding-Texture-and-Depth-to-your-Watercolour-Paintings/1918255609",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 19,
+        "total_videos_duration": "1h 29m",
+        "total_videos_duration_seconds": 5332,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 201,
+        "num_projects": 10,
+        "num_discussions": 10,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 12, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1918255609",
+            "title": "Watercolour Sea Turtle; Adding Texture and Depth to your Watercolour Paintings"
+          },
+          "teacher": {
+            "href": "/users/794434003",
+            "title": "Lindsey Dawn Art - Watercolour Artist"
+          },
+          "units": {
+            "href": "/classes/1918255609/units",
+            "title": "Units for Class: 1918255609"
+          },
+          "sessions": {
+            "href": "/classes/1918255609/sessions",
+            "title": "Sessions for Class: 1918255609"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1918255609/students",
+            "title": "Students for Class: 1918255609"
+          },
+          "projects": {
+            "href": "/classes/1918255609/projects",
+            "title": "Projects for Class: 1918255609"
+          },
+          "reviews": {
+            "href": "/classes/1918255609/reviews",
+            "title": "Reviews for Class: 1918255609"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11457267,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTE0NTcyNjcifQ==",
+            "username": 794434003,
+            "first_name": "Lindsey",
+            "last_name": "Dawn Art",
+            "full_name": "Lindsey Dawn Art",
+            "vanity_username": "lindseydawnart",
+            "headline": "Watercolour Artist",
+            "pic": "https://static.skillshare.com/uploads/users/794434003/user-image-medium.jpg?685130569",
+            "pic_sm": "https://static.skillshare.com/uploads/users/794434003/user-image-small.jpg?647138995",
+            "pic_lg": "https://static.skillshare.com/uploads/users/794434003/user-image-large.jpg?417058574",
+            "_links": {
+              "self": {
+                "href": "/users/794434003",
+                "title": "Lindsey Dawn Art - Watercolour Artist"
+              },
+              "my_classes": {
+                "href": "/users/794434003/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/794434003/completions",
+                "title": "Completions for User: 794434003"
+              },
+              "discussions": {
+                "href": "/users/794434003/discussions",
+                "title": "Discussions for User: 794434003"
+              },
+              "followers": {
+                "href": "/users/794434003/followers",
+                "title": "Followers for User: 794434003"
+              },
+              "following": {
+                "href": "/users/794434003/following",
+                "title": "Following for User: 794434003"
+              },
+              "notifications": {
+                "href": "/users/794434003/notifications",
+                "title": "Notifications for User: 794434003"
+              },
+              "projects": {
+                "href": "/users/794434003/projects",
+                "title": "Projects for User: 794434003"
+              },
+              "rosters": {
+                "href": "/users/794434003/rosters",
+                "title": "Rosters for User: 794434003"
+              },
+              "userTags": {
+                "href": "/users/794434003/userTags",
+                "title": "UserTags for User: 794434003"
+              },
+              "votes": {
+                "href": "/users/794434003/votes",
+                "title": "Votes for User: 794434003"
+              },
+              "wishlist": {
+                "href": "/users/794434003/wishlist",
+                "title": "Wishlist for User: 794434003"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 549914,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0OTkxNCJ9",
+        "sku": 465278444,
+        "title": "Your First 3D Sculpt | Blender 3. 0",
+        "project_title": "Project Description",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/966263841c1022e638c95b0677342adc/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/966263841c1022e638c95b0677342adc/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/966263841c1022e638c95b0677342adc/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Your-First-3D-Sculpt-Blender-3-0/465278444",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "1h 40m",
+        "total_videos_duration_seconds": 5979,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 941,
+        "num_projects": 11,
+        "num_discussions": 7,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 15, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/465278444",
+            "title": "Your First 3D Sculpt | Blender 3. 0"
+          },
+          "teacher": {
+            "href": "/users/825241675",
+            "title": "PIXXO 3D -  3D Character Artist, MoGraph Teacher"
+          },
+          "units": {
+            "href": "/classes/465278444/units",
+            "title": "Units for Class: 465278444"
+          },
+          "sessions": {
+            "href": "/classes/465278444/sessions",
+            "title": "Sessions for Class: 465278444"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/465278444/students",
+            "title": "Students for Class: 465278444"
+          },
+          "projects": {
+            "href": "/classes/465278444/projects",
+            "title": "Projects for Class: 465278444"
+          },
+          "reviews": {
+            "href": "/classes/465278444/reviews",
+            "title": "Reviews for Class: 465278444"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 20463073,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjA0NjMwNzMifQ==",
+            "username": 825241675,
+            "first_name": "PIXXO 3D",
+            "last_name": null,
+            "full_name": "PIXXO 3D",
+            "vanity_username": null,
+            "headline": " 3D Character Artist, MoGraph Teacher",
+            "pic": "https://static.skillshare.com/uploads/users/825241675/user-image-medium.jpg?1252534880",
+            "pic_sm": "https://static.skillshare.com/uploads/users/825241675/user-image-small.jpg?1507245439",
+            "pic_lg": "https://static.skillshare.com/uploads/users/825241675/user-image-large.jpg?414231156",
+            "_links": {
+              "self": {
+                "href": "/users/825241675",
+                "title": "PIXXO 3D -  3D Character Artist, MoGraph Teacher"
+              },
+              "my_classes": {
+                "href": "/users/825241675/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/825241675/completions",
+                "title": "Completions for User: 825241675"
+              },
+              "discussions": {
+                "href": "/users/825241675/discussions",
+                "title": "Discussions for User: 825241675"
+              },
+              "followers": {
+                "href": "/users/825241675/followers",
+                "title": "Followers for User: 825241675"
+              },
+              "following": {
+                "href": "/users/825241675/following",
+                "title": "Following for User: 825241675"
+              },
+              "notifications": {
+                "href": "/users/825241675/notifications",
+                "title": "Notifications for User: 825241675"
+              },
+              "projects": {
+                "href": "/users/825241675/projects",
+                "title": "Projects for User: 825241675"
+              },
+              "rosters": {
+                "href": "/users/825241675/rosters",
+                "title": "Rosters for User: 825241675"
+              },
+              "userTags": {
+                "href": "/users/825241675/userTags",
+                "title": "UserTags for User: 825241675"
+              },
+              "votes": {
+                "href": "/users/825241675/votes",
+                "title": "Votes for User: 825241675"
+              },
+              "wishlist": {
+                "href": "/users/825241675/wishlist",
+                "title": "Wishlist for User: 825241675"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 549940,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0OTk0MCJ9",
+        "sku": 594207068,
+        "title": "How to Start a YouTube Channel in 2023 - Everything You Need to Know",
+        "project_title": "ASSIGNMENT",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/5c90703fa5107f3274adc815c922552f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/5c90703fa5107f3274adc815c922552f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/5c90703fa5107f3274adc815c922552f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Start-a-YouTube-Channel-in-2023-Everything-You-Need-to-Know/594207068",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "30m",
+        "total_videos_duration_seconds": 1818,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 934,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/594207068",
+            "title": "How to Start a YouTube Channel in 2023 - Everything You Need to Know"
+          },
+          "teacher": {
+            "href": "/users/981786582",
+            "title": "Ben Rowlands - Professional Musician and YouTuber"
+          },
+          "units": {
+            "href": "/classes/594207068/units",
+            "title": "Units for Class: 594207068"
+          },
+          "sessions": {
+            "href": "/classes/594207068/sessions",
+            "title": "Sessions for Class: 594207068"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/594207068/students",
+            "title": "Students for Class: 594207068"
+          },
+          "projects": {
+            "href": "/classes/594207068/projects",
+            "title": "Projects for Class: 594207068"
+          },
+          "reviews": {
+            "href": "/classes/594207068/reviews",
+            "title": "Reviews for Class: 594207068"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 12716398,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTI3MTYzOTgifQ==",
+            "username": 981786582,
+            "first_name": "Ben",
+            "last_name": "Rowlands",
+            "full_name": "Ben Rowlands",
+            "vanity_username": null,
+            "headline": "Professional Musician and YouTuber",
+            "pic": "https://static.skillshare.com/uploads/users/981786582/user-image-medium.jpg?1205789527",
+            "pic_sm": "https://static.skillshare.com/uploads/users/981786582/user-image-small.jpg?1985528484",
+            "pic_lg": "https://static.skillshare.com/uploads/users/981786582/user-image-large.jpg?311714442",
+            "_links": {
+              "self": {
+                "href": "/users/981786582",
+                "title": "Ben Rowlands - Professional Musician and YouTuber"
+              },
+              "my_classes": {
+                "href": "/users/981786582/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/981786582/completions",
+                "title": "Completions for User: 981786582"
+              },
+              "discussions": {
+                "href": "/users/981786582/discussions",
+                "title": "Discussions for User: 981786582"
+              },
+              "followers": {
+                "href": "/users/981786582/followers",
+                "title": "Followers for User: 981786582"
+              },
+              "following": {
+                "href": "/users/981786582/following",
+                "title": "Following for User: 981786582"
+              },
+              "notifications": {
+                "href": "/users/981786582/notifications",
+                "title": "Notifications for User: 981786582"
+              },
+              "projects": {
+                "href": "/users/981786582/projects",
+                "title": "Projects for User: 981786582"
+              },
+              "rosters": {
+                "href": "/users/981786582/rosters",
+                "title": "Rosters for User: 981786582"
+              },
+              "userTags": {
+                "href": "/users/981786582/userTags",
+                "title": "UserTags for User: 981786582"
+              },
+              "votes": {
+                "href": "/users/981786582/votes",
+                "title": "Votes for User: 981786582"
+              },
+              "wishlist": {
+                "href": "/users/981786582/wishlist",
+                "title": "Wishlist for User: 981786582"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 549972,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0OTk3MiJ9",
+        "sku": 1574424102,
+        "title": "Creative Poster Design #002",
+        "project_title": "I will ask you to design these three Typography Posters for the Class Project using the Adobe Illustrator techniques learned in Class.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/28e71a6fbafe1546b4ac97e1ef944121/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/28e71a6fbafe1546b4ac97e1ef944121/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/28e71a6fbafe1546b4ac97e1ef944121/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Creative-Poster-Design-002/1574424102",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "1h 6m",
+        "total_videos_duration_seconds": 3989,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 350,
+        "num_projects": 8,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1574424102",
+            "title": "Creative Poster Design #002"
+          },
+          "teacher": {
+            "href": "/users/2965103",
+            "title": "Marcos Silva - Designer & Animator"
+          },
+          "units": {
+            "href": "/classes/1574424102/units",
+            "title": "Units for Class: 1574424102"
+          },
+          "sessions": {
+            "href": "/classes/1574424102/sessions",
+            "title": "Sessions for Class: 1574424102"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1574424102/students",
+            "title": "Students for Class: 1574424102"
+          },
+          "projects": {
+            "href": "/classes/1574424102/projects",
+            "title": "Projects for Class: 1574424102"
+          },
+          "reviews": {
+            "href": "/classes/1574424102/reviews",
+            "title": "Reviews for Class: 1574424102"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 625148,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjI1MTQ4In0=",
+            "username": 2965103,
+            "first_name": "Marcos",
+            "last_name": "Silva",
+            "full_name": "Marcos Silva",
+            "vanity_username": "marcossilva",
+            "headline": "Designer & Animator",
+            "pic": "https://static.skillshare.com/uploads/users/2965103/user-image-medium.jpg?1168077525",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2965103/user-image-small.jpg?1070359124",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2965103/user-image-large.jpg?1550702204",
+            "_links": {
+              "self": {
+                "href": "/users/2965103",
+                "title": "Marcos Silva - Designer & Animator"
+              },
+              "my_classes": {
+                "href": "/users/2965103/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2965103/completions",
+                "title": "Completions for User: 2965103"
+              },
+              "discussions": {
+                "href": "/users/2965103/discussions",
+                "title": "Discussions for User: 2965103"
+              },
+              "followers": {
+                "href": "/users/2965103/followers",
+                "title": "Followers for User: 2965103"
+              },
+              "following": {
+                "href": "/users/2965103/following",
+                "title": "Following for User: 2965103"
+              },
+              "notifications": {
+                "href": "/users/2965103/notifications",
+                "title": "Notifications for User: 2965103"
+              },
+              "projects": {
+                "href": "/users/2965103/projects",
+                "title": "Projects for User: 2965103"
+              },
+              "rosters": {
+                "href": "/users/2965103/rosters",
+                "title": "Rosters for User: 2965103"
+              },
+              "userTags": {
+                "href": "/users/2965103/userTags",
+                "title": "UserTags for User: 2965103"
+              },
+              "votes": {
+                "href": "/users/2965103/votes",
+                "title": "Votes for User: 2965103"
+              },
+              "wishlist": {
+                "href": "/users/2965103/wishlist",
+                "title": "Wishlist for User: 2965103"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550067,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDA2NyJ9",
+        "sku": 1283899059,
+        "title": "Learn How To Mix & Master Music: Step by step in depth audio mixing guide",
+        "project_title": "For this project your going to be mixing the song along beside me as you watch the video so that you can have practice and understand what to do on your own.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c6c493a2c28b191e7a5af52eb4cb0c57/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c6c493a2c28b191e7a5af52eb4cb0c57/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c6c493a2c28b191e7a5af52eb4cb0c57/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-How-To-Mix-Master-Music-Step-by-step-in-depth-audio-mixing-guide/1283899059",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "2h 2m",
+        "total_videos_duration_seconds": 7334,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 210,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1283899059",
+            "title": "Learn How To Mix & Master Music: Step by step in depth audio mixing guide"
+          },
+          "teacher": {
+            "href": "/users/726433165",
+            "title": "Robert White - Artist, Producer, Audio Engineer"
+          },
+          "units": {
+            "href": "/classes/1283899059/units",
+            "title": "Units for Class: 1283899059"
+          },
+          "sessions": {
+            "href": "/classes/1283899059/sessions",
+            "title": "Sessions for Class: 1283899059"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1283899059/students",
+            "title": "Students for Class: 1283899059"
+          },
+          "projects": {
+            "href": "/classes/1283899059/projects",
+            "title": "Projects for Class: 1283899059"
+          },
+          "reviews": {
+            "href": "/classes/1283899059/reviews",
+            "title": "Reviews for Class: 1283899059"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23816190,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjM4MTYxOTAifQ==",
+            "username": 726433165,
+            "first_name": "Robert",
+            "last_name": "White",
+            "full_name": "Robert White",
+            "vanity_username": "robertwhite",
+            "headline": "Artist, Producer, Audio Engineer",
+            "pic": "https://static.skillshare.com/uploads/users/726433165/user-image-medium.jpg?417321119",
+            "pic_sm": "https://static.skillshare.com/uploads/users/726433165/user-image-small.jpg?1197439693",
+            "pic_lg": "https://static.skillshare.com/uploads/users/726433165/user-image-large.jpg?678382047",
+            "_links": {
+              "self": {
+                "href": "/users/726433165",
+                "title": "Robert White - Artist, Producer, Audio Engineer"
+              },
+              "my_classes": {
+                "href": "/users/726433165/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/726433165/completions",
+                "title": "Completions for User: 726433165"
+              },
+              "discussions": {
+                "href": "/users/726433165/discussions",
+                "title": "Discussions for User: 726433165"
+              },
+              "followers": {
+                "href": "/users/726433165/followers",
+                "title": "Followers for User: 726433165"
+              },
+              "following": {
+                "href": "/users/726433165/following",
+                "title": "Following for User: 726433165"
+              },
+              "notifications": {
+                "href": "/users/726433165/notifications",
+                "title": "Notifications for User: 726433165"
+              },
+              "projects": {
+                "href": "/users/726433165/projects",
+                "title": "Projects for User: 726433165"
+              },
+              "rosters": {
+                "href": "/users/726433165/rosters",
+                "title": "Rosters for User: 726433165"
+              },
+              "userTags": {
+                "href": "/users/726433165/userTags",
+                "title": "UserTags for User: 726433165"
+              },
+              "votes": {
+                "href": "/users/726433165/votes",
+                "title": "Votes for User: 726433165"
+              },
+              "wishlist": {
+                "href": "/users/726433165/wishlist",
+                "title": "Wishlist for User: 726433165"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550110,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDExMCJ9",
+        "sku": 1079274577,
+        "title": "How to talk to ANYONE with 0 FEAR.",
+        "project_title": "Once and for all we are going to overcome that voice inside you preventing you to approach people. For feedback, make a post about your experiences starting these approaches and tell me what went well",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/7dcbd7de271f171d79ea5f9522bf76cd/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/7dcbd7de271f171d79ea5f9522bf76cd/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/7dcbd7de271f171d79ea5f9522bf76cd/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-talk-to-ANYONE-with-0-FEAR/1079274577",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "17m",
+        "total_videos_duration_seconds": 1006,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 335,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1079274577",
+            "title": "How to talk to ANYONE with 0 FEAR."
+          },
+          "teacher": {
+            "href": "/users/375001043",
+            "title": "Hasan Siraj - Self-Improvement Coach"
+          },
+          "units": {
+            "href": "/classes/1079274577/units",
+            "title": "Units for Class: 1079274577"
+          },
+          "sessions": {
+            "href": "/classes/1079274577/sessions",
+            "title": "Sessions for Class: 1079274577"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1079274577/students",
+            "title": "Students for Class: 1079274577"
+          },
+          "projects": {
+            "href": "/classes/1079274577/projects",
+            "title": "Projects for Class: 1079274577"
+          },
+          "reviews": {
+            "href": "/classes/1079274577/reviews",
+            "title": "Reviews for Class: 1079274577"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23776854,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjM3NzY4NTQifQ==",
+            "username": 375001043,
+            "first_name": "Hasan",
+            "last_name": "Siraj",
+            "full_name": "Hasan Siraj",
+            "vanity_username": "hasaaan",
+            "headline": "Self-Improvement Coach",
+            "pic": "https://static.skillshare.com/uploads/users/375001043/user-image-medium.png?1697350165",
+            "pic_sm": "https://static.skillshare.com/uploads/users/375001043/user-image-small.png?1124714956",
+            "pic_lg": "https://static.skillshare.com/uploads/users/375001043/user-image-large.png?1538754133",
+            "_links": {
+              "self": {
+                "href": "/users/375001043",
+                "title": "Hasan Siraj - Self-Improvement Coach"
+              },
+              "my_classes": {
+                "href": "/users/375001043/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/375001043/completions",
+                "title": "Completions for User: 375001043"
+              },
+              "discussions": {
+                "href": "/users/375001043/discussions",
+                "title": "Discussions for User: 375001043"
+              },
+              "followers": {
+                "href": "/users/375001043/followers",
+                "title": "Followers for User: 375001043"
+              },
+              "following": {
+                "href": "/users/375001043/following",
+                "title": "Following for User: 375001043"
+              },
+              "notifications": {
+                "href": "/users/375001043/notifications",
+                "title": "Notifications for User: 375001043"
+              },
+              "projects": {
+                "href": "/users/375001043/projects",
+                "title": "Projects for User: 375001043"
+              },
+              "rosters": {
+                "href": "/users/375001043/rosters",
+                "title": "Rosters for User: 375001043"
+              },
+              "userTags": {
+                "href": "/users/375001043/userTags",
+                "title": "UserTags for User: 375001043"
+              },
+              "votes": {
+                "href": "/users/375001043/votes",
+                "title": "Votes for User: 375001043"
+              },
+              "wishlist": {
+                "href": "/users/375001043/wishlist",
+                "title": "Wishlist for User: 375001043"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550121,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDEyMSJ9",
+        "sku": 1304604795,
+        "title": "MBA : Retail management , Merchandising and E-commerce",
+        "project_title": "I am attaching all the assignments and exercises that you must download and finish along with the course to test your knowledge and learning.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ae97584afe1305fc0988d8b9e5a604b3/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ae97584afe1305fc0988d8b9e5a604b3/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ae97584afe1305fc0988d8b9e5a604b3/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/MBA-Retail-management-Merchandising-and-E-commerce/1304604795",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 51,
+        "total_videos_duration": "6h 24m",
+        "total_videos_duration_seconds": 23048,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 350,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 24, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1304604795",
+            "title": "MBA : Retail management , Merchandising and E-commerce"
+          },
+          "teacher": {
+            "href": "/users/1559900",
+            "title": "Navdeep Yadav - CEO Float ( MBA - IBS Hyderabad )"
+          },
+          "units": {
+            "href": "/classes/1304604795/units",
+            "title": "Units for Class: 1304604795"
+          },
+          "sessions": {
+            "href": "/classes/1304604795/sessions",
+            "title": "Sessions for Class: 1304604795"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1304604795/students",
+            "title": "Students for Class: 1304604795"
+          },
+          "projects": {
+            "href": "/classes/1304604795/projects",
+            "title": "Projects for Class: 1304604795"
+          },
+          "reviews": {
+            "href": "/classes/1304604795/reviews",
+            "title": "Reviews for Class: 1304604795"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7582168,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzU4MjE2OCJ9",
+            "username": 1559900,
+            "first_name": "Navdeep",
+            "last_name": "Yadav",
+            "full_name": "Navdeep Yadav",
+            "vanity_username": "navdeep_yadav",
+            "headline": "CEO Float ( MBA - IBS Hyderabad )",
+            "pic": "https://static.skillshare.com/uploads/users/1559900/user-image-medium.jpg?757475095",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1559900/user-image-small.jpg?230305424",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1559900/user-image-large.jpg?584460653",
+            "_links": {
+              "self": {
+                "href": "/users/1559900",
+                "title": "Navdeep Yadav - CEO Float ( MBA - IBS Hyderabad )"
+              },
+              "my_classes": {
+                "href": "/users/1559900/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1559900/completions",
+                "title": "Completions for User: 1559900"
+              },
+              "discussions": {
+                "href": "/users/1559900/discussions",
+                "title": "Discussions for User: 1559900"
+              },
+              "followers": {
+                "href": "/users/1559900/followers",
+                "title": "Followers for User: 1559900"
+              },
+              "following": {
+                "href": "/users/1559900/following",
+                "title": "Following for User: 1559900"
+              },
+              "notifications": {
+                "href": "/users/1559900/notifications",
+                "title": "Notifications for User: 1559900"
+              },
+              "projects": {
+                "href": "/users/1559900/projects",
+                "title": "Projects for User: 1559900"
+              },
+              "rosters": {
+                "href": "/users/1559900/rosters",
+                "title": "Rosters for User: 1559900"
+              },
+              "userTags": {
+                "href": "/users/1559900/userTags",
+                "title": "UserTags for User: 1559900"
+              },
+              "votes": {
+                "href": "/users/1559900/votes",
+                "title": "Votes for User: 1559900"
+              },
+              "wishlist": {
+                "href": "/users/1559900/wishlist",
+                "title": "Wishlist for User: 1559900"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550124,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDEyNCJ9",
+        "sku": 2098301237,
+        "title": "Problem Solving Skills !",
+        "project_title": "1. Write down 5 Important Problem-solving techniques you use in your personal lives?",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6290764789001/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6290764789001/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6290764789001/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Problem-Solving-Skills/2098301237",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "41m",
+        "total_videos_duration_seconds": 2445,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 130,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2098301237",
+            "title": "Problem Solving Skills !"
+          },
+          "teacher": {
+            "href": "/users/69215284",
+            "title": "Satish Kumar Sahani - Learn to Earn and Earn to Learn"
+          },
+          "units": {
+            "href": "/classes/2098301237/units",
+            "title": "Units for Class: 2098301237"
+          },
+          "sessions": {
+            "href": "/classes/2098301237/sessions",
+            "title": "Sessions for Class: 2098301237"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/2098301237/students",
+            "title": "Students for Class: 2098301237"
+          },
+          "projects": {
+            "href": "/classes/2098301237/projects",
+            "title": "Projects for Class: 2098301237"
+          },
+          "reviews": {
+            "href": "/classes/2098301237/reviews",
+            "title": "Reviews for Class: 2098301237"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 14365091,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTQzNjUwOTEifQ==",
+            "username": 69215284,
+            "first_name": "Satish Kumar",
+            "last_name": "Sahani",
+            "full_name": "Satish Kumar Sahani",
+            "vanity_username": "laeacademy",
+            "headline": "Learn to Earn and Earn to Learn",
+            "pic": "https://static.skillshare.com/uploads/users/69215284/user-image-medium.jpg?782945405",
+            "pic_sm": "https://static.skillshare.com/uploads/users/69215284/user-image-small.jpg?828250389",
+            "pic_lg": "https://static.skillshare.com/uploads/users/69215284/user-image-large.jpg?784475245",
+            "_links": {
+              "self": {
+                "href": "/users/69215284",
+                "title": "Satish Kumar Sahani - Learn to Earn and Earn to Learn"
+              },
+              "my_classes": {
+                "href": "/users/69215284/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/69215284/completions",
+                "title": "Completions for User: 69215284"
+              },
+              "discussions": {
+                "href": "/users/69215284/discussions",
+                "title": "Discussions for User: 69215284"
+              },
+              "followers": {
+                "href": "/users/69215284/followers",
+                "title": "Followers for User: 69215284"
+              },
+              "following": {
+                "href": "/users/69215284/following",
+                "title": "Following for User: 69215284"
+              },
+              "notifications": {
+                "href": "/users/69215284/notifications",
+                "title": "Notifications for User: 69215284"
+              },
+              "projects": {
+                "href": "/users/69215284/projects",
+                "title": "Projects for User: 69215284"
+              },
+              "rosters": {
+                "href": "/users/69215284/rosters",
+                "title": "Rosters for User: 69215284"
+              },
+              "userTags": {
+                "href": "/users/69215284/userTags",
+                "title": "UserTags for User: 69215284"
+              },
+              "votes": {
+                "href": "/users/69215284/votes",
+                "title": "Votes for User: 69215284"
+              },
+              "wishlist": {
+                "href": "/users/69215284/wishlist",
+                "title": "Wishlist for User: 69215284"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 550129,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1MDEyOSJ9",
+        "sku": 262443906,
+        "title": "How To Buy & Sell NFTs On The Largest Marketplace Without Paying Fees",
+        "project_title": "Learn how to get started buying and selling NFTs on OpenSea in less than 60 minutes.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/cfeae18cf571f2937ba0c5886ca7c0ae/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/cfeae18cf571f2937ba0c5886ca7c0ae/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/cfeae18cf571f2937ba0c5886ca7c0ae/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Buy-Sell-NFTs-On-The-Largest-Marketplace-Without-Paying-Fees/262443906",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "59m",
+        "total_videos_duration_seconds": 3569,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 269,
+        "num_projects": 1,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/262443906",
+            "title": "How To Buy & Sell NFTs On The Largest Marketplace Without Paying Fees"
+          },
+          "teacher": {
+            "href": "/users/9904359",
+            "title": "Mike Holp - Digital Wizard"
+          },
+          "units": {
+            "href": "/classes/262443906/units",
+            "title": "Units for Class: 262443906"
+          },
+          "sessions": {
+            "href": "/classes/262443906/sessions",
+            "title": "Sessions for Class: 262443906"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/262443906/students",
+            "title": "Students for Class: 262443906"
+          },
+          "projects": {
+            "href": "/classes/262443906/projects",
+            "title": "Projects for Class: 262443906"
+          },
+          "reviews": {
+            "href": "/classes/262443906/reviews",
+            "title": "Reviews for Class: 262443906"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4665275,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDY2NTI3NSJ9",
+            "username": 9904359,
+            "first_name": "Mike",
+            "last_name": "Holp",
+            "full_name": "Mike Holp",
+            "vanity_username": "mikeholp",
+            "headline": "Digital Wizard",
+            "pic": "https://static.skillshare.com/uploads/users/9904359/user-image-medium.png?1428432452",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9904359/user-image-small.png?1129575342",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9904359/user-image-large.png?162673496",
+            "_links": {
+              "self": {
+                "href": "/users/9904359",
+                "title": "Mike Holp - Digital Wizard"
+              },
+              "my_classes": {
+                "href": "/users/9904359/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9904359/completions",
+                "title": "Completions for User: 9904359"
+              },
+              "discussions": {
+                "href": "/users/9904359/discussions",
+                "title": "Discussions for User: 9904359"
+              },
+              "followers": {
+                "href": "/users/9904359/followers",
+                "title": "Followers for User: 9904359"
+              },
+              "following": {
+                "href": "/users/9904359/following",
+                "title": "Following for User: 9904359"
+              },
+              "notifications": {
+                "href": "/users/9904359/notifications",
+                "title": "Notifications for User: 9904359"
+              },
+              "projects": {
+                "href": "/users/9904359/projects",
+                "title": "Projects for User: 9904359"
+              },
+              "rosters": {
+                "href": "/users/9904359/rosters",
+                "title": "Rosters for User: 9904359"
+              },
+              "userTags": {
+                "href": "/users/9904359/userTags",
+                "title": "UserTags for User: 9904359"
+              },
+              "votes": {
+                "href": "/users/9904359/votes",
+                "title": "Votes for User: 9904359"
+              },
+              "wishlist": {
+                "href": "/users/9904359/wishlist",
+                "title": "Wishlist for User: 9904359"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

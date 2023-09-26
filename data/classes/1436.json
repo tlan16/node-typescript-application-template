@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1436",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1435",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1437",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 575052,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NTA1MiJ9",
+        "sku": 1108961676,
+        "title": "How to handle chaos",
+        "project_title": "For this project can you please:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/600fbadfb004c3471805a390137cd6a4/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/600fbadfb004c3471805a390137cd6a4/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/600fbadfb004c3471805a390137cd6a4/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-handle-chaos/1108961676",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "37m",
+        "total_videos_duration_seconds": 2236,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 4,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 15, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1108961676",
+            "title": "How to handle chaos"
+          },
+          "teacher": {
+            "href": "/users/138299887",
+            "title": "Malk"
+          },
+          "units": {
+            "href": "/classes/1108961676/units",
+            "title": "Units for Class: 1108961676"
+          },
+          "sessions": {
+            "href": "/classes/1108961676/sessions",
+            "title": "Sessions for Class: 1108961676"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1108961676/students",
+            "title": "Students for Class: 1108961676"
+          },
+          "projects": {
+            "href": "/classes/1108961676/projects",
+            "title": "Projects for Class: 1108961676"
+          },
+          "reviews": {
+            "href": "/classes/1108961676/reviews",
+            "title": "Reviews for Class: 1108961676"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 22046501,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjIwNDY1MDEifQ==",
+            "username": 138299887,
+            "first_name": "Malk",
+            "last_name": null,
+            "full_name": "Malk",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/138299887/user-image-medium.jpg?1409454631",
+            "pic_sm": "https://static.skillshare.com/uploads/users/138299887/user-image-small.jpg?633278892",
+            "pic_lg": "https://static.skillshare.com/uploads/users/138299887/user-image-large.jpg?1429288179",
+            "_links": {
+              "self": {
+                "href": "/users/138299887",
+                "title": "Malk"
+              },
+              "my_classes": {
+                "href": "/users/138299887/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/138299887/completions",
+                "title": "Completions for User: 138299887"
+              },
+              "discussions": {
+                "href": "/users/138299887/discussions",
+                "title": "Discussions for User: 138299887"
+              },
+              "followers": {
+                "href": "/users/138299887/followers",
+                "title": "Followers for User: 138299887"
+              },
+              "following": {
+                "href": "/users/138299887/following",
+                "title": "Following for User: 138299887"
+              },
+              "notifications": {
+                "href": "/users/138299887/notifications",
+                "title": "Notifications for User: 138299887"
+              },
+              "projects": {
+                "href": "/users/138299887/projects",
+                "title": "Projects for User: 138299887"
+              },
+              "rosters": {
+                "href": "/users/138299887/rosters",
+                "title": "Rosters for User: 138299887"
+              },
+              "userTags": {
+                "href": "/users/138299887/userTags",
+                "title": "UserTags for User: 138299887"
+              },
+              "votes": {
+                "href": "/users/138299887/votes",
+                "title": "Votes for User: 138299887"
+              },
+              "wishlist": {
+                "href": "/users/138299887/wishlist",
+                "title": "Wishlist for User: 138299887"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 575055,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NTA1NSJ9",
+        "sku": 1828372315,
+        "title": "Letter Writing - For Your Self-Care",
+        "project_title": "Class Project: You will beautify a card or letter writing paper and an envelope in your own unique style and colors. Then you will write yourself a love letter or love message, with words that you nee",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/2d8d5d553404d4b00df4507f4b081758/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/2d8d5d553404d4b00df4507f4b081758/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/2d8d5d553404d4b00df4507f4b081758/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Letter-Writing-For-Your-Self-Care/1828372315",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "45m",
+        "total_videos_duration_seconds": 2692,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 45,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 15, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1828372315",
+            "title": "Letter Writing - For Your Self-Care"
+          },
+          "teacher": {
+            "href": "/users/345865560",
+            "title": "Agnes De Bezenac - Art and Self-Care"
+          },
+          "units": {
+            "href": "/classes/1828372315/units",
+            "title": "Units for Class: 1828372315"
+          },
+          "sessions": {
+            "href": "/classes/1828372315/sessions",
+            "title": "Sessions for Class: 1828372315"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1828372315/students",
+            "title": "Students for Class: 1828372315"
+          },
+          "projects": {
+            "href": "/classes/1828372315/projects",
+            "title": "Projects for Class: 1828372315"
+          },
+          "reviews": {
+            "href": "/classes/1828372315/reviews",
+            "title": "Reviews for Class: 1828372315"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19631404,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTk2MzE0MDQifQ==",
+            "username": 345865560,
+            "first_name": "Agnes",
+            "last_name": "De Bezenac",
+            "full_name": "Agnes De Bezenac",
+            "vanity_username": "debezenac",
+            "headline": "Art and Self-Care",
+            "pic": "https://static.skillshare.com/uploads/users/345865560/user-image-medium.jpg?1645907271",
+            "pic_sm": "https://static.skillshare.com/uploads/users/345865560/user-image-small.jpg?1049833936",
+            "pic_lg": "https://static.skillshare.com/uploads/users/345865560/user-image-large.jpg?695134110",
+            "_links": {
+              "self": {
+                "href": "/users/345865560",
+                "title": "Agnes De Bezenac - Art and Self-Care"
+              },
+              "my_classes": {
+                "href": "/users/345865560/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/345865560/completions",
+                "title": "Completions for User: 345865560"
+              },
+              "discussions": {
+                "href": "/users/345865560/discussions",
+                "title": "Discussions for User: 345865560"
+              },
+              "followers": {
+                "href": "/users/345865560/followers",
+                "title": "Followers for User: 345865560"
+              },
+              "following": {
+                "href": "/users/345865560/following",
+                "title": "Following for User: 345865560"
+              },
+              "notifications": {
+                "href": "/users/345865560/notifications",
+                "title": "Notifications for User: 345865560"
+              },
+              "projects": {
+                "href": "/users/345865560/projects",
+                "title": "Projects for User: 345865560"
+              },
+              "rosters": {
+                "href": "/users/345865560/rosters",
+                "title": "Rosters for User: 345865560"
+              },
+              "userTags": {
+                "href": "/users/345865560/userTags",
+                "title": "UserTags for User: 345865560"
+              },
+              "votes": {
+                "href": "/users/345865560/votes",
+                "title": "Votes for User: 345865560"
+              },
+              "wishlist": {
+                "href": "/users/345865560/wishlist",
+                "title": "Wishlist for User: 345865560"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 575056,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NTA1NiJ9",
+        "sku": 1714424776,
+        "title": "Ukrainian Folklore in Watercolor Style in Procreate - How to Illustrate a Fairytale",
+        "project_title": "Assignment:You class project will be next:paint love story illustration from the fairytale, using the tips and brushes that I gave you today.\nMaterials:\nI will use Procreate for this class with IPad a",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/24e83f8d48c70bcb6734b5189187e26e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/24e83f8d48c70bcb6734b5189187e26e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/24e83f8d48c70bcb6734b5189187e26e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Ukrainian-Folklore-in-Watercolor-Style-in-Procreate-How-to-Illustrate-a-Fairytale/1714424776",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "1h 5m",
+        "total_videos_duration_seconds": 3897,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 66,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1714424776",
+            "title": "Ukrainian Folklore in Watercolor Style in Procreate - How to Illustrate a Fairytale"
+          },
+          "teacher": {
+            "href": "/users/4332344",
+            "title": "Inga Yoon - Digital illustrator and teacher"
+          },
+          "units": {
+            "href": "/classes/1714424776/units",
+            "title": "Units for Class: 1714424776"
+          },
+          "sessions": {
+            "href": "/classes/1714424776/sessions",
+            "title": "Sessions for Class: 1714424776"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1714424776/students",
+            "title": "Students for Class: 1714424776"
+          },
+          "projects": {
+            "href": "/classes/1714424776/projects",
+            "title": "Projects for Class: 1714424776"
+          },
+          "reviews": {
+            "href": "/classes/1714424776/reviews",
+            "title": "Reviews for Class: 1714424776"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5830850,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTgzMDg1MCJ9",
+            "username": 4332344,
+            "first_name": "Inga",
+            "last_name": "Yoon",
+            "full_name": "Inga Yoon",
+            "vanity_username": "boostudio",
+            "headline": "Digital illustrator and teacher",
+            "pic": "https://static.skillshare.com/uploads/users/4332344/user-image-medium.jpg?327907131",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4332344/user-image-small.jpg?605342192",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4332344/user-image-large.jpg?250087107",
+            "_links": {
+              "self": {
+                "href": "/users/4332344",
+                "title": "Inga Yoon - Digital illustrator and teacher"
+              },
+              "my_classes": {
+                "href": "/users/4332344/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4332344/completions",
+                "title": "Completions for User: 4332344"
+              },
+              "discussions": {
+                "href": "/users/4332344/discussions",
+                "title": "Discussions for User: 4332344"
+              },
+              "followers": {
+                "href": "/users/4332344/followers",
+                "title": "Followers for User: 4332344"
+              },
+              "following": {
+                "href": "/users/4332344/following",
+                "title": "Following for User: 4332344"
+              },
+              "notifications": {
+                "href": "/users/4332344/notifications",
+                "title": "Notifications for User: 4332344"
+              },
+              "projects": {
+                "href": "/users/4332344/projects",
+                "title": "Projects for User: 4332344"
+              },
+              "rosters": {
+                "href": "/users/4332344/rosters",
+                "title": "Rosters for User: 4332344"
+              },
+              "userTags": {
+                "href": "/users/4332344/userTags",
+                "title": "UserTags for User: 4332344"
+              },
+              "votes": {
+                "href": "/users/4332344/votes",
+                "title": "Votes for User: 4332344"
+              },
+              "wishlist": {
+                "href": "/users/4332344/wishlist",
+                "title": "Wishlist for User: 4332344"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 575063,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NTA2MyJ9",
+        "sku": 2098240726,
+        "title": "The Ultimate Beat Mixing Masterclass : Beginner to Advanced - PART 3",
+        "project_title": "1. Create a drum loop with a kick, clap, snare and high hats",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/cc02efd846089ccbbe46c6a30cdd0b2c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/cc02efd846089ccbbe46c6a30cdd0b2c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/cc02efd846089ccbbe46c6a30cdd0b2c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-Ultimate-Beat-Mixing-Masterclass-Beginner-to-Advanced-PART-3/2098240726",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "46m",
+        "total_videos_duration_seconds": 2750,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 13,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 31, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2098240726",
+            "title": "The Ultimate Beat Mixing Masterclass : Beginner to Advanced - PART 3"
+          },
+          "teacher": {
+            "href": "/users/976918871",
+            "title": "Vishal Vira - Music Producer, Investor & Entrepreneur"
+          },
+          "units": {
+            "href": "/classes/2098240726/units",
+            "title": "Units for Class: 2098240726"
+          },
+          "sessions": {
+            "href": "/classes/2098240726/sessions",
+            "title": "Sessions for Class: 2098240726"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2098240726/students",
+            "title": "Students for Class: 2098240726"
+          },
+          "projects": {
+            "href": "/classes/2098240726/projects",
+            "title": "Projects for Class: 2098240726"
+          },
+          "reviews": {
+            "href": "/classes/2098240726/reviews",
+            "title": "Reviews for Class: 2098240726"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 20894848,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjA4OTQ4NDgifQ==",
+            "username": 976918871,
+            "first_name": "Vishal",
+            "last_name": "Vira",
+            "full_name": "Vishal Vira",
+            "vanity_username": null,
+            "headline": "Music Producer, Investor & Entrepreneur",
+            "pic": "https://static.skillshare.com/uploads/users/976918871/user-image-medium.jpg?1646488276",
+            "pic_sm": "https://static.skillshare.com/uploads/users/976918871/user-image-small.jpg?1306385102",
+            "pic_lg": "https://static.skillshare.com/uploads/users/976918871/user-image-large.jpg?1904812503",
+            "_links": {
+              "self": {
+                "href": "/users/976918871",
+                "title": "Vishal Vira - Music Producer, Investor & Entrepreneur"
+              },
+              "my_classes": {
+                "href": "/users/976918871/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/976918871/completions",
+                "title": "Completions for User: 976918871"
+              },
+              "discussions": {
+                "href": "/users/976918871/discussions",
+                "title": "Discussions for User: 976918871"
+              },
+              "followers": {
+                "href": "/users/976918871/followers",
+                "title": "Followers for User: 976918871"
+              },
+              "following": {
+                "href": "/users/976918871/following",
+                "title": "Following for User: 976918871"
+              },
+              "notifications": {
+                "href": "/users/976918871/notifications",
+                "title": "Notifications for User: 976918871"
+              },
+              "projects": {
+                "href": "/users/976918871/projects",
+                "title": "Projects for User: 976918871"
+              },
+              "rosters": {
+                "href": "/users/976918871/rosters",
+                "title": "Rosters for User: 976918871"
+              },
+              "userTags": {
+                "href": "/users/976918871/userTags",
+                "title": "UserTags for User: 976918871"
+              },
+              "votes": {
+                "href": "/users/976918871/votes",
+                "title": "Votes for User: 976918871"
+              },
+              "wishlist": {
+                "href": "/users/976918871/wishlist",
+                "title": "Wishlist for User: 976918871"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 575086,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NTA4NiJ9",
+        "sku": 826889905,
+        "title": "Gouache for Beginners:  Paint beautiful Sunset Landscapes",
+        "project_title": "Join me and paint one of the three paintings and share it in the projects gallery.  Of course you can do your own version if you want!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a3339c566a3d5f969e3330d2a4dd3f0e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a3339c566a3d5f969e3330d2a4dd3f0e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a3339c566a3d5f969e3330d2a4dd3f0e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Gouache-for-Beginners-Paint-beautiful-Sunset-Landscapes/826889905",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "44m",
+        "total_videos_duration_seconds": 2625,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 80,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 18, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/826889905",
+            "title": "Gouache for Beginners:  Paint beautiful Sunset Landscapes"
+          },
+          "teacher": {
+            "href": "/users/448884377",
+            "title": "Viola Maria - Artist "
+          },
+          "units": {
+            "href": "/classes/826889905/units",
+            "title": "Units for Class: 826889905"
+          },
+          "sessions": {
+            "href": "/classes/826889905/sessions",
+            "title": "Sessions for Class: 826889905"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/826889905/students",
+            "title": "Students for Class: 826889905"
+          },
+          "projects": {
+            "href": "/classes/826889905/projects",
+            "title": "Projects for Class: 826889905"
+          },
+          "reviews": {
+            "href": "/classes/826889905/reviews",
+            "title": "Reviews for Class: 826889905"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11817282,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTE4MTcyODIifQ==",
+            "username": 448884377,
+            "first_name": "Viola",
+            "last_name": "Maria",
+            "full_name": "Viola Maria",
+            "vanity_username": null,
+            "headline": "Artist ",
+            "pic": "https://static.skillshare.com/uploads/users/448884377/user-image-medium.jpg?1067894363",
+            "pic_sm": "https://static.skillshare.com/uploads/users/448884377/user-image-small.jpg?412885505",
+            "pic_lg": "https://static.skillshare.com/uploads/users/448884377/user-image-large.jpg?625807825",
+            "_links": {
+              "self": {
+                "href": "/users/448884377",
+                "title": "Viola Maria - Artist "
+              },
+              "my_classes": {
+                "href": "/users/448884377/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/448884377/completions",
+                "title": "Completions for User: 448884377"
+              },
+              "discussions": {
+                "href": "/users/448884377/discussions",
+                "title": "Discussions for User: 448884377"
+              },
+              "followers": {
+                "href": "/users/448884377/followers",
+                "title": "Followers for User: 448884377"
+              },
+              "following": {
+                "href": "/users/448884377/following",
+                "title": "Following for User: 448884377"
+              },
+              "notifications": {
+                "href": "/users/448884377/notifications",
+                "title": "Notifications for User: 448884377"
+              },
+              "projects": {
+                "href": "/users/448884377/projects",
+                "title": "Projects for User: 448884377"
+              },
+              "rosters": {
+                "href": "/users/448884377/rosters",
+                "title": "Rosters for User: 448884377"
+              },
+              "userTags": {
+                "href": "/users/448884377/userTags",
+                "title": "UserTags for User: 448884377"
+              },
+              "votes": {
+                "href": "/users/448884377/votes",
+                "title": "Votes for User: 448884377"
+              },
+              "wishlist": {
+                "href": "/users/448884377/wishlist",
+                "title": "Wishlist for User: 448884377"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 575100,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NTEwMCJ9",
+        "sku": 672297657,
+        "title": "How to Draw a Goblin - Inking and Watercolor it with Daniel Smith Paints",
+        "project_title": "in the class exercise I included my ruff sketches from the drawing exercise for reference - but I always encourage you to draw and imagine your own.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6306213085112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6306213085112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6306213085112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Draw-a-Goblin-Inking-and-Watercolor-it-with-Daniel-Smith-Paints/672297657",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "30m",
+        "total_videos_duration_seconds": 1812,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 21,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 23, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/672297657",
+            "title": "How to Draw a Goblin - Inking and Watercolor it with Daniel Smith Paints"
+          },
+          "teacher": {
+            "href": "/users/886516649",
+            "title": "Ipaintcreatures . poet painter illustrator and storyteller - drawing and painting from the poetic imagination "
+          },
+          "units": {
+            "href": "/classes/672297657/units",
+            "title": "Units for Class: 672297657"
+          },
+          "sessions": {
+            "href": "/classes/672297657/sessions",
+            "title": "Sessions for Class: 672297657"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/672297657/students",
+            "title": "Students for Class: 672297657"
+          },
+          "projects": {
+            "href": "/classes/672297657/projects",
+            "title": "Projects for Class: 672297657"
+          },
+          "reviews": {
+            "href": "/classes/672297657/reviews",
+            "title": "Reviews for Class: 672297657"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11332420,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTEzMzI0MjAifQ==",
+            "username": 886516649,
+            "first_name": "Ipaintcreatures",
+            "last_name": ". poet painter illustrator and storyteller",
+            "full_name": "Ipaintcreatures . poet painter illustrator and storyteller",
+            "vanity_username": "ipaintcreatures",
+            "headline": "drawing and painting from the poetic imagination ",
+            "pic": "https://static.skillshare.com/uploads/users/886516649/user-image-medium.png?1290795250",
+            "pic_sm": "https://static.skillshare.com/uploads/users/886516649/user-image-small.png?1140409417",
+            "pic_lg": "https://static.skillshare.com/uploads/users/886516649/user-image-large.png?147843911",
+            "_links": {
+              "self": {
+                "href": "/users/886516649",
+                "title": "Ipaintcreatures . poet painter illustrator and storyteller - drawing and painting from the poetic imagination "
+              },
+              "my_classes": {
+                "href": "/users/886516649/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/886516649/completions",
+                "title": "Completions for User: 886516649"
+              },
+              "discussions": {
+                "href": "/users/886516649/discussions",
+                "title": "Discussions for User: 886516649"
+              },
+              "followers": {
+                "href": "/users/886516649/followers",
+                "title": "Followers for User: 886516649"
+              },
+              "following": {
+                "href": "/users/886516649/following",
+                "title": "Following for User: 886516649"
+              },
+              "notifications": {
+                "href": "/users/886516649/notifications",
+                "title": "Notifications for User: 886516649"
+              },
+              "projects": {
+                "href": "/users/886516649/projects",
+                "title": "Projects for User: 886516649"
+              },
+              "rosters": {
+                "href": "/users/886516649/rosters",
+                "title": "Rosters for User: 886516649"
+              },
+              "userTags": {
+                "href": "/users/886516649/userTags",
+                "title": "UserTags for User: 886516649"
+              },
+              "votes": {
+                "href": "/users/886516649/votes",
+                "title": "Votes for User: 886516649"
+              },
+              "wishlist": {
+                "href": "/users/886516649/wishlist",
+                "title": "Wishlist for User: 886516649"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 575101,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NTEwMSJ9",
+        "sku": 478121505,
+        "title": "Animal Drawing for Beginners - Learn to Quickly Sketch Simple Thumbnails of Animals",
+        "project_title": "Project:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a01c10e97553af3059e7371cf1117e3c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a01c10e97553af3059e7371cf1117e3c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a01c10e97553af3059e7371cf1117e3c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Animal-Drawing-for-Beginners-Learn-to-Quickly-Sketch-Simple-Thumbnails-of-Animals/478121505",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "47m",
+        "total_videos_duration_seconds": 2805,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 63,
+        "num_projects": 1,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 18, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/478121505",
+            "title": "Animal Drawing for Beginners - Learn to Quickly Sketch Simple Thumbnails of Animals"
+          },
+          "teacher": {
+            "href": "/users/226172646",
+            "title": "Andy Villon - Artist and Illustrator"
+          },
+          "units": {
+            "href": "/classes/478121505/units",
+            "title": "Units for Class: 478121505"
+          },
+          "sessions": {
+            "href": "/classes/478121505/sessions",
+            "title": "Sessions for Class: 478121505"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/478121505/students",
+            "title": "Students for Class: 478121505"
+          },
+          "projects": {
+            "href": "/classes/478121505/projects",
+            "title": "Projects for Class: 478121505"
+          },
+          "reviews": {
+            "href": "/classes/478121505/reviews",
+            "title": "Reviews for Class: 478121505"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18338742,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTgzMzg3NDIifQ==",
+            "username": 226172646,
+            "first_name": "Andy",
+            "last_name": "Villon",
+            "full_name": "Andy Villon",
+            "vanity_username": "andycvillon",
+            "headline": "Artist and Illustrator",
+            "pic": "https://static.skillshare.com/uploads/users/226172646/user-image-medium.jpg?669626169",
+            "pic_sm": "https://static.skillshare.com/uploads/users/226172646/user-image-small.jpg?933240528",
+            "pic_lg": "https://static.skillshare.com/uploads/users/226172646/user-image-large.jpg?39245751",
+            "_links": {
+              "self": {
+                "href": "/users/226172646",
+                "title": "Andy Villon - Artist and Illustrator"
+              },
+              "my_classes": {
+                "href": "/users/226172646/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/226172646/completions",
+                "title": "Completions for User: 226172646"
+              },
+              "discussions": {
+                "href": "/users/226172646/discussions",
+                "title": "Discussions for User: 226172646"
+              },
+              "followers": {
+                "href": "/users/226172646/followers",
+                "title": "Followers for User: 226172646"
+              },
+              "following": {
+                "href": "/users/226172646/following",
+                "title": "Following for User: 226172646"
+              },
+              "notifications": {
+                "href": "/users/226172646/notifications",
+                "title": "Notifications for User: 226172646"
+              },
+              "projects": {
+                "href": "/users/226172646/projects",
+                "title": "Projects for User: 226172646"
+              },
+              "rosters": {
+                "href": "/users/226172646/rosters",
+                "title": "Rosters for User: 226172646"
+              },
+              "userTags": {
+                "href": "/users/226172646/userTags",
+                "title": "UserTags for User: 226172646"
+              },
+              "votes": {
+                "href": "/users/226172646/votes",
+                "title": "Votes for User: 226172646"
+              },
+              "wishlist": {
+                "href": "/users/226172646/wishlist",
+                "title": "Wishlist for User: 226172646"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 575116,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NTExNiJ9",
+        "sku": 1456017670,
+        "title": "The beginner's guide to creating Infographics in Visme",
+        "project_title": "Use what you learned in this course to create an infographic in Visme, and either show the url in the class project (attached) or upload the file directly to Skillshare.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/facd4f3fc54addc6877ee01c81151e46/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/facd4f3fc54addc6877ee01c81151e46/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/facd4f3fc54addc6877ee01c81151e46/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-beginners-guide-to-creating-Infographics-in-Visme/1456017670",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "22m",
+        "total_videos_duration_seconds": 1349,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 14,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1456017670",
+            "title": "The beginner's guide to creating Infographics in Visme"
+          },
+          "teacher": {
+            "href": "/users/9820947",
+            "title": "Chris Viola - Writer and Marketing professional"
+          },
+          "units": {
+            "href": "/classes/1456017670/units",
+            "title": "Units for Class: 1456017670"
+          },
+          "sessions": {
+            "href": "/classes/1456017670/sessions",
+            "title": "Sessions for Class: 1456017670"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1456017670/students",
+            "title": "Students for Class: 1456017670"
+          },
+          "projects": {
+            "href": "/classes/1456017670/projects",
+            "title": "Projects for Class: 1456017670"
+          },
+          "reviews": {
+            "href": "/classes/1456017670/reviews",
+            "title": "Reviews for Class: 1456017670"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6576096,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjU3NjA5NiJ9",
+            "username": 9820947,
+            "first_name": "Chris",
+            "last_name": "Viola",
+            "full_name": "Chris Viola",
+            "vanity_username": null,
+            "headline": "Writer and Marketing professional",
+            "pic": "https://static.skillshare.com/uploads/users/9820947/user-image-medium.jpg?343711907",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9820947/user-image-small.jpg?459163525",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9820947/user-image-large.jpg?434468925",
+            "_links": {
+              "self": {
+                "href": "/users/9820947",
+                "title": "Chris Viola - Writer and Marketing professional"
+              },
+              "my_classes": {
+                "href": "/users/9820947/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9820947/completions",
+                "title": "Completions for User: 9820947"
+              },
+              "discussions": {
+                "href": "/users/9820947/discussions",
+                "title": "Discussions for User: 9820947"
+              },
+              "followers": {
+                "href": "/users/9820947/followers",
+                "title": "Followers for User: 9820947"
+              },
+              "following": {
+                "href": "/users/9820947/following",
+                "title": "Following for User: 9820947"
+              },
+              "notifications": {
+                "href": "/users/9820947/notifications",
+                "title": "Notifications for User: 9820947"
+              },
+              "projects": {
+                "href": "/users/9820947/projects",
+                "title": "Projects for User: 9820947"
+              },
+              "rosters": {
+                "href": "/users/9820947/rosters",
+                "title": "Rosters for User: 9820947"
+              },
+              "userTags": {
+                "href": "/users/9820947/userTags",
+                "title": "UserTags for User: 9820947"
+              },
+              "votes": {
+                "href": "/users/9820947/votes",
+                "title": "Votes for User: 9820947"
+              },
+              "wishlist": {
+                "href": "/users/9820947/wishlist",
+                "title": "Wishlist for User: 9820947"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 575118,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NTExOCJ9",
+        "sku": 1324501147,
+        "title": "How To Draw A Robin: Draw Along Tutorial",
+        "project_title": "Download the resource photo from the Projects & Resources section (website page only).",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9c94a1c66e02d32cfcdd9f7b7e4b2335/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9c94a1c66e02d32cfcdd9f7b7e4b2335/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9c94a1c66e02d32cfcdd9f7b7e4b2335/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Draw-A-Robin-Draw-Along-Tutorial/1324501147",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 17,
+        "total_videos_duration": "1h 23m",
+        "total_videos_duration_seconds": 4967,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 166,
+        "num_projects": 7,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1324501147",
+            "title": "How To Draw A Robin: Draw Along Tutorial"
+          },
+          "teacher": {
+            "href": "/users/2354513",
+            "title": "Emily Armstrong - The Pencil Room Online"
+          },
+          "units": {
+            "href": "/classes/1324501147/units",
+            "title": "Units for Class: 1324501147"
+          },
+          "sessions": {
+            "href": "/classes/1324501147/sessions",
+            "title": "Sessions for Class: 1324501147"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1324501147/students",
+            "title": "Students for Class: 1324501147"
+          },
+          "projects": {
+            "href": "/classes/1324501147/projects",
+            "title": "Projects for Class: 1324501147"
+          },
+          "reviews": {
+            "href": "/classes/1324501147/reviews",
+            "title": "Reviews for Class: 1324501147"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2662661,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjY2MjY2MSJ9",
+            "username": 2354513,
+            "first_name": "Emily",
+            "last_name": "Armstrong",
+            "full_name": "Emily Armstrong",
+            "vanity_username": "thepencilroom",
+            "headline": "The Pencil Room Online",
+            "pic": "https://static.skillshare.com/uploads/users/2354513/user-image-medium.jpg?976223213",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2354513/user-image-small.jpg?1775506408",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2354513/user-image-large.jpg?906870442",
+            "_links": {
+              "self": {
+                "href": "/users/2354513",
+                "title": "Emily Armstrong - The Pencil Room Online"
+              },
+              "my_classes": {
+                "href": "/users/2354513/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2354513/completions",
+                "title": "Completions for User: 2354513"
+              },
+              "discussions": {
+                "href": "/users/2354513/discussions",
+                "title": "Discussions for User: 2354513"
+              },
+              "followers": {
+                "href": "/users/2354513/followers",
+                "title": "Followers for User: 2354513"
+              },
+              "following": {
+                "href": "/users/2354513/following",
+                "title": "Following for User: 2354513"
+              },
+              "notifications": {
+                "href": "/users/2354513/notifications",
+                "title": "Notifications for User: 2354513"
+              },
+              "projects": {
+                "href": "/users/2354513/projects",
+                "title": "Projects for User: 2354513"
+              },
+              "rosters": {
+                "href": "/users/2354513/rosters",
+                "title": "Rosters for User: 2354513"
+              },
+              "userTags": {
+                "href": "/users/2354513/userTags",
+                "title": "UserTags for User: 2354513"
+              },
+              "votes": {
+                "href": "/users/2354513/votes",
+                "title": "Votes for User: 2354513"
+              },
+              "wishlist": {
+                "href": "/users/2354513/wishlist",
+                "title": "Wishlist for User: 2354513"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 575123,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NTEyMyJ9",
+        "sku": 1889511993,
+        "title": "Fictional Characters Portraits in Procreate - Hair for Intermediate Level",
+        "project_title": "For this class, students will learn and practice the intermediate techniques for creating and coloring hair in procreate.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/7256ca155ba3a6ac06c4aa3ec663dc8e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/7256ca155ba3a6ac06c4aa3ec663dc8e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/7256ca155ba3a6ac06c4aa3ec663dc8e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Fictional-Characters-Portraits-in-Procreate-Hair-for-Intermediate-Level/1889511993",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "36m",
+        "total_videos_duration_seconds": 2175,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 114,
+        "num_projects": 1,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1889511993",
+            "title": "Fictional Characters Portraits in Procreate - Hair for Intermediate Level"
+          },
+          "teacher": {
+            "href": "/users/29300767",
+            "title": "Rodrigo Diaz - Skillshare Teacher and Art Enthusiast"
+          },
+          "units": {
+            "href": "/classes/1889511993/units",
+            "title": "Units for Class: 1889511993"
+          },
+          "sessions": {
+            "href": "/classes/1889511993/sessions",
+            "title": "Sessions for Class: 1889511993"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1889511993/students",
+            "title": "Students for Class: 1889511993"
+          },
+          "projects": {
+            "href": "/classes/1889511993/projects",
+            "title": "Projects for Class: 1889511993"
+          },
+          "reviews": {
+            "href": "/classes/1889511993/reviews",
+            "title": "Reviews for Class: 1889511993"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 14556549,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTQ1NTY1NDkifQ==",
+            "username": 29300767,
+            "first_name": "Rodrigo",
+            "last_name": "Diaz",
+            "full_name": "Rodrigo Diaz",
+            "vanity_username": null,
+            "headline": "Skillshare Teacher and Art Enthusiast",
+            "pic": "https://static.skillshare.com/uploads/users/29300767/user-image-medium.jpg?2085324292",
+            "pic_sm": "https://static.skillshare.com/uploads/users/29300767/user-image-small.jpg?106027622",
+            "pic_lg": "https://static.skillshare.com/uploads/users/29300767/user-image-large.jpg?845193542",
+            "_links": {
+              "self": {
+                "href": "/users/29300767",
+                "title": "Rodrigo Diaz - Skillshare Teacher and Art Enthusiast"
+              },
+              "my_classes": {
+                "href": "/users/29300767/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/29300767/completions",
+                "title": "Completions for User: 29300767"
+              },
+              "discussions": {
+                "href": "/users/29300767/discussions",
+                "title": "Discussions for User: 29300767"
+              },
+              "followers": {
+                "href": "/users/29300767/followers",
+                "title": "Followers for User: 29300767"
+              },
+              "following": {
+                "href": "/users/29300767/following",
+                "title": "Following for User: 29300767"
+              },
+              "notifications": {
+                "href": "/users/29300767/notifications",
+                "title": "Notifications for User: 29300767"
+              },
+              "projects": {
+                "href": "/users/29300767/projects",
+                "title": "Projects for User: 29300767"
+              },
+              "rosters": {
+                "href": "/users/29300767/rosters",
+                "title": "Rosters for User: 29300767"
+              },
+              "userTags": {
+                "href": "/users/29300767/userTags",
+                "title": "UserTags for User: 29300767"
+              },
+              "votes": {
+                "href": "/users/29300767/votes",
+                "title": "Votes for User: 29300767"
+              },
+              "wishlist": {
+                "href": "/users/29300767/wishlist",
+                "title": "Wishlist for User: 29300767"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

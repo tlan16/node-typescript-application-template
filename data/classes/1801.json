@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1801",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1800",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1802",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2767",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 603204,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMzIwNCJ9",
+        "sku": 1573607634,
+        "title": "How To Create a Wordpress Website - Drag And Drop",
+        "project_title": "During this course you will be able to get up and running in minutes",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ceacff63f7a39f9d32a115bdb9136e71/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ceacff63f7a39f9d32a115bdb9136e71/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ceacff63f7a39f9d32a115bdb9136e71/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Create-a-Wordpress-Website-Drag-And-Drop/1573607634",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "10m",
+        "total_videos_duration_seconds": 627,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 25,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1573607634",
+            "title": "How To Create a Wordpress Website - Drag And Drop"
+          },
+          "teacher": {
+            "href": "/users/501405632",
+            "title": "Jarrod F. - Web Developer"
+          },
+          "units": {
+            "href": "/classes/1573607634/units",
+            "title": "Units for Class: 1573607634"
+          },
+          "sessions": {
+            "href": "/classes/1573607634/sessions",
+            "title": "Sessions for Class: 1573607634"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1573607634/students",
+            "title": "Students for Class: 1573607634"
+          },
+          "projects": {
+            "href": "/classes/1573607634/projects",
+            "title": "Projects for Class: 1573607634"
+          },
+          "reviews": {
+            "href": "/classes/1573607634/reviews",
+            "title": "Reviews for Class: 1573607634"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10931956,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTA5MzE5NTYifQ==",
+            "username": 501405632,
+            "first_name": "Jarrod",
+            "last_name": "F.",
+            "full_name": "Jarrod F.",
+            "vanity_username": "jarrod",
+            "headline": "Web Developer",
+            "pic": "https://static.skillshare.com/uploads/users/501405632/user-image-medium.jpg?61327126",
+            "pic_sm": "https://static.skillshare.com/uploads/users/501405632/user-image-small.jpg?1213688300",
+            "pic_lg": "https://static.skillshare.com/uploads/users/501405632/user-image-large.jpg?556998034",
+            "_links": {
+              "self": {
+                "href": "/users/501405632",
+                "title": "Jarrod F. - Web Developer"
+              },
+              "my_classes": {
+                "href": "/users/501405632/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/501405632/completions",
+                "title": "Completions for User: 501405632"
+              },
+              "discussions": {
+                "href": "/users/501405632/discussions",
+                "title": "Discussions for User: 501405632"
+              },
+              "followers": {
+                "href": "/users/501405632/followers",
+                "title": "Followers for User: 501405632"
+              },
+              "following": {
+                "href": "/users/501405632/following",
+                "title": "Following for User: 501405632"
+              },
+              "notifications": {
+                "href": "/users/501405632/notifications",
+                "title": "Notifications for User: 501405632"
+              },
+              "projects": {
+                "href": "/users/501405632/projects",
+                "title": "Projects for User: 501405632"
+              },
+              "rosters": {
+                "href": "/users/501405632/rosters",
+                "title": "Rosters for User: 501405632"
+              },
+              "userTags": {
+                "href": "/users/501405632/userTags",
+                "title": "UserTags for User: 501405632"
+              },
+              "votes": {
+                "href": "/users/501405632/votes",
+                "title": "Votes for User: 501405632"
+              },
+              "wishlist": {
+                "href": "/users/501405632/wishlist",
+                "title": "Wishlist for User: 501405632"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 603212,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMzIxMiJ9",
+        "sku": 1405214026,
+        "title": "Urban Sketching: Learn to use Wet-on-Wet 'Direct' Watercolours and Ink",
+        "project_title": "After the introductory lessons, that will give you all the knowledge and skills you need to get started,  we'll get stuck into our final project together – an urban sketch using these loose and lively",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/68731220bae36f21fcfd59de3ce1c64c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/68731220bae36f21fcfd59de3ce1c64c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/68731220bae36f21fcfd59de3ce1c64c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Urban-Sketching-Learn-to-use-Wet-on-Wet-Direct-Watercolours-and-Ink/1405214026",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "1h 8m",
+        "total_videos_duration_seconds": 4089,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 290,
+        "num_projects": 10,
+        "num_discussions": 6,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1405214026",
+            "title": "Urban Sketching: Learn to use Wet-on-Wet 'Direct' Watercolours and Ink"
+          },
+          "teacher": {
+            "href": "/users/798823257",
+            "title": "Toby Haseler - Urban Sketcher, Continuous Lines"
+          },
+          "units": {
+            "href": "/classes/1405214026/units",
+            "title": "Units for Class: 1405214026"
+          },
+          "sessions": {
+            "href": "/classes/1405214026/sessions",
+            "title": "Sessions for Class: 1405214026"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1405214026/students",
+            "title": "Students for Class: 1405214026"
+          },
+          "projects": {
+            "href": "/classes/1405214026/projects",
+            "title": "Projects for Class: 1405214026"
+          },
+          "reviews": {
+            "href": "/classes/1405214026/reviews",
+            "title": "Reviews for Class: 1405214026"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17934950,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTc5MzQ5NTAifQ==",
+            "username": 798823257,
+            "first_name": "Toby",
+            "last_name": "Haseler",
+            "full_name": "Toby Haseler",
+            "vanity_username": "tobyurbansketch",
+            "headline": "Urban Sketcher, Continuous Lines",
+            "pic": "https://static.skillshare.com/uploads/users/798823257/user-image-medium.jpg?1834276543",
+            "pic_sm": "https://static.skillshare.com/uploads/users/798823257/user-image-small.jpg?1257453322",
+            "pic_lg": "https://static.skillshare.com/uploads/users/798823257/user-image-large.jpg?469265528",
+            "_links": {
+              "self": {
+                "href": "/users/798823257",
+                "title": "Toby Haseler - Urban Sketcher, Continuous Lines"
+              },
+              "my_classes": {
+                "href": "/users/798823257/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/798823257/completions",
+                "title": "Completions for User: 798823257"
+              },
+              "discussions": {
+                "href": "/users/798823257/discussions",
+                "title": "Discussions for User: 798823257"
+              },
+              "followers": {
+                "href": "/users/798823257/followers",
+                "title": "Followers for User: 798823257"
+              },
+              "following": {
+                "href": "/users/798823257/following",
+                "title": "Following for User: 798823257"
+              },
+              "notifications": {
+                "href": "/users/798823257/notifications",
+                "title": "Notifications for User: 798823257"
+              },
+              "projects": {
+                "href": "/users/798823257/projects",
+                "title": "Projects for User: 798823257"
+              },
+              "rosters": {
+                "href": "/users/798823257/rosters",
+                "title": "Rosters for User: 798823257"
+              },
+              "userTags": {
+                "href": "/users/798823257/userTags",
+                "title": "UserTags for User: 798823257"
+              },
+              "votes": {
+                "href": "/users/798823257/votes",
+                "title": "Votes for User: 798823257"
+              },
+              "wishlist": {
+                "href": "/users/798823257/wishlist",
+                "title": "Wishlist for User: 798823257"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 603232,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMzIzMiJ9",
+        "sku": 638874052,
+        "title": "Intuitive Painting: Creating Abstracts with Watercolor Powders",
+        "project_title": "Your class project is to come back and share some of the intuitive abstracts you created in class. I'd love to know if you tried out the Watercolorpowders and how you liked them. What brushes did you ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/20c3859e9aaf203dc73422c42de56e11/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/20c3859e9aaf203dc73422c42de56e11/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/20c3859e9aaf203dc73422c42de56e11/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Intuitive-Painting-Creating-Abstracts-with-Watercolor-Powders/638874052",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "47m",
+        "total_videos_duration_seconds": 2818,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 139,
+        "num_projects": 4,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "5 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/638874052",
+            "title": "Intuitive Painting: Creating Abstracts with Watercolor Powders"
+          },
+          "teacher": {
+            "href": "/users/8574408",
+            "title": "DENISE LOVE - Artist & Photographer"
+          },
+          "units": {
+            "href": "/classes/638874052/units",
+            "title": "Units for Class: 638874052"
+          },
+          "sessions": {
+            "href": "/classes/638874052/sessions",
+            "title": "Sessions for Class: 638874052"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/638874052/students",
+            "title": "Students for Class: 638874052"
+          },
+          "projects": {
+            "href": "/classes/638874052/projects",
+            "title": "Projects for Class: 638874052"
+          },
+          "reviews": {
+            "href": "/classes/638874052/reviews",
+            "title": "Reviews for Class: 638874052"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 401999,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDAxOTk5In0=",
+            "username": 8574408,
+            "first_name": "DENISE",
+            "last_name": "LOVE",
+            "full_name": "DENISE LOVE",
+            "vanity_username": "2lilowls",
+            "headline": "Artist & Photographer",
+            "pic": "https://static.skillshare.com/uploads/users/8574408/user-image-medium.jpg?1930344932",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8574408/user-image-small.jpg?1708603699",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8574408/user-image-large.jpg?167099125",
+            "_links": {
+              "self": {
+                "href": "/users/8574408",
+                "title": "DENISE LOVE - Artist & Photographer"
+              },
+              "my_classes": {
+                "href": "/users/8574408/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8574408/completions",
+                "title": "Completions for User: 8574408"
+              },
+              "discussions": {
+                "href": "/users/8574408/discussions",
+                "title": "Discussions for User: 8574408"
+              },
+              "followers": {
+                "href": "/users/8574408/followers",
+                "title": "Followers for User: 8574408"
+              },
+              "following": {
+                "href": "/users/8574408/following",
+                "title": "Following for User: 8574408"
+              },
+              "notifications": {
+                "href": "/users/8574408/notifications",
+                "title": "Notifications for User: 8574408"
+              },
+              "projects": {
+                "href": "/users/8574408/projects",
+                "title": "Projects for User: 8574408"
+              },
+              "rosters": {
+                "href": "/users/8574408/rosters",
+                "title": "Rosters for User: 8574408"
+              },
+              "userTags": {
+                "href": "/users/8574408/userTags",
+                "title": "UserTags for User: 8574408"
+              },
+              "votes": {
+                "href": "/users/8574408/votes",
+                "title": "Votes for User: 8574408"
+              },
+              "wishlist": {
+                "href": "/users/8574408/wishlist",
+                "title": "Wishlist for User: 8574408"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 603237,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMzIzNyJ9",
+        "sku": 35120,
+        "title": "How to Present your Artwork on Social Media - Using Photoshop and Adobe Express",
+        "project_title": "Get your Urban Sketch from the previous class or an artwork that is ready to go and bring it to the next level using photoshop and adobe express!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9ff32bea609f63c5a5b19eb1fe4057e7/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9ff32bea609f63c5a5b19eb1fe4057e7/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9ff32bea609f63c5a5b19eb1fe4057e7/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Present-your-Artwork-on-Social-Media-Using-Photoshop-and-Adobe-Express/35120",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 2,
+        "total_videos_duration": "14m",
+        "total_videos_duration_seconds": 812,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 37,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/35120",
+            "title": "How to Present your Artwork on Social Media - Using Photoshop and Adobe Express"
+          },
+          "teacher": {
+            "href": "/users/993418138",
+            "title": "Sophie Herbert"
+          },
+          "units": {
+            "href": "/classes/35120/units",
+            "title": "Units for Class: 35120"
+          },
+          "sessions": {
+            "href": "/classes/35120/sessions",
+            "title": "Sessions for Class: 35120"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/35120/students",
+            "title": "Students for Class: 35120"
+          },
+          "projects": {
+            "href": "/classes/35120/projects",
+            "title": "Projects for Class: 35120"
+          },
+          "reviews": {
+            "href": "/classes/35120/reviews",
+            "title": "Reviews for Class: 35120"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 12104309,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTIxMDQzMDkifQ==",
+            "username": 993418138,
+            "first_name": "Sophie",
+            "last_name": "Herbert",
+            "full_name": "Sophie Herbert",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/993418138/user-image-medium.jpg?695778877",
+            "pic_sm": "https://static.skillshare.com/uploads/users/993418138/user-image-small.jpg?531062120",
+            "pic_lg": "https://static.skillshare.com/uploads/users/993418138/user-image-large.jpg?358544702",
+            "_links": {
+              "self": {
+                "href": "/users/993418138",
+                "title": "Sophie Herbert"
+              },
+              "my_classes": {
+                "href": "/users/993418138/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/993418138/completions",
+                "title": "Completions for User: 993418138"
+              },
+              "discussions": {
+                "href": "/users/993418138/discussions",
+                "title": "Discussions for User: 993418138"
+              },
+              "followers": {
+                "href": "/users/993418138/followers",
+                "title": "Followers for User: 993418138"
+              },
+              "following": {
+                "href": "/users/993418138/following",
+                "title": "Following for User: 993418138"
+              },
+              "notifications": {
+                "href": "/users/993418138/notifications",
+                "title": "Notifications for User: 993418138"
+              },
+              "projects": {
+                "href": "/users/993418138/projects",
+                "title": "Projects for User: 993418138"
+              },
+              "rosters": {
+                "href": "/users/993418138/rosters",
+                "title": "Rosters for User: 993418138"
+              },
+              "userTags": {
+                "href": "/users/993418138/userTags",
+                "title": "UserTags for User: 993418138"
+              },
+              "votes": {
+                "href": "/users/993418138/votes",
+                "title": "Votes for User: 993418138"
+              },
+              "wishlist": {
+                "href": "/users/993418138/wishlist",
+                "title": "Wishlist for User: 993418138"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 603260,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMzI2MCJ9",
+        "sku": 2014057882,
+        "title": "Kawaii Doodles: Simple Fairy Tale Illustrations | Cute Drawing in Procreate",
+        "project_title": "As a project for this class, create a cute illustration on a fairy tale theme. You can repeat what you've seen during the class or draw your own character(s) using the techniques you've learned. When ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e38e6f89586d20d63df4e7671dfc93d3/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e38e6f89586d20d63df4e7671dfc93d3/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e38e6f89586d20d63df4e7671dfc93d3/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Kawaii-Doodles-Simple-Fairy-Tale-Illustrations-Cute-Drawing-in-Procreate/2014057882",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 50m",
+        "total_videos_duration_seconds": 6590,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 90,
+        "num_projects": 5,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2014057882",
+            "title": "Kawaii Doodles: Simple Fairy Tale Illustrations | Cute Drawing in Procreate"
+          },
+          "teacher": {
+            "href": "/users/13740496",
+            "title": "Uni Corn - ⭐Kawaii Art Enthusiast⭐"
+          },
+          "units": {
+            "href": "/classes/2014057882/units",
+            "title": "Units for Class: 2014057882"
+          },
+          "sessions": {
+            "href": "/classes/2014057882/sessions",
+            "title": "Sessions for Class: 2014057882"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2014057882/students",
+            "title": "Students for Class: 2014057882"
+          },
+          "projects": {
+            "href": "/classes/2014057882/projects",
+            "title": "Projects for Class: 2014057882"
+          },
+          "reviews": {
+            "href": "/classes/2014057882/reviews",
+            "title": "Reviews for Class: 2014057882"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26451785,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjY0NTE3ODUifQ==",
+            "username": 13740496,
+            "first_name": "Uni",
+            "last_name": "Corn",
+            "full_name": "Uni Corn",
+            "vanity_username": "uni_corn",
+            "headline": "⭐Kawaii Art Enthusiast⭐",
+            "pic": "https://static.skillshare.com/uploads/users/13740496/user-image-medium.png?1108958323",
+            "pic_sm": "https://static.skillshare.com/uploads/users/13740496/user-image-small.png?428169767",
+            "pic_lg": "https://static.skillshare.com/uploads/users/13740496/user-image-large.png?1214796465",
+            "_links": {
+              "self": {
+                "href": "/users/13740496",
+                "title": "Uni Corn - ⭐Kawaii Art Enthusiast⭐"
+              },
+              "my_classes": {
+                "href": "/users/13740496/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/13740496/completions",
+                "title": "Completions for User: 13740496"
+              },
+              "discussions": {
+                "href": "/users/13740496/discussions",
+                "title": "Discussions for User: 13740496"
+              },
+              "followers": {
+                "href": "/users/13740496/followers",
+                "title": "Followers for User: 13740496"
+              },
+              "following": {
+                "href": "/users/13740496/following",
+                "title": "Following for User: 13740496"
+              },
+              "notifications": {
+                "href": "/users/13740496/notifications",
+                "title": "Notifications for User: 13740496"
+              },
+              "projects": {
+                "href": "/users/13740496/projects",
+                "title": "Projects for User: 13740496"
+              },
+              "rosters": {
+                "href": "/users/13740496/rosters",
+                "title": "Rosters for User: 13740496"
+              },
+              "userTags": {
+                "href": "/users/13740496/userTags",
+                "title": "UserTags for User: 13740496"
+              },
+              "votes": {
+                "href": "/users/13740496/votes",
+                "title": "Votes for User: 13740496"
+              },
+              "wishlist": {
+                "href": "/users/13740496/wishlist",
+                "title": "Wishlist for User: 13740496"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 603269,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMzI2OSJ9",
+        "sku": 1296451945,
+        "title": "Loose-Style Watercolor Landscapes - 9 Days Painting Practice",
+        "project_title": "Painting the projects all at once could&nbsp;feel overwhelming, so I would recommend you paint these artworks on daily basis. I will be posting the sessions one at a time for the next 9 days. painting",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c685d6b1b35749e2cb9ab6b1ae65972d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c685d6b1b35749e2cb9ab6b1ae65972d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c685d6b1b35749e2cb9ab6b1ae65972d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Loose-Style-Watercolor-Landscapes-9-Days-Painting-Practice/1296451945",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "3h 7m",
+        "total_videos_duration_seconds": 11249,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 189,
+        "num_projects": 11,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1296451945",
+            "title": "Loose-Style Watercolor Landscapes - 9 Days Painting Practice"
+          },
+          "teacher": {
+            "href": "/users/474573787",
+            "title": "Shanan Subhan - Fine Artist | Art Educator"
+          },
+          "units": {
+            "href": "/classes/1296451945/units",
+            "title": "Units for Class: 1296451945"
+          },
+          "sessions": {
+            "href": "/classes/1296451945/sessions",
+            "title": "Sessions for Class: 1296451945"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1296451945/students",
+            "title": "Students for Class: 1296451945"
+          },
+          "projects": {
+            "href": "/classes/1296451945/projects",
+            "title": "Projects for Class: 1296451945"
+          },
+          "reviews": {
+            "href": "/classes/1296451945/reviews",
+            "title": "Reviews for Class: 1296451945"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9953854,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTk1Mzg1NCJ9",
+            "username": 474573787,
+            "first_name": "Shanan",
+            "last_name": "Subhan",
+            "full_name": "Shanan Subhan",
+            "vanity_username": "shanan-subhan",
+            "headline": "Fine Artist | Art Educator",
+            "pic": "https://static.skillshare.com/uploads/users/474573787/user-image-medium.jpg?1162285746",
+            "pic_sm": "https://static.skillshare.com/uploads/users/474573787/user-image-small.jpg?674993778",
+            "pic_lg": "https://static.skillshare.com/uploads/users/474573787/user-image-large.jpg?245129812",
+            "_links": {
+              "self": {
+                "href": "/users/474573787",
+                "title": "Shanan Subhan - Fine Artist | Art Educator"
+              },
+              "my_classes": {
+                "href": "/users/474573787/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/474573787/completions",
+                "title": "Completions for User: 474573787"
+              },
+              "discussions": {
+                "href": "/users/474573787/discussions",
+                "title": "Discussions for User: 474573787"
+              },
+              "followers": {
+                "href": "/users/474573787/followers",
+                "title": "Followers for User: 474573787"
+              },
+              "following": {
+                "href": "/users/474573787/following",
+                "title": "Following for User: 474573787"
+              },
+              "notifications": {
+                "href": "/users/474573787/notifications",
+                "title": "Notifications for User: 474573787"
+              },
+              "projects": {
+                "href": "/users/474573787/projects",
+                "title": "Projects for User: 474573787"
+              },
+              "rosters": {
+                "href": "/users/474573787/rosters",
+                "title": "Rosters for User: 474573787"
+              },
+              "userTags": {
+                "href": "/users/474573787/userTags",
+                "title": "UserTags for User: 474573787"
+              },
+              "votes": {
+                "href": "/users/474573787/votes",
+                "title": "Votes for User: 474573787"
+              },
+              "wishlist": {
+                "href": "/users/474573787/wishlist",
+                "title": "Wishlist for User: 474573787"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 603273,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMzI3MyJ9",
+        "sku": 354742281,
+        "title": "Organisation pour Artistes & Créatifs - Créez un système simple et flexible qui vous rend service !",
+        "project_title": "Votre mission si vous l'acceptez est la suivante :",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/0d5bcb74f2322af2ae26612879db88ff/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/0d5bcb74f2322af2ae26612879db88ff/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/0d5bcb74f2322af2ae26612879db88ff/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Organisation-pour-Artistes-Cr%C3%A9atifs-Cr%C3%A9ez-un-syst%C3%A8me-simple-et-flexible-qui-vous-rend-service/354742281",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "26m",
+        "total_videos_duration_seconds": 1561,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 30,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/354742281",
+            "title": "Organisation pour Artistes & Créatifs - Créez un système simple et flexible qui vous rend service !"
+          },
+          "teacher": {
+            "href": "/users/456230358",
+            "title": "Sarah Connors - Watercolor and mural artist"
+          },
+          "units": {
+            "href": "/classes/354742281/units",
+            "title": "Units for Class: 354742281"
+          },
+          "sessions": {
+            "href": "/classes/354742281/sessions",
+            "title": "Sessions for Class: 354742281"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/354742281/students",
+            "title": "Students for Class: 354742281"
+          },
+          "projects": {
+            "href": "/classes/354742281/projects",
+            "title": "Projects for Class: 354742281"
+          },
+          "reviews": {
+            "href": "/classes/354742281/reviews",
+            "title": "Reviews for Class: 354742281"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19415186,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTk0MTUxODYifQ==",
+            "username": 456230358,
+            "first_name": "Sarah",
+            "last_name": "Connors",
+            "full_name": "Sarah Connors",
+            "vanity_username": null,
+            "headline": "Watercolor and mural artist",
+            "pic": "https://static.skillshare.com/uploads/users/456230358/user-image-medium.jpg?258439706",
+            "pic_sm": "https://static.skillshare.com/uploads/users/456230358/user-image-small.jpg?889706203",
+            "pic_lg": "https://static.skillshare.com/uploads/users/456230358/user-image-large.jpg?1967843282",
+            "_links": {
+              "self": {
+                "href": "/users/456230358",
+                "title": "Sarah Connors - Watercolor and mural artist"
+              },
+              "my_classes": {
+                "href": "/users/456230358/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/456230358/completions",
+                "title": "Completions for User: 456230358"
+              },
+              "discussions": {
+                "href": "/users/456230358/discussions",
+                "title": "Discussions for User: 456230358"
+              },
+              "followers": {
+                "href": "/users/456230358/followers",
+                "title": "Followers for User: 456230358"
+              },
+              "following": {
+                "href": "/users/456230358/following",
+                "title": "Following for User: 456230358"
+              },
+              "notifications": {
+                "href": "/users/456230358/notifications",
+                "title": "Notifications for User: 456230358"
+              },
+              "projects": {
+                "href": "/users/456230358/projects",
+                "title": "Projects for User: 456230358"
+              },
+              "rosters": {
+                "href": "/users/456230358/rosters",
+                "title": "Rosters for User: 456230358"
+              },
+              "userTags": {
+                "href": "/users/456230358/userTags",
+                "title": "UserTags for User: 456230358"
+              },
+              "votes": {
+                "href": "/users/456230358/votes",
+                "title": "Votes for User: 456230358"
+              },
+              "wishlist": {
+                "href": "/users/456230358/wishlist",
+                "title": "Wishlist for User: 456230358"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 603275,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMzI3NSJ9",
+        "sku": 1218879812,
+        "title": "PowerPoint Business Presentations - Data Visualization and PowerPoint",
+        "project_title": "Let us divide creating a project for this class into 3 steps!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/530297e45c1031c6d0dcfe15a04a65d5/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/530297e45c1031c6d0dcfe15a04a65d5/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/530297e45c1031c6d0dcfe15a04a65d5/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/PowerPoint-Business-Presentations-Data-Visualization-and-PowerPoint/1218879812",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 87,
+        "total_videos_duration": "4h",
+        "total_videos_duration_seconds": 14426,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 110,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "9 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1218879812",
+            "title": "PowerPoint Business Presentations - Data Visualization and PowerPoint"
+          },
+          "teacher": {
+            "href": "/users/922767",
+            "title": "Andrew Pach ⭐ - PowerPoint, Animation & Video Expert"
+          },
+          "units": {
+            "href": "/classes/1218879812/units",
+            "title": "Units for Class: 1218879812"
+          },
+          "sessions": {
+            "href": "/classes/1218879812/sessions",
+            "title": "Sessions for Class: 1218879812"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1218879812/students",
+            "title": "Students for Class: 1218879812"
+          },
+          "projects": {
+            "href": "/classes/1218879812/projects",
+            "title": "Projects for Class: 1218879812"
+          },
+          "reviews": {
+            "href": "/classes/1218879812/reviews",
+            "title": "Reviews for Class: 1218879812"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 818028,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODE4MDI4In0=",
+            "username": 922767,
+            "first_name": "Andrew",
+            "last_name": "Pach ⭐",
+            "full_name": "Andrew Pach ⭐",
+            "vanity_username": "andrzejpach",
+            "headline": "PowerPoint, Animation & Video Expert",
+            "pic": "https://static.skillshare.com/uploads/users/922767/user-image-medium.jpg?966813038",
+            "pic_sm": "https://static.skillshare.com/uploads/users/922767/user-image-small.jpg?103394411",
+            "pic_lg": "https://static.skillshare.com/uploads/users/922767/user-image-large.jpg?738887603",
+            "_links": {
+              "self": {
+                "href": "/users/922767",
+                "title": "Andrew Pach ⭐ - PowerPoint, Animation & Video Expert"
+              },
+              "my_classes": {
+                "href": "/users/922767/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/922767/completions",
+                "title": "Completions for User: 922767"
+              },
+              "discussions": {
+                "href": "/users/922767/discussions",
+                "title": "Discussions for User: 922767"
+              },
+              "followers": {
+                "href": "/users/922767/followers",
+                "title": "Followers for User: 922767"
+              },
+              "following": {
+                "href": "/users/922767/following",
+                "title": "Following for User: 922767"
+              },
+              "notifications": {
+                "href": "/users/922767/notifications",
+                "title": "Notifications for User: 922767"
+              },
+              "projects": {
+                "href": "/users/922767/projects",
+                "title": "Projects for User: 922767"
+              },
+              "rosters": {
+                "href": "/users/922767/rosters",
+                "title": "Rosters for User: 922767"
+              },
+              "userTags": {
+                "href": "/users/922767/userTags",
+                "title": "UserTags for User: 922767"
+              },
+              "votes": {
+                "href": "/users/922767/votes",
+                "title": "Votes for User: 922767"
+              },
+              "wishlist": {
+                "href": "/users/922767/wishlist",
+                "title": "Wishlist for User: 922767"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 603312,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMzMxMiJ9",
+        "sku": 490886634,
+        "title": "Create Your First Effects for Tiktok: Effect House for Beginners",
+        "project_title": "In this class, we will go through the process of creating two effects for Tiktok from scratch. We will be using Effect House to build them, as well as some other assets.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/3fbf9077dd7f7febc54735e8ce70a1dd/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/3fbf9077dd7f7febc54735e8ce70a1dd/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/3fbf9077dd7f7febc54735e8ce70a1dd/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Create-Your-First-Effects-for-Tiktok-Effect-House-for-Beginners/490886634",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "43m",
+        "total_videos_duration_seconds": 2602,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 63,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/490886634",
+            "title": "Create Your First Effects for Tiktok: Effect House for Beginners"
+          },
+          "teacher": {
+            "href": "/users/92610421",
+            "title": "Nuria Quero - Experience Designer"
+          },
+          "units": {
+            "href": "/classes/490886634/units",
+            "title": "Units for Class: 490886634"
+          },
+          "sessions": {
+            "href": "/classes/490886634/sessions",
+            "title": "Sessions for Class: 490886634"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/490886634/students",
+            "title": "Students for Class: 490886634"
+          },
+          "projects": {
+            "href": "/classes/490886634/projects",
+            "title": "Projects for Class: 490886634"
+          },
+          "reviews": {
+            "href": "/classes/490886634/reviews",
+            "title": "Reviews for Class: 490886634"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 12045932,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTIwNDU5MzIifQ==",
+            "username": 92610421,
+            "first_name": "Nuria",
+            "last_name": "Quero",
+            "full_name": "Nuria Quero",
+            "vanity_username": "nuriaquero",
+            "headline": "Experience Designer",
+            "pic": "https://static.skillshare.com/uploads/users/92610421/user-image-medium.jpg?286120136",
+            "pic_sm": "https://static.skillshare.com/uploads/users/92610421/user-image-small.jpg?954294456",
+            "pic_lg": "https://static.skillshare.com/uploads/users/92610421/user-image-large.jpg?1376463326",
+            "_links": {
+              "self": {
+                "href": "/users/92610421",
+                "title": "Nuria Quero - Experience Designer"
+              },
+              "my_classes": {
+                "href": "/users/92610421/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/92610421/completions",
+                "title": "Completions for User: 92610421"
+              },
+              "discussions": {
+                "href": "/users/92610421/discussions",
+                "title": "Discussions for User: 92610421"
+              },
+              "followers": {
+                "href": "/users/92610421/followers",
+                "title": "Followers for User: 92610421"
+              },
+              "following": {
+                "href": "/users/92610421/following",
+                "title": "Following for User: 92610421"
+              },
+              "notifications": {
+                "href": "/users/92610421/notifications",
+                "title": "Notifications for User: 92610421"
+              },
+              "projects": {
+                "href": "/users/92610421/projects",
+                "title": "Projects for User: 92610421"
+              },
+              "rosters": {
+                "href": "/users/92610421/rosters",
+                "title": "Rosters for User: 92610421"
+              },
+              "userTags": {
+                "href": "/users/92610421/userTags",
+                "title": "UserTags for User: 92610421"
+              },
+              "votes": {
+                "href": "/users/92610421/votes",
+                "title": "Votes for User: 92610421"
+              },
+              "wishlist": {
+                "href": "/users/92610421/wishlist",
+                "title": "Wishlist for User: 92610421"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 603318,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMzMxOCJ9",
+        "sku": 1644744064,
+        "title": "Watercolor Landscape Painting: How to Paint with a Limited Palette using only Primary Colors?",
+        "project_title": "You can find me on all social media platforms: Instagram,  YouTube,  Facebook,  Pinterest and Twitter.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/2a0bd191cd3cd2d5d6c1618ac34ff0b9/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/2a0bd191cd3cd2d5d6c1618ac34ff0b9/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/2a0bd191cd3cd2d5d6c1618ac34ff0b9/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolor-Landscape-Painting-How-to-Paint-with-a-Limited-Palette-using-only-Primary-Colors/1644744064",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "20m",
+        "total_videos_duration_seconds": 1226,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 16,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1644744064",
+            "title": "Watercolor Landscape Painting: How to Paint with a Limited Palette using only Primary Colors?"
+          },
+          "teacher": {
+            "href": "/users/883019776",
+            "title": "Mona Frey - Watercolor Artist + Teacher + Traveller"
+          },
+          "units": {
+            "href": "/classes/1644744064/units",
+            "title": "Units for Class: 1644744064"
+          },
+          "sessions": {
+            "href": "/classes/1644744064/sessions",
+            "title": "Sessions for Class: 1644744064"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1644744064/students",
+            "title": "Students for Class: 1644744064"
+          },
+          "projects": {
+            "href": "/classes/1644744064/projects",
+            "title": "Projects for Class: 1644744064"
+          },
+          "reviews": {
+            "href": "/classes/1644744064/reviews",
+            "title": "Reviews for Class: 1644744064"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25209400,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUyMDk0MDAifQ==",
+            "username": 883019776,
+            "first_name": "Mona",
+            "last_name": "Frey",
+            "full_name": "Mona Frey",
+            "vanity_username": null,
+            "headline": "Watercolor Artist + Teacher + Traveller",
+            "pic": "https://static.skillshare.com/uploads/users/883019776/user-image-medium.jpg?1423529705",
+            "pic_sm": "https://static.skillshare.com/uploads/users/883019776/user-image-small.jpg?724223639",
+            "pic_lg": "https://static.skillshare.com/uploads/users/883019776/user-image-large.jpg?2014123717",
+            "_links": {
+              "self": {
+                "href": "/users/883019776",
+                "title": "Mona Frey - Watercolor Artist + Teacher + Traveller"
+              },
+              "my_classes": {
+                "href": "/users/883019776/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/883019776/completions",
+                "title": "Completions for User: 883019776"
+              },
+              "discussions": {
+                "href": "/users/883019776/discussions",
+                "title": "Discussions for User: 883019776"
+              },
+              "followers": {
+                "href": "/users/883019776/followers",
+                "title": "Followers for User: 883019776"
+              },
+              "following": {
+                "href": "/users/883019776/following",
+                "title": "Following for User: 883019776"
+              },
+              "notifications": {
+                "href": "/users/883019776/notifications",
+                "title": "Notifications for User: 883019776"
+              },
+              "projects": {
+                "href": "/users/883019776/projects",
+                "title": "Projects for User: 883019776"
+              },
+              "rosters": {
+                "href": "/users/883019776/rosters",
+                "title": "Rosters for User: 883019776"
+              },
+              "userTags": {
+                "href": "/users/883019776/userTags",
+                "title": "UserTags for User: 883019776"
+              },
+              "votes": {
+                "href": "/users/883019776/votes",
+                "title": "Votes for User: 883019776"
+              },
+              "wishlist": {
+                "href": "/users/883019776/wishlist",
+                "title": "Wishlist for User: 883019776"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

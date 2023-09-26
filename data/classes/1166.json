@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1166",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1165",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1167",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 546798,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0Njc5OCJ9",
+        "sku": 63347687,
+        "title": "Modding By Kaupenjoe: Forge Modding for Minecraft 1-18-1",
+        "project_title": "Important Links:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b63b5789a69835058fb76eebc55e7da3/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b63b5789a69835058fb76eebc55e7da3/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b63b5789a69835058fb76eebc55e7da3/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Modding-By-Kaupenjoe-Forge-Modding-for-Minecraft-1-18-1/63347687",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 125,
+        "total_videos_duration": "15h 5m",
+        "total_videos_duration_seconds": 54300,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 502,
+        "num_projects": 0,
+        "num_discussions": 86,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Dec 24, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/63347687",
+            "title": "Modding By Kaupenjoe: Forge Modding for Minecraft 1-18-1"
+          },
+          "teacher": {
+            "href": "/users/1451278",
+            "title": "Kaupenjoe (Nico) - CS Student, Nerd and Educator"
+          },
+          "units": {
+            "href": "/classes/63347687/units",
+            "title": "Units for Class: 63347687"
+          },
+          "sessions": {
+            "href": "/classes/63347687/sessions",
+            "title": "Sessions for Class: 63347687"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/63347687/students",
+            "title": "Students for Class: 63347687"
+          },
+          "projects": {
+            "href": "/classes/63347687/projects",
+            "title": "Projects for Class: 63347687"
+          },
+          "reviews": {
+            "href": "/classes/63347687/reviews",
+            "title": "Reviews for Class: 63347687"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3727564,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzcyNzU2NCJ9",
+            "username": 1451278,
+            "first_name": "Kaupenjoe",
+            "last_name": "(Nico)",
+            "full_name": "Kaupenjoe (Nico)",
+            "vanity_username": "kaupenjoe",
+            "headline": "CS Student, Nerd and Educator",
+            "pic": "https://static.skillshare.com/uploads/users/1451278/user-image-medium.png?1901584055",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1451278/user-image-small.png?9023902",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1451278/user-image-large.png?171053572",
+            "_links": {
+              "self": {
+                "href": "/users/1451278",
+                "title": "Kaupenjoe (Nico) - CS Student, Nerd and Educator"
+              },
+              "my_classes": {
+                "href": "/users/1451278/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1451278/completions",
+                "title": "Completions for User: 1451278"
+              },
+              "discussions": {
+                "href": "/users/1451278/discussions",
+                "title": "Discussions for User: 1451278"
+              },
+              "followers": {
+                "href": "/users/1451278/followers",
+                "title": "Followers for User: 1451278"
+              },
+              "following": {
+                "href": "/users/1451278/following",
+                "title": "Following for User: 1451278"
+              },
+              "notifications": {
+                "href": "/users/1451278/notifications",
+                "title": "Notifications for User: 1451278"
+              },
+              "projects": {
+                "href": "/users/1451278/projects",
+                "title": "Projects for User: 1451278"
+              },
+              "rosters": {
+                "href": "/users/1451278/rosters",
+                "title": "Rosters for User: 1451278"
+              },
+              "userTags": {
+                "href": "/users/1451278/userTags",
+                "title": "UserTags for User: 1451278"
+              },
+              "votes": {
+                "href": "/users/1451278/votes",
+                "title": "Votes for User: 1451278"
+              },
+              "wishlist": {
+                "href": "/users/1451278/wishlist",
+                "title": "Wishlist for User: 1451278"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 546820,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0NjgyMCJ9",
+        "sku": 1227193696,
+        "title": "Northern Lights: Turning Watercolor Flow into Winter Night Landscapes",
+        "project_title": "Now it's your turn to paint your own watercolor auroras! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a574f614bb578fea7b157f40a618bd8e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a574f614bb578fea7b157f40a618bd8e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a574f614bb578fea7b157f40a618bd8e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Northern-Lights-Turning-Watercolor-Flow-into-Winter-Night-Landscapes/1227193696",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "1h 28m",
+        "total_videos_duration_seconds": 5294,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 549,
+        "num_projects": 35,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Dec 30, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1227193696",
+            "title": "Northern Lights: Turning Watercolor Flow into Winter Night Landscapes"
+          },
+          "teacher": {
+            "href": "/users/2659592",
+            "title": "Maria Smirnova - Watercolor artist"
+          },
+          "units": {
+            "href": "/classes/1227193696/units",
+            "title": "Units for Class: 1227193696"
+          },
+          "sessions": {
+            "href": "/classes/1227193696/sessions",
+            "title": "Sessions for Class: 1227193696"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1227193696/students",
+            "title": "Students for Class: 1227193696"
+          },
+          "projects": {
+            "href": "/classes/1227193696/projects",
+            "title": "Projects for Class: 1227193696"
+          },
+          "reviews": {
+            "href": "/classes/1227193696/reviews",
+            "title": "Reviews for Class: 1227193696"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4152601,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDE1MjYwMSJ9",
+            "username": 2659592,
+            "first_name": "Maria",
+            "last_name": "Smirnova",
+            "full_name": "Maria Smirnova",
+            "vanity_username": "magrish",
+            "headline": "Watercolor artist",
+            "pic": "https://static.skillshare.com/uploads/users/2659592/user-image-medium.jpg?1255630475",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2659592/user-image-small.jpg?1074186137",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2659592/user-image-large.jpg?1169377949",
+            "_links": {
+              "self": {
+                "href": "/users/2659592",
+                "title": "Maria Smirnova - Watercolor artist"
+              },
+              "my_classes": {
+                "href": "/users/2659592/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2659592/completions",
+                "title": "Completions for User: 2659592"
+              },
+              "discussions": {
+                "href": "/users/2659592/discussions",
+                "title": "Discussions for User: 2659592"
+              },
+              "followers": {
+                "href": "/users/2659592/followers",
+                "title": "Followers for User: 2659592"
+              },
+              "following": {
+                "href": "/users/2659592/following",
+                "title": "Following for User: 2659592"
+              },
+              "notifications": {
+                "href": "/users/2659592/notifications",
+                "title": "Notifications for User: 2659592"
+              },
+              "projects": {
+                "href": "/users/2659592/projects",
+                "title": "Projects for User: 2659592"
+              },
+              "rosters": {
+                "href": "/users/2659592/rosters",
+                "title": "Rosters for User: 2659592"
+              },
+              "userTags": {
+                "href": "/users/2659592/userTags",
+                "title": "UserTags for User: 2659592"
+              },
+              "votes": {
+                "href": "/users/2659592/votes",
+                "title": "Votes for User: 2659592"
+              },
+              "wishlist": {
+                "href": "/users/2659592/wishlist",
+                "title": "Wishlist for User: 2659592"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 546829,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0NjgyOSJ9",
+        "sku": 16437035,
+        "title": "Technical Writing: How to Build a DITA XML Writing Portfolio",
+        "project_title": "Assignment:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6309294986112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6309294986112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6309294986112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Technical-Writing-How-to-Build-a-DITA-XML-Writing-Portfolio/16437035",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 18,
+        "total_videos_duration": "56m",
+        "total_videos_duration_seconds": 3336,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 39,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 31, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/16437035",
+            "title": "Technical Writing: How to Build a DITA XML Writing Portfolio"
+          },
+          "teacher": {
+            "href": "/users/3735703",
+            "title": "JPDocu Services - School of Technical Writing"
+          },
+          "units": {
+            "href": "/classes/16437035/units",
+            "title": "Units for Class: 16437035"
+          },
+          "sessions": {
+            "href": "/classes/16437035/sessions",
+            "title": "Sessions for Class: 16437035"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/16437035/students",
+            "title": "Students for Class: 16437035"
+          },
+          "projects": {
+            "href": "/classes/16437035/projects",
+            "title": "Projects for Class: 16437035"
+          },
+          "reviews": {
+            "href": "/classes/16437035/reviews",
+            "title": "Reviews for Class: 16437035"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5643598,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTY0MzU5OCJ9",
+            "username": 3735703,
+            "first_name": "JPDocu",
+            "last_name": "Services",
+            "full_name": "JPDocu Services",
+            "vanity_username": null,
+            "headline": "School of Technical Writing",
+            "pic": "https://static.skillshare.com/uploads/users/3735703/user-image-medium.png?1383438036",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3735703/user-image-small.png?553409721",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3735703/user-image-large.png?1402266733",
+            "_links": {
+              "self": {
+                "href": "/users/3735703",
+                "title": "JPDocu Services - School of Technical Writing"
+              },
+              "my_classes": {
+                "href": "/users/3735703/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3735703/completions",
+                "title": "Completions for User: 3735703"
+              },
+              "discussions": {
+                "href": "/users/3735703/discussions",
+                "title": "Discussions for User: 3735703"
+              },
+              "followers": {
+                "href": "/users/3735703/followers",
+                "title": "Followers for User: 3735703"
+              },
+              "following": {
+                "href": "/users/3735703/following",
+                "title": "Following for User: 3735703"
+              },
+              "notifications": {
+                "href": "/users/3735703/notifications",
+                "title": "Notifications for User: 3735703"
+              },
+              "projects": {
+                "href": "/users/3735703/projects",
+                "title": "Projects for User: 3735703"
+              },
+              "rosters": {
+                "href": "/users/3735703/rosters",
+                "title": "Rosters for User: 3735703"
+              },
+              "userTags": {
+                "href": "/users/3735703/userTags",
+                "title": "UserTags for User: 3735703"
+              },
+              "votes": {
+                "href": "/users/3735703/votes",
+                "title": "Votes for User: 3735703"
+              },
+              "wishlist": {
+                "href": "/users/3735703/wishlist",
+                "title": "Wishlist for User: 3735703"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 546832,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0NjgzMiJ9",
+        "sku": 1968701689,
+        "title": "Norwegian Language A2 Part2 ( Family and ways of living, Education in Norway, Important Times)",
+        "project_title": "In this project you should make a short video in Norwegian where you tell about the school system in your Country.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/74ce71edb5b108358593cf2e3b5603fb/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/74ce71edb5b108358593cf2e3b5603fb/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/74ce71edb5b108358593cf2e3b5603fb/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Norwegian-Language-A2-Part2-Family-and-ways-of-living-Education-in-Norway-Important-Times/1968701689",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 17,
+        "total_videos_duration": "1h 15m",
+        "total_videos_duration_seconds": 4481,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 263,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1968701689",
+            "title": "Norwegian Language A2 Part2 ( Family and ways of living, Education in Norway, Important Times)"
+          },
+          "teacher": {
+            "href": "/users/1942851",
+            "title": "Henning Gustavsen - Norwegian Language Teacher"
+          },
+          "units": {
+            "href": "/classes/1968701689/units",
+            "title": "Units for Class: 1968701689"
+          },
+          "sessions": {
+            "href": "/classes/1968701689/sessions",
+            "title": "Sessions for Class: 1968701689"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1968701689/students",
+            "title": "Students for Class: 1968701689"
+          },
+          "projects": {
+            "href": "/classes/1968701689/projects",
+            "title": "Projects for Class: 1968701689"
+          },
+          "reviews": {
+            "href": "/classes/1968701689/reviews",
+            "title": "Reviews for Class: 1968701689"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 648459,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjQ4NDU5In0=",
+            "username": 1942851,
+            "first_name": "Henning",
+            "last_name": "Gustavsen",
+            "full_name": "Henning Gustavsen",
+            "vanity_username": "norwegian",
+            "headline": "Norwegian Language Teacher",
+            "pic": "https://static.skillshare.com/uploads/users/1942851/user-image-medium.jpg?697009284",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1942851/user-image-small.jpg?1275531020",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1942851/user-image-large.jpg?940032815",
+            "_links": {
+              "self": {
+                "href": "/users/1942851",
+                "title": "Henning Gustavsen - Norwegian Language Teacher"
+              },
+              "my_classes": {
+                "href": "/users/1942851/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1942851/completions",
+                "title": "Completions for User: 1942851"
+              },
+              "discussions": {
+                "href": "/users/1942851/discussions",
+                "title": "Discussions for User: 1942851"
+              },
+              "followers": {
+                "href": "/users/1942851/followers",
+                "title": "Followers for User: 1942851"
+              },
+              "following": {
+                "href": "/users/1942851/following",
+                "title": "Following for User: 1942851"
+              },
+              "notifications": {
+                "href": "/users/1942851/notifications",
+                "title": "Notifications for User: 1942851"
+              },
+              "projects": {
+                "href": "/users/1942851/projects",
+                "title": "Projects for User: 1942851"
+              },
+              "rosters": {
+                "href": "/users/1942851/rosters",
+                "title": "Rosters for User: 1942851"
+              },
+              "userTags": {
+                "href": "/users/1942851/userTags",
+                "title": "UserTags for User: 1942851"
+              },
+              "votes": {
+                "href": "/users/1942851/votes",
+                "title": "Votes for User: 1942851"
+              },
+              "wishlist": {
+                "href": "/users/1942851/wishlist",
+                "title": "Wishlist for User: 1942851"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 546837,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0NjgzNyJ9",
+        "sku": 1132335184,
+        "title": "Simplified Human Anatomy Drawing - Add Depth To Your Figure Drawings",
+        "project_title": "Treat every lecture and demo is an assignment. I recommend you watch the video al the way through uninterrupted the first time. Watch it again and take notes. Watch it a third time and draw along with",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1d19e8c25f02623ad13be4e7d506af6d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1d19e8c25f02623ad13be4e7d506af6d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1d19e8c25f02623ad13be4e7d506af6d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Simplified-Human-Anatomy-Drawing-Add-Depth-To-Your-Figure-Drawings/1132335184",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 47,
+        "total_videos_duration": "9h 24m",
+        "total_videos_duration_seconds": 33829,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 765,
+        "num_projects": 5,
+        "num_discussions": 21,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Dec 27, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1132335184",
+            "title": "Simplified Human Anatomy Drawing - Add Depth To Your Figure Drawings"
+          },
+          "teacher": {
+            "href": "/users/4871372",
+            "title": "ROBERT JOYNER - Make Art Fun"
+          },
+          "units": {
+            "href": "/classes/1132335184/units",
+            "title": "Units for Class: 1132335184"
+          },
+          "sessions": {
+            "href": "/classes/1132335184/sessions",
+            "title": "Sessions for Class: 1132335184"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1132335184/students",
+            "title": "Students for Class: 1132335184"
+          },
+          "projects": {
+            "href": "/classes/1132335184/projects",
+            "title": "Projects for Class: 1132335184"
+          },
+          "reviews": {
+            "href": "/classes/1132335184/reviews",
+            "title": "Reviews for Class: 1132335184"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1286366,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTI4NjM2NiJ9",
+            "username": 4871372,
+            "first_name": "ROBERT",
+            "last_name": "JOYNER",
+            "full_name": "ROBERT JOYNER",
+            "vanity_username": "rjoyner",
+            "headline": "Make Art Fun",
+            "pic": "https://static.skillshare.com/uploads/users/4871372/user-image-medium.png?1674488182",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4871372/user-image-small.png?1222190339",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4871372/user-image-large.png?481065695",
+            "_links": {
+              "self": {
+                "href": "/users/4871372",
+                "title": "ROBERT JOYNER - Make Art Fun"
+              },
+              "my_classes": {
+                "href": "/users/4871372/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4871372/completions",
+                "title": "Completions for User: 4871372"
+              },
+              "discussions": {
+                "href": "/users/4871372/discussions",
+                "title": "Discussions for User: 4871372"
+              },
+              "followers": {
+                "href": "/users/4871372/followers",
+                "title": "Followers for User: 4871372"
+              },
+              "following": {
+                "href": "/users/4871372/following",
+                "title": "Following for User: 4871372"
+              },
+              "notifications": {
+                "href": "/users/4871372/notifications",
+                "title": "Notifications for User: 4871372"
+              },
+              "projects": {
+                "href": "/users/4871372/projects",
+                "title": "Projects for User: 4871372"
+              },
+              "rosters": {
+                "href": "/users/4871372/rosters",
+                "title": "Rosters for User: 4871372"
+              },
+              "userTags": {
+                "href": "/users/4871372/userTags",
+                "title": "UserTags for User: 4871372"
+              },
+              "votes": {
+                "href": "/users/4871372/votes",
+                "title": "Votes for User: 4871372"
+              },
+              "wishlist": {
+                "href": "/users/4871372/wishlist",
+                "title": "Wishlist for User: 4871372"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 546853,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0Njg1MyJ9",
+        "sku": 576832446,
+        "title": "Norwegian A2 Part3 ( Job Application, CV, Job Interview, Norwegian Work-life, Economy)",
+        "project_title": "The Class Project in this course is to write your own CV in Norwegian.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/cac96962f57feb540746ad43dbbc1635/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/cac96962f57feb540746ad43dbbc1635/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/cac96962f57feb540746ad43dbbc1635/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Norwegian-A2-Part3-Job-Application-CV-Job-Interview-Norwegian-Work-life-Economy/576832446",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 16,
+        "total_videos_duration": "52m",
+        "total_videos_duration_seconds": 3114,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 189,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 17, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/576832446",
+            "title": "Norwegian A2 Part3 ( Job Application, CV, Job Interview, Norwegian Work-life, Economy)"
+          },
+          "teacher": {
+            "href": "/users/1942851",
+            "title": "Henning Gustavsen - Norwegian Language Teacher"
+          },
+          "units": {
+            "href": "/classes/576832446/units",
+            "title": "Units for Class: 576832446"
+          },
+          "sessions": {
+            "href": "/classes/576832446/sessions",
+            "title": "Sessions for Class: 576832446"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/576832446/students",
+            "title": "Students for Class: 576832446"
+          },
+          "projects": {
+            "href": "/classes/576832446/projects",
+            "title": "Projects for Class: 576832446"
+          },
+          "reviews": {
+            "href": "/classes/576832446/reviews",
+            "title": "Reviews for Class: 576832446"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 648459,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjQ4NDU5In0=",
+            "username": 1942851,
+            "first_name": "Henning",
+            "last_name": "Gustavsen",
+            "full_name": "Henning Gustavsen",
+            "vanity_username": "norwegian",
+            "headline": "Norwegian Language Teacher",
+            "pic": "https://static.skillshare.com/uploads/users/1942851/user-image-medium.jpg?697009284",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1942851/user-image-small.jpg?1275531020",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1942851/user-image-large.jpg?940032815",
+            "_links": {
+              "self": {
+                "href": "/users/1942851",
+                "title": "Henning Gustavsen - Norwegian Language Teacher"
+              },
+              "my_classes": {
+                "href": "/users/1942851/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1942851/completions",
+                "title": "Completions for User: 1942851"
+              },
+              "discussions": {
+                "href": "/users/1942851/discussions",
+                "title": "Discussions for User: 1942851"
+              },
+              "followers": {
+                "href": "/users/1942851/followers",
+                "title": "Followers for User: 1942851"
+              },
+              "following": {
+                "href": "/users/1942851/following",
+                "title": "Following for User: 1942851"
+              },
+              "notifications": {
+                "href": "/users/1942851/notifications",
+                "title": "Notifications for User: 1942851"
+              },
+              "projects": {
+                "href": "/users/1942851/projects",
+                "title": "Projects for User: 1942851"
+              },
+              "rosters": {
+                "href": "/users/1942851/rosters",
+                "title": "Rosters for User: 1942851"
+              },
+              "userTags": {
+                "href": "/users/1942851/userTags",
+                "title": "UserTags for User: 1942851"
+              },
+              "votes": {
+                "href": "/users/1942851/votes",
+                "title": "Votes for User: 1942851"
+              },
+              "wishlist": {
+                "href": "/users/1942851/wishlist",
+                "title": "Wishlist for User: 1942851"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 546863,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0Njg2MyJ9",
+        "sku": 1589073988,
+        "title": "Neo Soul Guitar For Beginners",
+        "project_title": "Write a neo soul guitar riff. Make sure you include:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6288340006001/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6288340006001/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6288340006001/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Neo-Soul-Guitar-For-Beginners/1589073988",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 16,
+        "total_videos_duration": "36m",
+        "total_videos_duration_seconds": 2156,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 339,
+        "num_projects": 1,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Dec 25, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1589073988",
+            "title": "Neo Soul Guitar For Beginners"
+          },
+          "teacher": {
+            "href": "/users/368330848",
+            "title": "David Lovejoy"
+          },
+          "units": {
+            "href": "/classes/1589073988/units",
+            "title": "Units for Class: 1589073988"
+          },
+          "sessions": {
+            "href": "/classes/1589073988/sessions",
+            "title": "Sessions for Class: 1589073988"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1589073988/students",
+            "title": "Students for Class: 1589073988"
+          },
+          "projects": {
+            "href": "/classes/1589073988/projects",
+            "title": "Projects for Class: 1589073988"
+          },
+          "reviews": {
+            "href": "/classes/1589073988/reviews",
+            "title": "Reviews for Class: 1589073988"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9797591,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTc5NzU5MSJ9",
+            "username": 368330848,
+            "first_name": "David",
+            "last_name": "Lovejoy",
+            "full_name": "David Lovejoy",
+            "vanity_username": "davidlovejoy",
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/368330848/user-image-medium.jpg?925571323",
+            "pic_sm": "https://static.skillshare.com/uploads/users/368330848/user-image-small.jpg?1168468895",
+            "pic_lg": "https://static.skillshare.com/uploads/users/368330848/user-image-large.jpg?690499321",
+            "_links": {
+              "self": {
+                "href": "/users/368330848",
+                "title": "David Lovejoy"
+              },
+              "my_classes": {
+                "href": "/users/368330848/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/368330848/completions",
+                "title": "Completions for User: 368330848"
+              },
+              "discussions": {
+                "href": "/users/368330848/discussions",
+                "title": "Discussions for User: 368330848"
+              },
+              "followers": {
+                "href": "/users/368330848/followers",
+                "title": "Followers for User: 368330848"
+              },
+              "following": {
+                "href": "/users/368330848/following",
+                "title": "Following for User: 368330848"
+              },
+              "notifications": {
+                "href": "/users/368330848/notifications",
+                "title": "Notifications for User: 368330848"
+              },
+              "projects": {
+                "href": "/users/368330848/projects",
+                "title": "Projects for User: 368330848"
+              },
+              "rosters": {
+                "href": "/users/368330848/rosters",
+                "title": "Rosters for User: 368330848"
+              },
+              "userTags": {
+                "href": "/users/368330848/userTags",
+                "title": "UserTags for User: 368330848"
+              },
+              "votes": {
+                "href": "/users/368330848/votes",
+                "title": "Votes for User: 368330848"
+              },
+              "wishlist": {
+                "href": "/users/368330848/wishlist",
+                "title": "Wishlist for User: 368330848"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 546868,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0Njg2OCJ9",
+        "sku": 160558212,
+        "title": "Adobe After Effect Complete Motion Graphics Course",
+        "project_title": "Final  Assignment :",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/7baf6bfd00627fa67d961f30f9ff8263/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/7baf6bfd00627fa67d961f30f9ff8263/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/7baf6bfd00627fa67d961f30f9ff8263/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Adobe-After-Effect-Complete-Motion-Graphics-Course/160558212",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 22,
+        "total_videos_duration": "4h 14m",
+        "total_videos_duration_seconds": 15231,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 148,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 12, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/160558212",
+            "title": "Adobe After Effect Complete Motion Graphics Course"
+          },
+          "teacher": {
+            "href": "/users/6093502",
+            "title": "Yash Rajoliya - A lot more than creative Professional"
+          },
+          "units": {
+            "href": "/classes/160558212/units",
+            "title": "Units for Class: 160558212"
+          },
+          "sessions": {
+            "href": "/classes/160558212/sessions",
+            "title": "Sessions for Class: 160558212"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/160558212/students",
+            "title": "Students for Class: 160558212"
+          },
+          "projects": {
+            "href": "/classes/160558212/projects",
+            "title": "Projects for Class: 160558212"
+          },
+          "reviews": {
+            "href": "/classes/160558212/reviews",
+            "title": "Reviews for Class: 160558212"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6022859,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjAyMjg1OSJ9",
+            "username": 6093502,
+            "first_name": "Yash",
+            "last_name": "Rajoliya",
+            "full_name": "Yash Rajoliya",
+            "vanity_username": null,
+            "headline": "A lot more than creative Professional",
+            "pic": "https://static.skillshare.com/uploads/users/6093502/user-image-medium.png?1722690848",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6093502/user-image-small.png?1323789821",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6093502/user-image-large.png?855287764",
+            "_links": {
+              "self": {
+                "href": "/users/6093502",
+                "title": "Yash Rajoliya - A lot more than creative Professional"
+              },
+              "my_classes": {
+                "href": "/users/6093502/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6093502/completions",
+                "title": "Completions for User: 6093502"
+              },
+              "discussions": {
+                "href": "/users/6093502/discussions",
+                "title": "Discussions for User: 6093502"
+              },
+              "followers": {
+                "href": "/users/6093502/followers",
+                "title": "Followers for User: 6093502"
+              },
+              "following": {
+                "href": "/users/6093502/following",
+                "title": "Following for User: 6093502"
+              },
+              "notifications": {
+                "href": "/users/6093502/notifications",
+                "title": "Notifications for User: 6093502"
+              },
+              "projects": {
+                "href": "/users/6093502/projects",
+                "title": "Projects for User: 6093502"
+              },
+              "rosters": {
+                "href": "/users/6093502/rosters",
+                "title": "Rosters for User: 6093502"
+              },
+              "userTags": {
+                "href": "/users/6093502/userTags",
+                "title": "UserTags for User: 6093502"
+              },
+              "votes": {
+                "href": "/users/6093502/votes",
+                "title": "Votes for User: 6093502"
+              },
+              "wishlist": {
+                "href": "/users/6093502/wishlist",
+                "title": "Wishlist for User: 6093502"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 546869,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0Njg2OSJ9",
+        "sku": 727881072,
+        "title": "Procreate Jungle Vibes -  Beautiful Giraffe in The Wild TWO FREE BRUSHES",
+        "project_title": "Your project is to apply what you have learned in this course and illustrate your favorite jungle animal and some decorative plants.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b266e569d3ab56a24ccf681abe9a57dc/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b266e569d3ab56a24ccf681abe9a57dc/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b266e569d3ab56a24ccf681abe9a57dc/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Procreate-Jungle-Vibes-Beautiful-Giraffe-in-The-Wild-TWO-FREE-BRUSHES/727881072",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "31m",
+        "total_videos_duration_seconds": 1846,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 237,
+        "num_projects": 24,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Dec 23, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/727881072",
+            "title": "Procreate Jungle Vibes -  Beautiful Giraffe in The Wild TWO FREE BRUSHES"
+          },
+          "teacher": {
+            "href": "/users/658376950",
+            "title": "Cristina Handrea"
+          },
+          "units": {
+            "href": "/classes/727881072/units",
+            "title": "Units for Class: 727881072"
+          },
+          "sessions": {
+            "href": "/classes/727881072/sessions",
+            "title": "Sessions for Class: 727881072"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/727881072/students",
+            "title": "Students for Class: 727881072"
+          },
+          "projects": {
+            "href": "/classes/727881072/projects",
+            "title": "Projects for Class: 727881072"
+          },
+          "reviews": {
+            "href": "/classes/727881072/reviews",
+            "title": "Reviews for Class: 727881072"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21405464,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjE0MDU0NjQifQ==",
+            "username": 658376950,
+            "first_name": "Cristina",
+            "last_name": "Handrea",
+            "full_name": "Cristina Handrea",
+            "vanity_username": "artchristine",
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/658376950/user-image-medium.jpg?118074237",
+            "pic_sm": "https://static.skillshare.com/uploads/users/658376950/user-image-small.jpg?1968125754",
+            "pic_lg": "https://static.skillshare.com/uploads/users/658376950/user-image-large.jpg?1801487791",
+            "_links": {
+              "self": {
+                "href": "/users/658376950",
+                "title": "Cristina Handrea"
+              },
+              "my_classes": {
+                "href": "/users/658376950/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/658376950/completions",
+                "title": "Completions for User: 658376950"
+              },
+              "discussions": {
+                "href": "/users/658376950/discussions",
+                "title": "Discussions for User: 658376950"
+              },
+              "followers": {
+                "href": "/users/658376950/followers",
+                "title": "Followers for User: 658376950"
+              },
+              "following": {
+                "href": "/users/658376950/following",
+                "title": "Following for User: 658376950"
+              },
+              "notifications": {
+                "href": "/users/658376950/notifications",
+                "title": "Notifications for User: 658376950"
+              },
+              "projects": {
+                "href": "/users/658376950/projects",
+                "title": "Projects for User: 658376950"
+              },
+              "rosters": {
+                "href": "/users/658376950/rosters",
+                "title": "Rosters for User: 658376950"
+              },
+              "userTags": {
+                "href": "/users/658376950/userTags",
+                "title": "UserTags for User: 658376950"
+              },
+              "votes": {
+                "href": "/users/658376950/votes",
+                "title": "Votes for User: 658376950"
+              },
+              "wishlist": {
+                "href": "/users/658376950/wishlist",
+                "title": "Wishlist for User: 658376950"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 546878,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU0Njg3OCJ9",
+        "sku": 2054241604,
+        "title": "Norwegian Language A2 Part4 ( Health & Diet, Norwegian Health System, Seasons Traditions & Holydays)",
+        "project_title": "Write a short text in Norwegian where you describe the health system in your country.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/4287639874fce7b063ee3888fe96608d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/4287639874fce7b063ee3888fe96608d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/4287639874fce7b063ee3888fe96608d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Norwegian-Language-A2-Part4-Health-Diet-Norwegian-Health-System-Seasons-Traditions-Holydays/2054241604",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 18,
+        "total_videos_duration": "1h 9m",
+        "total_videos_duration_seconds": 4123,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 199,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jan 25, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2054241604",
+            "title": "Norwegian Language A2 Part4 ( Health & Diet, Norwegian Health System, Seasons Traditions & Holydays)"
+          },
+          "teacher": {
+            "href": "/users/1942851",
+            "title": "Henning Gustavsen - Norwegian Language Teacher"
+          },
+          "units": {
+            "href": "/classes/2054241604/units",
+            "title": "Units for Class: 2054241604"
+          },
+          "sessions": {
+            "href": "/classes/2054241604/sessions",
+            "title": "Sessions for Class: 2054241604"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/2054241604/students",
+            "title": "Students for Class: 2054241604"
+          },
+          "projects": {
+            "href": "/classes/2054241604/projects",
+            "title": "Projects for Class: 2054241604"
+          },
+          "reviews": {
+            "href": "/classes/2054241604/reviews",
+            "title": "Reviews for Class: 2054241604"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 648459,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjQ4NDU5In0=",
+            "username": 1942851,
+            "first_name": "Henning",
+            "last_name": "Gustavsen",
+            "full_name": "Henning Gustavsen",
+            "vanity_username": "norwegian",
+            "headline": "Norwegian Language Teacher",
+            "pic": "https://static.skillshare.com/uploads/users/1942851/user-image-medium.jpg?697009284",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1942851/user-image-small.jpg?1275531020",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1942851/user-image-large.jpg?940032815",
+            "_links": {
+              "self": {
+                "href": "/users/1942851",
+                "title": "Henning Gustavsen - Norwegian Language Teacher"
+              },
+              "my_classes": {
+                "href": "/users/1942851/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1942851/completions",
+                "title": "Completions for User: 1942851"
+              },
+              "discussions": {
+                "href": "/users/1942851/discussions",
+                "title": "Discussions for User: 1942851"
+              },
+              "followers": {
+                "href": "/users/1942851/followers",
+                "title": "Followers for User: 1942851"
+              },
+              "following": {
+                "href": "/users/1942851/following",
+                "title": "Following for User: 1942851"
+              },
+              "notifications": {
+                "href": "/users/1942851/notifications",
+                "title": "Notifications for User: 1942851"
+              },
+              "projects": {
+                "href": "/users/1942851/projects",
+                "title": "Projects for User: 1942851"
+              },
+              "rosters": {
+                "href": "/users/1942851/rosters",
+                "title": "Rosters for User: 1942851"
+              },
+              "userTags": {
+                "href": "/users/1942851/userTags",
+                "title": "UserTags for User: 1942851"
+              },
+              "votes": {
+                "href": "/users/1942851/votes",
+                "title": "Votes for User: 1942851"
+              },
+              "wishlist": {
+                "href": "/users/1942851/wishlist",
+                "title": "Wishlist for User: 1942851"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "github>tlan16/renovate-preset:default",
+        "github>tlan16/renovate-preset:groupAllNonMajor",
+        "schedule:daily",
+        ":automergeMinor",
+        ":automergeDigest",
+        ":automergeRequireAllStatusChecks",
+        ":automergeTypes",
+        ":automergeTesters",
+        ":automergeLinters",
+        ":rebaseStalePrs",
+    ],
+    "packageRules": [{
+        "packageNames": ["node"],
+        "matchUpdateTypes": ["minor", "patch", "major"],
+        "groupName": "node",
+    }],
+    "prHourlyLimit": 99,
+}

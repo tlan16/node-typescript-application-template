@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1325",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1324",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1326",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 566366,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NjM2NiJ9",
+        "sku": 1892063674,
+        "title": "Digital Patterns: Super Simple Quickie Patterns using the Free KaleidoPaint app",
+        "project_title": "After viewing the series of videos, go to the projects/resources area:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/8aa48ef178e9443b5b7d05c5b0b76148/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/8aa48ef178e9443b5b7d05c5b0b76148/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/8aa48ef178e9443b5b7d05c5b0b76148/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Digital-Patterns-Super-Simple-Quickie-Patterns-using-the-Free-KaleidoPaint-app/1892063674",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "33m",
+        "total_videos_duration_seconds": 2009,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 60,
+        "num_projects": 1,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 27, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1892063674",
+            "title": "Digital Patterns: Super Simple Quickie Patterns using the Free KaleidoPaint app"
+          },
+          "teacher": {
+            "href": "/users/2729803",
+            "title": "Francine Champagne - Tessellation Artist"
+          },
+          "units": {
+            "href": "/classes/1892063674/units",
+            "title": "Units for Class: 1892063674"
+          },
+          "sessions": {
+            "href": "/classes/1892063674/sessions",
+            "title": "Sessions for Class: 1892063674"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1892063674/students",
+            "title": "Students for Class: 1892063674"
+          },
+          "projects": {
+            "href": "/classes/1892063674/projects",
+            "title": "Projects for Class: 1892063674"
+          },
+          "reviews": {
+            "href": "/classes/1892063674/reviews",
+            "title": "Reviews for Class: 1892063674"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8285148,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODI4NTE0OCJ9",
+            "username": 2729803,
+            "first_name": "Francine",
+            "last_name": "Champagne",
+            "full_name": "Francine Champagne",
+            "vanity_username": "francinechampagne",
+            "headline": "Tessellation Artist",
+            "pic": "https://static.skillshare.com/uploads/users/2729803/user-image-medium.jpg?1300201304",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2729803/user-image-small.jpg?47159261",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2729803/user-image-large.jpg?373829905",
+            "_links": {
+              "self": {
+                "href": "/users/2729803",
+                "title": "Francine Champagne - Tessellation Artist"
+              },
+              "my_classes": {
+                "href": "/users/2729803/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2729803/completions",
+                "title": "Completions for User: 2729803"
+              },
+              "discussions": {
+                "href": "/users/2729803/discussions",
+                "title": "Discussions for User: 2729803"
+              },
+              "followers": {
+                "href": "/users/2729803/followers",
+                "title": "Followers for User: 2729803"
+              },
+              "following": {
+                "href": "/users/2729803/following",
+                "title": "Following for User: 2729803"
+              },
+              "notifications": {
+                "href": "/users/2729803/notifications",
+                "title": "Notifications for User: 2729803"
+              },
+              "projects": {
+                "href": "/users/2729803/projects",
+                "title": "Projects for User: 2729803"
+              },
+              "rosters": {
+                "href": "/users/2729803/rosters",
+                "title": "Rosters for User: 2729803"
+              },
+              "userTags": {
+                "href": "/users/2729803/userTags",
+                "title": "UserTags for User: 2729803"
+              },
+              "votes": {
+                "href": "/users/2729803/votes",
+                "title": "Votes for User: 2729803"
+              },
+              "wishlist": {
+                "href": "/users/2729803/wishlist",
+                "title": "Wishlist for User: 2729803"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 566370,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NjM3MCJ9",
+        "sku": 2001027880,
+        "title": "A Beginners Guide: Create a Seamless Pattern Using Hand-drawn Elements in Affinity Designer & Photo",
+        "project_title": "In this project you will develop your editing skills and eye for spacing within patterns. How to technically place your elements to create a repeat pattern. You will also learn how to take advantage o",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ada01124a42dd4728fc59e8cf3628d75/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ada01124a42dd4728fc59e8cf3628d75/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ada01124a42dd4728fc59e8cf3628d75/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/A-Beginners-Guide-Create-a-Seamless-Pattern-Using-Hand-drawn-Elements-in-Affinity-Designer-Photo/2001027880",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "34m",
+        "total_videos_duration_seconds": 2061,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 183,
+        "num_projects": 5,
+        "num_discussions": 6,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 25, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2001027880",
+            "title": "A Beginners Guide: Create a Seamless Pattern Using Hand-drawn Elements in Affinity Designer & Photo"
+          },
+          "teacher": {
+            "href": "/users/488002570",
+            "title": "Sheleen Cocea - Teacher of Pattern Design in Affinity "
+          },
+          "units": {
+            "href": "/classes/2001027880/units",
+            "title": "Units for Class: 2001027880"
+          },
+          "sessions": {
+            "href": "/classes/2001027880/sessions",
+            "title": "Sessions for Class: 2001027880"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2001027880/students",
+            "title": "Students for Class: 2001027880"
+          },
+          "projects": {
+            "href": "/classes/2001027880/projects",
+            "title": "Projects for Class: 2001027880"
+          },
+          "reviews": {
+            "href": "/classes/2001027880/reviews",
+            "title": "Reviews for Class: 2001027880"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25321716,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUzMjE3MTYifQ==",
+            "username": 488002570,
+            "first_name": "Sheleen",
+            "last_name": "Cocea",
+            "full_name": "Sheleen Cocea",
+            "vanity_username": "sheleencocea",
+            "headline": "Teacher of Pattern Design in Affinity ",
+            "pic": "https://static.skillshare.com/uploads/users/488002570/user-image-medium.jpg?2102354482",
+            "pic_sm": "https://static.skillshare.com/uploads/users/488002570/user-image-small.jpg?1283044598",
+            "pic_lg": "https://static.skillshare.com/uploads/users/488002570/user-image-large.jpg?149085398",
+            "_links": {
+              "self": {
+                "href": "/users/488002570",
+                "title": "Sheleen Cocea - Teacher of Pattern Design in Affinity "
+              },
+              "my_classes": {
+                "href": "/users/488002570/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/488002570/completions",
+                "title": "Completions for User: 488002570"
+              },
+              "discussions": {
+                "href": "/users/488002570/discussions",
+                "title": "Discussions for User: 488002570"
+              },
+              "followers": {
+                "href": "/users/488002570/followers",
+                "title": "Followers for User: 488002570"
+              },
+              "following": {
+                "href": "/users/488002570/following",
+                "title": "Following for User: 488002570"
+              },
+              "notifications": {
+                "href": "/users/488002570/notifications",
+                "title": "Notifications for User: 488002570"
+              },
+              "projects": {
+                "href": "/users/488002570/projects",
+                "title": "Projects for User: 488002570"
+              },
+              "rosters": {
+                "href": "/users/488002570/rosters",
+                "title": "Rosters for User: 488002570"
+              },
+              "userTags": {
+                "href": "/users/488002570/userTags",
+                "title": "UserTags for User: 488002570"
+              },
+              "votes": {
+                "href": "/users/488002570/votes",
+                "title": "Votes for User: 488002570"
+              },
+              "wishlist": {
+                "href": "/users/488002570/wishlist",
+                "title": "Wishlist for User: 488002570"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 566379,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NjM3OSJ9",
+        "sku": 1403172174,
+        "title": "14 Days of Oil Pastel Teddy Bears",
+        "project_title": "As for the class project I encourage you to join along with me and paint these simple and easy oil pastel Teddy bears as the whole class is in real time and upload the paintings of the Teddy Bears you",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6c82d110b3564ace78ad56de3bc6a324/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6c82d110b3564ace78ad56de3bc6a324/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6c82d110b3564ace78ad56de3bc6a324/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/14-Days-of-Oil-Pastel-Teddy-Bears/1403172174",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 32,
+        "total_videos_duration": "4h 15m",
+        "total_videos_duration_seconds": 15324,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 94,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 29, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1403172174",
+            "title": "14 Days of Oil Pastel Teddy Bears"
+          },
+          "teacher": {
+            "href": "/users/2621268",
+            "title": "Vishal Munshi"
+          },
+          "units": {
+            "href": "/classes/1403172174/units",
+            "title": "Units for Class: 1403172174"
+          },
+          "sessions": {
+            "href": "/classes/1403172174/sessions",
+            "title": "Sessions for Class: 1403172174"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1403172174/students",
+            "title": "Students for Class: 1403172174"
+          },
+          "projects": {
+            "href": "/classes/1403172174/projects",
+            "title": "Projects for Class: 1403172174"
+          },
+          "reviews": {
+            "href": "/classes/1403172174/reviews",
+            "title": "Reviews for Class: 1403172174"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4030704,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDAzMDcwNCJ9",
+            "username": 2621268,
+            "first_name": "Vishal",
+            "last_name": "Munshi",
+            "full_name": "Vishal Munshi",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/2621268/user-image-medium.jpg?852330361",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2621268/user-image-small.jpg?1537300970",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2621268/user-image-large.jpg?590451890",
+            "_links": {
+              "self": {
+                "href": "/users/2621268",
+                "title": "Vishal Munshi"
+              },
+              "my_classes": {
+                "href": "/users/2621268/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2621268/completions",
+                "title": "Completions for User: 2621268"
+              },
+              "discussions": {
+                "href": "/users/2621268/discussions",
+                "title": "Discussions for User: 2621268"
+              },
+              "followers": {
+                "href": "/users/2621268/followers",
+                "title": "Followers for User: 2621268"
+              },
+              "following": {
+                "href": "/users/2621268/following",
+                "title": "Following for User: 2621268"
+              },
+              "notifications": {
+                "href": "/users/2621268/notifications",
+                "title": "Notifications for User: 2621268"
+              },
+              "projects": {
+                "href": "/users/2621268/projects",
+                "title": "Projects for User: 2621268"
+              },
+              "rosters": {
+                "href": "/users/2621268/rosters",
+                "title": "Rosters for User: 2621268"
+              },
+              "userTags": {
+                "href": "/users/2621268/userTags",
+                "title": "UserTags for User: 2621268"
+              },
+              "votes": {
+                "href": "/users/2621268/votes",
+                "title": "Votes for User: 2621268"
+              },
+              "wishlist": {
+                "href": "/users/2621268/wishlist",
+                "title": "Wishlist for User: 2621268"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 566381,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NjM4MSJ9",
+        "sku": 439793954,
+        "title": "The Ultimate Crochet Course for Beginners: Learn All the Basics",
+        "project_title": "Share a picture of your creations!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ffed0b779f20814937ccb0c7d7e9f75f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ffed0b779f20814937ccb0c7d7e9f75f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ffed0b779f20814937ccb0c7d7e9f75f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-Ultimate-Crochet-Course-for-Beginners-Learn-All-the-Basics/439793954",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 40,
+        "total_videos_duration": "5h 60m",
+        "total_videos_duration_seconds": 21584,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1557,
+        "num_projects": 5,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 18, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/439793954",
+            "title": "The Ultimate Crochet Course for Beginners: Learn All the Basics"
+          },
+          "teacher": {
+            "href": "/users/82416339",
+            "title": "Emilie Bolduc - Crochetmilie - Modern Crochet"
+          },
+          "units": {
+            "href": "/classes/439793954/units",
+            "title": "Units for Class: 439793954"
+          },
+          "sessions": {
+            "href": "/classes/439793954/sessions",
+            "title": "Sessions for Class: 439793954"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/439793954/students",
+            "title": "Students for Class: 439793954"
+          },
+          "projects": {
+            "href": "/classes/439793954/projects",
+            "title": "Projects for Class: 439793954"
+          },
+          "reviews": {
+            "href": "/classes/439793954/reviews",
+            "title": "Reviews for Class: 439793954"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25323220,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUzMjMyMjAifQ==",
+            "username": 82416339,
+            "first_name": "Emilie",
+            "last_name": "Bolduc",
+            "full_name": "Emilie Bolduc",
+            "vanity_username": "crochetmilie",
+            "headline": "Crochetmilie - Modern Crochet",
+            "pic": "https://static.skillshare.com/uploads/users/82416339/user-image-medium.png?836094902",
+            "pic_sm": "https://static.skillshare.com/uploads/users/82416339/user-image-small.png?883168732",
+            "pic_lg": "https://static.skillshare.com/uploads/users/82416339/user-image-large.png?1576108465",
+            "_links": {
+              "self": {
+                "href": "/users/82416339",
+                "title": "Emilie Bolduc - Crochetmilie - Modern Crochet"
+              },
+              "my_classes": {
+                "href": "/users/82416339/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/82416339/completions",
+                "title": "Completions for User: 82416339"
+              },
+              "discussions": {
+                "href": "/users/82416339/discussions",
+                "title": "Discussions for User: 82416339"
+              },
+              "followers": {
+                "href": "/users/82416339/followers",
+                "title": "Followers for User: 82416339"
+              },
+              "following": {
+                "href": "/users/82416339/following",
+                "title": "Following for User: 82416339"
+              },
+              "notifications": {
+                "href": "/users/82416339/notifications",
+                "title": "Notifications for User: 82416339"
+              },
+              "projects": {
+                "href": "/users/82416339/projects",
+                "title": "Projects for User: 82416339"
+              },
+              "rosters": {
+                "href": "/users/82416339/rosters",
+                "title": "Rosters for User: 82416339"
+              },
+              "userTags": {
+                "href": "/users/82416339/userTags",
+                "title": "UserTags for User: 82416339"
+              },
+              "votes": {
+                "href": "/users/82416339/votes",
+                "title": "Votes for User: 82416339"
+              },
+              "wishlist": {
+                "href": "/users/82416339/wishlist",
+                "title": "Wishlist for User: 82416339"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 566382,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NjM4MiJ9",
+        "sku": 1829172693,
+        "title": "Gift a handmade toy for your pet - Create a macrame rope toy.",
+        "project_title": "Make your own Macrame toy for your pet -",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/060c8de64f585bcb3b3345332d4464d5/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/060c8de64f585bcb3b3345332d4464d5/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/060c8de64f585bcb3b3345332d4464d5/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Gift-a-handmade-toy-for-your-pet-Create-a-macrame-rope-toy/1829172693",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "29m",
+        "total_videos_duration_seconds": 1732,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 130,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 25, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1829172693",
+            "title": "Gift a handmade toy for your pet - Create a macrame rope toy."
+          },
+          "teacher": {
+            "href": "/users/143933545",
+            "title": "Cloudia David - Co-Founder | Designer | Artist"
+          },
+          "units": {
+            "href": "/classes/1829172693/units",
+            "title": "Units for Class: 1829172693"
+          },
+          "sessions": {
+            "href": "/classes/1829172693/sessions",
+            "title": "Sessions for Class: 1829172693"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1829172693/students",
+            "title": "Students for Class: 1829172693"
+          },
+          "projects": {
+            "href": "/classes/1829172693/projects",
+            "title": "Projects for Class: 1829172693"
+          },
+          "reviews": {
+            "href": "/classes/1829172693/reviews",
+            "title": "Reviews for Class: 1829172693"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19624132,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTk2MjQxMzIifQ==",
+            "username": 143933545,
+            "first_name": "Cloudia",
+            "last_name": "David",
+            "full_name": "Cloudia David",
+            "vanity_username": "harshandcloudiadesign",
+            "headline": "Co-Founder | Designer | Artist",
+            "pic": "https://static.skillshare.com/uploads/users/143933545/user-image-medium.jpg?439508130",
+            "pic_sm": "https://static.skillshare.com/uploads/users/143933545/user-image-small.jpg?1221244443",
+            "pic_lg": "https://static.skillshare.com/uploads/users/143933545/user-image-large.jpg?682994632",
+            "_links": {
+              "self": {
+                "href": "/users/143933545",
+                "title": "Cloudia David - Co-Founder | Designer | Artist"
+              },
+              "my_classes": {
+                "href": "/users/143933545/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/143933545/completions",
+                "title": "Completions for User: 143933545"
+              },
+              "discussions": {
+                "href": "/users/143933545/discussions",
+                "title": "Discussions for User: 143933545"
+              },
+              "followers": {
+                "href": "/users/143933545/followers",
+                "title": "Followers for User: 143933545"
+              },
+              "following": {
+                "href": "/users/143933545/following",
+                "title": "Following for User: 143933545"
+              },
+              "notifications": {
+                "href": "/users/143933545/notifications",
+                "title": "Notifications for User: 143933545"
+              },
+              "projects": {
+                "href": "/users/143933545/projects",
+                "title": "Projects for User: 143933545"
+              },
+              "rosters": {
+                "href": "/users/143933545/rosters",
+                "title": "Rosters for User: 143933545"
+              },
+              "userTags": {
+                "href": "/users/143933545/userTags",
+                "title": "UserTags for User: 143933545"
+              },
+              "votes": {
+                "href": "/users/143933545/votes",
+                "title": "Votes for User: 143933545"
+              },
+              "wishlist": {
+                "href": "/users/143933545/wishlist",
+                "title": "Wishlist for User: 143933545"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 566384,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NjM4NCJ9",
+        "sku": 250217757,
+        "title": "Perspective in-action I Study of Light & Shadow - Urban Sketching Series Part 2",
+        "project_title": "I have designed this class to be in real time so that you can join me, as we together explore the concepts of light & shadow, and perspective-in-action. I encourage you to draw along with me through t",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/2ed7df08003a880365015aed244e21f8/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/2ed7df08003a880365015aed244e21f8/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/2ed7df08003a880365015aed244e21f8/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Perspective-in-action-I-Study-of-Light-Shadow-Urban-Sketching-Series-Part-2/250217757",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 23m",
+        "total_videos_duration_seconds": 4985,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 86,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 1, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/250217757",
+            "title": "Perspective in-action I Study of Light & Shadow - Urban Sketching Series Part 2"
+          },
+          "teacher": {
+            "href": "/users/713495559",
+            "title": "Shimona Ghosh - @artinject_"
+          },
+          "units": {
+            "href": "/classes/250217757/units",
+            "title": "Units for Class: 250217757"
+          },
+          "sessions": {
+            "href": "/classes/250217757/sessions",
+            "title": "Sessions for Class: 250217757"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/250217757/students",
+            "title": "Students for Class: 250217757"
+          },
+          "projects": {
+            "href": "/classes/250217757/projects",
+            "title": "Projects for Class: 250217757"
+          },
+          "reviews": {
+            "href": "/classes/250217757/reviews",
+            "title": "Reviews for Class: 250217757"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 14951430,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTQ5NTE0MzAifQ==",
+            "username": 713495559,
+            "first_name": "Shimona",
+            "last_name": "Ghosh",
+            "full_name": "Shimona Ghosh",
+            "vanity_username": "artinject",
+            "headline": "@artinject_",
+            "pic": "https://static.skillshare.com/uploads/users/713495559/user-image-medium.jpg?34005310",
+            "pic_sm": "https://static.skillshare.com/uploads/users/713495559/user-image-small.jpg?528331823",
+            "pic_lg": "https://static.skillshare.com/uploads/users/713495559/user-image-large.jpg?1665624546",
+            "_links": {
+              "self": {
+                "href": "/users/713495559",
+                "title": "Shimona Ghosh - @artinject_"
+              },
+              "my_classes": {
+                "href": "/users/713495559/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/713495559/completions",
+                "title": "Completions for User: 713495559"
+              },
+              "discussions": {
+                "href": "/users/713495559/discussions",
+                "title": "Discussions for User: 713495559"
+              },
+              "followers": {
+                "href": "/users/713495559/followers",
+                "title": "Followers for User: 713495559"
+              },
+              "following": {
+                "href": "/users/713495559/following",
+                "title": "Following for User: 713495559"
+              },
+              "notifications": {
+                "href": "/users/713495559/notifications",
+                "title": "Notifications for User: 713495559"
+              },
+              "projects": {
+                "href": "/users/713495559/projects",
+                "title": "Projects for User: 713495559"
+              },
+              "rosters": {
+                "href": "/users/713495559/rosters",
+                "title": "Rosters for User: 713495559"
+              },
+              "userTags": {
+                "href": "/users/713495559/userTags",
+                "title": "UserTags for User: 713495559"
+              },
+              "votes": {
+                "href": "/users/713495559/votes",
+                "title": "Votes for User: 713495559"
+              },
+              "wishlist": {
+                "href": "/users/713495559/wishlist",
+                "title": "Wishlist for User: 713495559"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 566392,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NjM5MiJ9",
+        "sku": 1301328822,
+        "title": "3D Character Design with Nomad Sculpt",
+        "project_title": "This project is all about creating a fun, whimsical character! Follow along, but don't hesitate to deviate from my instruction if you have a creative idea. This class is about fun, learning, and creat",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/333c48d36209c05f16153f81737f33be/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/333c48d36209c05f16153f81737f33be/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/333c48d36209c05f16153f81737f33be/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/3D-Character-Design-with-Nomad-Sculpt/1301328822",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 29,
+        "total_videos_duration": "4h 23m",
+        "total_videos_duration_seconds": 15793,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 485,
+        "num_projects": 20,
+        "num_discussions": 6,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 26, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1301328822",
+            "title": "3D Character Design with Nomad Sculpt"
+          },
+          "teacher": {
+            "href": "/users/143044920",
+            "title": "Dave Reed - 2D & 3D Illustrator - Brooklyn, NY"
+          },
+          "units": {
+            "href": "/classes/1301328822/units",
+            "title": "Units for Class: 1301328822"
+          },
+          "sessions": {
+            "href": "/classes/1301328822/sessions",
+            "title": "Sessions for Class: 1301328822"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1301328822/students",
+            "title": "Students for Class: 1301328822"
+          },
+          "projects": {
+            "href": "/classes/1301328822/projects",
+            "title": "Projects for Class: 1301328822"
+          },
+          "reviews": {
+            "href": "/classes/1301328822/reviews",
+            "title": "Reviews for Class: 1301328822"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16208164,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTYyMDgxNjQifQ==",
+            "username": 143044920,
+            "first_name": "Dave",
+            "last_name": "Reed",
+            "full_name": "Dave Reed",
+            "vanity_username": "drugfreedave",
+            "headline": "2D & 3D Illustrator - Brooklyn, NY",
+            "pic": "https://static.skillshare.com/uploads/users/143044920/user-image-medium.png?451373233",
+            "pic_sm": "https://static.skillshare.com/uploads/users/143044920/user-image-small.png?995554390",
+            "pic_lg": "https://static.skillshare.com/uploads/users/143044920/user-image-large.png?1554163577",
+            "_links": {
+              "self": {
+                "href": "/users/143044920",
+                "title": "Dave Reed - 2D & 3D Illustrator - Brooklyn, NY"
+              },
+              "my_classes": {
+                "href": "/users/143044920/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/143044920/completions",
+                "title": "Completions for User: 143044920"
+              },
+              "discussions": {
+                "href": "/users/143044920/discussions",
+                "title": "Discussions for User: 143044920"
+              },
+              "followers": {
+                "href": "/users/143044920/followers",
+                "title": "Followers for User: 143044920"
+              },
+              "following": {
+                "href": "/users/143044920/following",
+                "title": "Following for User: 143044920"
+              },
+              "notifications": {
+                "href": "/users/143044920/notifications",
+                "title": "Notifications for User: 143044920"
+              },
+              "projects": {
+                "href": "/users/143044920/projects",
+                "title": "Projects for User: 143044920"
+              },
+              "rosters": {
+                "href": "/users/143044920/rosters",
+                "title": "Rosters for User: 143044920"
+              },
+              "userTags": {
+                "href": "/users/143044920/userTags",
+                "title": "UserTags for User: 143044920"
+              },
+              "votes": {
+                "href": "/users/143044920/votes",
+                "title": "Votes for User: 143044920"
+              },
+              "wishlist": {
+                "href": "/users/143044920/wishlist",
+                "title": "Wishlist for User: 143044920"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 566394,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NjM5NCJ9",
+        "sku": 1873445750,
+        "title": "*NEW* AJAX - Complete Fundamentals Course - Part 3: XML & JSON",
+        "project_title": "AWESOME BANANAS! You have covered XML and JSON in depth in this class. This is important because when you're dealing with AJAX, you'll have to deal with JSON and XML at some point in your career.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/13df24680505f1ffc72e9a682f9ecab0/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/13df24680505f1ffc72e9a682f9ecab0/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/13df24680505f1ffc72e9a682f9ecab0/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/%2ANEW%2A-AJAX-Complete-Fundamentals-Course-Part-3-XML-JSON/1873445750",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "1h 16m",
+        "total_videos_duration_seconds": 4583,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 27,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 4, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1873445750",
+            "title": "*NEW* AJAX - Complete Fundamentals Course - Part 3: XML & JSON"
+          },
+          "teacher": {
+            "href": "/users/577557061",
+            "title": "CM Code_Zone - !false | funny, because its true"
+          },
+          "units": {
+            "href": "/classes/1873445750/units",
+            "title": "Units for Class: 1873445750"
+          },
+          "sessions": {
+            "href": "/classes/1873445750/sessions",
+            "title": "Sessions for Class: 1873445750"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1873445750/students",
+            "title": "Students for Class: 1873445750"
+          },
+          "projects": {
+            "href": "/classes/1873445750/projects",
+            "title": "Projects for Class: 1873445750"
+          },
+          "reviews": {
+            "href": "/classes/1873445750/reviews",
+            "title": "Reviews for Class: 1873445750"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13277988,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTMyNzc5ODgifQ==",
+            "username": 577557061,
+            "first_name": "CM",
+            "last_name": "Code_Zone",
+            "full_name": "CM Code_Zone",
+            "vanity_username": null,
+            "headline": "!false | funny, because its true",
+            "pic": "https://static.skillshare.com/uploads/users/577557061/user-image-medium.jpg?1651232349",
+            "pic_sm": "https://static.skillshare.com/uploads/users/577557061/user-image-small.jpg?1631320017",
+            "pic_lg": "https://static.skillshare.com/uploads/users/577557061/user-image-large.jpg?685341080",
+            "_links": {
+              "self": {
+                "href": "/users/577557061",
+                "title": "CM Code_Zone - !false | funny, because its true"
+              },
+              "my_classes": {
+                "href": "/users/577557061/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/577557061/completions",
+                "title": "Completions for User: 577557061"
+              },
+              "discussions": {
+                "href": "/users/577557061/discussions",
+                "title": "Discussions for User: 577557061"
+              },
+              "followers": {
+                "href": "/users/577557061/followers",
+                "title": "Followers for User: 577557061"
+              },
+              "following": {
+                "href": "/users/577557061/following",
+                "title": "Following for User: 577557061"
+              },
+              "notifications": {
+                "href": "/users/577557061/notifications",
+                "title": "Notifications for User: 577557061"
+              },
+              "projects": {
+                "href": "/users/577557061/projects",
+                "title": "Projects for User: 577557061"
+              },
+              "rosters": {
+                "href": "/users/577557061/rosters",
+                "title": "Rosters for User: 577557061"
+              },
+              "userTags": {
+                "href": "/users/577557061/userTags",
+                "title": "UserTags for User: 577557061"
+              },
+              "votes": {
+                "href": "/users/577557061/votes",
+                "title": "Votes for User: 577557061"
+              },
+              "wishlist": {
+                "href": "/users/577557061/wishlist",
+                "title": "Wishlist for User: 577557061"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 566417,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NjQxNyJ9",
+        "sku": 683139491,
+        "title": "3D in 2D Animation inside After Effects",
+        "project_title": "For the class project, you have two options.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e5170f74248922c992dbe2cf53dfffa1/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e5170f74248922c992dbe2cf53dfffa1/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e5170f74248922c992dbe2cf53dfffa1/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/3D-in-2D-Animation-inside-After-Effects/683139491",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "57m",
+        "total_videos_duration_seconds": 3436,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 64,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 25, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/683139491",
+            "title": "3D in 2D Animation inside After Effects"
+          },
+          "teacher": {
+            "href": "/users/705553647",
+            "title": "Aarthi - Motion Graphics Designer"
+          },
+          "units": {
+            "href": "/classes/683139491/units",
+            "title": "Units for Class: 683139491"
+          },
+          "sessions": {
+            "href": "/classes/683139491/sessions",
+            "title": "Sessions for Class: 683139491"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/683139491/students",
+            "title": "Students for Class: 683139491"
+          },
+          "projects": {
+            "href": "/classes/683139491/projects",
+            "title": "Projects for Class: 683139491"
+          },
+          "reviews": {
+            "href": "/classes/683139491/reviews",
+            "title": "Reviews for Class: 683139491"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16784463,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTY3ODQ0NjMifQ==",
+            "username": 705553647,
+            "first_name": "Aarthi",
+            "last_name": null,
+            "full_name": "Aarthi",
+            "vanity_username": null,
+            "headline": "Motion Graphics Designer",
+            "pic": "https://static.skillshare.com/uploads/users/705553647/user-image-medium.jpg?1777054991",
+            "pic_sm": "https://static.skillshare.com/uploads/users/705553647/user-image-small.jpg?1351611778",
+            "pic_lg": "https://static.skillshare.com/uploads/users/705553647/user-image-large.jpg?818711047",
+            "_links": {
+              "self": {
+                "href": "/users/705553647",
+                "title": "Aarthi - Motion Graphics Designer"
+              },
+              "my_classes": {
+                "href": "/users/705553647/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/705553647/completions",
+                "title": "Completions for User: 705553647"
+              },
+              "discussions": {
+                "href": "/users/705553647/discussions",
+                "title": "Discussions for User: 705553647"
+              },
+              "followers": {
+                "href": "/users/705553647/followers",
+                "title": "Followers for User: 705553647"
+              },
+              "following": {
+                "href": "/users/705553647/following",
+                "title": "Following for User: 705553647"
+              },
+              "notifications": {
+                "href": "/users/705553647/notifications",
+                "title": "Notifications for User: 705553647"
+              },
+              "projects": {
+                "href": "/users/705553647/projects",
+                "title": "Projects for User: 705553647"
+              },
+              "rosters": {
+                "href": "/users/705553647/rosters",
+                "title": "Rosters for User: 705553647"
+              },
+              "userTags": {
+                "href": "/users/705553647/userTags",
+                "title": "UserTags for User: 705553647"
+              },
+              "votes": {
+                "href": "/users/705553647/votes",
+                "title": "Votes for User: 705553647"
+              },
+              "wishlist": {
+                "href": "/users/705553647/wishlist",
+                "title": "Wishlist for User: 705553647"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 566438,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NjQzOCJ9",
+        "sku": 1790422808,
+        "title": "Moth Orchid Planter - Cake decorating MASTERCLASS",
+        "project_title": "Before you start, please download the attached PDF class materials. This is something that you should refer back to as you go through the class. Please go through the class in order, unless there are ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/580ccd8a6370c15d5fa99d2a0888b7e0/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/580ccd8a6370c15d5fa99d2a0888b7e0/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/580ccd8a6370c15d5fa99d2a0888b7e0/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Moth-Orchid-Planter-Cake-decorating-MASTERCLASS/1790422808",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 50,
+        "total_videos_duration": "11h 34m",
+        "total_videos_duration_seconds": 41652,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 86,
+        "num_projects": 0,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 30, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1790422808",
+            "title": "Moth Orchid Planter - Cake decorating MASTERCLASS"
+          },
+          "teacher": {
+            "href": "/users/151737602",
+            "title": "Elli Wahl Turquoise Squirrel - Cake Artist"
+          },
+          "units": {
+            "href": "/classes/1790422808/units",
+            "title": "Units for Class: 1790422808"
+          },
+          "sessions": {
+            "href": "/classes/1790422808/sessions",
+            "title": "Sessions for Class: 1790422808"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1790422808/students",
+            "title": "Students for Class: 1790422808"
+          },
+          "projects": {
+            "href": "/classes/1790422808/projects",
+            "title": "Projects for Class: 1790422808"
+          },
+          "reviews": {
+            "href": "/classes/1790422808/reviews",
+            "title": "Reviews for Class: 1790422808"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13094833,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTMwOTQ4MzMifQ==",
+            "username": 151737602,
+            "first_name": "Elli Wahl",
+            "last_name": "Turquoise Squirrel",
+            "full_name": "Elli Wahl Turquoise Squirrel",
+            "vanity_username": "turquoisesquirrelpatisserie",
+            "headline": "Cake Artist",
+            "pic": "https://static.skillshare.com/uploads/users/151737602/user-image-medium.jpg?931901007",
+            "pic_sm": "https://static.skillshare.com/uploads/users/151737602/user-image-small.jpg?1693063319",
+            "pic_lg": "https://static.skillshare.com/uploads/users/151737602/user-image-large.jpg?1415862293",
+            "_links": {
+              "self": {
+                "href": "/users/151737602",
+                "title": "Elli Wahl Turquoise Squirrel - Cake Artist"
+              },
+              "my_classes": {
+                "href": "/users/151737602/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/151737602/completions",
+                "title": "Completions for User: 151737602"
+              },
+              "discussions": {
+                "href": "/users/151737602/discussions",
+                "title": "Discussions for User: 151737602"
+              },
+              "followers": {
+                "href": "/users/151737602/followers",
+                "title": "Followers for User: 151737602"
+              },
+              "following": {
+                "href": "/users/151737602/following",
+                "title": "Following for User: 151737602"
+              },
+              "notifications": {
+                "href": "/users/151737602/notifications",
+                "title": "Notifications for User: 151737602"
+              },
+              "projects": {
+                "href": "/users/151737602/projects",
+                "title": "Projects for User: 151737602"
+              },
+              "rosters": {
+                "href": "/users/151737602/rosters",
+                "title": "Rosters for User: 151737602"
+              },
+              "userTags": {
+                "href": "/users/151737602/userTags",
+                "title": "UserTags for User: 151737602"
+              },
+              "votes": {
+                "href": "/users/151737602/votes",
+                "title": "Votes for User: 151737602"
+              },
+              "wishlist": {
+                "href": "/users/151737602/wishlist",
+                "title": "Wishlist for User: 151737602"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

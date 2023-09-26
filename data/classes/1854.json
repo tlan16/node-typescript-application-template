@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1854",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1853",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1855",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 608897,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwODg5NyJ9",
+        "sku": 1773932507,
+        "title": "Learn Adobe Lightroom Classic Essentials : Maximize Photo-Editing Workflow",
+        "project_title": "Create your own photo preset to build an identity & consistent look people will recognize you for + saving time!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fdace5cfacb93583cf1b12e0038d7173/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fdace5cfacb93583cf1b12e0038d7173/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fdace5cfacb93583cf1b12e0038d7173/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-Adobe-Lightroom-Classic-Essentials-Maximize-Photo-Editing-Workflow/1773932507",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "55m",
+        "total_videos_duration_seconds": 3290,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 341,
+        "num_projects": 7,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1773932507",
+            "title": "Learn Adobe Lightroom Classic Essentials : Maximize Photo-Editing Workflow"
+          },
+          "teacher": {
+            "href": "/users/918187685",
+            "title": "Kent Hart"
+          },
+          "units": {
+            "href": "/classes/1773932507/units",
+            "title": "Units for Class: 1773932507"
+          },
+          "sessions": {
+            "href": "/classes/1773932507/sessions",
+            "title": "Sessions for Class: 1773932507"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1773932507/students",
+            "title": "Students for Class: 1773932507"
+          },
+          "projects": {
+            "href": "/classes/1773932507/projects",
+            "title": "Projects for Class: 1773932507"
+          },
+          "reviews": {
+            "href": "/classes/1773932507/reviews",
+            "title": "Reviews for Class: 1773932507"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25609439,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjU2MDk0MzkifQ==",
+            "username": 918187685,
+            "first_name": "Kent",
+            "last_name": "Hart",
+            "full_name": "Kent Hart",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/918187685/user-image-medium.jpg?951846963",
+            "pic_sm": "https://static.skillshare.com/uploads/users/918187685/user-image-small.jpg?561752191",
+            "pic_lg": "https://static.skillshare.com/uploads/users/918187685/user-image-large.jpg?1740825204",
+            "_links": {
+              "self": {
+                "href": "/users/918187685",
+                "title": "Kent Hart"
+              },
+              "my_classes": {
+                "href": "/users/918187685/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/918187685/completions",
+                "title": "Completions for User: 918187685"
+              },
+              "discussions": {
+                "href": "/users/918187685/discussions",
+                "title": "Discussions for User: 918187685"
+              },
+              "followers": {
+                "href": "/users/918187685/followers",
+                "title": "Followers for User: 918187685"
+              },
+              "following": {
+                "href": "/users/918187685/following",
+                "title": "Following for User: 918187685"
+              },
+              "notifications": {
+                "href": "/users/918187685/notifications",
+                "title": "Notifications for User: 918187685"
+              },
+              "projects": {
+                "href": "/users/918187685/projects",
+                "title": "Projects for User: 918187685"
+              },
+              "rosters": {
+                "href": "/users/918187685/rosters",
+                "title": "Rosters for User: 918187685"
+              },
+              "userTags": {
+                "href": "/users/918187685/userTags",
+                "title": "UserTags for User: 918187685"
+              },
+              "votes": {
+                "href": "/users/918187685/votes",
+                "title": "Votes for User: 918187685"
+              },
+              "wishlist": {
+                "href": "/users/918187685/wishlist",
+                "title": "Wishlist for User: 918187685"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 608902,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwODkwMiJ9",
+        "sku": 1864744968,
+        "title": "Blender 3D: Learn To Create A Nintendo Switch Game Console",
+        "project_title": "I want you to design your own Nintendo Switch Console and add your own styling. Including objects, colours and images. Use my design as a template and apply a look unique to you,  once completed Pleas",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/0b858fdea0b5751a05ec442c853ef2d0/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/0b858fdea0b5751a05ec442c853ef2d0/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/0b858fdea0b5751a05ec442c853ef2d0/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Blender-3D-Learn-To-Create-A-Nintendo-Switch-Game-Console/1864744968",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "43m",
+        "total_videos_duration_seconds": 2603,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 213,
+        "num_projects": 8,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1864744968",
+            "title": "Blender 3D: Learn To Create A Nintendo Switch Game Console"
+          },
+          "teacher": {
+            "href": "/users/278938428",
+            "title": "Kitai / Polygon Arcade - Creator, Designer & Animation"
+          },
+          "units": {
+            "href": "/classes/1864744968/units",
+            "title": "Units for Class: 1864744968"
+          },
+          "sessions": {
+            "href": "/classes/1864744968/sessions",
+            "title": "Sessions for Class: 1864744968"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1864744968/students",
+            "title": "Students for Class: 1864744968"
+          },
+          "projects": {
+            "href": "/classes/1864744968/projects",
+            "title": "Projects for Class: 1864744968"
+          },
+          "reviews": {
+            "href": "/classes/1864744968/reviews",
+            "title": "Reviews for Class: 1864744968"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27785164,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjc3ODUxNjQifQ==",
+            "username": 278938428,
+            "first_name": "Kitai /",
+            "last_name": "Polygon Arcade",
+            "full_name": "Kitai / Polygon Arcade",
+            "vanity_username": null,
+            "headline": "Creator, Designer & Animation",
+            "pic": "https://static.skillshare.com/uploads/users/278938428/user-image-medium.jpg?1529214108",
+            "pic_sm": "https://static.skillshare.com/uploads/users/278938428/user-image-small.jpg?513129865",
+            "pic_lg": "https://static.skillshare.com/uploads/users/278938428/user-image-large.jpg?1099129433",
+            "_links": {
+              "self": {
+                "href": "/users/278938428",
+                "title": "Kitai / Polygon Arcade - Creator, Designer & Animation"
+              },
+              "my_classes": {
+                "href": "/users/278938428/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/278938428/completions",
+                "title": "Completions for User: 278938428"
+              },
+              "discussions": {
+                "href": "/users/278938428/discussions",
+                "title": "Discussions for User: 278938428"
+              },
+              "followers": {
+                "href": "/users/278938428/followers",
+                "title": "Followers for User: 278938428"
+              },
+              "following": {
+                "href": "/users/278938428/following",
+                "title": "Following for User: 278938428"
+              },
+              "notifications": {
+                "href": "/users/278938428/notifications",
+                "title": "Notifications for User: 278938428"
+              },
+              "projects": {
+                "href": "/users/278938428/projects",
+                "title": "Projects for User: 278938428"
+              },
+              "rosters": {
+                "href": "/users/278938428/rosters",
+                "title": "Rosters for User: 278938428"
+              },
+              "userTags": {
+                "href": "/users/278938428/userTags",
+                "title": "UserTags for User: 278938428"
+              },
+              "votes": {
+                "href": "/users/278938428/votes",
+                "title": "Votes for User: 278938428"
+              },
+              "wishlist": {
+                "href": "/users/278938428/wishlist",
+                "title": "Wishlist for User: 278938428"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 608923,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwODkyMyJ9",
+        "sku": 658696060,
+        "title": "Powerful Hospitality Marketing for Hoteliers and Tourism",
+        "project_title": "Your Assignment: Practise Three Hospitality Marketing Tools during the Next 4 Weeks",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e4c065d57d1a8226f283067d7af9d32f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e4c065d57d1a8226f283067d7af9d32f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e4c065d57d1a8226f283067d7af9d32f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Powerful-Hospitality-Marketing-for-Hoteliers-and-Tourism/658696060",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 29,
+        "total_videos_duration": "47m",
+        "total_videos_duration_seconds": 2805,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 58,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/658696060",
+            "title": "Powerful Hospitality Marketing for Hoteliers and Tourism"
+          },
+          "teacher": {
+            "href": "/users/47020083",
+            "title": "Marcel Riemer - Minimalist, Traveler & Chef"
+          },
+          "units": {
+            "href": "/classes/658696060/units",
+            "title": "Units for Class: 658696060"
+          },
+          "sessions": {
+            "href": "/classes/658696060/sessions",
+            "title": "Sessions for Class: 658696060"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/658696060/students",
+            "title": "Students for Class: 658696060"
+          },
+          "projects": {
+            "href": "/classes/658696060/projects",
+            "title": "Projects for Class: 658696060"
+          },
+          "reviews": {
+            "href": "/classes/658696060/reviews",
+            "title": "Reviews for Class: 658696060"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 14221104,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTQyMjExMDQifQ==",
+            "username": 47020083,
+            "first_name": "Marcel",
+            "last_name": "Riemer",
+            "full_name": "Marcel Riemer",
+            "vanity_username": null,
+            "headline": "Minimalist, Traveler & Chef",
+            "pic": "https://static.skillshare.com/uploads/users/47020083/user-image-medium.jpg?1597480394",
+            "pic_sm": "https://static.skillshare.com/uploads/users/47020083/user-image-small.jpg?1462982893",
+            "pic_lg": "https://static.skillshare.com/uploads/users/47020083/user-image-large.jpg?25762707",
+            "_links": {
+              "self": {
+                "href": "/users/47020083",
+                "title": "Marcel Riemer - Minimalist, Traveler & Chef"
+              },
+              "my_classes": {
+                "href": "/users/47020083/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/47020083/completions",
+                "title": "Completions for User: 47020083"
+              },
+              "discussions": {
+                "href": "/users/47020083/discussions",
+                "title": "Discussions for User: 47020083"
+              },
+              "followers": {
+                "href": "/users/47020083/followers",
+                "title": "Followers for User: 47020083"
+              },
+              "following": {
+                "href": "/users/47020083/following",
+                "title": "Following for User: 47020083"
+              },
+              "notifications": {
+                "href": "/users/47020083/notifications",
+                "title": "Notifications for User: 47020083"
+              },
+              "projects": {
+                "href": "/users/47020083/projects",
+                "title": "Projects for User: 47020083"
+              },
+              "rosters": {
+                "href": "/users/47020083/rosters",
+                "title": "Rosters for User: 47020083"
+              },
+              "userTags": {
+                "href": "/users/47020083/userTags",
+                "title": "UserTags for User: 47020083"
+              },
+              "votes": {
+                "href": "/users/47020083/votes",
+                "title": "Votes for User: 47020083"
+              },
+              "wishlist": {
+                "href": "/users/47020083/wishlist",
+                "title": "Wishlist for User: 47020083"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 608935,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwODkzNSJ9",
+        "sku": 2004882146,
+        "title": "Creating Seamless Repeating Patterns in Affinity Photo",
+        "project_title": "The class project will be for you to create at least one seamless repeating pattern with your own original artwork.   You can then apply your new found knowledge to creating spoonflower fabrics, handm",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fd8de61ec5b67eab921df52fe8a8d0e6/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fd8de61ec5b67eab921df52fe8a8d0e6/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fd8de61ec5b67eab921df52fe8a8d0e6/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Creating-Seamless-Repeating-Patterns-in-Affinity-Photo/2004882146",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "28m",
+        "total_videos_duration_seconds": 1696,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 40,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2004882146",
+            "title": "Creating Seamless Repeating Patterns in Affinity Photo"
+          },
+          "teacher": {
+            "href": "/users/9701774",
+            "title": "Amy Stoddard - Amy Illustrates"
+          },
+          "units": {
+            "href": "/classes/2004882146/units",
+            "title": "Units for Class: 2004882146"
+          },
+          "sessions": {
+            "href": "/classes/2004882146/sessions",
+            "title": "Sessions for Class: 2004882146"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2004882146/students",
+            "title": "Students for Class: 2004882146"
+          },
+          "projects": {
+            "href": "/classes/2004882146/projects",
+            "title": "Projects for Class: 2004882146"
+          },
+          "reviews": {
+            "href": "/classes/2004882146/reviews",
+            "title": "Reviews for Class: 2004882146"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1326771,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTMyNjc3MSJ9",
+            "username": 9701774,
+            "first_name": "Amy",
+            "last_name": "Stoddard",
+            "full_name": "Amy Stoddard",
+            "vanity_username": null,
+            "headline": "Amy Illustrates",
+            "pic": "https://static.skillshare.com/uploads/users/9701774/user-image-medium.jpg?599805227",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9701774/user-image-small.jpg?128618156",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9701774/user-image-large.jpg?1187981117",
+            "_links": {
+              "self": {
+                "href": "/users/9701774",
+                "title": "Amy Stoddard - Amy Illustrates"
+              },
+              "my_classes": {
+                "href": "/users/9701774/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9701774/completions",
+                "title": "Completions for User: 9701774"
+              },
+              "discussions": {
+                "href": "/users/9701774/discussions",
+                "title": "Discussions for User: 9701774"
+              },
+              "followers": {
+                "href": "/users/9701774/followers",
+                "title": "Followers for User: 9701774"
+              },
+              "following": {
+                "href": "/users/9701774/following",
+                "title": "Following for User: 9701774"
+              },
+              "notifications": {
+                "href": "/users/9701774/notifications",
+                "title": "Notifications for User: 9701774"
+              },
+              "projects": {
+                "href": "/users/9701774/projects",
+                "title": "Projects for User: 9701774"
+              },
+              "rosters": {
+                "href": "/users/9701774/rosters",
+                "title": "Rosters for User: 9701774"
+              },
+              "userTags": {
+                "href": "/users/9701774/userTags",
+                "title": "UserTags for User: 9701774"
+              },
+              "votes": {
+                "href": "/users/9701774/votes",
+                "title": "Votes for User: 9701774"
+              },
+              "wishlist": {
+                "href": "/users/9701774/wishlist",
+                "title": "Wishlist for User: 9701774"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 608961,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwODk2MSJ9",
+        "sku": 1670925686,
+        "title": "Painting Vietnamese Mountains Using Oil Paints",
+        "project_title": "Creating Your Own",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1d9af614f13361c0a18320d8f4acd85c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1d9af614f13361c0a18320d8f4acd85c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1d9af614f13361c0a18320d8f4acd85c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Painting-Vietnamese-Mountains-Using-Oil-Paints/1670925686",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "1h 9m",
+        "total_videos_duration_seconds": 4167,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 10,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1670925686",
+            "title": "Painting Vietnamese Mountains Using Oil Paints"
+          },
+          "teacher": {
+            "href": "/users/299567655",
+            "title": "China Jordan - Art Teacher"
+          },
+          "units": {
+            "href": "/classes/1670925686/units",
+            "title": "Units for Class: 1670925686"
+          },
+          "sessions": {
+            "href": "/classes/1670925686/sessions",
+            "title": "Sessions for Class: 1670925686"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1670925686/students",
+            "title": "Students for Class: 1670925686"
+          },
+          "projects": {
+            "href": "/classes/1670925686/projects",
+            "title": "Projects for Class: 1670925686"
+          },
+          "reviews": {
+            "href": "/classes/1670925686/reviews",
+            "title": "Reviews for Class: 1670925686"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13421205,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTM0MjEyMDUifQ==",
+            "username": 299567655,
+            "first_name": "China",
+            "last_name": "Jordan",
+            "full_name": "China Jordan",
+            "vanity_username": "artistand",
+            "headline": "Art Teacher",
+            "pic": "https://static.skillshare.com/uploads/users/299567655/user-image-medium.jpg?273665092",
+            "pic_sm": "https://static.skillshare.com/uploads/users/299567655/user-image-small.jpg?377900432",
+            "pic_lg": "https://static.skillshare.com/uploads/users/299567655/user-image-large.jpg?2135712856",
+            "_links": {
+              "self": {
+                "href": "/users/299567655",
+                "title": "China Jordan - Art Teacher"
+              },
+              "my_classes": {
+                "href": "/users/299567655/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/299567655/completions",
+                "title": "Completions for User: 299567655"
+              },
+              "discussions": {
+                "href": "/users/299567655/discussions",
+                "title": "Discussions for User: 299567655"
+              },
+              "followers": {
+                "href": "/users/299567655/followers",
+                "title": "Followers for User: 299567655"
+              },
+              "following": {
+                "href": "/users/299567655/following",
+                "title": "Following for User: 299567655"
+              },
+              "notifications": {
+                "href": "/users/299567655/notifications",
+                "title": "Notifications for User: 299567655"
+              },
+              "projects": {
+                "href": "/users/299567655/projects",
+                "title": "Projects for User: 299567655"
+              },
+              "rosters": {
+                "href": "/users/299567655/rosters",
+                "title": "Rosters for User: 299567655"
+              },
+              "userTags": {
+                "href": "/users/299567655/userTags",
+                "title": "UserTags for User: 299567655"
+              },
+              "votes": {
+                "href": "/users/299567655/votes",
+                "title": "Votes for User: 299567655"
+              },
+              "wishlist": {
+                "href": "/users/299567655/wishlist",
+                "title": "Wishlist for User: 299567655"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 608966,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwODk2NiJ9",
+        "sku": 2045892423,
+        "title": "CURSO DE INGLES COMPLETO PARTE 2",
+        "project_title": "De nuevo. Hagan un texto (de lo que ustedes quieran) con los temas aprendidos aqui. Los veo en la parte 3 :) compartan!! me sirve de mucho",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/3c11149948cbd1e6ceabf2218592ba57/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/3c11149948cbd1e6ceabf2218592ba57/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/3c11149948cbd1e6ceabf2218592ba57/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/CURSO-DE-INGLES-COMPLETO-PARTE-2/2045892423",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "2h 15m",
+        "total_videos_duration_seconds": 8073,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 19,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2045892423",
+            "title": "CURSO DE INGLES COMPLETO PARTE 2"
+          },
+          "teacher": {
+            "href": "/users/821995726",
+            "title": "Oscar Gomez"
+          },
+          "units": {
+            "href": "/classes/2045892423/units",
+            "title": "Units for Class: 2045892423"
+          },
+          "sessions": {
+            "href": "/classes/2045892423/sessions",
+            "title": "Sessions for Class: 2045892423"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/2045892423/students",
+            "title": "Students for Class: 2045892423"
+          },
+          "projects": {
+            "href": "/classes/2045892423/projects",
+            "title": "Projects for Class: 2045892423"
+          },
+          "reviews": {
+            "href": "/classes/2045892423/reviews",
+            "title": "Reviews for Class: 2045892423"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 28513810,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjg1MTM4MTAifQ==",
+            "username": 821995726,
+            "first_name": "Oscar",
+            "last_name": "Gomez",
+            "full_name": "Oscar Gomez",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/821995726/user-image-medium.jpg?785468419",
+            "pic_sm": "https://static.skillshare.com/uploads/users/821995726/user-image-small.jpg?1463519532",
+            "pic_lg": "https://static.skillshare.com/uploads/users/821995726/user-image-large.jpg?435789158",
+            "_links": {
+              "self": {
+                "href": "/users/821995726",
+                "title": "Oscar Gomez"
+              },
+              "my_classes": {
+                "href": "/users/821995726/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/821995726/completions",
+                "title": "Completions for User: 821995726"
+              },
+              "discussions": {
+                "href": "/users/821995726/discussions",
+                "title": "Discussions for User: 821995726"
+              },
+              "followers": {
+                "href": "/users/821995726/followers",
+                "title": "Followers for User: 821995726"
+              },
+              "following": {
+                "href": "/users/821995726/following",
+                "title": "Following for User: 821995726"
+              },
+              "notifications": {
+                "href": "/users/821995726/notifications",
+                "title": "Notifications for User: 821995726"
+              },
+              "projects": {
+                "href": "/users/821995726/projects",
+                "title": "Projects for User: 821995726"
+              },
+              "rosters": {
+                "href": "/users/821995726/rosters",
+                "title": "Rosters for User: 821995726"
+              },
+              "userTags": {
+                "href": "/users/821995726/userTags",
+                "title": "UserTags for User: 821995726"
+              },
+              "votes": {
+                "href": "/users/821995726/votes",
+                "title": "Votes for User: 821995726"
+              },
+              "wishlist": {
+                "href": "/users/821995726/wishlist",
+                "title": "Wishlist for User: 821995726"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 608979,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwODk3OSJ9",
+        "sku": 1363716823,
+        "title": "French Silk Peppermint PIe",
+        "project_title": "Your project is to make our French Silk Peppermint Pie",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/73cb44b642e1c628d49749f81c086588/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/73cb44b642e1c628d49749f81c086588/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/73cb44b642e1c628d49749f81c086588/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/French-Silk-Peppermint-PIe/1363716823",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "19m",
+        "total_videos_duration_seconds": 1165,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 3,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1363716823",
+            "title": "French Silk Peppermint PIe"
+          },
+          "teacher": {
+            "href": "/users/9251276",
+            "title": "Nadine Thomas"
+          },
+          "units": {
+            "href": "/classes/1363716823/units",
+            "title": "Units for Class: 1363716823"
+          },
+          "sessions": {
+            "href": "/classes/1363716823/sessions",
+            "title": "Sessions for Class: 1363716823"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1363716823/students",
+            "title": "Students for Class: 1363716823"
+          },
+          "projects": {
+            "href": "/classes/1363716823/projects",
+            "title": "Projects for Class: 1363716823"
+          },
+          "reviews": {
+            "href": "/classes/1363716823/reviews",
+            "title": "Reviews for Class: 1363716823"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2723120,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjcyMzEyMCJ9",
+            "username": 9251276,
+            "first_name": "Nadine",
+            "last_name": "Thomas",
+            "full_name": "Nadine Thomas",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/9251276/user-image-medium.jpg?915894138",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9251276/user-image-small.jpg?1999859432",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9251276/user-image-large.jpg?713281766",
+            "_links": {
+              "self": {
+                "href": "/users/9251276",
+                "title": "Nadine Thomas"
+              },
+              "my_classes": {
+                "href": "/users/9251276/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9251276/completions",
+                "title": "Completions for User: 9251276"
+              },
+              "discussions": {
+                "href": "/users/9251276/discussions",
+                "title": "Discussions for User: 9251276"
+              },
+              "followers": {
+                "href": "/users/9251276/followers",
+                "title": "Followers for User: 9251276"
+              },
+              "following": {
+                "href": "/users/9251276/following",
+                "title": "Following for User: 9251276"
+              },
+              "notifications": {
+                "href": "/users/9251276/notifications",
+                "title": "Notifications for User: 9251276"
+              },
+              "projects": {
+                "href": "/users/9251276/projects",
+                "title": "Projects for User: 9251276"
+              },
+              "rosters": {
+                "href": "/users/9251276/rosters",
+                "title": "Rosters for User: 9251276"
+              },
+              "userTags": {
+                "href": "/users/9251276/userTags",
+                "title": "UserTags for User: 9251276"
+              },
+              "votes": {
+                "href": "/users/9251276/votes",
+                "title": "Votes for User: 9251276"
+              },
+              "wishlist": {
+                "href": "/users/9251276/wishlist",
+                "title": "Wishlist for User: 9251276"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 608993,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwODk5MyJ9",
+        "sku": 446466970,
+        "title": "Learn Persian with Ziba: master the Persian alphabet",
+        "project_title": "Hello dear student, this is the project for this course! Now that you’ve completed watching and learning the letters of the Persian alphabet, you might want to quiz yourself and share it with your cla",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6323463113112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6323463113112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6323463113112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-Persian-with-Ziba-master-the-Persian-alphabet/446466970",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 24,
+        "total_videos_duration": "3h 33m",
+        "total_videos_duration_seconds": 12801,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 12,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "6 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/446466970",
+            "title": "Learn Persian with Ziba: master the Persian alphabet"
+          },
+          "teacher": {
+            "href": "/users/580856921",
+            "title": "Ziba Khodabandeh"
+          },
+          "units": {
+            "href": "/classes/446466970/units",
+            "title": "Units for Class: 446466970"
+          },
+          "sessions": {
+            "href": "/classes/446466970/sessions",
+            "title": "Sessions for Class: 446466970"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/446466970/students",
+            "title": "Students for Class: 446466970"
+          },
+          "projects": {
+            "href": "/classes/446466970/projects",
+            "title": "Projects for Class: 446466970"
+          },
+          "reviews": {
+            "href": "/classes/446466970/reviews",
+            "title": "Reviews for Class: 446466970"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27482000,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjc0ODIwMDAifQ==",
+            "username": 580856921,
+            "first_name": "Ziba",
+            "last_name": "Khodabandeh",
+            "full_name": "Ziba Khodabandeh",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/580856921/user-image-medium.jpg?820402271",
+            "pic_sm": "https://static.skillshare.com/uploads/users/580856921/user-image-small.jpg?1158520156",
+            "pic_lg": "https://static.skillshare.com/uploads/users/580856921/user-image-large.jpg?477541954",
+            "_links": {
+              "self": {
+                "href": "/users/580856921",
+                "title": "Ziba Khodabandeh"
+              },
+              "my_classes": {
+                "href": "/users/580856921/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/580856921/completions",
+                "title": "Completions for User: 580856921"
+              },
+              "discussions": {
+                "href": "/users/580856921/discussions",
+                "title": "Discussions for User: 580856921"
+              },
+              "followers": {
+                "href": "/users/580856921/followers",
+                "title": "Followers for User: 580856921"
+              },
+              "following": {
+                "href": "/users/580856921/following",
+                "title": "Following for User: 580856921"
+              },
+              "notifications": {
+                "href": "/users/580856921/notifications",
+                "title": "Notifications for User: 580856921"
+              },
+              "projects": {
+                "href": "/users/580856921/projects",
+                "title": "Projects for User: 580856921"
+              },
+              "rosters": {
+                "href": "/users/580856921/rosters",
+                "title": "Rosters for User: 580856921"
+              },
+              "userTags": {
+                "href": "/users/580856921/userTags",
+                "title": "UserTags for User: 580856921"
+              },
+              "votes": {
+                "href": "/users/580856921/votes",
+                "title": "Votes for User: 580856921"
+              },
+              "wishlist": {
+                "href": "/users/580856921/wishlist",
+                "title": "Wishlist for User: 580856921"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 609002,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwOTAwMiJ9",
+        "sku": 704529705,
+        "title": "Piano Sight-Reading (Intermediate level)",
+        "project_title": "Have a go at recording yourself playing the Grieg Arietta for the first time? I would love to give you feedback on your playing.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/cd9734933febb89048928332cea747ca/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/cd9734933febb89048928332cea747ca/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/cd9734933febb89048928332cea747ca/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Piano-Sight-Reading-Intermediate-level/704529705",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "17m",
+        "total_videos_duration_seconds": 1027,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 17,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/704529705",
+            "title": "Piano Sight-Reading (Intermediate level)"
+          },
+          "teacher": {
+            "href": "/users/505928581",
+            "title": "Ben Lewis-Smith - Musician "
+          },
+          "units": {
+            "href": "/classes/704529705/units",
+            "title": "Units for Class: 704529705"
+          },
+          "sessions": {
+            "href": "/classes/704529705/sessions",
+            "title": "Sessions for Class: 704529705"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/704529705/students",
+            "title": "Students for Class: 704529705"
+          },
+          "projects": {
+            "href": "/classes/704529705/projects",
+            "title": "Projects for Class: 704529705"
+          },
+          "reviews": {
+            "href": "/classes/704529705/reviews",
+            "title": "Reviews for Class: 704529705"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 20268429,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjAyNjg0MjkifQ==",
+            "username": 505928581,
+            "first_name": "Ben",
+            "last_name": "Lewis-Smith",
+            "full_name": "Ben Lewis-Smith",
+            "vanity_username": null,
+            "headline": "Musician ",
+            "pic": "https://static.skillshare.com/uploads/users/505928581/user-image-medium.jpg?644491519",
+            "pic_sm": "https://static.skillshare.com/uploads/users/505928581/user-image-small.jpg?2144091775",
+            "pic_lg": "https://static.skillshare.com/uploads/users/505928581/user-image-large.jpg?426479104",
+            "_links": {
+              "self": {
+                "href": "/users/505928581",
+                "title": "Ben Lewis-Smith - Musician "
+              },
+              "my_classes": {
+                "href": "/users/505928581/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/505928581/completions",
+                "title": "Completions for User: 505928581"
+              },
+              "discussions": {
+                "href": "/users/505928581/discussions",
+                "title": "Discussions for User: 505928581"
+              },
+              "followers": {
+                "href": "/users/505928581/followers",
+                "title": "Followers for User: 505928581"
+              },
+              "following": {
+                "href": "/users/505928581/following",
+                "title": "Following for User: 505928581"
+              },
+              "notifications": {
+                "href": "/users/505928581/notifications",
+                "title": "Notifications for User: 505928581"
+              },
+              "projects": {
+                "href": "/users/505928581/projects",
+                "title": "Projects for User: 505928581"
+              },
+              "rosters": {
+                "href": "/users/505928581/rosters",
+                "title": "Rosters for User: 505928581"
+              },
+              "userTags": {
+                "href": "/users/505928581/userTags",
+                "title": "UserTags for User: 505928581"
+              },
+              "votes": {
+                "href": "/users/505928581/votes",
+                "title": "Votes for User: 505928581"
+              },
+              "wishlist": {
+                "href": "/users/505928581/wishlist",
+                "title": "Wishlist for User: 505928581"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 609004,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwOTAwNCJ9",
+        "sku": 318556510,
+        "title": "Como Desenhar Naruto em 6 Dicas Simples!",
+        "project_title": "Poste seu desenho na galeria do aluno após concluir o curso, e utilizando as dicas que foram abordadas ao longo das seis aulas.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/facc878e867304e29b7416ac621bcc14/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/facc878e867304e29b7416ac621bcc14/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/facc878e867304e29b7416ac621bcc14/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Como-Desenhar-Naruto-em-6-Dicas-Simples/318556510",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "44m",
+        "total_videos_duration_seconds": 2649,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 11,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/318556510",
+            "title": "Como Desenhar Naruto em 6 Dicas Simples!"
+          },
+          "teacher": {
+            "href": "/users/826334649",
+            "title": "Maicon Juenemann - Tatuador, e desenhista."
+          },
+          "units": {
+            "href": "/classes/318556510/units",
+            "title": "Units for Class: 318556510"
+          },
+          "sessions": {
+            "href": "/classes/318556510/sessions",
+            "title": "Sessions for Class: 318556510"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/318556510/students",
+            "title": "Students for Class: 318556510"
+          },
+          "projects": {
+            "href": "/classes/318556510/projects",
+            "title": "Projects for Class: 318556510"
+          },
+          "reviews": {
+            "href": "/classes/318556510/reviews",
+            "title": "Reviews for Class: 318556510"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27782397,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjc3ODIzOTcifQ==",
+            "username": 826334649,
+            "first_name": "Maicon",
+            "last_name": "Juenemann",
+            "full_name": "Maicon Juenemann",
+            "vanity_username": "juenemannmaicon",
+            "headline": "Tatuador, e desenhista.",
+            "pic": "https://static.skillshare.com/uploads/users/826334649/user-image-medium.jpg?1739830993",
+            "pic_sm": "https://static.skillshare.com/uploads/users/826334649/user-image-small.jpg?885560795",
+            "pic_lg": "https://static.skillshare.com/uploads/users/826334649/user-image-large.jpg?2108145420",
+            "_links": {
+              "self": {
+                "href": "/users/826334649",
+                "title": "Maicon Juenemann - Tatuador, e desenhista."
+              },
+              "my_classes": {
+                "href": "/users/826334649/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/826334649/completions",
+                "title": "Completions for User: 826334649"
+              },
+              "discussions": {
+                "href": "/users/826334649/discussions",
+                "title": "Discussions for User: 826334649"
+              },
+              "followers": {
+                "href": "/users/826334649/followers",
+                "title": "Followers for User: 826334649"
+              },
+              "following": {
+                "href": "/users/826334649/following",
+                "title": "Following for User: 826334649"
+              },
+              "notifications": {
+                "href": "/users/826334649/notifications",
+                "title": "Notifications for User: 826334649"
+              },
+              "projects": {
+                "href": "/users/826334649/projects",
+                "title": "Projects for User: 826334649"
+              },
+              "rosters": {
+                "href": "/users/826334649/rosters",
+                "title": "Rosters for User: 826334649"
+              },
+              "userTags": {
+                "href": "/users/826334649/userTags",
+                "title": "UserTags for User: 826334649"
+              },
+              "votes": {
+                "href": "/users/826334649/votes",
+                "title": "Votes for User: 826334649"
+              },
+              "wishlist": {
+                "href": "/users/826334649/wishlist",
+                "title": "Wishlist for User: 826334649"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

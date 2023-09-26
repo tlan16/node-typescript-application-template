@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1231",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1230",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1232",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 554878,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NDg3OCJ9",
+        "sku": 1974442087,
+        "title": "JavaScript Fundamentals: Objects and Functions",
+        "project_title": "Using the Google Chrome browser and the developer console you will be able to follow along with this course. You can access the developer console by visiting View,  Developer,  JavaScript console. By ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/21044ff7b36186548ae5f506e7b0d723/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/21044ff7b36186548ae5f506e7b0d723/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/21044ff7b36186548ae5f506e7b0d723/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/JavaScript-Fundamentals-Objects-and-Functions/1974442087",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "13m",
+        "total_videos_duration_seconds": 788,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 25,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 2, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1974442087",
+            "title": "JavaScript Fundamentals: Objects and Functions"
+          },
+          "teacher": {
+            "href": "/users/404269992",
+            "title": "Emma Williams"
+          },
+          "units": {
+            "href": "/classes/1974442087/units",
+            "title": "Units for Class: 1974442087"
+          },
+          "sessions": {
+            "href": "/classes/1974442087/sessions",
+            "title": "Sessions for Class: 1974442087"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1974442087/students",
+            "title": "Students for Class: 1974442087"
+          },
+          "projects": {
+            "href": "/classes/1974442087/projects",
+            "title": "Projects for Class: 1974442087"
+          },
+          "reviews": {
+            "href": "/classes/1974442087/reviews",
+            "title": "Reviews for Class: 1974442087"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23808075,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjM4MDgwNzUifQ==",
+            "username": 404269992,
+            "first_name": "Emma",
+            "last_name": "Williams",
+            "full_name": "Emma Williams",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/404269992",
+                "title": "Emma Williams"
+              },
+              "my_classes": {
+                "href": "/users/404269992/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/404269992/completions",
+                "title": "Completions for User: 404269992"
+              },
+              "discussions": {
+                "href": "/users/404269992/discussions",
+                "title": "Discussions for User: 404269992"
+              },
+              "followers": {
+                "href": "/users/404269992/followers",
+                "title": "Followers for User: 404269992"
+              },
+              "following": {
+                "href": "/users/404269992/following",
+                "title": "Following for User: 404269992"
+              },
+              "notifications": {
+                "href": "/users/404269992/notifications",
+                "title": "Notifications for User: 404269992"
+              },
+              "projects": {
+                "href": "/users/404269992/projects",
+                "title": "Projects for User: 404269992"
+              },
+              "rosters": {
+                "href": "/users/404269992/rosters",
+                "title": "Rosters for User: 404269992"
+              },
+              "userTags": {
+                "href": "/users/404269992/userTags",
+                "title": "UserTags for User: 404269992"
+              },
+              "votes": {
+                "href": "/users/404269992/votes",
+                "title": "Votes for User: 404269992"
+              },
+              "wishlist": {
+                "href": "/users/404269992/wishlist",
+                "title": "Wishlist for User: 404269992"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 554885,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NDg4NSJ9",
+        "sku": 1268986817,
+        "title": "Learn Egyptian Arabic Grammar / Speaking For Beginners And Intermediate",
+        "project_title": "To practice what you are learning:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6314082945112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6314082945112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6314082945112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-Egyptian-Arabic-Grammar-Speaking-For-Beginners-And-Intermediate/1268986817",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 83,
+        "total_videos_duration": "4h 7m",
+        "total_videos_duration_seconds": 14798,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 29,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 1, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1268986817",
+            "title": "Learn Egyptian Arabic Grammar / Speaking For Beginners And Intermediate"
+          },
+          "teacher": {
+            "href": "/users/826737772",
+            "title": "Amr Abdelaziz"
+          },
+          "units": {
+            "href": "/classes/1268986817/units",
+            "title": "Units for Class: 1268986817"
+          },
+          "sessions": {
+            "href": "/classes/1268986817/sessions",
+            "title": "Sessions for Class: 1268986817"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1268986817/students",
+            "title": "Students for Class: 1268986817"
+          },
+          "projects": {
+            "href": "/classes/1268986817/projects",
+            "title": "Projects for Class: 1268986817"
+          },
+          "reviews": {
+            "href": "/classes/1268986817/reviews",
+            "title": "Reviews for Class: 1268986817"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13414865,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTM0MTQ4NjUifQ==",
+            "username": 826737772,
+            "first_name": "Amr",
+            "last_name": "Abdelaziz",
+            "full_name": "Amr Abdelaziz",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/826737772/user-image-medium.jpg?1925639853",
+            "pic_sm": "https://static.skillshare.com/uploads/users/826737772/user-image-small.jpg?387768329",
+            "pic_lg": "https://static.skillshare.com/uploads/users/826737772/user-image-large.jpg?1319667161",
+            "_links": {
+              "self": {
+                "href": "/users/826737772",
+                "title": "Amr Abdelaziz"
+              },
+              "my_classes": {
+                "href": "/users/826737772/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/826737772/completions",
+                "title": "Completions for User: 826737772"
+              },
+              "discussions": {
+                "href": "/users/826737772/discussions",
+                "title": "Discussions for User: 826737772"
+              },
+              "followers": {
+                "href": "/users/826737772/followers",
+                "title": "Followers for User: 826737772"
+              },
+              "following": {
+                "href": "/users/826737772/following",
+                "title": "Following for User: 826737772"
+              },
+              "notifications": {
+                "href": "/users/826737772/notifications",
+                "title": "Notifications for User: 826737772"
+              },
+              "projects": {
+                "href": "/users/826737772/projects",
+                "title": "Projects for User: 826737772"
+              },
+              "rosters": {
+                "href": "/users/826737772/rosters",
+                "title": "Rosters for User: 826737772"
+              },
+              "userTags": {
+                "href": "/users/826737772/userTags",
+                "title": "UserTags for User: 826737772"
+              },
+              "votes": {
+                "href": "/users/826737772/votes",
+                "title": "Votes for User: 826737772"
+              },
+              "wishlist": {
+                "href": "/users/826737772/wishlist",
+                "title": "Wishlist for User: 826737772"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 554909,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NDkwOSJ9",
+        "sku": 814693663,
+        "title": "SEO for Beginners: SEO strategies to Rank on the First Page of Google",
+        "project_title": "Final Project",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ca8064b7cc2df19ebfccb534530439f2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ca8064b7cc2df19ebfccb534530439f2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ca8064b7cc2df19ebfccb534530439f2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/SEO-for-Beginners-SEO-strategies-to-Rank-on-the-First-Page-of-Google/814693663",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 35,
+        "total_videos_duration": "2h 56m",
+        "total_videos_duration_seconds": 10565,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 286,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 4, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/814693663",
+            "title": "SEO for Beginners: SEO strategies to Rank on the First Page of Google"
+          },
+          "teacher": {
+            "href": "/users/9806479",
+            "title": "Diego Davila - Entrepreneur and Social Media Innovator"
+          },
+          "units": {
+            "href": "/classes/814693663/units",
+            "title": "Units for Class: 814693663"
+          },
+          "sessions": {
+            "href": "/classes/814693663/sessions",
+            "title": "Sessions for Class: 814693663"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/814693663/students",
+            "title": "Students for Class: 814693663"
+          },
+          "projects": {
+            "href": "/classes/814693663/projects",
+            "title": "Projects for Class: 814693663"
+          },
+          "reviews": {
+            "href": "/classes/814693663/reviews",
+            "title": "Reviews for Class: 814693663"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 801853,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODAxODUzIn0=",
+            "username": 9806479,
+            "first_name": "Diego",
+            "last_name": "Davila",
+            "full_name": "Diego Davila",
+            "vanity_username": "diegodavila",
+            "headline": "Entrepreneur and Social Media Innovator",
+            "pic": "https://static.skillshare.com/uploads/users/9806479/user-image-medium.png?1236578213",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9806479/user-image-small.png?1188004108",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9806479/user-image-large.png?1056344047",
+            "_links": {
+              "self": {
+                "href": "/users/9806479",
+                "title": "Diego Davila - Entrepreneur and Social Media Innovator"
+              },
+              "my_classes": {
+                "href": "/users/9806479/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9806479/completions",
+                "title": "Completions for User: 9806479"
+              },
+              "discussions": {
+                "href": "/users/9806479/discussions",
+                "title": "Discussions for User: 9806479"
+              },
+              "followers": {
+                "href": "/users/9806479/followers",
+                "title": "Followers for User: 9806479"
+              },
+              "following": {
+                "href": "/users/9806479/following",
+                "title": "Following for User: 9806479"
+              },
+              "notifications": {
+                "href": "/users/9806479/notifications",
+                "title": "Notifications for User: 9806479"
+              },
+              "projects": {
+                "href": "/users/9806479/projects",
+                "title": "Projects for User: 9806479"
+              },
+              "rosters": {
+                "href": "/users/9806479/rosters",
+                "title": "Rosters for User: 9806479"
+              },
+              "userTags": {
+                "href": "/users/9806479/userTags",
+                "title": "UserTags for User: 9806479"
+              },
+              "votes": {
+                "href": "/users/9806479/votes",
+                "title": "Votes for User: 9806479"
+              },
+              "wishlist": {
+                "href": "/users/9806479/wishlist",
+                "title": "Wishlist for User: 9806479"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 554934,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NDkzNCJ9",
+        "sku": 1091374039,
+        "title": "Orchestration Masterclass, Part 1: The Strings and The Winds",
+        "project_title": "Examine the attached Mozart String Quartet. (Note that this is an arrangement)",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/12d211298f271cb00f7131596b46ffde/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/12d211298f271cb00f7131596b46ffde/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/12d211298f271cb00f7131596b46ffde/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Orchestration-Masterclass-Part-1-The-Strings-and-The-Winds/1091374039",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 61,
+        "total_videos_duration": "4h 44m",
+        "total_videos_duration_seconds": 17051,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 551,
+        "num_projects": 0,
+        "num_discussions": 4,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 1, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1091374039",
+            "title": "Orchestration Masterclass, Part 1: The Strings and The Winds"
+          },
+          "teacher": {
+            "href": "/users/5759984",
+            "title": "Jason Allen - PhD, Ableton Certified Trainer"
+          },
+          "units": {
+            "href": "/classes/1091374039/units",
+            "title": "Units for Class: 1091374039"
+          },
+          "sessions": {
+            "href": "/classes/1091374039/sessions",
+            "title": "Sessions for Class: 1091374039"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1091374039/students",
+            "title": "Students for Class: 1091374039"
+          },
+          "projects": {
+            "href": "/classes/1091374039/projects",
+            "title": "Projects for Class: 1091374039"
+          },
+          "reviews": {
+            "href": "/classes/1091374039/reviews",
+            "title": "Reviews for Class: 1091374039"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1104040,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTEwNDA0MCJ9",
+            "username": 5759984,
+            "first_name": "Jason",
+            "last_name": "Allen",
+            "full_name": "Jason Allen",
+            "vanity_username": "janthonyallen",
+            "headline": "PhD, Ableton Certified Trainer",
+            "pic": "https://static.skillshare.com/uploads/users/5759984/user-image-medium.jpg?1777065168",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5759984/user-image-small.jpg?1591270440",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5759984/user-image-large.jpg?1011987061",
+            "_links": {
+              "self": {
+                "href": "/users/5759984",
+                "title": "Jason Allen - PhD, Ableton Certified Trainer"
+              },
+              "my_classes": {
+                "href": "/users/5759984/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5759984/completions",
+                "title": "Completions for User: 5759984"
+              },
+              "discussions": {
+                "href": "/users/5759984/discussions",
+                "title": "Discussions for User: 5759984"
+              },
+              "followers": {
+                "href": "/users/5759984/followers",
+                "title": "Followers for User: 5759984"
+              },
+              "following": {
+                "href": "/users/5759984/following",
+                "title": "Following for User: 5759984"
+              },
+              "notifications": {
+                "href": "/users/5759984/notifications",
+                "title": "Notifications for User: 5759984"
+              },
+              "projects": {
+                "href": "/users/5759984/projects",
+                "title": "Projects for User: 5759984"
+              },
+              "rosters": {
+                "href": "/users/5759984/rosters",
+                "title": "Rosters for User: 5759984"
+              },
+              "userTags": {
+                "href": "/users/5759984/userTags",
+                "title": "UserTags for User: 5759984"
+              },
+              "votes": {
+                "href": "/users/5759984/votes",
+                "title": "Votes for User: 5759984"
+              },
+              "wishlist": {
+                "href": "/users/5759984/wishlist",
+                "title": "Wishlist for User: 5759984"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 554938,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NDkzOCJ9",
+        "sku": 90023572,
+        "title": "5 Keys to Looser Brushwork and a More Impressionistic Painting Style",
+        "project_title": "For your class project, I'd like for you to paint a piece of fruit (apple, pear, peach, etc. ) using the techniques you've learned today.   You can paint from life or from a photo.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/3b4dbd0566e3e5f9591be32afe161712/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/3b4dbd0566e3e5f9591be32afe161712/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/3b4dbd0566e3e5f9591be32afe161712/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/5-Keys-to-Looser-Brushwork-and-a-More-Impressionistic-Painting-Style/90023572",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "41m",
+        "total_videos_duration_seconds": 2438,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 208,
+        "num_projects": 1,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 18, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/90023572",
+            "title": "5 Keys to Looser Brushwork and a More Impressionistic Painting Style"
+          },
+          "teacher": {
+            "href": "/users/748242903",
+            "title": "Victoria Hagaman - Joyful Art"
+          },
+          "units": {
+            "href": "/classes/90023572/units",
+            "title": "Units for Class: 90023572"
+          },
+          "sessions": {
+            "href": "/classes/90023572/sessions",
+            "title": "Sessions for Class: 90023572"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/90023572/students",
+            "title": "Students for Class: 90023572"
+          },
+          "projects": {
+            "href": "/classes/90023572/projects",
+            "title": "Projects for Class: 90023572"
+          },
+          "reviews": {
+            "href": "/classes/90023572/reviews",
+            "title": "Reviews for Class: 90023572"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23544570,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjM1NDQ1NzAifQ==",
+            "username": 748242903,
+            "first_name": "Victoria",
+            "last_name": "Hagaman",
+            "full_name": "Victoria Hagaman",
+            "vanity_username": null,
+            "headline": "Joyful Art",
+            "pic": "https://static.skillshare.com/uploads/users/748242903/user-image-medium.png?732266396",
+            "pic_sm": "https://static.skillshare.com/uploads/users/748242903/user-image-small.png?86280114",
+            "pic_lg": "https://static.skillshare.com/uploads/users/748242903/user-image-large.png?1895881212",
+            "_links": {
+              "self": {
+                "href": "/users/748242903",
+                "title": "Victoria Hagaman - Joyful Art"
+              },
+              "my_classes": {
+                "href": "/users/748242903/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/748242903/completions",
+                "title": "Completions for User: 748242903"
+              },
+              "discussions": {
+                "href": "/users/748242903/discussions",
+                "title": "Discussions for User: 748242903"
+              },
+              "followers": {
+                "href": "/users/748242903/followers",
+                "title": "Followers for User: 748242903"
+              },
+              "following": {
+                "href": "/users/748242903/following",
+                "title": "Following for User: 748242903"
+              },
+              "notifications": {
+                "href": "/users/748242903/notifications",
+                "title": "Notifications for User: 748242903"
+              },
+              "projects": {
+                "href": "/users/748242903/projects",
+                "title": "Projects for User: 748242903"
+              },
+              "rosters": {
+                "href": "/users/748242903/rosters",
+                "title": "Rosters for User: 748242903"
+              },
+              "userTags": {
+                "href": "/users/748242903/userTags",
+                "title": "UserTags for User: 748242903"
+              },
+              "votes": {
+                "href": "/users/748242903/votes",
+                "title": "Votes for User: 748242903"
+              },
+              "wishlist": {
+                "href": "/users/748242903/wishlist",
+                "title": "Wishlist for User: 748242903"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 554940,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NDk0MCJ9",
+        "sku": 860936441,
+        "title": "Instagram Reels For Artists: Making Reels that Serve a Purpose.",
+        "project_title": "For this class project we will learn how to make:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/99817468df9a76d6321cab7782c57ecf/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/99817468df9a76d6321cab7782c57ecf/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/99817468df9a76d6321cab7782c57ecf/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Instagram-Reels-For-Artists-Making-Reels-that-Serve-a-Purpose/860936441",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "30m",
+        "total_videos_duration_seconds": 1822,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 2539,
+        "num_projects": 6,
+        "num_discussions": 6,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 1, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/860936441",
+            "title": "Instagram Reels For Artists: Making Reels that Serve a Purpose."
+          },
+          "teacher": {
+            "href": "/users/4390807",
+            "title": "Attabeira German - One-Line Illustrator"
+          },
+          "units": {
+            "href": "/classes/860936441/units",
+            "title": "Units for Class: 860936441"
+          },
+          "sessions": {
+            "href": "/classes/860936441/sessions",
+            "title": "Sessions for Class: 860936441"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/860936441/students",
+            "title": "Students for Class: 860936441"
+          },
+          "projects": {
+            "href": "/classes/860936441/projects",
+            "title": "Projects for Class: 860936441"
+          },
+          "reviews": {
+            "href": "/classes/860936441/reviews",
+            "title": "Reviews for Class: 860936441"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5102854,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTEwMjg1NCJ9",
+            "username": 4390807,
+            "first_name": "Attabeira",
+            "last_name": "German",
+            "full_name": "Attabeira German",
+            "vanity_username": null,
+            "headline": "One-Line Illustrator",
+            "pic": "https://static.skillshare.com/uploads/users/4390807/user-image-medium.jpg?1590173769",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4390807/user-image-small.jpg?1546451947",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4390807/user-image-large.jpg?820860176",
+            "_links": {
+              "self": {
+                "href": "/users/4390807",
+                "title": "Attabeira German - One-Line Illustrator"
+              },
+              "my_classes": {
+                "href": "/users/4390807/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4390807/completions",
+                "title": "Completions for User: 4390807"
+              },
+              "discussions": {
+                "href": "/users/4390807/discussions",
+                "title": "Discussions for User: 4390807"
+              },
+              "followers": {
+                "href": "/users/4390807/followers",
+                "title": "Followers for User: 4390807"
+              },
+              "following": {
+                "href": "/users/4390807/following",
+                "title": "Following for User: 4390807"
+              },
+              "notifications": {
+                "href": "/users/4390807/notifications",
+                "title": "Notifications for User: 4390807"
+              },
+              "projects": {
+                "href": "/users/4390807/projects",
+                "title": "Projects for User: 4390807"
+              },
+              "rosters": {
+                "href": "/users/4390807/rosters",
+                "title": "Rosters for User: 4390807"
+              },
+              "userTags": {
+                "href": "/users/4390807/userTags",
+                "title": "UserTags for User: 4390807"
+              },
+              "votes": {
+                "href": "/users/4390807/votes",
+                "title": "Votes for User: 4390807"
+              },
+              "wishlist": {
+                "href": "/users/4390807/wishlist",
+                "title": "Wishlist for User: 4390807"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 554955,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NDk1NSJ9",
+        "sku": 1958025300,
+        "title": "This UP/DOWN, LEFT/RIGHT Tessellation method was M. C. Escher's favorite",
+        "project_title": "Post your project here!Upload it to your Instagram account and tag it #kaleidopaintstudent",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ee629184892a28199b237d3d74542d6b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ee629184892a28199b237d3d74542d6b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ee629184892a28199b237d3d74542d6b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/This-UPDOWN-LEFTRIGHT-Tessellation-method-was-M-C-Eschers-favorite/1958025300",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "33m",
+        "total_videos_duration_seconds": 1950,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 62,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 2, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1958025300",
+            "title": "This UP/DOWN, LEFT/RIGHT Tessellation method was M. C. Escher's favorite"
+          },
+          "teacher": {
+            "href": "/users/2729803",
+            "title": "Francine Champagne - Tessellation Artist"
+          },
+          "units": {
+            "href": "/classes/1958025300/units",
+            "title": "Units for Class: 1958025300"
+          },
+          "sessions": {
+            "href": "/classes/1958025300/sessions",
+            "title": "Sessions for Class: 1958025300"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1958025300/students",
+            "title": "Students for Class: 1958025300"
+          },
+          "projects": {
+            "href": "/classes/1958025300/projects",
+            "title": "Projects for Class: 1958025300"
+          },
+          "reviews": {
+            "href": "/classes/1958025300/reviews",
+            "title": "Reviews for Class: 1958025300"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8285148,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODI4NTE0OCJ9",
+            "username": 2729803,
+            "first_name": "Francine",
+            "last_name": "Champagne",
+            "full_name": "Francine Champagne",
+            "vanity_username": "francinechampagne",
+            "headline": "Tessellation Artist",
+            "pic": "https://static.skillshare.com/uploads/users/2729803/user-image-medium.jpg?1300201304",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2729803/user-image-small.jpg?47159261",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2729803/user-image-large.jpg?373829905",
+            "_links": {
+              "self": {
+                "href": "/users/2729803",
+                "title": "Francine Champagne - Tessellation Artist"
+              },
+              "my_classes": {
+                "href": "/users/2729803/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2729803/completions",
+                "title": "Completions for User: 2729803"
+              },
+              "discussions": {
+                "href": "/users/2729803/discussions",
+                "title": "Discussions for User: 2729803"
+              },
+              "followers": {
+                "href": "/users/2729803/followers",
+                "title": "Followers for User: 2729803"
+              },
+              "following": {
+                "href": "/users/2729803/following",
+                "title": "Following for User: 2729803"
+              },
+              "notifications": {
+                "href": "/users/2729803/notifications",
+                "title": "Notifications for User: 2729803"
+              },
+              "projects": {
+                "href": "/users/2729803/projects",
+                "title": "Projects for User: 2729803"
+              },
+              "rosters": {
+                "href": "/users/2729803/rosters",
+                "title": "Rosters for User: 2729803"
+              },
+              "userTags": {
+                "href": "/users/2729803/userTags",
+                "title": "UserTags for User: 2729803"
+              },
+              "votes": {
+                "href": "/users/2729803/votes",
+                "title": "Votes for User: 2729803"
+              },
+              "wishlist": {
+                "href": "/users/2729803/wishlist",
+                "title": "Wishlist for User: 2729803"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 555019,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NTAxOSJ9",
+        "sku": 1535367898,
+        "title": "Illustrate Tropical Birds In Procreate",
+        "project_title": "I have attached all 3 bird sketches and few reference images (including the once used in this class) in the resource section of this class that you can download and follow along or use for your class ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/4ee085ccfe2b88272c239ac5a1841163/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/4ee085ccfe2b88272c239ac5a1841163/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/4ee085ccfe2b88272c239ac5a1841163/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Illustrate-Tropical-Birds-In-Procreate/1535367898",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "1h 22m",
+        "total_videos_duration_seconds": 4926,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 250,
+        "num_projects": 9,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Mar 4, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1535367898",
+            "title": "Illustrate Tropical Birds In Procreate"
+          },
+          "teacher": {
+            "href": "/users/6771531",
+            "title": "Vinita Upadhya - Illustrator & Pattern Designer"
+          },
+          "units": {
+            "href": "/classes/1535367898/units",
+            "title": "Units for Class: 1535367898"
+          },
+          "sessions": {
+            "href": "/classes/1535367898/sessions",
+            "title": "Sessions for Class: 1535367898"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1535367898/students",
+            "title": "Students for Class: 1535367898"
+          },
+          "projects": {
+            "href": "/classes/1535367898/projects",
+            "title": "Projects for Class: 1535367898"
+          },
+          "reviews": {
+            "href": "/classes/1535367898/reviews",
+            "title": "Reviews for Class: 1535367898"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5969665,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTk2OTY2NSJ9",
+            "username": 6771531,
+            "first_name": "Vinita",
+            "last_name": "Upadhya",
+            "full_name": "Vinita Upadhya",
+            "vanity_username": "vinita",
+            "headline": "Illustrator & Pattern Designer",
+            "pic": "https://static.skillshare.com/uploads/users/6771531/user-image-medium.jpg?1999288774",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6771531/user-image-small.jpg?450592206",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6771531/user-image-large.jpg?797134961",
+            "_links": {
+              "self": {
+                "href": "/users/6771531",
+                "title": "Vinita Upadhya - Illustrator & Pattern Designer"
+              },
+              "my_classes": {
+                "href": "/users/6771531/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6771531/completions",
+                "title": "Completions for User: 6771531"
+              },
+              "discussions": {
+                "href": "/users/6771531/discussions",
+                "title": "Discussions for User: 6771531"
+              },
+              "followers": {
+                "href": "/users/6771531/followers",
+                "title": "Followers for User: 6771531"
+              },
+              "following": {
+                "href": "/users/6771531/following",
+                "title": "Following for User: 6771531"
+              },
+              "notifications": {
+                "href": "/users/6771531/notifications",
+                "title": "Notifications for User: 6771531"
+              },
+              "projects": {
+                "href": "/users/6771531/projects",
+                "title": "Projects for User: 6771531"
+              },
+              "rosters": {
+                "href": "/users/6771531/rosters",
+                "title": "Rosters for User: 6771531"
+              },
+              "userTags": {
+                "href": "/users/6771531/userTags",
+                "title": "UserTags for User: 6771531"
+              },
+              "votes": {
+                "href": "/users/6771531/votes",
+                "title": "Votes for User: 6771531"
+              },
+              "wishlist": {
+                "href": "/users/6771531/wishlist",
+                "title": "Wishlist for User: 6771531"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 555021,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NTAyMSJ9",
+        "sku": 2114124397,
+        "title": "How to Draw Clothing : For Beginners",
+        "project_title": "Draw any clothing and I'll give you feedback here! Practice Makes Perfect! Let's get posting!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c0f2833acae2dd885077756e6852d556/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c0f2833acae2dd885077756e6852d556/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c0f2833acae2dd885077756e6852d556/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Draw-Clothing-For-Beginners/2114124397",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "46m",
+        "total_videos_duration_seconds": 2787,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 209,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 2, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2114124397",
+            "title": "How to Draw Clothing : For Beginners"
+          },
+          "teacher": {
+            "href": "/users/367832528",
+            "title": "Enrique Plazola - Learn to Draw the Easy Way"
+          },
+          "units": {
+            "href": "/classes/2114124397/units",
+            "title": "Units for Class: 2114124397"
+          },
+          "sessions": {
+            "href": "/classes/2114124397/sessions",
+            "title": "Sessions for Class: 2114124397"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2114124397/students",
+            "title": "Students for Class: 2114124397"
+          },
+          "projects": {
+            "href": "/classes/2114124397/projects",
+            "title": "Projects for Class: 2114124397"
+          },
+          "reviews": {
+            "href": "/classes/2114124397/reviews",
+            "title": "Reviews for Class: 2114124397"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10467862,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTA0Njc4NjIifQ==",
+            "username": 367832528,
+            "first_name": "Enrique",
+            "last_name": "Plazola",
+            "full_name": "Enrique Plazola",
+            "vanity_username": null,
+            "headline": "Learn to Draw the Easy Way",
+            "pic": "https://static.skillshare.com/uploads/users/367832528/user-image-medium.png?434531246",
+            "pic_sm": "https://static.skillshare.com/uploads/users/367832528/user-image-small.png?1546073961",
+            "pic_lg": "https://static.skillshare.com/uploads/users/367832528/user-image-large.png?1526505737",
+            "_links": {
+              "self": {
+                "href": "/users/367832528",
+                "title": "Enrique Plazola - Learn to Draw the Easy Way"
+              },
+              "my_classes": {
+                "href": "/users/367832528/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/367832528/completions",
+                "title": "Completions for User: 367832528"
+              },
+              "discussions": {
+                "href": "/users/367832528/discussions",
+                "title": "Discussions for User: 367832528"
+              },
+              "followers": {
+                "href": "/users/367832528/followers",
+                "title": "Followers for User: 367832528"
+              },
+              "following": {
+                "href": "/users/367832528/following",
+                "title": "Following for User: 367832528"
+              },
+              "notifications": {
+                "href": "/users/367832528/notifications",
+                "title": "Notifications for User: 367832528"
+              },
+              "projects": {
+                "href": "/users/367832528/projects",
+                "title": "Projects for User: 367832528"
+              },
+              "rosters": {
+                "href": "/users/367832528/rosters",
+                "title": "Rosters for User: 367832528"
+              },
+              "userTags": {
+                "href": "/users/367832528/userTags",
+                "title": "UserTags for User: 367832528"
+              },
+              "votes": {
+                "href": "/users/367832528/votes",
+                "title": "Votes for User: 367832528"
+              },
+              "wishlist": {
+                "href": "/users/367832528/wishlist",
+                "title": "Wishlist for User: 367832528"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 555047,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU1NTA0NyJ9",
+        "sku": 366148779,
+        "title": "Watercolour Techniques For Beginners:  How To Add Texture To A Watercolor Painting",
+        "project_title": "I would like you to paint your own painting using 1 or more of the techniques that you learned in this class today.   Use the items I mentioned in this class to add texture to parts of your painting o",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fea28ed0a050ff0626e930aa5e28dd87/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fea28ed0a050ff0626e930aa5e28dd87/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fea28ed0a050ff0626e930aa5e28dd87/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolour-Techniques-For-Beginners-How-To-Add-Texture-To-A-Watercolor-Painting/366148779",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "12m",
+        "total_videos_duration_seconds": 733,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 27,
+        "num_projects": 0,
+        "num_discussions": 4,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Feb 1, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/366148779",
+            "title": "Watercolour Techniques For Beginners:  How To Add Texture To A Watercolor Painting"
+          },
+          "teacher": {
+            "href": "/users/794434003",
+            "title": "Lindsey Dawn Art - Watercolour Artist"
+          },
+          "units": {
+            "href": "/classes/366148779/units",
+            "title": "Units for Class: 366148779"
+          },
+          "sessions": {
+            "href": "/classes/366148779/sessions",
+            "title": "Sessions for Class: 366148779"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/366148779/students",
+            "title": "Students for Class: 366148779"
+          },
+          "projects": {
+            "href": "/classes/366148779/projects",
+            "title": "Projects for Class: 366148779"
+          },
+          "reviews": {
+            "href": "/classes/366148779/reviews",
+            "title": "Reviews for Class: 366148779"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11457267,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTE0NTcyNjcifQ==",
+            "username": 794434003,
+            "first_name": "Lindsey",
+            "last_name": "Dawn Art",
+            "full_name": "Lindsey Dawn Art",
+            "vanity_username": "lindseydawnart",
+            "headline": "Watercolour Artist",
+            "pic": "https://static.skillshare.com/uploads/users/794434003/user-image-medium.jpg?685130569",
+            "pic_sm": "https://static.skillshare.com/uploads/users/794434003/user-image-small.jpg?647138995",
+            "pic_lg": "https://static.skillshare.com/uploads/users/794434003/user-image-large.jpg?417058574",
+            "_links": {
+              "self": {
+                "href": "/users/794434003",
+                "title": "Lindsey Dawn Art - Watercolour Artist"
+              },
+              "my_classes": {
+                "href": "/users/794434003/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/794434003/completions",
+                "title": "Completions for User: 794434003"
+              },
+              "discussions": {
+                "href": "/users/794434003/discussions",
+                "title": "Discussions for User: 794434003"
+              },
+              "followers": {
+                "href": "/users/794434003/followers",
+                "title": "Followers for User: 794434003"
+              },
+              "following": {
+                "href": "/users/794434003/following",
+                "title": "Following for User: 794434003"
+              },
+              "notifications": {
+                "href": "/users/794434003/notifications",
+                "title": "Notifications for User: 794434003"
+              },
+              "projects": {
+                "href": "/users/794434003/projects",
+                "title": "Projects for User: 794434003"
+              },
+              "rosters": {
+                "href": "/users/794434003/rosters",
+                "title": "Rosters for User: 794434003"
+              },
+              "userTags": {
+                "href": "/users/794434003/userTags",
+                "title": "UserTags for User: 794434003"
+              },
+              "votes": {
+                "href": "/users/794434003/votes",
+                "title": "Votes for User: 794434003"
+              },
+              "wishlist": {
+                "href": "/users/794434003/wishlist",
+                "title": "Wishlist for User: 794434003"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

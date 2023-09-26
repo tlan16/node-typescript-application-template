@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1340",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1339",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1341",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 567921,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NzkyMSJ9",
+        "sku": 2032735757,
+        "title": "Art of Indian vegetarian cooking 40 dishes",
+        "project_title": "Recreate From Recipes available in course with Local ingredients available and share picture.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6304049686001/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6304049686001/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6304049686001/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Art-of-Indian-vegetarian-cooking-40-dishes/2032735757",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 42,
+        "total_videos_duration": "4h 4m",
+        "total_videos_duration_seconds": 14623,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 321,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 4, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2032735757",
+            "title": "Art of Indian vegetarian cooking 40 dishes"
+          },
+          "teacher": {
+            "href": "/users/524695346",
+            "title": "Saurabh Nandwani - Chef"
+          },
+          "units": {
+            "href": "/classes/2032735757/units",
+            "title": "Units for Class: 2032735757"
+          },
+          "sessions": {
+            "href": "/classes/2032735757/sessions",
+            "title": "Sessions for Class: 2032735757"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/2032735757/students",
+            "title": "Students for Class: 2032735757"
+          },
+          "projects": {
+            "href": "/classes/2032735757/projects",
+            "title": "Projects for Class: 2032735757"
+          },
+          "reviews": {
+            "href": "/classes/2032735757/reviews",
+            "title": "Reviews for Class: 2032735757"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25187210,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUxODcyMTAifQ==",
+            "username": 524695346,
+            "first_name": "Saurabh",
+            "last_name": "Nandwani",
+            "full_name": "Saurabh Nandwani",
+            "vanity_username": null,
+            "headline": "Chef",
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/524695346",
+                "title": "Saurabh Nandwani - Chef"
+              },
+              "my_classes": {
+                "href": "/users/524695346/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/524695346/completions",
+                "title": "Completions for User: 524695346"
+              },
+              "discussions": {
+                "href": "/users/524695346/discussions",
+                "title": "Discussions for User: 524695346"
+              },
+              "followers": {
+                "href": "/users/524695346/followers",
+                "title": "Followers for User: 524695346"
+              },
+              "following": {
+                "href": "/users/524695346/following",
+                "title": "Following for User: 524695346"
+              },
+              "notifications": {
+                "href": "/users/524695346/notifications",
+                "title": "Notifications for User: 524695346"
+              },
+              "projects": {
+                "href": "/users/524695346/projects",
+                "title": "Projects for User: 524695346"
+              },
+              "rosters": {
+                "href": "/users/524695346/rosters",
+                "title": "Rosters for User: 524695346"
+              },
+              "userTags": {
+                "href": "/users/524695346/userTags",
+                "title": "UserTags for User: 524695346"
+              },
+              "votes": {
+                "href": "/users/524695346/votes",
+                "title": "Votes for User: 524695346"
+              },
+              "wishlist": {
+                "href": "/users/524695346/wishlist",
+                "title": "Wishlist for User: 524695346"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 567928,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NzkyOCJ9",
+        "sku": 386743407,
+        "title": "Neuromarketing: Neurociência aplicada para crescer o  seu negócio",
+        "project_title": "Projecto Final:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/2bbb979f84707439667ad072fef5f1fd/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/2bbb979f84707439667ad072fef5f1fd/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/2bbb979f84707439667ad072fef5f1fd/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Neuromarketing-Neuroci%C3%AAncia-aplicada-para-crescer-o-seu-neg%C3%B3cio/386743407",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 23,
+        "total_videos_duration": "2h 25m",
+        "total_videos_duration_seconds": 8692,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 44,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 15, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/386743407",
+            "title": "Neuromarketing: Neurociência aplicada para crescer o  seu negócio"
+          },
+          "teacher": {
+            "href": "/users/9806479",
+            "title": "Diego Davila - Entrepreneur and Social Media Innovator"
+          },
+          "units": {
+            "href": "/classes/386743407/units",
+            "title": "Units for Class: 386743407"
+          },
+          "sessions": {
+            "href": "/classes/386743407/sessions",
+            "title": "Sessions for Class: 386743407"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/386743407/students",
+            "title": "Students for Class: 386743407"
+          },
+          "projects": {
+            "href": "/classes/386743407/projects",
+            "title": "Projects for Class: 386743407"
+          },
+          "reviews": {
+            "href": "/classes/386743407/reviews",
+            "title": "Reviews for Class: 386743407"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 801853,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODAxODUzIn0=",
+            "username": 9806479,
+            "first_name": "Diego",
+            "last_name": "Davila",
+            "full_name": "Diego Davila",
+            "vanity_username": "diegodavila",
+            "headline": "Entrepreneur and Social Media Innovator",
+            "pic": "https://static.skillshare.com/uploads/users/9806479/user-image-medium.png?1236578213",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9806479/user-image-small.png?1188004108",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9806479/user-image-large.png?1056344047",
+            "_links": {
+              "self": {
+                "href": "/users/9806479",
+                "title": "Diego Davila - Entrepreneur and Social Media Innovator"
+              },
+              "my_classes": {
+                "href": "/users/9806479/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9806479/completions",
+                "title": "Completions for User: 9806479"
+              },
+              "discussions": {
+                "href": "/users/9806479/discussions",
+                "title": "Discussions for User: 9806479"
+              },
+              "followers": {
+                "href": "/users/9806479/followers",
+                "title": "Followers for User: 9806479"
+              },
+              "following": {
+                "href": "/users/9806479/following",
+                "title": "Following for User: 9806479"
+              },
+              "notifications": {
+                "href": "/users/9806479/notifications",
+                "title": "Notifications for User: 9806479"
+              },
+              "projects": {
+                "href": "/users/9806479/projects",
+                "title": "Projects for User: 9806479"
+              },
+              "rosters": {
+                "href": "/users/9806479/rosters",
+                "title": "Rosters for User: 9806479"
+              },
+              "userTags": {
+                "href": "/users/9806479/userTags",
+                "title": "UserTags for User: 9806479"
+              },
+              "votes": {
+                "href": "/users/9806479/votes",
+                "title": "Votes for User: 9806479"
+              },
+              "wishlist": {
+                "href": "/users/9806479/wishlist",
+                "title": "Wishlist for User: 9806479"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 567939,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2NzkzOSJ9",
+        "sku": 10712619,
+        "title": "Crochet Your Unique Character: Basic Amigurumi Doll’s Body",
+        "project_title": "In the class we will make a basic amigurumi doll’s body.   You’ll then be able to customize it and create your own unique character.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e8ca61d51738e4d8471d9f99ccd9563a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e8ca61d51738e4d8471d9f99ccd9563a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e8ca61d51738e4d8471d9f99ccd9563a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Crochet-Your-Unique-Character-Basic-Amigurumi-Doll%E2%80%99s-Body/10712619",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "57m",
+        "total_videos_duration_seconds": 3395,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 621,
+        "num_projects": 10,
+        "num_discussions": 4,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 2, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/10712619",
+            "title": "Crochet Your Unique Character: Basic Amigurumi Doll’s Body"
+          },
+          "teacher": {
+            "href": "/users/769862479",
+            "title": "Olga Bortniak - Crochet designer, dollmaker Olgamigurumi"
+          },
+          "units": {
+            "href": "/classes/10712619/units",
+            "title": "Units for Class: 10712619"
+          },
+          "sessions": {
+            "href": "/classes/10712619/sessions",
+            "title": "Sessions for Class: 10712619"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/10712619/students",
+            "title": "Students for Class: 10712619"
+          },
+          "projects": {
+            "href": "/classes/10712619/projects",
+            "title": "Projects for Class: 10712619"
+          },
+          "reviews": {
+            "href": "/classes/10712619/reviews",
+            "title": "Reviews for Class: 10712619"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10275393,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTAyNzUzOTMifQ==",
+            "username": 769862479,
+            "first_name": "Olga",
+            "last_name": "Bortniak",
+            "full_name": "Olga Bortniak",
+            "vanity_username": "olgamigurumi",
+            "headline": "Crochet designer, dollmaker Olgamigurumi",
+            "pic": "https://static.skillshare.com/uploads/users/769862479/user-image-medium.jpg?715909868",
+            "pic_sm": "https://static.skillshare.com/uploads/users/769862479/user-image-small.jpg?2124276865",
+            "pic_lg": "https://static.skillshare.com/uploads/users/769862479/user-image-large.jpg?587519246",
+            "_links": {
+              "self": {
+                "href": "/users/769862479",
+                "title": "Olga Bortniak - Crochet designer, dollmaker Olgamigurumi"
+              },
+              "my_classes": {
+                "href": "/users/769862479/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/769862479/completions",
+                "title": "Completions for User: 769862479"
+              },
+              "discussions": {
+                "href": "/users/769862479/discussions",
+                "title": "Discussions for User: 769862479"
+              },
+              "followers": {
+                "href": "/users/769862479/followers",
+                "title": "Followers for User: 769862479"
+              },
+              "following": {
+                "href": "/users/769862479/following",
+                "title": "Following for User: 769862479"
+              },
+              "notifications": {
+                "href": "/users/769862479/notifications",
+                "title": "Notifications for User: 769862479"
+              },
+              "projects": {
+                "href": "/users/769862479/projects",
+                "title": "Projects for User: 769862479"
+              },
+              "rosters": {
+                "href": "/users/769862479/rosters",
+                "title": "Rosters for User: 769862479"
+              },
+              "userTags": {
+                "href": "/users/769862479/userTags",
+                "title": "UserTags for User: 769862479"
+              },
+              "votes": {
+                "href": "/users/769862479/votes",
+                "title": "Votes for User: 769862479"
+              },
+              "wishlist": {
+                "href": "/users/769862479/wishlist",
+                "title": "Wishlist for User: 769862479"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 567962,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2Nzk2MiJ9",
+        "sku": 1767567007,
+        "title": "Gouache Illustrations : Painting green landscapes in gouache",
+        "project_title": "For the class project, you can try out any one or both of the green landscapes shared in the project videos and upload them in the project section of this class.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/af7f7afb180b4382cdb656d28fa4189b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/af7f7afb180b4382cdb656d28fa4189b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/af7f7afb180b4382cdb656d28fa4189b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Gouache-Illustrations-Painting-green-landscapes-in-gouache/1767567007",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 13m",
+        "total_videos_duration_seconds": 4390,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 251,
+        "num_projects": 18,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 12, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1767567007",
+            "title": "Gouache Illustrations : Painting green landscapes in gouache"
+          },
+          "teacher": {
+            "href": "/users/1460928",
+            "title": "Vinita - That Crazy  Doodler"
+          },
+          "units": {
+            "href": "/classes/1767567007/units",
+            "title": "Units for Class: 1767567007"
+          },
+          "sessions": {
+            "href": "/classes/1767567007/sessions",
+            "title": "Sessions for Class: 1767567007"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1767567007/students",
+            "title": "Students for Class: 1767567007"
+          },
+          "projects": {
+            "href": "/classes/1767567007/projects",
+            "title": "Projects for Class: 1767567007"
+          },
+          "reviews": {
+            "href": "/classes/1767567007/reviews",
+            "title": "Reviews for Class: 1767567007"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7455946,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzQ1NTk0NiJ9",
+            "username": 1460928,
+            "first_name": "Vinita",
+            "last_name": null,
+            "full_name": "Vinita",
+            "vanity_username": "thatcrazydoodler",
+            "headline": "That Crazy  Doodler",
+            "pic": "https://static.skillshare.com/uploads/users/1460928/user-image-medium.jpg?1356063108",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1460928/user-image-small.jpg?816854342",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1460928/user-image-large.jpg?247204467",
+            "_links": {
+              "self": {
+                "href": "/users/1460928",
+                "title": "Vinita - That Crazy  Doodler"
+              },
+              "my_classes": {
+                "href": "/users/1460928/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1460928/completions",
+                "title": "Completions for User: 1460928"
+              },
+              "discussions": {
+                "href": "/users/1460928/discussions",
+                "title": "Discussions for User: 1460928"
+              },
+              "followers": {
+                "href": "/users/1460928/followers",
+                "title": "Followers for User: 1460928"
+              },
+              "following": {
+                "href": "/users/1460928/following",
+                "title": "Following for User: 1460928"
+              },
+              "notifications": {
+                "href": "/users/1460928/notifications",
+                "title": "Notifications for User: 1460928"
+              },
+              "projects": {
+                "href": "/users/1460928/projects",
+                "title": "Projects for User: 1460928"
+              },
+              "rosters": {
+                "href": "/users/1460928/rosters",
+                "title": "Rosters for User: 1460928"
+              },
+              "userTags": {
+                "href": "/users/1460928/userTags",
+                "title": "UserTags for User: 1460928"
+              },
+              "votes": {
+                "href": "/users/1460928/votes",
+                "title": "Votes for User: 1460928"
+              },
+              "wishlist": {
+                "href": "/users/1460928/wishlist",
+                "title": "Wishlist for User: 1460928"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 567969,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2Nzk2OSJ9",
+        "sku": 1923599474,
+        "title": "Lightroom Classic: Supercharge Your Workflow",
+        "project_title": "Students should have some images ready that they want to process. A plugin and an app will be required to get the most from the class. The plugin is free, but the app for geotagging has a small, one-t",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d7b115176ad4dbdbdc0678665cbc12bc/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d7b115176ad4dbdbdc0678665cbc12bc/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d7b115176ad4dbdbdc0678665cbc12bc/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Lightroom-Classic-Supercharge-Your-Workflow/1923599474",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 19,
+        "total_videos_duration": "1h 14m",
+        "total_videos_duration_seconds": 4435,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 93,
+        "num_projects": 0,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 31, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1923599474",
+            "title": "Lightroom Classic: Supercharge Your Workflow"
+          },
+          "teacher": {
+            "href": "/users/975994883",
+            "title": "Ian Jukes - The world is a beautiful place!"
+          },
+          "units": {
+            "href": "/classes/1923599474/units",
+            "title": "Units for Class: 1923599474"
+          },
+          "sessions": {
+            "href": "/classes/1923599474/sessions",
+            "title": "Sessions for Class: 1923599474"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1923599474/students",
+            "title": "Students for Class: 1923599474"
+          },
+          "projects": {
+            "href": "/classes/1923599474/projects",
+            "title": "Projects for Class: 1923599474"
+          },
+          "reviews": {
+            "href": "/classes/1923599474/reviews",
+            "title": "Reviews for Class: 1923599474"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 14673589,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTQ2NzM1ODkifQ==",
+            "username": 975994883,
+            "first_name": "Ian",
+            "last_name": "Jukes",
+            "full_name": "Ian Jukes",
+            "vanity_username": null,
+            "headline": "The world is a beautiful place!",
+            "pic": "https://static.skillshare.com/uploads/users/14673589/1595219447_pic.jpg",
+            "pic_sm": "https://graph.facebook.com/10221080293430764/picture",
+            "pic_lg": "https://graph.facebook.com/10221080293430764/picture?type=large",
+            "_links": {
+              "self": {
+                "href": "/users/975994883",
+                "title": "Ian Jukes - The world is a beautiful place!"
+              },
+              "my_classes": {
+                "href": "/users/975994883/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/975994883/completions",
+                "title": "Completions for User: 975994883"
+              },
+              "discussions": {
+                "href": "/users/975994883/discussions",
+                "title": "Discussions for User: 975994883"
+              },
+              "followers": {
+                "href": "/users/975994883/followers",
+                "title": "Followers for User: 975994883"
+              },
+              "following": {
+                "href": "/users/975994883/following",
+                "title": "Following for User: 975994883"
+              },
+              "notifications": {
+                "href": "/users/975994883/notifications",
+                "title": "Notifications for User: 975994883"
+              },
+              "projects": {
+                "href": "/users/975994883/projects",
+                "title": "Projects for User: 975994883"
+              },
+              "rosters": {
+                "href": "/users/975994883/rosters",
+                "title": "Rosters for User: 975994883"
+              },
+              "userTags": {
+                "href": "/users/975994883/userTags",
+                "title": "UserTags for User: 975994883"
+              },
+              "votes": {
+                "href": "/users/975994883/votes",
+                "title": "Votes for User: 975994883"
+              },
+              "wishlist": {
+                "href": "/users/975994883/wishlist",
+                "title": "Wishlist for User: 975994883"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 567970,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2Nzk3MCJ9",
+        "sku": 1530640938,
+        "title": "Procreate for Beginners : Draw Symmetry Designs",
+        "project_title": "Your assignment is :",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/716542e5591ce57c83fdadec4e7bd0fb/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/716542e5591ce57c83fdadec4e7bd0fb/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/716542e5591ce57c83fdadec4e7bd0fb/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Procreate-for-Beginners-Draw-Symmetry-Designs/1530640938",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 19,
+        "total_videos_duration": "1h 42m",
+        "total_videos_duration_seconds": 6101,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 119,
+        "num_projects": 3,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 23, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1530640938",
+            "title": "Procreate for Beginners : Draw Symmetry Designs"
+          },
+          "teacher": {
+            "href": "/users/3482386",
+            "title": "Hanny Agustine - Artist | Designer | Teacher "
+          },
+          "units": {
+            "href": "/classes/1530640938/units",
+            "title": "Units for Class: 1530640938"
+          },
+          "sessions": {
+            "href": "/classes/1530640938/sessions",
+            "title": "Sessions for Class: 1530640938"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1530640938/students",
+            "title": "Students for Class: 1530640938"
+          },
+          "projects": {
+            "href": "/classes/1530640938/projects",
+            "title": "Projects for Class: 1530640938"
+          },
+          "reviews": {
+            "href": "/classes/1530640938/reviews",
+            "title": "Reviews for Class: 1530640938"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1322300,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTMyMjMwMCJ9",
+            "username": 3482386,
+            "first_name": "Hanny",
+            "last_name": "Agustine",
+            "full_name": "Hanny Agustine",
+            "vanity_username": "hannyhoney",
+            "headline": "Artist | Designer | Teacher ",
+            "pic": "https://static.skillshare.com/uploads/users/3482386/user-image-medium.png?2003643661",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3482386/user-image-small.png?1578046164",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3482386/user-image-large.png?1387888655",
+            "_links": {
+              "self": {
+                "href": "/users/3482386",
+                "title": "Hanny Agustine - Artist | Designer | Teacher "
+              },
+              "my_classes": {
+                "href": "/users/3482386/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3482386/completions",
+                "title": "Completions for User: 3482386"
+              },
+              "discussions": {
+                "href": "/users/3482386/discussions",
+                "title": "Discussions for User: 3482386"
+              },
+              "followers": {
+                "href": "/users/3482386/followers",
+                "title": "Followers for User: 3482386"
+              },
+              "following": {
+                "href": "/users/3482386/following",
+                "title": "Following for User: 3482386"
+              },
+              "notifications": {
+                "href": "/users/3482386/notifications",
+                "title": "Notifications for User: 3482386"
+              },
+              "projects": {
+                "href": "/users/3482386/projects",
+                "title": "Projects for User: 3482386"
+              },
+              "rosters": {
+                "href": "/users/3482386/rosters",
+                "title": "Rosters for User: 3482386"
+              },
+              "userTags": {
+                "href": "/users/3482386/userTags",
+                "title": "UserTags for User: 3482386"
+              },
+              "votes": {
+                "href": "/users/3482386/votes",
+                "title": "Votes for User: 3482386"
+              },
+              "wishlist": {
+                "href": "/users/3482386/wishlist",
+                "title": "Wishlist for User: 3482386"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 567978,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2Nzk3OCJ9",
+        "sku": 1742989021,
+        "title": "Experience Watercolours ; Ukrainian Easter Eggs (Pysanka)",
+        "project_title": " Let's begin with a glaze laying exercise using one large egg shape. This way you will have an idea of  pigment to water ratios before you begin the class. Here are the instructions:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/5aea1652f68c117e767bd301b70e826f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/5aea1652f68c117e767bd301b70e826f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/5aea1652f68c117e767bd301b70e826f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Experience-Watercolours-Ukrainian-Easter-Eggs-Pysanka/1742989021",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "35m",
+        "total_videos_duration_seconds": 2125,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 36,
+        "num_projects": 3,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 4, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1742989021",
+            "title": "Experience Watercolours ; Ukrainian Easter Eggs (Pysanka)"
+          },
+          "teacher": {
+            "href": "/users/4231029",
+            "title": "Melinda Wilde - master teacher of watercolours"
+          },
+          "units": {
+            "href": "/classes/1742989021/units",
+            "title": "Units for Class: 1742989021"
+          },
+          "sessions": {
+            "href": "/classes/1742989021/sessions",
+            "title": "Sessions for Class: 1742989021"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1742989021/students",
+            "title": "Students for Class: 1742989021"
+          },
+          "projects": {
+            "href": "/classes/1742989021/projects",
+            "title": "Projects for Class: 1742989021"
+          },
+          "reviews": {
+            "href": "/classes/1742989021/reviews",
+            "title": "Reviews for Class: 1742989021"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7802158,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzgwMjE1OCJ9",
+            "username": 4231029,
+            "first_name": "Melinda",
+            "last_name": "Wilde",
+            "full_name": "Melinda Wilde",
+            "vanity_username": "melindawilde",
+            "headline": "master teacher of watercolours",
+            "pic": "https://static.skillshare.com/uploads/users/7802158/1596416150_pic.jpg",
+            "pic_sm": "https://graph.facebook.com/1293338214138006/picture",
+            "pic_lg": "https://graph.facebook.com/1293338214138006/picture?type=large",
+            "_links": {
+              "self": {
+                "href": "/users/4231029",
+                "title": "Melinda Wilde - master teacher of watercolours"
+              },
+              "my_classes": {
+                "href": "/users/4231029/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4231029/completions",
+                "title": "Completions for User: 4231029"
+              },
+              "discussions": {
+                "href": "/users/4231029/discussions",
+                "title": "Discussions for User: 4231029"
+              },
+              "followers": {
+                "href": "/users/4231029/followers",
+                "title": "Followers for User: 4231029"
+              },
+              "following": {
+                "href": "/users/4231029/following",
+                "title": "Following for User: 4231029"
+              },
+              "notifications": {
+                "href": "/users/4231029/notifications",
+                "title": "Notifications for User: 4231029"
+              },
+              "projects": {
+                "href": "/users/4231029/projects",
+                "title": "Projects for User: 4231029"
+              },
+              "rosters": {
+                "href": "/users/4231029/rosters",
+                "title": "Rosters for User: 4231029"
+              },
+              "userTags": {
+                "href": "/users/4231029/userTags",
+                "title": "UserTags for User: 4231029"
+              },
+              "votes": {
+                "href": "/users/4231029/votes",
+                "title": "Votes for User: 4231029"
+              },
+              "wishlist": {
+                "href": "/users/4231029/wishlist",
+                "title": "Wishlist for User: 4231029"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 567982,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2Nzk4MiJ9",
+        "sku": 1929029401,
+        "title": "Raise the Bar with Custom Cocktail Cards (and more party tidbits)",
+        "project_title": "For this project we'll be designing two different cocktail recipe cards using Riso Brushes from Uproot Brushes: ( you will need to be in a web browser to grab the downloads)",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/2a017bbfa6448a69621a36f98bc7400d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/2a017bbfa6448a69621a36f98bc7400d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/2a017bbfa6448a69621a36f98bc7400d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Raise-the-Bar-with-Custom-Cocktail-Cards-and-more-party-tidbits/1929029401",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "1h 11m",
+        "total_videos_duration_seconds": 4278,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 25,
+        "num_projects": 0,
+        "num_discussions": 6,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 1, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1929029401",
+            "title": "Raise the Bar with Custom Cocktail Cards (and more party tidbits)"
+          },
+          "teacher": {
+            "href": "/users/5052466",
+            "title": "Katie Simmons - Digital Artist + Designer"
+          },
+          "units": {
+            "href": "/classes/1929029401/units",
+            "title": "Units for Class: 1929029401"
+          },
+          "sessions": {
+            "href": "/classes/1929029401/sessions",
+            "title": "Sessions for Class: 1929029401"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1929029401/students",
+            "title": "Students for Class: 1929029401"
+          },
+          "projects": {
+            "href": "/classes/1929029401/projects",
+            "title": "Projects for Class: 1929029401"
+          },
+          "reviews": {
+            "href": "/classes/1929029401/reviews",
+            "title": "Reviews for Class: 1929029401"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7585355,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzU4NTM1NSJ9",
+            "username": 5052466,
+            "first_name": "Katie",
+            "last_name": "Simmons",
+            "full_name": "Katie Simmons",
+            "vanity_username": null,
+            "headline": "Digital Artist + Designer",
+            "pic": "https://static.skillshare.com/uploads/users/5052466/user-image-medium.jpg?239398758",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5052466/user-image-small.jpg?620058784",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5052466/user-image-large.jpg?1525108312",
+            "_links": {
+              "self": {
+                "href": "/users/5052466",
+                "title": "Katie Simmons - Digital Artist + Designer"
+              },
+              "my_classes": {
+                "href": "/users/5052466/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5052466/completions",
+                "title": "Completions for User: 5052466"
+              },
+              "discussions": {
+                "href": "/users/5052466/discussions",
+                "title": "Discussions for User: 5052466"
+              },
+              "followers": {
+                "href": "/users/5052466/followers",
+                "title": "Followers for User: 5052466"
+              },
+              "following": {
+                "href": "/users/5052466/following",
+                "title": "Following for User: 5052466"
+              },
+              "notifications": {
+                "href": "/users/5052466/notifications",
+                "title": "Notifications for User: 5052466"
+              },
+              "projects": {
+                "href": "/users/5052466/projects",
+                "title": "Projects for User: 5052466"
+              },
+              "rosters": {
+                "href": "/users/5052466/rosters",
+                "title": "Rosters for User: 5052466"
+              },
+              "userTags": {
+                "href": "/users/5052466/userTags",
+                "title": "UserTags for User: 5052466"
+              },
+              "votes": {
+                "href": "/users/5052466/votes",
+                "title": "Votes for User: 5052466"
+              },
+              "wishlist": {
+                "href": "/users/5052466/wishlist",
+                "title": "Wishlist for User: 5052466"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 567991,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2Nzk5MSJ9",
+        "sku": 1724243743,
+        "title": "Petrykivka - Ukrainian Folk Art: Digital Floral Illustration - Combination of Gouache and Watercolor",
+        "project_title": "Assignment:You class project will be next: paint a Petrykivka style illustration, using the tips and brushes that I gave you today.\nMaterials:\nI will use Procreate for this class with IPad and Apple P",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/53c994ec0cbf0fd277464a600007d39e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/53c994ec0cbf0fd277464a600007d39e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/53c994ec0cbf0fd277464a600007d39e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Petrykivka-Ukrainian-Folk-Art-Digital-Floral-Illustration-Combination-of-Gouache-and-Watercolor/1724243743",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "1h 14m",
+        "total_videos_duration_seconds": 4412,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 146,
+        "num_projects": 9,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 3, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1724243743",
+            "title": "Petrykivka - Ukrainian Folk Art: Digital Floral Illustration - Combination of Gouache and Watercolor"
+          },
+          "teacher": {
+            "href": "/users/4332344",
+            "title": "Inga Yoon - Digital illustrator and teacher"
+          },
+          "units": {
+            "href": "/classes/1724243743/units",
+            "title": "Units for Class: 1724243743"
+          },
+          "sessions": {
+            "href": "/classes/1724243743/sessions",
+            "title": "Sessions for Class: 1724243743"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1724243743/students",
+            "title": "Students for Class: 1724243743"
+          },
+          "projects": {
+            "href": "/classes/1724243743/projects",
+            "title": "Projects for Class: 1724243743"
+          },
+          "reviews": {
+            "href": "/classes/1724243743/reviews",
+            "title": "Reviews for Class: 1724243743"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5830850,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTgzMDg1MCJ9",
+            "username": 4332344,
+            "first_name": "Inga",
+            "last_name": "Yoon",
+            "full_name": "Inga Yoon",
+            "vanity_username": "boostudio",
+            "headline": "Digital illustrator and teacher",
+            "pic": "https://static.skillshare.com/uploads/users/4332344/user-image-medium.jpg?327907131",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4332344/user-image-small.jpg?605342192",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4332344/user-image-large.jpg?250087107",
+            "_links": {
+              "self": {
+                "href": "/users/4332344",
+                "title": "Inga Yoon - Digital illustrator and teacher"
+              },
+              "my_classes": {
+                "href": "/users/4332344/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4332344/completions",
+                "title": "Completions for User: 4332344"
+              },
+              "discussions": {
+                "href": "/users/4332344/discussions",
+                "title": "Discussions for User: 4332344"
+              },
+              "followers": {
+                "href": "/users/4332344/followers",
+                "title": "Followers for User: 4332344"
+              },
+              "following": {
+                "href": "/users/4332344/following",
+                "title": "Following for User: 4332344"
+              },
+              "notifications": {
+                "href": "/users/4332344/notifications",
+                "title": "Notifications for User: 4332344"
+              },
+              "projects": {
+                "href": "/users/4332344/projects",
+                "title": "Projects for User: 4332344"
+              },
+              "rosters": {
+                "href": "/users/4332344/rosters",
+                "title": "Rosters for User: 4332344"
+              },
+              "userTags": {
+                "href": "/users/4332344/userTags",
+                "title": "UserTags for User: 4332344"
+              },
+              "votes": {
+                "href": "/users/4332344/votes",
+                "title": "Votes for User: 4332344"
+              },
+              "wishlist": {
+                "href": "/users/4332344/wishlist",
+                "title": "Wishlist for User: 4332344"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 567999,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU2Nzk5OSJ9",
+        "sku": 407819507,
+        "title": "How To Paint Realistic Landscapes Digitally: MasterStudy in Adobe Photoshop",
+        "project_title": "Google and download any painting of Albert Bierstadt that you like",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fc9f5af4898dbab853ca2d8284cac832/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fc9f5af4898dbab853ca2d8284cac832/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fc9f5af4898dbab853ca2d8284cac832/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Paint-Realistic-Landscapes-Digitally-MasterStudy-in-Adobe-Photoshop/407819507",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 19,
+        "total_videos_duration": "33m",
+        "total_videos_duration_seconds": 1990,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 85,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Apr 2, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/407819507",
+            "title": "How To Paint Realistic Landscapes Digitally: MasterStudy in Adobe Photoshop"
+          },
+          "teacher": {
+            "href": "/users/1532388",
+            "title": "James Ssekamatte - Freelance artist, Writer and Engineer"
+          },
+          "units": {
+            "href": "/classes/407819507/units",
+            "title": "Units for Class: 407819507"
+          },
+          "sessions": {
+            "href": "/classes/407819507/sessions",
+            "title": "Sessions for Class: 407819507"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/407819507/students",
+            "title": "Students for Class: 407819507"
+          },
+          "projects": {
+            "href": "/classes/407819507/projects",
+            "title": "Projects for Class: 407819507"
+          },
+          "reviews": {
+            "href": "/classes/407819507/reviews",
+            "title": "Reviews for Class: 407819507"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7698780,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzY5ODc4MCJ9",
+            "username": 1532388,
+            "first_name": "James",
+            "last_name": "Ssekamatte",
+            "full_name": "James Ssekamatte",
+            "vanity_username": "james_skj",
+            "headline": "Freelance artist, Writer and Engineer",
+            "pic": "https://static.skillshare.com/uploads/users/1532388/user-image-medium.png?455150266",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1532388/user-image-small.png?333824114",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1532388/user-image-large.png?1900344337",
+            "_links": {
+              "self": {
+                "href": "/users/1532388",
+                "title": "James Ssekamatte - Freelance artist, Writer and Engineer"
+              },
+              "my_classes": {
+                "href": "/users/1532388/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1532388/completions",
+                "title": "Completions for User: 1532388"
+              },
+              "discussions": {
+                "href": "/users/1532388/discussions",
+                "title": "Discussions for User: 1532388"
+              },
+              "followers": {
+                "href": "/users/1532388/followers",
+                "title": "Followers for User: 1532388"
+              },
+              "following": {
+                "href": "/users/1532388/following",
+                "title": "Following for User: 1532388"
+              },
+              "notifications": {
+                "href": "/users/1532388/notifications",
+                "title": "Notifications for User: 1532388"
+              },
+              "projects": {
+                "href": "/users/1532388/projects",
+                "title": "Projects for User: 1532388"
+              },
+              "rosters": {
+                "href": "/users/1532388/rosters",
+                "title": "Rosters for User: 1532388"
+              },
+              "userTags": {
+                "href": "/users/1532388/userTags",
+                "title": "UserTags for User: 1532388"
+              },
+              "votes": {
+                "href": "/users/1532388/votes",
+                "title": "Votes for User: 1532388"
+              },
+              "wishlist": {
+                "href": "/users/1532388/wishlist",
+                "title": "Wishlist for User: 1532388"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

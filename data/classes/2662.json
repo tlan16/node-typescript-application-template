@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=2662",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=2661",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=2663",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 525226,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyNTIyNiJ9",
+        "sku": 1998900606,
+        "title": "Python for Absolute Beginners",
+        "project_title": "Title of the project: Weight converter",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6269151842001/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6269151842001/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6269151842001/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Python-for-Absolute-Beginners/1998900606",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 17,
+        "total_videos_duration": "1h 29m",
+        "total_videos_duration_seconds": 5336,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 161,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 29, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1998900606",
+            "title": "Python for Absolute Beginners"
+          },
+          "teacher": {
+            "href": "/users/670667932",
+            "title": "Ali Hamdan - Petroleum Engineer"
+          },
+          "units": {
+            "href": "/classes/1998900606/units",
+            "title": "Units for Class: 1998900606"
+          },
+          "sessions": {
+            "href": "/classes/1998900606/sessions",
+            "title": "Sessions for Class: 1998900606"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1998900606/students",
+            "title": "Students for Class: 1998900606"
+          },
+          "projects": {
+            "href": "/classes/1998900606/projects",
+            "title": "Projects for Class: 1998900606"
+          },
+          "reviews": {
+            "href": "/classes/1998900606/reviews",
+            "title": "Reviews for Class: 1998900606"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21261312,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjEyNjEzMTIifQ==",
+            "username": 670667932,
+            "first_name": "Ali",
+            "last_name": "Hamdan",
+            "full_name": "Ali Hamdan",
+            "vanity_username": "alihamdan",
+            "headline": "Petroleum Engineer",
+            "pic": "https://static.skillshare.com/uploads/users/670667932/user-image-medium.jpg?384882422",
+            "pic_sm": "https://static.skillshare.com/uploads/users/670667932/user-image-small.jpg?225365216",
+            "pic_lg": "https://static.skillshare.com/uploads/users/670667932/user-image-large.jpg?756459417",
+            "_links": {
+              "self": {
+                "href": "/users/670667932",
+                "title": "Ali Hamdan - Petroleum Engineer"
+              },
+              "my_classes": {
+                "href": "/users/670667932/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/670667932/completions",
+                "title": "Completions for User: 670667932"
+              },
+              "discussions": {
+                "href": "/users/670667932/discussions",
+                "title": "Discussions for User: 670667932"
+              },
+              "followers": {
+                "href": "/users/670667932/followers",
+                "title": "Followers for User: 670667932"
+              },
+              "following": {
+                "href": "/users/670667932/following",
+                "title": "Following for User: 670667932"
+              },
+              "notifications": {
+                "href": "/users/670667932/notifications",
+                "title": "Notifications for User: 670667932"
+              },
+              "projects": {
+                "href": "/users/670667932/projects",
+                "title": "Projects for User: 670667932"
+              },
+              "rosters": {
+                "href": "/users/670667932/rosters",
+                "title": "Rosters for User: 670667932"
+              },
+              "userTags": {
+                "href": "/users/670667932/userTags",
+                "title": "UserTags for User: 670667932"
+              },
+              "votes": {
+                "href": "/users/670667932/votes",
+                "title": "Votes for User: 670667932"
+              },
+              "wishlist": {
+                "href": "/users/670667932/wishlist",
+                "title": "Wishlist for User: 670667932"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 525233,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyNTIzMyJ9",
+        "sku": 297023295,
+        "title": "Create Plankton From Scratch using Zbrush & Cinema 4D",
+        "project_title": "Try using the skills learned in this class to make your own version of plankton, or another basic figure from Spongebob! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e14ff5afb487e9847e95b1f8107f98e6/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e14ff5afb487e9847e95b1f8107f98e6/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e14ff5afb487e9847e95b1f8107f98e6/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Create-Plankton-From-Scratch-using-Zbrush-Cinema-4D/297023295",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "1h 33m",
+        "total_videos_duration_seconds": 5560,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 907,
+        "num_projects": 16,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 24, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/297023295",
+            "title": "Create Plankton From Scratch using Zbrush & Cinema 4D"
+          },
+          "teacher": {
+            "href": "/users/784541",
+            "title": "Patrick Foley - 3D Artist"
+          },
+          "units": {
+            "href": "/classes/297023295/units",
+            "title": "Units for Class: 297023295"
+          },
+          "sessions": {
+            "href": "/classes/297023295/sessions",
+            "title": "Sessions for Class: 297023295"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/297023295/students",
+            "title": "Students for Class: 297023295"
+          },
+          "projects": {
+            "href": "/classes/297023295/projects",
+            "title": "Projects for Class: 297023295"
+          },
+          "reviews": {
+            "href": "/classes/297023295/reviews",
+            "title": "Reviews for Class: 297023295"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3051193,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzA1MTE5MyJ9",
+            "username": 784541,
+            "first_name": "Patrick",
+            "last_name": "Foley",
+            "full_name": "Patrick Foley",
+            "vanity_username": "patrick4d",
+            "headline": "3D Artist",
+            "pic": "https://static.skillshare.com/uploads/users/784541/user-image-medium.jpg?1477210670",
+            "pic_sm": "https://static.skillshare.com/uploads/users/784541/user-image-small.jpg?1228161128",
+            "pic_lg": "https://static.skillshare.com/uploads/users/784541/user-image-large.jpg?587205788",
+            "_links": {
+              "self": {
+                "href": "/users/784541",
+                "title": "Patrick Foley - 3D Artist"
+              },
+              "my_classes": {
+                "href": "/users/784541/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/784541/completions",
+                "title": "Completions for User: 784541"
+              },
+              "discussions": {
+                "href": "/users/784541/discussions",
+                "title": "Discussions for User: 784541"
+              },
+              "followers": {
+                "href": "/users/784541/followers",
+                "title": "Followers for User: 784541"
+              },
+              "following": {
+                "href": "/users/784541/following",
+                "title": "Following for User: 784541"
+              },
+              "notifications": {
+                "href": "/users/784541/notifications",
+                "title": "Notifications for User: 784541"
+              },
+              "projects": {
+                "href": "/users/784541/projects",
+                "title": "Projects for User: 784541"
+              },
+              "rosters": {
+                "href": "/users/784541/rosters",
+                "title": "Rosters for User: 784541"
+              },
+              "userTags": {
+                "href": "/users/784541/userTags",
+                "title": "UserTags for User: 784541"
+              },
+              "votes": {
+                "href": "/users/784541/votes",
+                "title": "Votes for User: 784541"
+              },
+              "wishlist": {
+                "href": "/users/784541/wishlist",
+                "title": "Wishlist for User: 784541"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 525236,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyNTIzNiJ9",
+        "sku": 1826318757,
+        "title": "Still Life Photography: Shooting A Ballet Story In My Tiny Studio",
+        "project_title": "For your class project, I'd like you to shoot a collection of photos of your setup. Post at least 2 photos from your set - include 1 pull-back image and 1 close-up image of your setup here in the clas",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/977c84c8ea71a86bda922280a631b33c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/977c84c8ea71a86bda922280a631b33c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/977c84c8ea71a86bda922280a631b33c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Still-Life-Photography-Shooting-A-Ballet-Story-In-My-Tiny-Studio/1826318757",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "39m",
+        "total_videos_duration_seconds": 2340,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 47,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Sep 22, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1826318757",
+            "title": "Still Life Photography: Shooting A Ballet Story In My Tiny Studio"
+          },
+          "teacher": {
+            "href": "/users/8574408",
+            "title": "DENISE LOVE - Artist & Photographer"
+          },
+          "units": {
+            "href": "/classes/1826318757/units",
+            "title": "Units for Class: 1826318757"
+          },
+          "sessions": {
+            "href": "/classes/1826318757/sessions",
+            "title": "Sessions for Class: 1826318757"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1826318757/students",
+            "title": "Students for Class: 1826318757"
+          },
+          "projects": {
+            "href": "/classes/1826318757/projects",
+            "title": "Projects for Class: 1826318757"
+          },
+          "reviews": {
+            "href": "/classes/1826318757/reviews",
+            "title": "Reviews for Class: 1826318757"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 401999,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDAxOTk5In0=",
+            "username": 8574408,
+            "first_name": "DENISE",
+            "last_name": "LOVE",
+            "full_name": "DENISE LOVE",
+            "vanity_username": "2lilowls",
+            "headline": "Artist & Photographer",
+            "pic": "https://static.skillshare.com/uploads/users/8574408/user-image-medium.jpg?1930344932",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8574408/user-image-small.jpg?1708603699",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8574408/user-image-large.jpg?167099125",
+            "_links": {
+              "self": {
+                "href": "/users/8574408",
+                "title": "DENISE LOVE - Artist & Photographer"
+              },
+              "my_classes": {
+                "href": "/users/8574408/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8574408/completions",
+                "title": "Completions for User: 8574408"
+              },
+              "discussions": {
+                "href": "/users/8574408/discussions",
+                "title": "Discussions for User: 8574408"
+              },
+              "followers": {
+                "href": "/users/8574408/followers",
+                "title": "Followers for User: 8574408"
+              },
+              "following": {
+                "href": "/users/8574408/following",
+                "title": "Following for User: 8574408"
+              },
+              "notifications": {
+                "href": "/users/8574408/notifications",
+                "title": "Notifications for User: 8574408"
+              },
+              "projects": {
+                "href": "/users/8574408/projects",
+                "title": "Projects for User: 8574408"
+              },
+              "rosters": {
+                "href": "/users/8574408/rosters",
+                "title": "Rosters for User: 8574408"
+              },
+              "userTags": {
+                "href": "/users/8574408/userTags",
+                "title": "UserTags for User: 8574408"
+              },
+              "votes": {
+                "href": "/users/8574408/votes",
+                "title": "Votes for User: 8574408"
+              },
+              "wishlist": {
+                "href": "/users/8574408/wishlist",
+                "title": "Wishlist for User: 8574408"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 525247,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyNTI0NyJ9",
+        "sku": 383194432,
+        "title": "How to Draw a Dog with B/W Pencil: Schnauzer Puppy",
+        "project_title": "Your class project is to start and finish a drawing of a Schnauzer Puppy Dog, Gianni.  I have provided initial guidelines as a PDF and JPG so you can print and trace them onto your paper of choice. I ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/068db504fd510aed17f5512daa13c77f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/068db504fd510aed17f5512daa13c77f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/068db504fd510aed17f5512daa13c77f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Draw-a-Dog-with-BW-Pencil-Schnauzer-Puppy/383194432",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 13m",
+        "total_videos_duration_seconds": 4359,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 76,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 24, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/383194432",
+            "title": "How to Draw a Dog with B/W Pencil: Schnauzer Puppy"
+          },
+          "teacher": {
+            "href": "/users/330451392",
+            "title": "Victoria Veluz - Multi-Passionate Creator, Entrepreneur"
+          },
+          "units": {
+            "href": "/classes/383194432/units",
+            "title": "Units for Class: 383194432"
+          },
+          "sessions": {
+            "href": "/classes/383194432/sessions",
+            "title": "Sessions for Class: 383194432"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/383194432/students",
+            "title": "Students for Class: 383194432"
+          },
+          "projects": {
+            "href": "/classes/383194432/projects",
+            "title": "Projects for Class: 383194432"
+          },
+          "reviews": {
+            "href": "/classes/383194432/reviews",
+            "title": "Reviews for Class: 383194432"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18966147,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTg5NjYxNDcifQ==",
+            "username": 330451392,
+            "first_name": "Victoria",
+            "last_name": "Veluz",
+            "full_name": "Victoria Veluz",
+            "vanity_username": "victoriaveluz",
+            "headline": "Multi-Passionate Creator, Entrepreneur",
+            "pic": "https://static.skillshare.com/uploads/users/330451392/user-image-medium.jpg?572157394",
+            "pic_sm": "https://static.skillshare.com/uploads/users/330451392/user-image-small.jpg?1848369416",
+            "pic_lg": "https://static.skillshare.com/uploads/users/330451392/user-image-large.jpg?1043421659",
+            "_links": {
+              "self": {
+                "href": "/users/330451392",
+                "title": "Victoria Veluz - Multi-Passionate Creator, Entrepreneur"
+              },
+              "my_classes": {
+                "href": "/users/330451392/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/330451392/completions",
+                "title": "Completions for User: 330451392"
+              },
+              "discussions": {
+                "href": "/users/330451392/discussions",
+                "title": "Discussions for User: 330451392"
+              },
+              "followers": {
+                "href": "/users/330451392/followers",
+                "title": "Followers for User: 330451392"
+              },
+              "following": {
+                "href": "/users/330451392/following",
+                "title": "Following for User: 330451392"
+              },
+              "notifications": {
+                "href": "/users/330451392/notifications",
+                "title": "Notifications for User: 330451392"
+              },
+              "projects": {
+                "href": "/users/330451392/projects",
+                "title": "Projects for User: 330451392"
+              },
+              "rosters": {
+                "href": "/users/330451392/rosters",
+                "title": "Rosters for User: 330451392"
+              },
+              "userTags": {
+                "href": "/users/330451392/userTags",
+                "title": "UserTags for User: 330451392"
+              },
+              "votes": {
+                "href": "/users/330451392/votes",
+                "title": "Votes for User: 330451392"
+              },
+              "wishlist": {
+                "href": "/users/330451392/wishlist",
+                "title": "Wishlist for User: 330451392"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 525267,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyNTI2NyJ9",
+        "sku": 2048185960,
+        "title": "Azure Data Factory Essentials Training",
+        "project_title": "Integrate Azure Data Factory with Databricks\nImagine you are part of an analytics team that has recently received a huge assignment of analyzing crime data of several metropolitan cities. The dataset ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c59e4839290e012fd3b5f3ac589fc99e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c59e4839290e012fd3b5f3ac589fc99e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c59e4839290e012fd3b5f3ac589fc99e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Azure-Data-Factory-Essentials-Training/2048185960",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 61,
+        "total_videos_duration": "3h 39m",
+        "total_videos_duration_seconds": 13115,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 285,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 31, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2048185960",
+            "title": "Azure Data Factory Essentials Training"
+          },
+          "teacher": {
+            "href": "/users/609390215",
+            "title": "Everton Oliveira"
+          },
+          "units": {
+            "href": "/classes/2048185960/units",
+            "title": "Units for Class: 2048185960"
+          },
+          "sessions": {
+            "href": "/classes/2048185960/sessions",
+            "title": "Sessions for Class: 2048185960"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/2048185960/students",
+            "title": "Students for Class: 2048185960"
+          },
+          "projects": {
+            "href": "/classes/2048185960/projects",
+            "title": "Projects for Class: 2048185960"
+          },
+          "reviews": {
+            "href": "/classes/2048185960/reviews",
+            "title": "Reviews for Class: 2048185960"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17104904,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTcxMDQ5MDQifQ==",
+            "username": 609390215,
+            "first_name": "Everton",
+            "last_name": "Oliveira",
+            "full_name": "Everton Oliveira",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/609390215/user-image-medium.jpg?1352056359",
+            "pic_sm": "https://static.skillshare.com/uploads/users/609390215/user-image-small.jpg?1929781363",
+            "pic_lg": "https://static.skillshare.com/uploads/users/609390215/user-image-large.jpg?1372417112",
+            "_links": {
+              "self": {
+                "href": "/users/609390215",
+                "title": "Everton Oliveira"
+              },
+              "my_classes": {
+                "href": "/users/609390215/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/609390215/completions",
+                "title": "Completions for User: 609390215"
+              },
+              "discussions": {
+                "href": "/users/609390215/discussions",
+                "title": "Discussions for User: 609390215"
+              },
+              "followers": {
+                "href": "/users/609390215/followers",
+                "title": "Followers for User: 609390215"
+              },
+              "following": {
+                "href": "/users/609390215/following",
+                "title": "Following for User: 609390215"
+              },
+              "notifications": {
+                "href": "/users/609390215/notifications",
+                "title": "Notifications for User: 609390215"
+              },
+              "projects": {
+                "href": "/users/609390215/projects",
+                "title": "Projects for User: 609390215"
+              },
+              "rosters": {
+                "href": "/users/609390215/rosters",
+                "title": "Rosters for User: 609390215"
+              },
+              "userTags": {
+                "href": "/users/609390215/userTags",
+                "title": "UserTags for User: 609390215"
+              },
+              "votes": {
+                "href": "/users/609390215/votes",
+                "title": "Votes for User: 609390215"
+              },
+              "wishlist": {
+                "href": "/users/609390215/wishlist",
+                "title": "Wishlist for User: 609390215"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 525344,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyNTM0NCJ9",
+        "sku": 731159584,
+        "title": "Learn Animation, The Beginner's guide",
+        "project_title": "Projects",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/39553e33d74cab7b7977a0d6b680195d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/39553e33d74cab7b7977a0d6b680195d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/39553e33d74cab7b7977a0d6b680195d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-Animation-The-Beginners-guide/731159584",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 50,
+        "total_videos_duration": "5h 45m",
+        "total_videos_duration_seconds": 20680,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 153,
+        "num_projects": 0,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 26, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/731159584",
+            "title": "Learn Animation, The Beginner's guide"
+          },
+          "teacher": {
+            "href": "/users/2045303",
+            "title": "Maria Avramova - Illustrator/Animator/Filmmaker"
+          },
+          "units": {
+            "href": "/classes/731159584/units",
+            "title": "Units for Class: 731159584"
+          },
+          "sessions": {
+            "href": "/classes/731159584/sessions",
+            "title": "Sessions for Class: 731159584"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/731159584/students",
+            "title": "Students for Class: 731159584"
+          },
+          "projects": {
+            "href": "/classes/731159584/projects",
+            "title": "Projects for Class: 731159584"
+          },
+          "reviews": {
+            "href": "/classes/731159584/reviews",
+            "title": "Reviews for Class: 731159584"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4464352,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDQ2NDM1MiJ9",
+            "username": 2045303,
+            "first_name": "Maria",
+            "last_name": "Avramova",
+            "full_name": "Maria Avramova",
+            "vanity_username": null,
+            "headline": "Illustrator/Animator/Filmmaker",
+            "pic": "https://static.skillshare.com/uploads/users/4464352/1613715324_pic.jpg",
+            "pic_sm": "https://graph.facebook.com/10155516991723481/picture",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4464352/1613463751_pic_lg.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/2045303",
+                "title": "Maria Avramova - Illustrator/Animator/Filmmaker"
+              },
+              "my_classes": {
+                "href": "/users/2045303/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2045303/completions",
+                "title": "Completions for User: 2045303"
+              },
+              "discussions": {
+                "href": "/users/2045303/discussions",
+                "title": "Discussions for User: 2045303"
+              },
+              "followers": {
+                "href": "/users/2045303/followers",
+                "title": "Followers for User: 2045303"
+              },
+              "following": {
+                "href": "/users/2045303/following",
+                "title": "Following for User: 2045303"
+              },
+              "notifications": {
+                "href": "/users/2045303/notifications",
+                "title": "Notifications for User: 2045303"
+              },
+              "projects": {
+                "href": "/users/2045303/projects",
+                "title": "Projects for User: 2045303"
+              },
+              "rosters": {
+                "href": "/users/2045303/rosters",
+                "title": "Rosters for User: 2045303"
+              },
+              "userTags": {
+                "href": "/users/2045303/userTags",
+                "title": "UserTags for User: 2045303"
+              },
+              "votes": {
+                "href": "/users/2045303/votes",
+                "title": "Votes for User: 2045303"
+              },
+              "wishlist": {
+                "href": "/users/2045303/wishlist",
+                "title": "Wishlist for User: 2045303"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 525403,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyNTQwMyJ9",
+        "sku": 1784420695,
+        "title": "Introduction To Tailwind CSS",
+        "project_title": "During this class, we build a product dashboard project, based on selling smoothies.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6ea8356bcbc77ba1f083f5b16407eee1/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6ea8356bcbc77ba1f083f5b16407eee1/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6ea8356bcbc77ba1f083f5b16407eee1/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Introduction-To-Tailwind-CSS/1784420695",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 18,
+        "total_videos_duration": "1h 43m",
+        "total_videos_duration_seconds": 6202,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 831,
+        "num_projects": 3,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Sep 28, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1784420695",
+            "title": "Introduction To Tailwind CSS"
+          },
+          "teacher": {
+            "href": "/users/4242758",
+            "title": "Chris Dixon - Web Developer & Online Teacher"
+          },
+          "units": {
+            "href": "/classes/1784420695/units",
+            "title": "Units for Class: 1784420695"
+          },
+          "sessions": {
+            "href": "/classes/1784420695/sessions",
+            "title": "Sessions for Class: 1784420695"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1784420695/students",
+            "title": "Students for Class: 1784420695"
+          },
+          "projects": {
+            "href": "/classes/1784420695/projects",
+            "title": "Projects for Class: 1784420695"
+          },
+          "reviews": {
+            "href": "/classes/1784420695/reviews",
+            "title": "Reviews for Class: 1784420695"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 932620,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTMyNjIwIn0=",
+            "username": 4242758,
+            "first_name": "Chris",
+            "last_name": "Dixon",
+            "full_name": "Chris Dixon",
+            "vanity_username": null,
+            "headline": "Web Developer & Online Teacher",
+            "pic": "https://static.skillshare.com/uploads/users/4242758/user-image-medium.png?464610875",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4242758/user-image-small.png?19715587",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4242758/user-image-large.png?82816031",
+            "_links": {
+              "self": {
+                "href": "/users/4242758",
+                "title": "Chris Dixon - Web Developer & Online Teacher"
+              },
+              "my_classes": {
+                "href": "/users/4242758/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4242758/completions",
+                "title": "Completions for User: 4242758"
+              },
+              "discussions": {
+                "href": "/users/4242758/discussions",
+                "title": "Discussions for User: 4242758"
+              },
+              "followers": {
+                "href": "/users/4242758/followers",
+                "title": "Followers for User: 4242758"
+              },
+              "following": {
+                "href": "/users/4242758/following",
+                "title": "Following for User: 4242758"
+              },
+              "notifications": {
+                "href": "/users/4242758/notifications",
+                "title": "Notifications for User: 4242758"
+              },
+              "projects": {
+                "href": "/users/4242758/projects",
+                "title": "Projects for User: 4242758"
+              },
+              "rosters": {
+                "href": "/users/4242758/rosters",
+                "title": "Rosters for User: 4242758"
+              },
+              "userTags": {
+                "href": "/users/4242758/userTags",
+                "title": "UserTags for User: 4242758"
+              },
+              "votes": {
+                "href": "/users/4242758/votes",
+                "title": "Votes for User: 4242758"
+              },
+              "wishlist": {
+                "href": "/users/4242758/wishlist",
+                "title": "Wishlist for User: 4242758"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 525409,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyNTQwOSJ9",
+        "sku": 1430049932,
+        "title": "FPGA UART implementation communication protocol series Vol1",
+        "project_title": "In this project you will have to write down the VHDL code for the UART",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/67246a44b0c1c65ac406ac7d97e208c4/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/67246a44b0c1c65ac406ac7d97e208c4/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/67246a44b0c1c65ac406ac7d97e208c4/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/FPGA-UART-implementation-communication-protocol-series-Vol1/1430049932",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "2h 2m",
+        "total_videos_duration_seconds": 7325,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 30,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 25, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1430049932",
+            "title": "FPGA UART implementation communication protocol series Vol1"
+          },
+          "teacher": {
+            "href": "/users/152708322",
+            "title": "Ofer Keren"
+          },
+          "units": {
+            "href": "/classes/1430049932/units",
+            "title": "Units for Class: 1430049932"
+          },
+          "sessions": {
+            "href": "/classes/1430049932/sessions",
+            "title": "Sessions for Class: 1430049932"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1430049932/students",
+            "title": "Students for Class: 1430049932"
+          },
+          "projects": {
+            "href": "/classes/1430049932/projects",
+            "title": "Projects for Class: 1430049932"
+          },
+          "reviews": {
+            "href": "/classes/1430049932/reviews",
+            "title": "Reviews for Class: 1430049932"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16956017,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTY5NTYwMTcifQ==",
+            "username": 152708322,
+            "first_name": "Ofer",
+            "last_name": "Keren",
+            "full_name": "Ofer Keren",
+            "vanity_username": "oferk",
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/152708322/user-image-medium.jpg?1761249665",
+            "pic_sm": "https://static.skillshare.com/uploads/users/152708322/user-image-small.jpg?564293613",
+            "pic_lg": "https://static.skillshare.com/uploads/users/152708322/user-image-large.jpg?1807312213",
+            "_links": {
+              "self": {
+                "href": "/users/152708322",
+                "title": "Ofer Keren"
+              },
+              "my_classes": {
+                "href": "/users/152708322/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/152708322/completions",
+                "title": "Completions for User: 152708322"
+              },
+              "discussions": {
+                "href": "/users/152708322/discussions",
+                "title": "Discussions for User: 152708322"
+              },
+              "followers": {
+                "href": "/users/152708322/followers",
+                "title": "Followers for User: 152708322"
+              },
+              "following": {
+                "href": "/users/152708322/following",
+                "title": "Following for User: 152708322"
+              },
+              "notifications": {
+                "href": "/users/152708322/notifications",
+                "title": "Notifications for User: 152708322"
+              },
+              "projects": {
+                "href": "/users/152708322/projects",
+                "title": "Projects for User: 152708322"
+              },
+              "rosters": {
+                "href": "/users/152708322/rosters",
+                "title": "Rosters for User: 152708322"
+              },
+              "userTags": {
+                "href": "/users/152708322/userTags",
+                "title": "UserTags for User: 152708322"
+              },
+              "votes": {
+                "href": "/users/152708322/votes",
+                "title": "Votes for User: 152708322"
+              },
+              "wishlist": {
+                "href": "/users/152708322/wishlist",
+                "title": "Wishlist for User: 152708322"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 525410,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyNTQxMCJ9",
+        "sku": 2092369886,
+        "title": "Animation Fundamentals: Rigging Your First Character in Cinema 4D",
+        "project_title": "Follow along and make your own character rig! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d7b8ba1a0e3f36cc13aecfb0485b7aab/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d7b8ba1a0e3f36cc13aecfb0485b7aab/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d7b8ba1a0e3f36cc13aecfb0485b7aab/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Animation-Fundamentals-Rigging-Your-First-Character-in-Cinema-4D/2092369886",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "1h 39m",
+        "total_videos_duration_seconds": 5941,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 880,
+        "num_projects": 4,
+        "num_discussions": 10,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 27, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2092369886",
+            "title": "Animation Fundamentals: Rigging Your First Character in Cinema 4D"
+          },
+          "teacher": {
+            "href": "/users/427081581",
+            "title": "Russ Etheridge - Animator, Designer and Director"
+          },
+          "units": {
+            "href": "/classes/2092369886/units",
+            "title": "Units for Class: 2092369886"
+          },
+          "sessions": {
+            "href": "/classes/2092369886/sessions",
+            "title": "Sessions for Class: 2092369886"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2092369886/students",
+            "title": "Students for Class: 2092369886"
+          },
+          "projects": {
+            "href": "/classes/2092369886/projects",
+            "title": "Projects for Class: 2092369886"
+          },
+          "reviews": {
+            "href": "/classes/2092369886/reviews",
+            "title": "Reviews for Class: 2092369886"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16420663,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTY0MjA2NjMifQ==",
+            "username": 427081581,
+            "first_name": "Russ",
+            "last_name": "Etheridge",
+            "full_name": "Russ Etheridge",
+            "vanity_username": null,
+            "headline": "Animator, Designer and Director",
+            "pic": "https://static.skillshare.com/uploads/users/427081581/user-image-medium.jpg?1205418012",
+            "pic_sm": "https://static.skillshare.com/uploads/users/427081581/user-image-small.jpg?638521264",
+            "pic_lg": "https://static.skillshare.com/uploads/users/427081581/user-image-large.jpg?1470087329",
+            "_links": {
+              "self": {
+                "href": "/users/427081581",
+                "title": "Russ Etheridge - Animator, Designer and Director"
+              },
+              "my_classes": {
+                "href": "/users/427081581/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/427081581/completions",
+                "title": "Completions for User: 427081581"
+              },
+              "discussions": {
+                "href": "/users/427081581/discussions",
+                "title": "Discussions for User: 427081581"
+              },
+              "followers": {
+                "href": "/users/427081581/followers",
+                "title": "Followers for User: 427081581"
+              },
+              "following": {
+                "href": "/users/427081581/following",
+                "title": "Following for User: 427081581"
+              },
+              "notifications": {
+                "href": "/users/427081581/notifications",
+                "title": "Notifications for User: 427081581"
+              },
+              "projects": {
+                "href": "/users/427081581/projects",
+                "title": "Projects for User: 427081581"
+              },
+              "rosters": {
+                "href": "/users/427081581/rosters",
+                "title": "Rosters for User: 427081581"
+              },
+              "userTags": {
+                "href": "/users/427081581/userTags",
+                "title": "UserTags for User: 427081581"
+              },
+              "votes": {
+                "href": "/users/427081581/votes",
+                "title": "Votes for User: 427081581"
+              },
+              "wishlist": {
+                "href": "/users/427081581/wishlist",
+                "title": "Wishlist for User: 427081581"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 525412,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyNTQxMiJ9",
+        "sku": 1843897616,
+        "title": "Dear Future Me: Illustrate a Letter to Spark Self-Reflection",
+        "project_title": "We will write, and then illustrate, a letter addressed to our future selves.   ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/51ffb0ee88a64ce4c7eeb441ff6a675c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/51ffb0ee88a64ce4c7eeb441ff6a675c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/51ffb0ee88a64ce4c7eeb441ff6a675c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Dear-Future-Me-Illustrate-a-Letter-to-Spark-Self-Reflection/1843897616",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "1h 13m",
+        "total_videos_duration_seconds": 4399,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 416,
+        "num_projects": 10,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Sep 1, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1843897616",
+            "title": "Dear Future Me: Illustrate a Letter to Spark Self-Reflection"
+          },
+          "teacher": {
+            "href": "/users/4879471",
+            "title": "Karla Alcazar - Illustrator and Teller of Tiny Stories"
+          },
+          "units": {
+            "href": "/classes/1843897616/units",
+            "title": "Units for Class: 1843897616"
+          },
+          "sessions": {
+            "href": "/classes/1843897616/sessions",
+            "title": "Sessions for Class: 1843897616"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1843897616/students",
+            "title": "Students for Class: 1843897616"
+          },
+          "projects": {
+            "href": "/classes/1843897616/projects",
+            "title": "Projects for Class: 1843897616"
+          },
+          "reviews": {
+            "href": "/classes/1843897616/reviews",
+            "title": "Reviews for Class: 1843897616"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3948719,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzk0ODcxOSJ9",
+            "username": 4879471,
+            "first_name": "Karla",
+            "last_name": "Alcazar",
+            "full_name": "Karla Alcazar",
+            "vanity_username": "karla_alcazar_",
+            "headline": "Illustrator and Teller of Tiny Stories",
+            "pic": "https://static.skillshare.com/uploads/users/4879471/user-image-medium.jpg?845609932",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4879471/user-image-small.jpg?824086606",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4879471/user-image-large.jpg?1538459917",
+            "_links": {
+              "self": {
+                "href": "/users/4879471",
+                "title": "Karla Alcazar - Illustrator and Teller of Tiny Stories"
+              },
+              "my_classes": {
+                "href": "/users/4879471/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4879471/completions",
+                "title": "Completions for User: 4879471"
+              },
+              "discussions": {
+                "href": "/users/4879471/discussions",
+                "title": "Discussions for User: 4879471"
+              },
+              "followers": {
+                "href": "/users/4879471/followers",
+                "title": "Followers for User: 4879471"
+              },
+              "following": {
+                "href": "/users/4879471/following",
+                "title": "Following for User: 4879471"
+              },
+              "notifications": {
+                "href": "/users/4879471/notifications",
+                "title": "Notifications for User: 4879471"
+              },
+              "projects": {
+                "href": "/users/4879471/projects",
+                "title": "Projects for User: 4879471"
+              },
+              "rosters": {
+                "href": "/users/4879471/rosters",
+                "title": "Rosters for User: 4879471"
+              },
+              "userTags": {
+                "href": "/users/4879471/userTags",
+                "title": "UserTags for User: 4879471"
+              },
+              "votes": {
+                "href": "/users/4879471/votes",
+                "title": "Votes for User: 4879471"
+              },
+              "wishlist": {
+                "href": "/users/4879471/wishlist",
+                "title": "Wishlist for User: 4879471"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

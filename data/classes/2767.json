@@ -1,0 +1,910 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=2767",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=2766",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": null,
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2767",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 539498,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzOTQ5OCJ9",
+        "sku": 1530943162,
+        "title": "Crochet a Mini Wreath Ornament",
+        "project_title": "Crochet a Mini Wreath Ornament",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/595983df0e39e70be7fa6c0f3275e596/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/595983df0e39e70be7fa6c0f3275e596/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/595983df0e39e70be7fa6c0f3275e596/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Crochet-a-Mini-Wreath-Ornament/1530943162",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "28m",
+        "total_videos_duration_seconds": 1685,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 71,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 12, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1530943162",
+            "title": "Crochet a Mini Wreath Ornament"
+          },
+          "teacher": {
+            "href": "/users/1645298",
+            "title": "Khara Plicanic - Photographer, Designer, Adobe Educator"
+          },
+          "units": {
+            "href": "/classes/1530943162/units",
+            "title": "Units for Class: 1530943162"
+          },
+          "sessions": {
+            "href": "/classes/1530943162/sessions",
+            "title": "Sessions for Class: 1530943162"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1530943162/students",
+            "title": "Students for Class: 1530943162"
+          },
+          "projects": {
+            "href": "/classes/1530943162/projects",
+            "title": "Projects for Class: 1530943162"
+          },
+          "reviews": {
+            "href": "/classes/1530943162/reviews",
+            "title": "Reviews for Class: 1530943162"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 430818,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDMwODE4In0=",
+            "username": 1645298,
+            "first_name": "Khara",
+            "last_name": "Plicanic",
+            "full_name": "Khara Plicanic",
+            "vanity_username": "kplicanic",
+            "headline": "Photographer, Designer, Adobe Educator",
+            "pic": "https://static.skillshare.com/uploads/users/1645298/user-image-medium.jpg?1534824849",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1645298/user-image-small.jpg?2122866145",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1645298/user-image-large.jpg?1407412620",
+            "_links": {
+              "self": {
+                "href": "/users/1645298",
+                "title": "Khara Plicanic - Photographer, Designer, Adobe Educator"
+              },
+              "my_classes": {
+                "href": "/users/1645298/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1645298/completions",
+                "title": "Completions for User: 1645298"
+              },
+              "discussions": {
+                "href": "/users/1645298/discussions",
+                "title": "Discussions for User: 1645298"
+              },
+              "followers": {
+                "href": "/users/1645298/followers",
+                "title": "Followers for User: 1645298"
+              },
+              "following": {
+                "href": "/users/1645298/following",
+                "title": "Following for User: 1645298"
+              },
+              "notifications": {
+                "href": "/users/1645298/notifications",
+                "title": "Notifications for User: 1645298"
+              },
+              "projects": {
+                "href": "/users/1645298/projects",
+                "title": "Projects for User: 1645298"
+              },
+              "rosters": {
+                "href": "/users/1645298/rosters",
+                "title": "Rosters for User: 1645298"
+              },
+              "userTags": {
+                "href": "/users/1645298/userTags",
+                "title": "UserTags for User: 1645298"
+              },
+              "votes": {
+                "href": "/users/1645298/votes",
+                "title": "Votes for User: 1645298"
+              },
+              "wishlist": {
+                "href": "/users/1645298/wishlist",
+                "title": "Wishlist for User: 1645298"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 539501,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzOTUwMSJ9",
+        "sku": 1833730628,
+        "title": "Advanced Compositional Techniques: Level Up Your Photography",
+        "project_title": "Capture three new photographs that highlight some of the compositional techniques discussed in this class.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b0711d7bf85252440ea79fdec6b57df4/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b0711d7bf85252440ea79fdec6b57df4/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b0711d7bf85252440ea79fdec6b57df4/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Advanced-Compositional-Techniques-Level-Up-Your-Photography/1833730628",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "29m",
+        "total_videos_duration_seconds": 1710,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 677,
+        "num_projects": 17,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Dec 13, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1833730628",
+            "title": "Advanced Compositional Techniques: Level Up Your Photography"
+          },
+          "teacher": {
+            "href": "/users/531628089",
+            "title": "KC Nwakalor - Documentary Photographer & Producer"
+          },
+          "units": {
+            "href": "/classes/1833730628/units",
+            "title": "Units for Class: 1833730628"
+          },
+          "sessions": {
+            "href": "/classes/1833730628/sessions",
+            "title": "Sessions for Class: 1833730628"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1833730628/students",
+            "title": "Students for Class: 1833730628"
+          },
+          "projects": {
+            "href": "/classes/1833730628/projects",
+            "title": "Projects for Class: 1833730628"
+          },
+          "reviews": {
+            "href": "/classes/1833730628/reviews",
+            "title": "Reviews for Class: 1833730628"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15813995,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTU4MTM5OTUifQ==",
+            "username": 531628089,
+            "first_name": "KC",
+            "last_name": "Nwakalor",
+            "full_name": "KC Nwakalor",
+            "vanity_username": null,
+            "headline": "Documentary Photographer & Producer",
+            "pic": "https://static.skillshare.com/uploads/users/531628089/user-image-medium.jpg?432834361",
+            "pic_sm": "https://static.skillshare.com/uploads/users/531628089/user-image-small.jpg?1811877679",
+            "pic_lg": "https://static.skillshare.com/uploads/users/531628089/user-image-large.jpg?627288730",
+            "_links": {
+              "self": {
+                "href": "/users/531628089",
+                "title": "KC Nwakalor - Documentary Photographer & Producer"
+              },
+              "my_classes": {
+                "href": "/users/531628089/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/531628089/completions",
+                "title": "Completions for User: 531628089"
+              },
+              "discussions": {
+                "href": "/users/531628089/discussions",
+                "title": "Discussions for User: 531628089"
+              },
+              "followers": {
+                "href": "/users/531628089/followers",
+                "title": "Followers for User: 531628089"
+              },
+              "following": {
+                "href": "/users/531628089/following",
+                "title": "Following for User: 531628089"
+              },
+              "notifications": {
+                "href": "/users/531628089/notifications",
+                "title": "Notifications for User: 531628089"
+              },
+              "projects": {
+                "href": "/users/531628089/projects",
+                "title": "Projects for User: 531628089"
+              },
+              "rosters": {
+                "href": "/users/531628089/rosters",
+                "title": "Rosters for User: 531628089"
+              },
+              "userTags": {
+                "href": "/users/531628089/userTags",
+                "title": "UserTags for User: 531628089"
+              },
+              "votes": {
+                "href": "/users/531628089/votes",
+                "title": "Votes for User: 531628089"
+              },
+              "wishlist": {
+                "href": "/users/531628089/wishlist",
+                "title": "Wishlist for User: 531628089"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 539505,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzOTUwNSJ9",
+        "sku": 1257591911,
+        "title": "How to Create Beautiful Pinterest Pins That Convert",
+        "project_title": "Now that you've completed the course, you're ready to start creating your own Pins! For our class project, create a Pin graphic promoting something for business and share with the class. :)",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/7c2f0b1665a065d78e2b37f02f5c6cfe/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/7c2f0b1665a065d78e2b37f02f5c6cfe/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/7c2f0b1665a065d78e2b37f02f5c6cfe/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Create-Beautiful-Pinterest-Pins-That-Convert/1257591911",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "39m",
+        "total_videos_duration_seconds": 2358,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 211,
+        "num_projects": 2,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 15, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1257591911",
+            "title": "How to Create Beautiful Pinterest Pins That Convert"
+          },
+          "teacher": {
+            "href": "/users/3127394",
+            "title": "Kate Horodyski - Pinterest Marketer and Strategist"
+          },
+          "units": {
+            "href": "/classes/1257591911/units",
+            "title": "Units for Class: 1257591911"
+          },
+          "sessions": {
+            "href": "/classes/1257591911/sessions",
+            "title": "Sessions for Class: 1257591911"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1257591911/students",
+            "title": "Students for Class: 1257591911"
+          },
+          "projects": {
+            "href": "/classes/1257591911/projects",
+            "title": "Projects for Class: 1257591911"
+          },
+          "reviews": {
+            "href": "/classes/1257591911/reviews",
+            "title": "Reviews for Class: 1257591911"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8117770,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODExNzc3MCJ9",
+            "username": 3127394,
+            "first_name": "Kate",
+            "last_name": "Horodyski",
+            "full_name": "Kate Horodyski",
+            "vanity_username": null,
+            "headline": "Pinterest Marketer and Strategist",
+            "pic": "https://static.skillshare.com/uploads/users/3127394/user-image-medium.jpg?1278036783",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3127394/user-image-small.jpg?502812570",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3127394/user-image-large.jpg?376339715",
+            "_links": {
+              "self": {
+                "href": "/users/3127394",
+                "title": "Kate Horodyski - Pinterest Marketer and Strategist"
+              },
+              "my_classes": {
+                "href": "/users/3127394/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3127394/completions",
+                "title": "Completions for User: 3127394"
+              },
+              "discussions": {
+                "href": "/users/3127394/discussions",
+                "title": "Discussions for User: 3127394"
+              },
+              "followers": {
+                "href": "/users/3127394/followers",
+                "title": "Followers for User: 3127394"
+              },
+              "following": {
+                "href": "/users/3127394/following",
+                "title": "Following for User: 3127394"
+              },
+              "notifications": {
+                "href": "/users/3127394/notifications",
+                "title": "Notifications for User: 3127394"
+              },
+              "projects": {
+                "href": "/users/3127394/projects",
+                "title": "Projects for User: 3127394"
+              },
+              "rosters": {
+                "href": "/users/3127394/rosters",
+                "title": "Rosters for User: 3127394"
+              },
+              "userTags": {
+                "href": "/users/3127394/userTags",
+                "title": "UserTags for User: 3127394"
+              },
+              "votes": {
+                "href": "/users/3127394/votes",
+                "title": "Votes for User: 3127394"
+              },
+              "wishlist": {
+                "href": "/users/3127394/wishlist",
+                "title": "Wishlist for User: 3127394"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 539536,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzOTUzNiJ9",
+        "sku": 396131600,
+        "title": "Portfolio Boost",
+        "project_title": "In this course, students will learn how to assemble and optimize their professional portfolio.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9387b98b39e1f0679fb19157a86a5183/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9387b98b39e1f0679fb19157a86a5183/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9387b98b39e1f0679fb19157a86a5183/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Portfolio-Boost/396131600",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "30m",
+        "total_videos_duration_seconds": 1802,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 536,
+        "num_projects": 3,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 13, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/396131600",
+            "title": "Portfolio Boost"
+          },
+          "teacher": {
+            "href": "/users/9506170",
+            "title": "Hardy Fowler - Digital Artist"
+          },
+          "units": {
+            "href": "/classes/396131600/units",
+            "title": "Units for Class: 396131600"
+          },
+          "sessions": {
+            "href": "/classes/396131600/sessions",
+            "title": "Sessions for Class: 396131600"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/396131600/students",
+            "title": "Students for Class: 396131600"
+          },
+          "projects": {
+            "href": "/classes/396131600/projects",
+            "title": "Projects for Class: 396131600"
+          },
+          "reviews": {
+            "href": "/classes/396131600/reviews",
+            "title": "Reviews for Class: 396131600"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 381358,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzgxMzU4In0=",
+            "username": 9506170,
+            "first_name": "Hardy",
+            "last_name": "Fowler",
+            "full_name": "Hardy Fowler",
+            "vanity_username": "hardyfowler",
+            "headline": "Digital Artist",
+            "pic": "https://static.skillshare.com/uploads/users/9506170/user-image-medium.jpg?2144913511",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9506170/user-image-small.jpg?326213064",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9506170/user-image-large.jpg?637507502",
+            "_links": {
+              "self": {
+                "href": "/users/9506170",
+                "title": "Hardy Fowler - Digital Artist"
+              },
+              "my_classes": {
+                "href": "/users/9506170/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9506170/completions",
+                "title": "Completions for User: 9506170"
+              },
+              "discussions": {
+                "href": "/users/9506170/discussions",
+                "title": "Discussions for User: 9506170"
+              },
+              "followers": {
+                "href": "/users/9506170/followers",
+                "title": "Followers for User: 9506170"
+              },
+              "following": {
+                "href": "/users/9506170/following",
+                "title": "Following for User: 9506170"
+              },
+              "notifications": {
+                "href": "/users/9506170/notifications",
+                "title": "Notifications for User: 9506170"
+              },
+              "projects": {
+                "href": "/users/9506170/projects",
+                "title": "Projects for User: 9506170"
+              },
+              "rosters": {
+                "href": "/users/9506170/rosters",
+                "title": "Rosters for User: 9506170"
+              },
+              "userTags": {
+                "href": "/users/9506170/userTags",
+                "title": "UserTags for User: 9506170"
+              },
+              "votes": {
+                "href": "/users/9506170/votes",
+                "title": "Votes for User: 9506170"
+              },
+              "wishlist": {
+                "href": "/users/9506170/wishlist",
+                "title": "Wishlist for User: 9506170"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 539542,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzOTU0MiJ9",
+        "sku": 1539260797,
+        "title": "Acting: Audition Technique",
+        "project_title": "We are going to take everything you learn in this class and test it out with our own audition!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/15f02073751595e56761be41fb2b2aed/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/15f02073751595e56761be41fb2b2aed/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/15f02073751595e56761be41fb2b2aed/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Acting-Audition-Technique/1539260797",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "58m",
+        "total_videos_duration_seconds": 3450,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 65,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 15, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1539260797",
+            "title": "Acting: Audition Technique"
+          },
+          "teacher": {
+            "href": "/users/976010070",
+            "title": "Justin Powell"
+          },
+          "units": {
+            "href": "/classes/1539260797/units",
+            "title": "Units for Class: 1539260797"
+          },
+          "sessions": {
+            "href": "/classes/1539260797/sessions",
+            "title": "Sessions for Class: 1539260797"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1539260797/students",
+            "title": "Students for Class: 1539260797"
+          },
+          "projects": {
+            "href": "/classes/1539260797/projects",
+            "title": "Projects for Class: 1539260797"
+          },
+          "reviews": {
+            "href": "/classes/1539260797/reviews",
+            "title": "Reviews for Class: 1539260797"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9870994,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTg3MDk5NCJ9",
+            "username": 976010070,
+            "first_name": "Justin",
+            "last_name": "Powell",
+            "full_name": "Justin Powell",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/976010070/user-image-medium.jpg?217492202",
+            "pic_sm": "https://static.skillshare.com/uploads/users/976010070/user-image-small.jpg?426459800",
+            "pic_lg": "https://static.skillshare.com/uploads/users/976010070/user-image-large.jpg?1024895262",
+            "_links": {
+              "self": {
+                "href": "/users/976010070",
+                "title": "Justin Powell"
+              },
+              "my_classes": {
+                "href": "/users/976010070/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/976010070/completions",
+                "title": "Completions for User: 976010070"
+              },
+              "discussions": {
+                "href": "/users/976010070/discussions",
+                "title": "Discussions for User: 976010070"
+              },
+              "followers": {
+                "href": "/users/976010070/followers",
+                "title": "Followers for User: 976010070"
+              },
+              "following": {
+                "href": "/users/976010070/following",
+                "title": "Following for User: 976010070"
+              },
+              "notifications": {
+                "href": "/users/976010070/notifications",
+                "title": "Notifications for User: 976010070"
+              },
+              "projects": {
+                "href": "/users/976010070/projects",
+                "title": "Projects for User: 976010070"
+              },
+              "rosters": {
+                "href": "/users/976010070/rosters",
+                "title": "Rosters for User: 976010070"
+              },
+              "userTags": {
+                "href": "/users/976010070/userTags",
+                "title": "UserTags for User: 976010070"
+              },
+              "votes": {
+                "href": "/users/976010070/votes",
+                "title": "Votes for User: 976010070"
+              },
+              "wishlist": {
+                "href": "/users/976010070/wishlist",
+                "title": "Wishlist for User: 976010070"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 539544,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzOTU0NCJ9",
+        "sku": 220183858,
+        "title": "Blender 3. 0 - Create Stunning Animations With ShapeKeys",
+        "project_title": "You will be creating your own 3D Shapeshifting Animation in Blender 3D!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/43b30f29e19d5ba75255f65184dcca17/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/43b30f29e19d5ba75255f65184dcca17/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/43b30f29e19d5ba75255f65184dcca17/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Blender-3-0-Create-Stunning-Animations-With-ShapeKeys/220183858",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "2h 40m",
+        "total_videos_duration_seconds": 9578,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 335,
+        "num_projects": 2,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 16, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/220183858",
+            "title": "Blender 3. 0 - Create Stunning Animations With ShapeKeys"
+          },
+          "teacher": {
+            "href": "/users/416850423",
+            "title": "Smeaf Sculpts - 3D Generalist and Tutorials "
+          },
+          "units": {
+            "href": "/classes/220183858/units",
+            "title": "Units for Class: 220183858"
+          },
+          "sessions": {
+            "href": "/classes/220183858/sessions",
+            "title": "Sessions for Class: 220183858"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/220183858/students",
+            "title": "Students for Class: 220183858"
+          },
+          "projects": {
+            "href": "/classes/220183858/projects",
+            "title": "Projects for Class: 220183858"
+          },
+          "reviews": {
+            "href": "/classes/220183858/reviews",
+            "title": "Reviews for Class: 220183858"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19065229,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTkwNjUyMjkifQ==",
+            "username": 416850423,
+            "first_name": "Smeaf",
+            "last_name": "Sculpts",
+            "full_name": "Smeaf Sculpts",
+            "vanity_username": "smeafsculpts",
+            "headline": "3D Generalist and Tutorials ",
+            "pic": "https://static.skillshare.com/uploads/users/416850423/user-image-medium.png?1340886977",
+            "pic_sm": "https://static.skillshare.com/uploads/users/416850423/user-image-small.png?15684094",
+            "pic_lg": "https://static.skillshare.com/uploads/users/416850423/user-image-large.png?44057707",
+            "_links": {
+              "self": {
+                "href": "/users/416850423",
+                "title": "Smeaf Sculpts - 3D Generalist and Tutorials "
+              },
+              "my_classes": {
+                "href": "/users/416850423/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/416850423/completions",
+                "title": "Completions for User: 416850423"
+              },
+              "discussions": {
+                "href": "/users/416850423/discussions",
+                "title": "Discussions for User: 416850423"
+              },
+              "followers": {
+                "href": "/users/416850423/followers",
+                "title": "Followers for User: 416850423"
+              },
+              "following": {
+                "href": "/users/416850423/following",
+                "title": "Following for User: 416850423"
+              },
+              "notifications": {
+                "href": "/users/416850423/notifications",
+                "title": "Notifications for User: 416850423"
+              },
+              "projects": {
+                "href": "/users/416850423/projects",
+                "title": "Projects for User: 416850423"
+              },
+              "rosters": {
+                "href": "/users/416850423/rosters",
+                "title": "Rosters for User: 416850423"
+              },
+              "userTags": {
+                "href": "/users/416850423/userTags",
+                "title": "UserTags for User: 416850423"
+              },
+              "votes": {
+                "href": "/users/416850423/votes",
+                "title": "Votes for User: 416850423"
+              },
+              "wishlist": {
+                "href": "/users/416850423/wishlist",
+                "title": "Wishlist for User: 416850423"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 539547,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUzOTU0NyJ9",
+        "sku": 8092717,
+        "title": "Cake Baking 101: Exploring Layer Cakes, Fillings and Frostings",
+        "project_title": "The Project for the Class is to share Pictures of any one recipe. Here are some of mine",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/10215fb8a2968558a715b09482055625/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/10215fb8a2968558a715b09482055625/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/10215fb8a2968558a715b09482055625/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Cake-Baking-101-Exploring-Layer-Cakes-Fillings-and-Frostings/8092717",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 16,
+        "total_videos_duration": "1h 30m",
+        "total_videos_duration_seconds": 5426,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 590,
+        "num_projects": 6,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Nov 15, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/8092717",
+            "title": "Cake Baking 101: Exploring Layer Cakes, Fillings and Frostings"
+          },
+          "teacher": {
+            "href": "/users/386523477",
+            "title": "Lilly IN - Pastry Chef - Le Cordon Bleu  "
+          },
+          "units": {
+            "href": "/classes/8092717/units",
+            "title": "Units for Class: 8092717"
+          },
+          "sessions": {
+            "href": "/classes/8092717/sessions",
+            "title": "Sessions for Class: 8092717"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/8092717/students",
+            "title": "Students for Class: 8092717"
+          },
+          "projects": {
+            "href": "/classes/8092717/projects",
+            "title": "Projects for Class: 8092717"
+          },
+          "reviews": {
+            "href": "/classes/8092717/reviews",
+            "title": "Reviews for Class: 8092717"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 16567973,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTY1Njc5NzMifQ==",
+            "username": 386523477,
+            "first_name": "Lilly",
+            "last_name": "IN",
+            "full_name": "Lilly IN",
+            "vanity_username": null,
+            "headline": "Pastry Chef - Le Cordon Bleu  ",
+            "pic": "https://static.skillshare.com/uploads/users/386523477/user-image-medium.jpg?441382117",
+            "pic_sm": "https://static.skillshare.com/uploads/users/386523477/user-image-small.jpg?1873881087",
+            "pic_lg": "https://static.skillshare.com/uploads/users/386523477/user-image-large.jpg?2060358769",
+            "_links": {
+              "self": {
+                "href": "/users/386523477",
+                "title": "Lilly IN - Pastry Chef - Le Cordon Bleu  "
+              },
+              "my_classes": {
+                "href": "/users/386523477/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/386523477/completions",
+                "title": "Completions for User: 386523477"
+              },
+              "discussions": {
+                "href": "/users/386523477/discussions",
+                "title": "Discussions for User: 386523477"
+              },
+              "followers": {
+                "href": "/users/386523477/followers",
+                "title": "Followers for User: 386523477"
+              },
+              "following": {
+                "href": "/users/386523477/following",
+                "title": "Following for User: 386523477"
+              },
+              "notifications": {
+                "href": "/users/386523477/notifications",
+                "title": "Notifications for User: 386523477"
+              },
+              "projects": {
+                "href": "/users/386523477/projects",
+                "title": "Projects for User: 386523477"
+              },
+              "rosters": {
+                "href": "/users/386523477/rosters",
+                "title": "Rosters for User: 386523477"
+              },
+              "userTags": {
+                "href": "/users/386523477/userTags",
+                "title": "UserTags for User: 386523477"
+              },
+              "votes": {
+                "href": "/users/386523477/votes",
+                "title": "Votes for User: 386523477"
+              },
+              "wishlist": {
+                "href": "/users/386523477/wishlist",
+                "title": "Wishlist for User: 386523477"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

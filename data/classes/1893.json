@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1893",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1892",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1894",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 613122,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMzEyMiJ9",
+        "sku": 185852885,
+        "title": "Botanical Bliss: 6 Fun Ways to Fill Your Sketchbook with Floral Doodles",
+        "project_title": "CLASS PROJECT: BOTANICAL BLISS",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c093f2760f66683367fc06d1e2d024be/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c093f2760f66683367fc06d1e2d024be/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c093f2760f66683367fc06d1e2d024be/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Botanical-Bliss-6-Fun-Ways-to-Fill-Your-Sketchbook-with-Floral-Doodles/185852885",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "30m",
+        "total_videos_duration_seconds": 1810,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1021,
+        "num_projects": 39,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/185852885",
+            "title": "Botanical Bliss: 6 Fun Ways to Fill Your Sketchbook with Floral Doodles"
+          },
+          "teacher": {
+            "href": "/users/8357703",
+            "title": "Ewa Rosa - illustellar | Find Bliss in Making Art"
+          },
+          "units": {
+            "href": "/classes/185852885/units",
+            "title": "Units for Class: 185852885"
+          },
+          "sessions": {
+            "href": "/classes/185852885/sessions",
+            "title": "Sessions for Class: 185852885"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/185852885/students",
+            "title": "Students for Class: 185852885"
+          },
+          "projects": {
+            "href": "/classes/185852885/projects",
+            "title": "Projects for Class: 185852885"
+          },
+          "reviews": {
+            "href": "/classes/185852885/reviews",
+            "title": "Reviews for Class: 185852885"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1295836,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTI5NTgzNiJ9",
+            "username": 8357703,
+            "first_name": "Ewa",
+            "last_name": "Rosa",
+            "full_name": "Ewa Rosa",
+            "vanity_username": null,
+            "headline": "illustellar | Find Bliss in Making Art",
+            "pic": "https://static.skillshare.com/uploads/users/8357703/user-image-medium.jpg?739403560",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8357703/user-image-small.jpg?66495828",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8357703/user-image-large.jpg?2045392893",
+            "_links": {
+              "self": {
+                "href": "/users/8357703",
+                "title": "Ewa Rosa - illustellar | Find Bliss in Making Art"
+              },
+              "my_classes": {
+                "href": "/users/8357703/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8357703/completions",
+                "title": "Completions for User: 8357703"
+              },
+              "discussions": {
+                "href": "/users/8357703/discussions",
+                "title": "Discussions for User: 8357703"
+              },
+              "followers": {
+                "href": "/users/8357703/followers",
+                "title": "Followers for User: 8357703"
+              },
+              "following": {
+                "href": "/users/8357703/following",
+                "title": "Following for User: 8357703"
+              },
+              "notifications": {
+                "href": "/users/8357703/notifications",
+                "title": "Notifications for User: 8357703"
+              },
+              "projects": {
+                "href": "/users/8357703/projects",
+                "title": "Projects for User: 8357703"
+              },
+              "rosters": {
+                "href": "/users/8357703/rosters",
+                "title": "Rosters for User: 8357703"
+              },
+              "userTags": {
+                "href": "/users/8357703/userTags",
+                "title": "UserTags for User: 8357703"
+              },
+              "votes": {
+                "href": "/users/8357703/votes",
+                "title": "Votes for User: 8357703"
+              },
+              "wishlist": {
+                "href": "/users/8357703/wishlist",
+                "title": "Wishlist for User: 8357703"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 613126,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMzEyNiJ9",
+        "sku": 1865802906,
+        "title": "Macaron Making for Beginners- Master Nut Free and Traditional Macarons Like a Pro",
+        "project_title": "By the end of this class, you will have created your own macarons from scratch. Share your results with the rest of the class! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/5be79c83bf04bdd051f7c4787fbf9a18/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/5be79c83bf04bdd051f7c4787fbf9a18/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/5be79c83bf04bdd051f7c4787fbf9a18/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Macaron-Making-for-Beginners-Master-Nut-Free-and-Traditional-Macarons-Like-a-Pro/1865802906",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "38m",
+        "total_videos_duration_seconds": 2283,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 75,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1865802906",
+            "title": "Macaron Making for Beginners- Master Nut Free and Traditional Macarons Like a Pro"
+          },
+          "teacher": {
+            "href": "/users/67923573",
+            "title": "Rossana Aloi"
+          },
+          "units": {
+            "href": "/classes/1865802906/units",
+            "title": "Units for Class: 1865802906"
+          },
+          "sessions": {
+            "href": "/classes/1865802906/sessions",
+            "title": "Sessions for Class: 1865802906"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1865802906/students",
+            "title": "Students for Class: 1865802906"
+          },
+          "projects": {
+            "href": "/classes/1865802906/projects",
+            "title": "Projects for Class: 1865802906"
+          },
+          "reviews": {
+            "href": "/classes/1865802906/reviews",
+            "title": "Reviews for Class: 1865802906"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25353736,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUzNTM3MzYifQ==",
+            "username": 67923573,
+            "first_name": "Rossana",
+            "last_name": "Aloi",
+            "full_name": "Rossana Aloi",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/67923573",
+                "title": "Rossana Aloi"
+              },
+              "my_classes": {
+                "href": "/users/67923573/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/67923573/completions",
+                "title": "Completions for User: 67923573"
+              },
+              "discussions": {
+                "href": "/users/67923573/discussions",
+                "title": "Discussions for User: 67923573"
+              },
+              "followers": {
+                "href": "/users/67923573/followers",
+                "title": "Followers for User: 67923573"
+              },
+              "following": {
+                "href": "/users/67923573/following",
+                "title": "Following for User: 67923573"
+              },
+              "notifications": {
+                "href": "/users/67923573/notifications",
+                "title": "Notifications for User: 67923573"
+              },
+              "projects": {
+                "href": "/users/67923573/projects",
+                "title": "Projects for User: 67923573"
+              },
+              "rosters": {
+                "href": "/users/67923573/rosters",
+                "title": "Rosters for User: 67923573"
+              },
+              "userTags": {
+                "href": "/users/67923573/userTags",
+                "title": "UserTags for User: 67923573"
+              },
+              "votes": {
+                "href": "/users/67923573/votes",
+                "title": "Votes for User: 67923573"
+              },
+              "wishlist": {
+                "href": "/users/67923573/wishlist",
+                "title": "Wishlist for User: 67923573"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 613130,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMzEzMCJ9",
+        "sku": 988977634,
+        "title": "Ultimate Guide to 2D Run Cycles",
+        "project_title": "Download my project files to get a quickstart, or design your own to make it truly yours!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1a981681a3695ab1e31bd5e70f0420d9/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1a981681a3695ab1e31bd5e70f0420d9/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1a981681a3695ab1e31bd5e70f0420d9/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Ultimate-Guide-to-2D-Run-Cycles/988977634",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "2h 42m",
+        "total_videos_duration_seconds": 9699,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 11,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/988977634",
+            "title": "Ultimate Guide to 2D Run Cycles"
+          },
+          "teacher": {
+            "href": "/users/4823032",
+            "title": "Ray Lim - Professional Motion Designer"
+          },
+          "units": {
+            "href": "/classes/988977634/units",
+            "title": "Units for Class: 988977634"
+          },
+          "sessions": {
+            "href": "/classes/988977634/sessions",
+            "title": "Sessions for Class: 988977634"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/988977634/students",
+            "title": "Students for Class: 988977634"
+          },
+          "projects": {
+            "href": "/classes/988977634/projects",
+            "title": "Projects for Class: 988977634"
+          },
+          "reviews": {
+            "href": "/classes/988977634/reviews",
+            "title": "Reviews for Class: 988977634"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3921497,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzkyMTQ5NyJ9",
+            "username": 4823032,
+            "first_name": "Ray",
+            "last_name": "Lim",
+            "full_name": "Ray Lim",
+            "vanity_username": "raylim",
+            "headline": "Professional Motion Designer",
+            "pic": "https://static.skillshare.com/uploads/users/4823032/user-image-medium.png?2060696351",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4823032/user-image-small.png?1112366483",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4823032/user-image-large.png?1238412634",
+            "_links": {
+              "self": {
+                "href": "/users/4823032",
+                "title": "Ray Lim - Professional Motion Designer"
+              },
+              "my_classes": {
+                "href": "/users/4823032/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4823032/completions",
+                "title": "Completions for User: 4823032"
+              },
+              "discussions": {
+                "href": "/users/4823032/discussions",
+                "title": "Discussions for User: 4823032"
+              },
+              "followers": {
+                "href": "/users/4823032/followers",
+                "title": "Followers for User: 4823032"
+              },
+              "following": {
+                "href": "/users/4823032/following",
+                "title": "Following for User: 4823032"
+              },
+              "notifications": {
+                "href": "/users/4823032/notifications",
+                "title": "Notifications for User: 4823032"
+              },
+              "projects": {
+                "href": "/users/4823032/projects",
+                "title": "Projects for User: 4823032"
+              },
+              "rosters": {
+                "href": "/users/4823032/rosters",
+                "title": "Rosters for User: 4823032"
+              },
+              "userTags": {
+                "href": "/users/4823032/userTags",
+                "title": "UserTags for User: 4823032"
+              },
+              "votes": {
+                "href": "/users/4823032/votes",
+                "title": "Votes for User: 4823032"
+              },
+              "wishlist": {
+                "href": "/users/4823032/wishlist",
+                "title": "Wishlist for User: 4823032"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 613134,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMzEzNCJ9",
+        "sku": 577285387,
+        "title": "Draw An Owl: How To Start With Simple Shapes and How To Build Feather Textures",
+        "project_title": "Draw an owl along with me and then share your project in the Projects section of Skillshare. I'm happy to give feedback!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b75b56a1743dea57f8a0418df3492851/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b75b56a1743dea57f8a0418df3492851/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b75b56a1743dea57f8a0418df3492851/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Draw-An-Owl-How-To-Start-With-Simple-Shapes-and-How-To-Build-Feather-Textures/577285387",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "1h 15m",
+        "total_videos_duration_seconds": 4488,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 42,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/577285387",
+            "title": "Draw An Owl: How To Start With Simple Shapes and How To Build Feather Textures"
+          },
+          "teacher": {
+            "href": "/users/2354513",
+            "title": "Emily Armstrong - The Pencil Room Online"
+          },
+          "units": {
+            "href": "/classes/577285387/units",
+            "title": "Units for Class: 577285387"
+          },
+          "sessions": {
+            "href": "/classes/577285387/sessions",
+            "title": "Sessions for Class: 577285387"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/577285387/students",
+            "title": "Students for Class: 577285387"
+          },
+          "projects": {
+            "href": "/classes/577285387/projects",
+            "title": "Projects for Class: 577285387"
+          },
+          "reviews": {
+            "href": "/classes/577285387/reviews",
+            "title": "Reviews for Class: 577285387"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2662661,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjY2MjY2MSJ9",
+            "username": 2354513,
+            "first_name": "Emily",
+            "last_name": "Armstrong",
+            "full_name": "Emily Armstrong",
+            "vanity_username": "thepencilroom",
+            "headline": "The Pencil Room Online",
+            "pic": "https://static.skillshare.com/uploads/users/2354513/user-image-medium.jpg?976223213",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2354513/user-image-small.jpg?1775506408",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2354513/user-image-large.jpg?906870442",
+            "_links": {
+              "self": {
+                "href": "/users/2354513",
+                "title": "Emily Armstrong - The Pencil Room Online"
+              },
+              "my_classes": {
+                "href": "/users/2354513/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2354513/completions",
+                "title": "Completions for User: 2354513"
+              },
+              "discussions": {
+                "href": "/users/2354513/discussions",
+                "title": "Discussions for User: 2354513"
+              },
+              "followers": {
+                "href": "/users/2354513/followers",
+                "title": "Followers for User: 2354513"
+              },
+              "following": {
+                "href": "/users/2354513/following",
+                "title": "Following for User: 2354513"
+              },
+              "notifications": {
+                "href": "/users/2354513/notifications",
+                "title": "Notifications for User: 2354513"
+              },
+              "projects": {
+                "href": "/users/2354513/projects",
+                "title": "Projects for User: 2354513"
+              },
+              "rosters": {
+                "href": "/users/2354513/rosters",
+                "title": "Rosters for User: 2354513"
+              },
+              "userTags": {
+                "href": "/users/2354513/userTags",
+                "title": "UserTags for User: 2354513"
+              },
+              "votes": {
+                "href": "/users/2354513/votes",
+                "title": "Votes for User: 2354513"
+              },
+              "wishlist": {
+                "href": "/users/2354513/wishlist",
+                "title": "Wishlist for User: 2354513"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 613141,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMzE0MSJ9",
+        "sku": 2109964188,
+        "title": "How To Draw  - Everything!",
+        "project_title": "Guys, welcome to How To Draw EVERYTHING on Skillshare! I know, I know. .. you're wondering how it's possible to learn to draw EVERYTHING. .. well, part of that learning process is making sure that you",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/bdaba63e09181eab32597edee5cc23bf/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/bdaba63e09181eab32597edee5cc23bf/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/bdaba63e09181eab32597edee5cc23bf/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Draw-Everything/2109964188",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 35,
+        "total_videos_duration": "8h 41m",
+        "total_videos_duration_seconds": 31241,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 239,
+        "num_projects": 1,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2109964188",
+            "title": "How To Draw  - Everything!"
+          },
+          "teacher": {
+            "href": "/users/1907808",
+            "title": "Ed Foychuk - Making Learning Simple"
+          },
+          "units": {
+            "href": "/classes/2109964188/units",
+            "title": "Units for Class: 2109964188"
+          },
+          "sessions": {
+            "href": "/classes/2109964188/sessions",
+            "title": "Sessions for Class: 2109964188"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2109964188/students",
+            "title": "Students for Class: 2109964188"
+          },
+          "projects": {
+            "href": "/classes/2109964188/projects",
+            "title": "Projects for Class: 2109964188"
+          },
+          "reviews": {
+            "href": "/classes/2109964188/reviews",
+            "title": "Reviews for Class: 2109964188"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6369881,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjM2OTg4MSJ9",
+            "username": 1907808,
+            "first_name": "Ed",
+            "last_name": "Foychuk",
+            "full_name": "Ed Foychuk",
+            "vanity_username": "juggertha",
+            "headline": "Making Learning Simple",
+            "pic": "https://static.skillshare.com/uploads/users/1907808/user-image-medium.jpg?520202007",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1907808/user-image-small.jpg?1064607088",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1907808/user-image-large.jpg?2075960874",
+            "_links": {
+              "self": {
+                "href": "/users/1907808",
+                "title": "Ed Foychuk - Making Learning Simple"
+              },
+              "my_classes": {
+                "href": "/users/1907808/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1907808/completions",
+                "title": "Completions for User: 1907808"
+              },
+              "discussions": {
+                "href": "/users/1907808/discussions",
+                "title": "Discussions for User: 1907808"
+              },
+              "followers": {
+                "href": "/users/1907808/followers",
+                "title": "Followers for User: 1907808"
+              },
+              "following": {
+                "href": "/users/1907808/following",
+                "title": "Following for User: 1907808"
+              },
+              "notifications": {
+                "href": "/users/1907808/notifications",
+                "title": "Notifications for User: 1907808"
+              },
+              "projects": {
+                "href": "/users/1907808/projects",
+                "title": "Projects for User: 1907808"
+              },
+              "rosters": {
+                "href": "/users/1907808/rosters",
+                "title": "Rosters for User: 1907808"
+              },
+              "userTags": {
+                "href": "/users/1907808/userTags",
+                "title": "UserTags for User: 1907808"
+              },
+              "votes": {
+                "href": "/users/1907808/votes",
+                "title": "Votes for User: 1907808"
+              },
+              "wishlist": {
+                "href": "/users/1907808/wishlist",
+                "title": "Wishlist for User: 1907808"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 613152,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMzE1MiJ9",
+        "sku": 1234141572,
+        "title": "Make a Scratch Pad for Your Cat - 3 Easy DIY Options",
+        "project_title": "Your project is to make one of the 3 scratch pads:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/16cd175bbbbdd405f7725f1efd28f132/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/16cd175bbbbdd405f7725f1efd28f132/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/16cd175bbbbdd405f7725f1efd28f132/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Make-a-Scratch-Pad-for-Your-Cat-3-Easy-DIY-Options/1234141572",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "23m",
+        "total_videos_duration_seconds": 1351,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 16,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1234141572",
+            "title": "Make a Scratch Pad for Your Cat - 3 Easy DIY Options"
+          },
+          "teacher": {
+            "href": "/users/1305685",
+            "title": "Naama Yaffe Mendelboim - Graphic designer and artist"
+          },
+          "units": {
+            "href": "/classes/1234141572/units",
+            "title": "Units for Class: 1234141572"
+          },
+          "sessions": {
+            "href": "/classes/1234141572/sessions",
+            "title": "Sessions for Class: 1234141572"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1234141572/students",
+            "title": "Students for Class: 1234141572"
+          },
+          "projects": {
+            "href": "/classes/1234141572/projects",
+            "title": "Projects for Class: 1234141572"
+          },
+          "reviews": {
+            "href": "/classes/1234141572/reviews",
+            "title": "Reviews for Class: 1234141572"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2211595,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjIxMTU5NSJ9",
+            "username": 1305685,
+            "first_name": "Naama",
+            "last_name": "Yaffe Mendelboim",
+            "full_name": "Naama Yaffe Mendelboim",
+            "vanity_username": null,
+            "headline": "Graphic designer and artist",
+            "pic": "https://static.skillshare.com/uploads/users/1305685/user-image-medium.jpg?1791297172",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1305685/user-image-small.jpg?438877062",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1305685/user-image-large.jpg?2058489069",
+            "_links": {
+              "self": {
+                "href": "/users/1305685",
+                "title": "Naama Yaffe Mendelboim - Graphic designer and artist"
+              },
+              "my_classes": {
+                "href": "/users/1305685/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1305685/completions",
+                "title": "Completions for User: 1305685"
+              },
+              "discussions": {
+                "href": "/users/1305685/discussions",
+                "title": "Discussions for User: 1305685"
+              },
+              "followers": {
+                "href": "/users/1305685/followers",
+                "title": "Followers for User: 1305685"
+              },
+              "following": {
+                "href": "/users/1305685/following",
+                "title": "Following for User: 1305685"
+              },
+              "notifications": {
+                "href": "/users/1305685/notifications",
+                "title": "Notifications for User: 1305685"
+              },
+              "projects": {
+                "href": "/users/1305685/projects",
+                "title": "Projects for User: 1305685"
+              },
+              "rosters": {
+                "href": "/users/1305685/rosters",
+                "title": "Rosters for User: 1305685"
+              },
+              "userTags": {
+                "href": "/users/1305685/userTags",
+                "title": "UserTags for User: 1305685"
+              },
+              "votes": {
+                "href": "/users/1305685/votes",
+                "title": "Votes for User: 1305685"
+              },
+              "wishlist": {
+                "href": "/users/1305685/wishlist",
+                "title": "Wishlist for User: 1305685"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 613153,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMzE1MyJ9",
+        "sku": 1498666718,
+        "title": "Textured Palm Pillar Candle-Different Patterns",
+        "project_title": "There is no defective handmade candle; what you create is just born that way.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/221f4601537014a12df847a393a83e2a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/221f4601537014a12df847a393a83e2a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/221f4601537014a12df847a393a83e2a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Textured-Palm-Pillar-Candle-Different-Patterns/1498666718",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "34m",
+        "total_videos_duration_seconds": 2062,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 27,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1498666718",
+            "title": "Textured Palm Pillar Candle-Different Patterns"
+          },
+          "teacher": {
+            "href": "/users/140206734",
+            "title": "Shant Chant Studio - Craftsman, Candle & Aroma Stone Designer"
+          },
+          "units": {
+            "href": "/classes/1498666718/units",
+            "title": "Units for Class: 1498666718"
+          },
+          "sessions": {
+            "href": "/classes/1498666718/sessions",
+            "title": "Sessions for Class: 1498666718"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1498666718/students",
+            "title": "Students for Class: 1498666718"
+          },
+          "projects": {
+            "href": "/classes/1498666718/projects",
+            "title": "Projects for Class: 1498666718"
+          },
+          "reviews": {
+            "href": "/classes/1498666718/reviews",
+            "title": "Reviews for Class: 1498666718"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 29073398,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjkwNzMzOTgifQ==",
+            "username": 140206734,
+            "first_name": "Shant Chant Studio",
+            "last_name": null,
+            "full_name": "Shant Chant Studio",
+            "vanity_username": null,
+            "headline": "Craftsman, Candle & Aroma Stone Designer",
+            "pic": "https://static.skillshare.com/uploads/users/140206734/user-image-medium.png?1168778636",
+            "pic_sm": "https://static.skillshare.com/uploads/users/140206734/user-image-small.png?352839788",
+            "pic_lg": "https://static.skillshare.com/uploads/users/140206734/user-image-large.png?939687899",
+            "_links": {
+              "self": {
+                "href": "/users/140206734",
+                "title": "Shant Chant Studio - Craftsman, Candle & Aroma Stone Designer"
+              },
+              "my_classes": {
+                "href": "/users/140206734/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/140206734/completions",
+                "title": "Completions for User: 140206734"
+              },
+              "discussions": {
+                "href": "/users/140206734/discussions",
+                "title": "Discussions for User: 140206734"
+              },
+              "followers": {
+                "href": "/users/140206734/followers",
+                "title": "Followers for User: 140206734"
+              },
+              "following": {
+                "href": "/users/140206734/following",
+                "title": "Following for User: 140206734"
+              },
+              "notifications": {
+                "href": "/users/140206734/notifications",
+                "title": "Notifications for User: 140206734"
+              },
+              "projects": {
+                "href": "/users/140206734/projects",
+                "title": "Projects for User: 140206734"
+              },
+              "rosters": {
+                "href": "/users/140206734/rosters",
+                "title": "Rosters for User: 140206734"
+              },
+              "userTags": {
+                "href": "/users/140206734/userTags",
+                "title": "UserTags for User: 140206734"
+              },
+              "votes": {
+                "href": "/users/140206734/votes",
+                "title": "Votes for User: 140206734"
+              },
+              "wishlist": {
+                "href": "/users/140206734/wishlist",
+                "title": "Wishlist for User: 140206734"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 613154,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMzE1NCJ9",
+        "sku": 512835954,
+        "title": "Decoupage Art",
+        "project_title": "Class Project",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6d308b853f283d89608e8f126d8cc51a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6d308b853f283d89608e8f126d8cc51a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6d308b853f283d89608e8f126d8cc51a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Decoupage-Art/512835954",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "27m",
+        "total_videos_duration_seconds": 1599,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 92,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/512835954",
+            "title": "Decoupage Art"
+          },
+          "teacher": {
+            "href": "/users/2866195",
+            "title": "Mohini Sinha - Acrylic and Gouache Artist- Nature Lover"
+          },
+          "units": {
+            "href": "/classes/512835954/units",
+            "title": "Units for Class: 512835954"
+          },
+          "sessions": {
+            "href": "/classes/512835954/sessions",
+            "title": "Sessions for Class: 512835954"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/512835954/students",
+            "title": "Students for Class: 512835954"
+          },
+          "projects": {
+            "href": "/classes/512835954/projects",
+            "title": "Projects for Class: 512835954"
+          },
+          "reviews": {
+            "href": "/classes/512835954/reviews",
+            "title": "Reviews for Class: 512835954"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8029708,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODAyOTcwOCJ9",
+            "username": 2866195,
+            "first_name": "Mohini",
+            "last_name": "Sinha",
+            "full_name": "Mohini Sinha",
+            "vanity_username": "mohiniartgallery",
+            "headline": "Acrylic and Gouache Artist- Nature Lover",
+            "pic": "https://static.skillshare.com/uploads/users/2866195/user-image-medium.jpg?998792903",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2866195/user-image-small.jpg?1375245125",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2866195/user-image-large.jpg?1973083423",
+            "_links": {
+              "self": {
+                "href": "/users/2866195",
+                "title": "Mohini Sinha - Acrylic and Gouache Artist- Nature Lover"
+              },
+              "my_classes": {
+                "href": "/users/2866195/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2866195/completions",
+                "title": "Completions for User: 2866195"
+              },
+              "discussions": {
+                "href": "/users/2866195/discussions",
+                "title": "Discussions for User: 2866195"
+              },
+              "followers": {
+                "href": "/users/2866195/followers",
+                "title": "Followers for User: 2866195"
+              },
+              "following": {
+                "href": "/users/2866195/following",
+                "title": "Following for User: 2866195"
+              },
+              "notifications": {
+                "href": "/users/2866195/notifications",
+                "title": "Notifications for User: 2866195"
+              },
+              "projects": {
+                "href": "/users/2866195/projects",
+                "title": "Projects for User: 2866195"
+              },
+              "rosters": {
+                "href": "/users/2866195/rosters",
+                "title": "Rosters for User: 2866195"
+              },
+              "userTags": {
+                "href": "/users/2866195/userTags",
+                "title": "UserTags for User: 2866195"
+              },
+              "votes": {
+                "href": "/users/2866195/votes",
+                "title": "Votes for User: 2866195"
+              },
+              "wishlist": {
+                "href": "/users/2866195/wishlist",
+                "title": "Wishlist for User: 2866195"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 613159,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMzE1OSJ9",
+        "sku": 384873386,
+        "title": "Personal branding for students: Set yourself for career success",
+        "project_title": "Hello",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/157497dffed91a651e2010b89d588226/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/157497dffed91a651e2010b89d588226/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/157497dffed91a651e2010b89d588226/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Personal-branding-for-students-Set-yourself-for-career-success/384873386",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 23,
+        "total_videos_duration": "1h 2m",
+        "total_videos_duration_seconds": 3749,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 8,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/384873386",
+            "title": "Personal branding for students: Set yourself for career success"
+          },
+          "teacher": {
+            "href": "/users/1967188",
+            "title": "Dr. Darren Coleman - Brand educator & enthusiast "
+          },
+          "units": {
+            "href": "/classes/384873386/units",
+            "title": "Units for Class: 384873386"
+          },
+          "sessions": {
+            "href": "/classes/384873386/sessions",
+            "title": "Sessions for Class: 384873386"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/384873386/students",
+            "title": "Students for Class: 384873386"
+          },
+          "projects": {
+            "href": "/classes/384873386/projects",
+            "title": "Projects for Class: 384873386"
+          },
+          "reviews": {
+            "href": "/classes/384873386/reviews",
+            "title": "Reviews for Class: 384873386"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1970141,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTk3MDE0MSJ9",
+            "username": 1967188,
+            "first_name": "Dr. Darren",
+            "last_name": "Coleman",
+            "full_name": "Dr. Darren Coleman",
+            "vanity_username": "drdarrencoleman",
+            "headline": "Brand educator & enthusiast ",
+            "pic": "https://static.skillshare.com/uploads/users/1967188/user-image-medium.jpg?767844511",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1967188/user-image-small.jpg?1605979447",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1967188/user-image-large.jpg?1891020825",
+            "_links": {
+              "self": {
+                "href": "/users/1967188",
+                "title": "Dr. Darren Coleman - Brand educator & enthusiast "
+              },
+              "my_classes": {
+                "href": "/users/1967188/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1967188/completions",
+                "title": "Completions for User: 1967188"
+              },
+              "discussions": {
+                "href": "/users/1967188/discussions",
+                "title": "Discussions for User: 1967188"
+              },
+              "followers": {
+                "href": "/users/1967188/followers",
+                "title": "Followers for User: 1967188"
+              },
+              "following": {
+                "href": "/users/1967188/following",
+                "title": "Following for User: 1967188"
+              },
+              "notifications": {
+                "href": "/users/1967188/notifications",
+                "title": "Notifications for User: 1967188"
+              },
+              "projects": {
+                "href": "/users/1967188/projects",
+                "title": "Projects for User: 1967188"
+              },
+              "rosters": {
+                "href": "/users/1967188/rosters",
+                "title": "Rosters for User: 1967188"
+              },
+              "userTags": {
+                "href": "/users/1967188/userTags",
+                "title": "UserTags for User: 1967188"
+              },
+              "votes": {
+                "href": "/users/1967188/votes",
+                "title": "Votes for User: 1967188"
+              },
+              "wishlist": {
+                "href": "/users/1967188/wishlist",
+                "title": "Wishlist for User: 1967188"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 613172,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYxMzE3MiJ9",
+        "sku": 307068606,
+        "title": "Japanese Restaurant Phrases - entering a restaurant",
+        "project_title": "In this class project, you will be asked to write the phrases you need to use when entering a Japanese restaurant.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/04505c38642ac7aa07c78bb7897f48ac/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/04505c38642ac7aa07c78bb7897f48ac/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/04505c38642ac7aa07c78bb7897f48ac/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Japanese-Restaurant-Phrases-entering-a-restaurant/307068606",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "24m",
+        "total_videos_duration_seconds": 1413,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 35,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/307068606",
+            "title": "Japanese Restaurant Phrases - entering a restaurant"
+          },
+          "teacher": {
+            "href": "/users/5361541",
+            "title": "Mikiko Miki's Japanese - Japanese/English Teacher and Translator"
+          },
+          "units": {
+            "href": "/classes/307068606/units",
+            "title": "Units for Class: 307068606"
+          },
+          "sessions": {
+            "href": "/classes/307068606/sessions",
+            "title": "Sessions for Class: 307068606"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/307068606/students",
+            "title": "Students for Class: 307068606"
+          },
+          "projects": {
+            "href": "/classes/307068606/projects",
+            "title": "Projects for Class: 307068606"
+          },
+          "reviews": {
+            "href": "/classes/307068606/reviews",
+            "title": "Reviews for Class: 307068606"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8193994,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODE5Mzk5NCJ9",
+            "username": 5361541,
+            "first_name": "Mikiko",
+            "last_name": "Miki's Japanese",
+            "full_name": "Mikiko Miki's Japanese",
+            "vanity_username": null,
+            "headline": "Japanese/English Teacher and Translator",
+            "pic": "https://static.skillshare.com/uploads/users/5361541/user-image-medium.jpg?1284134397",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5361541/user-image-small.jpg?703311683",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5361541/user-image-large.jpg?1217065759",
+            "_links": {
+              "self": {
+                "href": "/users/5361541",
+                "title": "Mikiko Miki's Japanese - Japanese/English Teacher and Translator"
+              },
+              "my_classes": {
+                "href": "/users/5361541/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5361541/completions",
+                "title": "Completions for User: 5361541"
+              },
+              "discussions": {
+                "href": "/users/5361541/discussions",
+                "title": "Discussions for User: 5361541"
+              },
+              "followers": {
+                "href": "/users/5361541/followers",
+                "title": "Followers for User: 5361541"
+              },
+              "following": {
+                "href": "/users/5361541/following",
+                "title": "Following for User: 5361541"
+              },
+              "notifications": {
+                "href": "/users/5361541/notifications",
+                "title": "Notifications for User: 5361541"
+              },
+              "projects": {
+                "href": "/users/5361541/projects",
+                "title": "Projects for User: 5361541"
+              },
+              "rosters": {
+                "href": "/users/5361541/rosters",
+                "title": "Rosters for User: 5361541"
+              },
+              "userTags": {
+                "href": "/users/5361541/userTags",
+                "title": "UserTags for User: 5361541"
+              },
+              "votes": {
+                "href": "/users/5361541/votes",
+                "title": "Votes for User: 5361541"
+              },
+              "wishlist": {
+                "href": "/users/5361541/wishlist",
+                "title": "Wishlist for User: 5361541"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

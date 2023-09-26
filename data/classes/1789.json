@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1789",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1788",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1790",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2767",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 602533,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMjUzMyJ9",
+        "sku": 995032631,
+        "title": "Fotografía para principiantes: Aprende a crear tu propio moodboard",
+        "project_title": "¡Anímate a mostrar tu moodboard! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/296ad214801269441d01355886fa7278/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/296ad214801269441d01355886fa7278/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/296ad214801269441d01355886fa7278/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Fotograf%C3%ADa-para-principiantes-Aprende-a-crear-tu-propio-moodboard/995032631",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "21m",
+        "total_videos_duration_seconds": 1245,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 113,
+        "num_projects": 2,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "9 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/995032631",
+            "title": "Fotografía para principiantes: Aprende a crear tu propio moodboard"
+          },
+          "teacher": {
+            "href": "/users/213094379",
+            "title": "Regina Bucio - Fotógrafa y directora creativa"
+          },
+          "units": {
+            "href": "/classes/995032631/units",
+            "title": "Units for Class: 995032631"
+          },
+          "sessions": {
+            "href": "/classes/995032631/sessions",
+            "title": "Sessions for Class: 995032631"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/995032631/students",
+            "title": "Students for Class: 995032631"
+          },
+          "projects": {
+            "href": "/classes/995032631/projects",
+            "title": "Projects for Class: 995032631"
+          },
+          "reviews": {
+            "href": "/classes/995032631/reviews",
+            "title": "Reviews for Class: 995032631"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27196178,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjcxOTYxNzgifQ==",
+            "username": 213094379,
+            "first_name": "Regina",
+            "last_name": "Bucio",
+            "full_name": "Regina Bucio",
+            "vanity_username": "buciore",
+            "headline": "Fotógrafa y directora creativa",
+            "pic": "https://static.skillshare.com/uploads/users/213094379/user-image-medium.jpg?1864095607",
+            "pic_sm": "https://static.skillshare.com/uploads/users/213094379/user-image-small.jpg?1923367863",
+            "pic_lg": "https://static.skillshare.com/uploads/users/213094379/user-image-large.jpg?1666840093",
+            "_links": {
+              "self": {
+                "href": "/users/213094379",
+                "title": "Regina Bucio - Fotógrafa y directora creativa"
+              },
+              "my_classes": {
+                "href": "/users/213094379/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/213094379/completions",
+                "title": "Completions for User: 213094379"
+              },
+              "discussions": {
+                "href": "/users/213094379/discussions",
+                "title": "Discussions for User: 213094379"
+              },
+              "followers": {
+                "href": "/users/213094379/followers",
+                "title": "Followers for User: 213094379"
+              },
+              "following": {
+                "href": "/users/213094379/following",
+                "title": "Following for User: 213094379"
+              },
+              "notifications": {
+                "href": "/users/213094379/notifications",
+                "title": "Notifications for User: 213094379"
+              },
+              "projects": {
+                "href": "/users/213094379/projects",
+                "title": "Projects for User: 213094379"
+              },
+              "rosters": {
+                "href": "/users/213094379/rosters",
+                "title": "Rosters for User: 213094379"
+              },
+              "userTags": {
+                "href": "/users/213094379/userTags",
+                "title": "UserTags for User: 213094379"
+              },
+              "votes": {
+                "href": "/users/213094379/votes",
+                "title": "Votes for User: 213094379"
+              },
+              "wishlist": {
+                "href": "/users/213094379/wishlist",
+                "title": "Wishlist for User: 213094379"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 602534,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMjUzNCJ9",
+        "sku": 1039653543,
+        "title": "Writing 101: How to Write an Engaging Video Script",
+        "project_title": "The class project is to finish writing your own script using the 3 Draft Method.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a66e9c0ac480c2e1af68b240bf10f986/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a66e9c0ac480c2e1af68b240bf10f986/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a66e9c0ac480c2e1af68b240bf10f986/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Writing-101-How-to-Write-an-Engaging-Video-Script/1039653543",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "24m",
+        "total_videos_duration_seconds": 1463,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 359,
+        "num_projects": 3,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1039653543",
+            "title": "Writing 101: How to Write an Engaging Video Script"
+          },
+          "teacher": {
+            "href": "/users/309734817",
+            "title": "Scott Luu - Video Creator"
+          },
+          "units": {
+            "href": "/classes/1039653543/units",
+            "title": "Units for Class: 1039653543"
+          },
+          "sessions": {
+            "href": "/classes/1039653543/sessions",
+            "title": "Sessions for Class: 1039653543"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1039653543/students",
+            "title": "Students for Class: 1039653543"
+          },
+          "projects": {
+            "href": "/classes/1039653543/projects",
+            "title": "Projects for Class: 1039653543"
+          },
+          "reviews": {
+            "href": "/classes/1039653543/reviews",
+            "title": "Reviews for Class: 1039653543"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 20205245,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjAyMDUyNDUifQ==",
+            "username": 309734817,
+            "first_name": "Scott",
+            "last_name": "Luu",
+            "full_name": "Scott Luu",
+            "vanity_username": "dreamlet",
+            "headline": "Video Creator",
+            "pic": "https://static.skillshare.com/uploads/users/309734817/user-image-medium.jpg?579509966",
+            "pic_sm": "https://static.skillshare.com/uploads/users/309734817/user-image-small.jpg?601899379",
+            "pic_lg": "https://static.skillshare.com/uploads/users/309734817/user-image-large.jpg?1698198284",
+            "_links": {
+              "self": {
+                "href": "/users/309734817",
+                "title": "Scott Luu - Video Creator"
+              },
+              "my_classes": {
+                "href": "/users/309734817/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/309734817/completions",
+                "title": "Completions for User: 309734817"
+              },
+              "discussions": {
+                "href": "/users/309734817/discussions",
+                "title": "Discussions for User: 309734817"
+              },
+              "followers": {
+                "href": "/users/309734817/followers",
+                "title": "Followers for User: 309734817"
+              },
+              "following": {
+                "href": "/users/309734817/following",
+                "title": "Following for User: 309734817"
+              },
+              "notifications": {
+                "href": "/users/309734817/notifications",
+                "title": "Notifications for User: 309734817"
+              },
+              "projects": {
+                "href": "/users/309734817/projects",
+                "title": "Projects for User: 309734817"
+              },
+              "rosters": {
+                "href": "/users/309734817/rosters",
+                "title": "Rosters for User: 309734817"
+              },
+              "userTags": {
+                "href": "/users/309734817/userTags",
+                "title": "UserTags for User: 309734817"
+              },
+              "votes": {
+                "href": "/users/309734817/votes",
+                "title": "Votes for User: 309734817"
+              },
+              "wishlist": {
+                "href": "/users/309734817/wishlist",
+                "title": "Wishlist for User: 309734817"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 602535,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMjUzNSJ9",
+        "sku": 1757846091,
+        "title": "Fotografía con tu teléfono: toma retratos profesionales con tu celular",
+        "project_title": "¡Comparte tus retratos! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/cf840c0b92d5a22805e4ac21a08346ec/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/cf840c0b92d5a22805e4ac21a08346ec/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/cf840c0b92d5a22805e4ac21a08346ec/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Fotograf%C3%ADa-con-tu-tel%C3%A9fono-toma-retratos-profesionales-con-tu-celular/1757846091",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "23m",
+        "total_videos_duration_seconds": 1388,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 256,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "9 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1757846091",
+            "title": "Fotografía con tu teléfono: toma retratos profesionales con tu celular"
+          },
+          "teacher": {
+            "href": "/users/213094379",
+            "title": "Regina Bucio - Fotógrafa y directora creativa"
+          },
+          "units": {
+            "href": "/classes/1757846091/units",
+            "title": "Units for Class: 1757846091"
+          },
+          "sessions": {
+            "href": "/classes/1757846091/sessions",
+            "title": "Sessions for Class: 1757846091"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1757846091/students",
+            "title": "Students for Class: 1757846091"
+          },
+          "projects": {
+            "href": "/classes/1757846091/projects",
+            "title": "Projects for Class: 1757846091"
+          },
+          "reviews": {
+            "href": "/classes/1757846091/reviews",
+            "title": "Reviews for Class: 1757846091"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27196178,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjcxOTYxNzgifQ==",
+            "username": 213094379,
+            "first_name": "Regina",
+            "last_name": "Bucio",
+            "full_name": "Regina Bucio",
+            "vanity_username": "buciore",
+            "headline": "Fotógrafa y directora creativa",
+            "pic": "https://static.skillshare.com/uploads/users/213094379/user-image-medium.jpg?1864095607",
+            "pic_sm": "https://static.skillshare.com/uploads/users/213094379/user-image-small.jpg?1923367863",
+            "pic_lg": "https://static.skillshare.com/uploads/users/213094379/user-image-large.jpg?1666840093",
+            "_links": {
+              "self": {
+                "href": "/users/213094379",
+                "title": "Regina Bucio - Fotógrafa y directora creativa"
+              },
+              "my_classes": {
+                "href": "/users/213094379/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/213094379/completions",
+                "title": "Completions for User: 213094379"
+              },
+              "discussions": {
+                "href": "/users/213094379/discussions",
+                "title": "Discussions for User: 213094379"
+              },
+              "followers": {
+                "href": "/users/213094379/followers",
+                "title": "Followers for User: 213094379"
+              },
+              "following": {
+                "href": "/users/213094379/following",
+                "title": "Following for User: 213094379"
+              },
+              "notifications": {
+                "href": "/users/213094379/notifications",
+                "title": "Notifications for User: 213094379"
+              },
+              "projects": {
+                "href": "/users/213094379/projects",
+                "title": "Projects for User: 213094379"
+              },
+              "rosters": {
+                "href": "/users/213094379/rosters",
+                "title": "Rosters for User: 213094379"
+              },
+              "userTags": {
+                "href": "/users/213094379/userTags",
+                "title": "UserTags for User: 213094379"
+              },
+              "votes": {
+                "href": "/users/213094379/votes",
+                "title": "Votes for User: 213094379"
+              },
+              "wishlist": {
+                "href": "/users/213094379/wishlist",
+                "title": "Wishlist for User: 213094379"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 602536,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMjUzNiJ9",
+        "sku": 2066432457,
+        "title": "Experimenta con la fotografía: Crea contenido para redes sociales",
+        "project_title": "¡Queremos ver tu proceso creativo!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d66212d14de4aadffb71816c54e4cabb/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d66212d14de4aadffb71816c54e4cabb/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d66212d14de4aadffb71816c54e4cabb/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Experimenta-con-la-fotograf%C3%ADa-Crea-contenido-para-redes-sociales/2066432457",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "21m",
+        "total_videos_duration_seconds": 1273,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 119,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "9 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2066432457",
+            "title": "Experimenta con la fotografía: Crea contenido para redes sociales"
+          },
+          "teacher": {
+            "href": "/users/213094379",
+            "title": "Regina Bucio - Fotógrafa y directora creativa"
+          },
+          "units": {
+            "href": "/classes/2066432457/units",
+            "title": "Units for Class: 2066432457"
+          },
+          "sessions": {
+            "href": "/classes/2066432457/sessions",
+            "title": "Sessions for Class: 2066432457"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2066432457/students",
+            "title": "Students for Class: 2066432457"
+          },
+          "projects": {
+            "href": "/classes/2066432457/projects",
+            "title": "Projects for Class: 2066432457"
+          },
+          "reviews": {
+            "href": "/classes/2066432457/reviews",
+            "title": "Reviews for Class: 2066432457"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27196178,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjcxOTYxNzgifQ==",
+            "username": 213094379,
+            "first_name": "Regina",
+            "last_name": "Bucio",
+            "full_name": "Regina Bucio",
+            "vanity_username": "buciore",
+            "headline": "Fotógrafa y directora creativa",
+            "pic": "https://static.skillshare.com/uploads/users/213094379/user-image-medium.jpg?1864095607",
+            "pic_sm": "https://static.skillshare.com/uploads/users/213094379/user-image-small.jpg?1923367863",
+            "pic_lg": "https://static.skillshare.com/uploads/users/213094379/user-image-large.jpg?1666840093",
+            "_links": {
+              "self": {
+                "href": "/users/213094379",
+                "title": "Regina Bucio - Fotógrafa y directora creativa"
+              },
+              "my_classes": {
+                "href": "/users/213094379/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/213094379/completions",
+                "title": "Completions for User: 213094379"
+              },
+              "discussions": {
+                "href": "/users/213094379/discussions",
+                "title": "Discussions for User: 213094379"
+              },
+              "followers": {
+                "href": "/users/213094379/followers",
+                "title": "Followers for User: 213094379"
+              },
+              "following": {
+                "href": "/users/213094379/following",
+                "title": "Following for User: 213094379"
+              },
+              "notifications": {
+                "href": "/users/213094379/notifications",
+                "title": "Notifications for User: 213094379"
+              },
+              "projects": {
+                "href": "/users/213094379/projects",
+                "title": "Projects for User: 213094379"
+              },
+              "rosters": {
+                "href": "/users/213094379/rosters",
+                "title": "Rosters for User: 213094379"
+              },
+              "userTags": {
+                "href": "/users/213094379/userTags",
+                "title": "UserTags for User: 213094379"
+              },
+              "votes": {
+                "href": "/users/213094379/votes",
+                "title": "Votes for User: 213094379"
+              },
+              "wishlist": {
+                "href": "/users/213094379/wishlist",
+                "title": "Wishlist for User: 213094379"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 602538,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMjUzOCJ9",
+        "sku": 1724538276,
+        "title": "Sew Your Own Clothes: Use Sewing Patterns Like a Pro",
+        "project_title": "Share your pattern making process!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/bc1556b30f0a7b3e836db9b4c52252db/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/bc1556b30f0a7b3e836db9b4c52252db/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/bc1556b30f0a7b3e836db9b4c52252db/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Sew-Your-Own-Clothes-Use-Sewing-Patterns-Like-a-Pro/1724538276",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "1h 5m",
+        "total_videos_duration_seconds": 3903,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 875,
+        "num_projects": 6,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1724538276",
+            "title": "Sew Your Own Clothes: Use Sewing Patterns Like a Pro"
+          },
+          "teacher": {
+            "href": "/users/583438131",
+            "title": "Robyn Burgess - Sewist & Designer"
+          },
+          "units": {
+            "href": "/classes/1724538276/units",
+            "title": "Units for Class: 1724538276"
+          },
+          "sessions": {
+            "href": "/classes/1724538276/sessions",
+            "title": "Sessions for Class: 1724538276"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1724538276/students",
+            "title": "Students for Class: 1724538276"
+          },
+          "projects": {
+            "href": "/classes/1724538276/projects",
+            "title": "Projects for Class: 1724538276"
+          },
+          "reviews": {
+            "href": "/classes/1724538276/reviews",
+            "title": "Reviews for Class: 1724538276"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 28122565,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjgxMjI1NjUifQ==",
+            "username": 583438131,
+            "first_name": "Robyn",
+            "last_name": "Burgess",
+            "full_name": "Robyn Burgess",
+            "vanity_username": null,
+            "headline": "Sewist & Designer",
+            "pic": "https://static.skillshare.com/uploads/users/583438131/user-image-medium.jpg?40973526",
+            "pic_sm": "https://static.skillshare.com/uploads/users/583438131/user-image-small.jpg?1158444063",
+            "pic_lg": "https://static.skillshare.com/uploads/users/583438131/user-image-large.jpg?520194638",
+            "_links": {
+              "self": {
+                "href": "/users/583438131",
+                "title": "Robyn Burgess - Sewist & Designer"
+              },
+              "my_classes": {
+                "href": "/users/583438131/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/583438131/completions",
+                "title": "Completions for User: 583438131"
+              },
+              "discussions": {
+                "href": "/users/583438131/discussions",
+                "title": "Discussions for User: 583438131"
+              },
+              "followers": {
+                "href": "/users/583438131/followers",
+                "title": "Followers for User: 583438131"
+              },
+              "following": {
+                "href": "/users/583438131/following",
+                "title": "Following for User: 583438131"
+              },
+              "notifications": {
+                "href": "/users/583438131/notifications",
+                "title": "Notifications for User: 583438131"
+              },
+              "projects": {
+                "href": "/users/583438131/projects",
+                "title": "Projects for User: 583438131"
+              },
+              "rosters": {
+                "href": "/users/583438131/rosters",
+                "title": "Rosters for User: 583438131"
+              },
+              "userTags": {
+                "href": "/users/583438131/userTags",
+                "title": "UserTags for User: 583438131"
+              },
+              "votes": {
+                "href": "/users/583438131/votes",
+                "title": "Votes for User: 583438131"
+              },
+              "wishlist": {
+                "href": "/users/583438131/wishlist",
+                "title": "Wishlist for User: 583438131"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 602539,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMjUzOSJ9",
+        "sku": 1313180187,
+        "title": "DIY Clothing Design: Design Clothes Unique to Your Style and Silhouette",
+        "project_title": "Upload your inspiration or your final sketch!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/60c3e96f1eaaf1ea68c7dd3d36deceb7/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/60c3e96f1eaaf1ea68c7dd3d36deceb7/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/60c3e96f1eaaf1ea68c7dd3d36deceb7/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/DIY-Clothing-Design-Design-Clothes-Unique-to-Your-Style-and-Silhouette/1313180187",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "41m",
+        "total_videos_duration_seconds": 2466,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 462,
+        "num_projects": 4,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1313180187",
+            "title": "DIY Clothing Design: Design Clothes Unique to Your Style and Silhouette"
+          },
+          "teacher": {
+            "href": "/users/583438131",
+            "title": "Robyn Burgess - Sewist & Designer"
+          },
+          "units": {
+            "href": "/classes/1313180187/units",
+            "title": "Units for Class: 1313180187"
+          },
+          "sessions": {
+            "href": "/classes/1313180187/sessions",
+            "title": "Sessions for Class: 1313180187"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1313180187/students",
+            "title": "Students for Class: 1313180187"
+          },
+          "projects": {
+            "href": "/classes/1313180187/projects",
+            "title": "Projects for Class: 1313180187"
+          },
+          "reviews": {
+            "href": "/classes/1313180187/reviews",
+            "title": "Reviews for Class: 1313180187"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 28122565,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjgxMjI1NjUifQ==",
+            "username": 583438131,
+            "first_name": "Robyn",
+            "last_name": "Burgess",
+            "full_name": "Robyn Burgess",
+            "vanity_username": null,
+            "headline": "Sewist & Designer",
+            "pic": "https://static.skillshare.com/uploads/users/583438131/user-image-medium.jpg?40973526",
+            "pic_sm": "https://static.skillshare.com/uploads/users/583438131/user-image-small.jpg?1158444063",
+            "pic_lg": "https://static.skillshare.com/uploads/users/583438131/user-image-large.jpg?520194638",
+            "_links": {
+              "self": {
+                "href": "/users/583438131",
+                "title": "Robyn Burgess - Sewist & Designer"
+              },
+              "my_classes": {
+                "href": "/users/583438131/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/583438131/completions",
+                "title": "Completions for User: 583438131"
+              },
+              "discussions": {
+                "href": "/users/583438131/discussions",
+                "title": "Discussions for User: 583438131"
+              },
+              "followers": {
+                "href": "/users/583438131/followers",
+                "title": "Followers for User: 583438131"
+              },
+              "following": {
+                "href": "/users/583438131/following",
+                "title": "Following for User: 583438131"
+              },
+              "notifications": {
+                "href": "/users/583438131/notifications",
+                "title": "Notifications for User: 583438131"
+              },
+              "projects": {
+                "href": "/users/583438131/projects",
+                "title": "Projects for User: 583438131"
+              },
+              "rosters": {
+                "href": "/users/583438131/rosters",
+                "title": "Rosters for User: 583438131"
+              },
+              "userTags": {
+                "href": "/users/583438131/userTags",
+                "title": "UserTags for User: 583438131"
+              },
+              "votes": {
+                "href": "/users/583438131/votes",
+                "title": "Votes for User: 583438131"
+              },
+              "wishlist": {
+                "href": "/users/583438131/wishlist",
+                "title": "Wishlist for User: 583438131"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 602540,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMjU0MCJ9",
+        "sku": 876962491,
+        "title": "Sewing with Prints: Boost Your Sewing Skills with a Plaid Skirt",
+        "project_title": "Share your patterned work of art!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e45900deffaa1f74fde1bdcf9d2128aa/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e45900deffaa1f74fde1bdcf9d2128aa/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e45900deffaa1f74fde1bdcf9d2128aa/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Sewing-with-Prints-Boost-Your-Sewing-Skills-with-a-Plaid-Skirt/876962491",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "55m",
+        "total_videos_duration_seconds": 3328,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 107,
+        "num_projects": 2,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/876962491",
+            "title": "Sewing with Prints: Boost Your Sewing Skills with a Plaid Skirt"
+          },
+          "teacher": {
+            "href": "/users/583438131",
+            "title": "Robyn Burgess - Sewist & Designer"
+          },
+          "units": {
+            "href": "/classes/876962491/units",
+            "title": "Units for Class: 876962491"
+          },
+          "sessions": {
+            "href": "/classes/876962491/sessions",
+            "title": "Sessions for Class: 876962491"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/876962491/students",
+            "title": "Students for Class: 876962491"
+          },
+          "projects": {
+            "href": "/classes/876962491/projects",
+            "title": "Projects for Class: 876962491"
+          },
+          "reviews": {
+            "href": "/classes/876962491/reviews",
+            "title": "Reviews for Class: 876962491"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 28122565,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjgxMjI1NjUifQ==",
+            "username": 583438131,
+            "first_name": "Robyn",
+            "last_name": "Burgess",
+            "full_name": "Robyn Burgess",
+            "vanity_username": null,
+            "headline": "Sewist & Designer",
+            "pic": "https://static.skillshare.com/uploads/users/583438131/user-image-medium.jpg?40973526",
+            "pic_sm": "https://static.skillshare.com/uploads/users/583438131/user-image-small.jpg?1158444063",
+            "pic_lg": "https://static.skillshare.com/uploads/users/583438131/user-image-large.jpg?520194638",
+            "_links": {
+              "self": {
+                "href": "/users/583438131",
+                "title": "Robyn Burgess - Sewist & Designer"
+              },
+              "my_classes": {
+                "href": "/users/583438131/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/583438131/completions",
+                "title": "Completions for User: 583438131"
+              },
+              "discussions": {
+                "href": "/users/583438131/discussions",
+                "title": "Discussions for User: 583438131"
+              },
+              "followers": {
+                "href": "/users/583438131/followers",
+                "title": "Followers for User: 583438131"
+              },
+              "following": {
+                "href": "/users/583438131/following",
+                "title": "Following for User: 583438131"
+              },
+              "notifications": {
+                "href": "/users/583438131/notifications",
+                "title": "Notifications for User: 583438131"
+              },
+              "projects": {
+                "href": "/users/583438131/projects",
+                "title": "Projects for User: 583438131"
+              },
+              "rosters": {
+                "href": "/users/583438131/rosters",
+                "title": "Rosters for User: 583438131"
+              },
+              "userTags": {
+                "href": "/users/583438131/userTags",
+                "title": "UserTags for User: 583438131"
+              },
+              "votes": {
+                "href": "/users/583438131/votes",
+                "title": "Votes for User: 583438131"
+              },
+              "wishlist": {
+                "href": "/users/583438131/wishlist",
+                "title": "Wishlist for User: 583438131"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 602541,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMjU0MSJ9",
+        "sku": 2107982455,
+        "title": "Custom Fit Clothing: Sewing a Made-to-Measure Muslin",
+        "project_title": "Share how you crafted your pattern or muslin!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6318571138112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6318571138112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6318571138112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Custom-Fit-Clothing-Sewing-a-Made-to-Measure-Muslin/2107982455",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "59m",
+        "total_videos_duration_seconds": 3525,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 428,
+        "num_projects": 5,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "8 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2107982455",
+            "title": "Custom Fit Clothing: Sewing a Made-to-Measure Muslin"
+          },
+          "teacher": {
+            "href": "/users/583438131",
+            "title": "Robyn Burgess - Sewist & Designer"
+          },
+          "units": {
+            "href": "/classes/2107982455/units",
+            "title": "Units for Class: 2107982455"
+          },
+          "sessions": {
+            "href": "/classes/2107982455/sessions",
+            "title": "Sessions for Class: 2107982455"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/2107982455/students",
+            "title": "Students for Class: 2107982455"
+          },
+          "projects": {
+            "href": "/classes/2107982455/projects",
+            "title": "Projects for Class: 2107982455"
+          },
+          "reviews": {
+            "href": "/classes/2107982455/reviews",
+            "title": "Reviews for Class: 2107982455"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 28122565,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjgxMjI1NjUifQ==",
+            "username": 583438131,
+            "first_name": "Robyn",
+            "last_name": "Burgess",
+            "full_name": "Robyn Burgess",
+            "vanity_username": null,
+            "headline": "Sewist & Designer",
+            "pic": "https://static.skillshare.com/uploads/users/583438131/user-image-medium.jpg?40973526",
+            "pic_sm": "https://static.skillshare.com/uploads/users/583438131/user-image-small.jpg?1158444063",
+            "pic_lg": "https://static.skillshare.com/uploads/users/583438131/user-image-large.jpg?520194638",
+            "_links": {
+              "self": {
+                "href": "/users/583438131",
+                "title": "Robyn Burgess - Sewist & Designer"
+              },
+              "my_classes": {
+                "href": "/users/583438131/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/583438131/completions",
+                "title": "Completions for User: 583438131"
+              },
+              "discussions": {
+                "href": "/users/583438131/discussions",
+                "title": "Discussions for User: 583438131"
+              },
+              "followers": {
+                "href": "/users/583438131/followers",
+                "title": "Followers for User: 583438131"
+              },
+              "following": {
+                "href": "/users/583438131/following",
+                "title": "Following for User: 583438131"
+              },
+              "notifications": {
+                "href": "/users/583438131/notifications",
+                "title": "Notifications for User: 583438131"
+              },
+              "projects": {
+                "href": "/users/583438131/projects",
+                "title": "Projects for User: 583438131"
+              },
+              "rosters": {
+                "href": "/users/583438131/rosters",
+                "title": "Rosters for User: 583438131"
+              },
+              "userTags": {
+                "href": "/users/583438131/userTags",
+                "title": "UserTags for User: 583438131"
+              },
+              "votes": {
+                "href": "/users/583438131/votes",
+                "title": "Votes for User: 583438131"
+              },
+              "wishlist": {
+                "href": "/users/583438131/wishlist",
+                "title": "Wishlist for User: 583438131"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 602542,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMjU0MiJ9",
+        "sku": 368802890,
+        "title": "The Animation Pitch Bible: Create and Share an Animated World",
+        "project_title": "Share a photo of your pitch bible!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/49066d5218f6d758c4e42773fcf96b5e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/49066d5218f6d758c4e42773fcf96b5e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/49066d5218f6d758c4e42773fcf96b5e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-Animation-Pitch-Bible-Create-and-Share-an-Animated-World/368802890",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "40m",
+        "total_videos_duration_seconds": 2426,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1092,
+        "num_projects": 8,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/368802890",
+            "title": "The Animation Pitch Bible: Create and Share an Animated World"
+          },
+          "teacher": {
+            "href": "/users/654763780",
+            "title": "Ian Jones-Quartey - Animator, Writer, Producer"
+          },
+          "units": {
+            "href": "/classes/368802890/units",
+            "title": "Units for Class: 368802890"
+          },
+          "sessions": {
+            "href": "/classes/368802890/sessions",
+            "title": "Sessions for Class: 368802890"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/368802890/students",
+            "title": "Students for Class: 368802890"
+          },
+          "projects": {
+            "href": "/classes/368802890/projects",
+            "title": "Projects for Class: 368802890"
+          },
+          "reviews": {
+            "href": "/classes/368802890/reviews",
+            "title": "Reviews for Class: 368802890"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 28320047,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjgzMjAwNDcifQ==",
+            "username": 654763780,
+            "first_name": "Ian",
+            "last_name": "Jones-Quartey",
+            "full_name": "Ian Jones-Quartey",
+            "vanity_username": null,
+            "headline": "Animator, Writer, Producer",
+            "pic": "https://static.skillshare.com/uploads/users/654763780/user-image-medium.jpg?1253491810",
+            "pic_sm": "https://static.skillshare.com/uploads/users/654763780/user-image-small.jpg?2027786522",
+            "pic_lg": "https://static.skillshare.com/uploads/users/654763780/user-image-large.jpg?1118299229",
+            "_links": {
+              "self": {
+                "href": "/users/654763780",
+                "title": "Ian Jones-Quartey - Animator, Writer, Producer"
+              },
+              "my_classes": {
+                "href": "/users/654763780/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/654763780/completions",
+                "title": "Completions for User: 654763780"
+              },
+              "discussions": {
+                "href": "/users/654763780/discussions",
+                "title": "Discussions for User: 654763780"
+              },
+              "followers": {
+                "href": "/users/654763780/followers",
+                "title": "Followers for User: 654763780"
+              },
+              "following": {
+                "href": "/users/654763780/following",
+                "title": "Following for User: 654763780"
+              },
+              "notifications": {
+                "href": "/users/654763780/notifications",
+                "title": "Notifications for User: 654763780"
+              },
+              "projects": {
+                "href": "/users/654763780/projects",
+                "title": "Projects for User: 654763780"
+              },
+              "rosters": {
+                "href": "/users/654763780/rosters",
+                "title": "Rosters for User: 654763780"
+              },
+              "userTags": {
+                "href": "/users/654763780/userTags",
+                "title": "UserTags for User: 654763780"
+              },
+              "votes": {
+                "href": "/users/654763780/votes",
+                "title": "Votes for User: 654763780"
+              },
+              "wishlist": {
+                "href": "/users/654763780/wishlist",
+                "title": "Wishlist for User: 654763780"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 602545,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYwMjU0NSJ9",
+        "sku": 855847904,
+        "title": "Develop Your Singing Voice: Find and Foster Your Vocal Power",
+        "project_title": "Share your lip trills!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/429abd14bb03ac8cdc61e76b1b38016b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/429abd14bb03ac8cdc61e76b1b38016b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/429abd14bb03ac8cdc61e76b1b38016b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Develop-Your-Singing-Voice-Find-and-Foster-Your-Vocal-Power/855847904",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "21m",
+        "total_videos_duration_seconds": 1275,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 3060,
+        "num_projects": 70,
+        "num_discussions": 5,
+        "is_staff_pick": false,
+        "is_skillshare_produced": true,
+        "relative_publish_time": "7 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/855847904",
+            "title": "Develop Your Singing Voice: Find and Foster Your Vocal Power"
+          },
+          "teacher": {
+            "href": "/users/324580992",
+            "title": "Denise Carite and Neka Hamilton - Songwriters, Vocalists"
+          },
+          "units": {
+            "href": "/classes/855847904/units",
+            "title": "Units for Class: 855847904"
+          },
+          "sessions": {
+            "href": "/classes/855847904/sessions",
+            "title": "Sessions for Class: 855847904"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/855847904/students",
+            "title": "Students for Class: 855847904"
+          },
+          "projects": {
+            "href": "/classes/855847904/projects",
+            "title": "Projects for Class: 855847904"
+          },
+          "reviews": {
+            "href": "/classes/855847904/reviews",
+            "title": "Reviews for Class: 855847904"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27369027,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjczNjkwMjcifQ==",
+            "username": 324580992,
+            "first_name": "Denise Carite and",
+            "last_name": "Neka Hamilton",
+            "full_name": "Denise Carite and Neka Hamilton",
+            "vanity_username": null,
+            "headline": "Songwriters, Vocalists",
+            "pic": "https://static.skillshare.com/uploads/users/324580992/user-image-medium.jpg?687447583",
+            "pic_sm": "https://static.skillshare.com/uploads/users/324580992/user-image-small.jpg?925253690",
+            "pic_lg": "https://static.skillshare.com/uploads/users/324580992/user-image-large.jpg?1661824459",
+            "_links": {
+              "self": {
+                "href": "/users/324580992",
+                "title": "Denise Carite and Neka Hamilton - Songwriters, Vocalists"
+              },
+              "my_classes": {
+                "href": "/users/324580992/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/324580992/completions",
+                "title": "Completions for User: 324580992"
+              },
+              "discussions": {
+                "href": "/users/324580992/discussions",
+                "title": "Discussions for User: 324580992"
+              },
+              "followers": {
+                "href": "/users/324580992/followers",
+                "title": "Followers for User: 324580992"
+              },
+              "following": {
+                "href": "/users/324580992/following",
+                "title": "Following for User: 324580992"
+              },
+              "notifications": {
+                "href": "/users/324580992/notifications",
+                "title": "Notifications for User: 324580992"
+              },
+              "projects": {
+                "href": "/users/324580992/projects",
+                "title": "Projects for User: 324580992"
+              },
+              "rosters": {
+                "href": "/users/324580992/rosters",
+                "title": "Rosters for User: 324580992"
+              },
+              "userTags": {
+                "href": "/users/324580992/userTags",
+                "title": "UserTags for User: 324580992"
+              },
+              "votes": {
+                "href": "/users/324580992/votes",
+                "title": "Votes for User: 324580992"
+              },
+              "wishlist": {
+                "href": "/users/324580992/wishlist",
+                "title": "Wishlist for User: 324580992"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

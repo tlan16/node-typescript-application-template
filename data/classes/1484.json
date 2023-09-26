@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1484",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1483",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1485",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 578750,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODc1MCJ9",
+        "sku": 1743928696,
+        "title": "The Complete Revit Guide To BIM Schedules, Shop Drawings and Takeoff Estimation",
+        "project_title": "In this class project, students will add schedules and estimates for a Revit project.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c334acf67a1aabc12d17f164570024e4/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c334acf67a1aabc12d17f164570024e4/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c334acf67a1aabc12d17f164570024e4/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-Complete-Revit-Guide-To-BIM-Schedules-Shop-Drawings-and-Takeoff-Estimation/1743928696",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 44,
+        "total_videos_duration": "2h 5m",
+        "total_videos_duration_seconds": 7514,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 168,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 6, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1743928696",
+            "title": "The Complete Revit Guide To BIM Schedules, Shop Drawings and Takeoff Estimation"
+          },
+          "teacher": {
+            "href": "/users/8093084",
+            "title": "Brandon A Gibbs - Architect & Innovator"
+          },
+          "units": {
+            "href": "/classes/1743928696/units",
+            "title": "Units for Class: 1743928696"
+          },
+          "sessions": {
+            "href": "/classes/1743928696/sessions",
+            "title": "Sessions for Class: 1743928696"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1743928696/students",
+            "title": "Students for Class: 1743928696"
+          },
+          "projects": {
+            "href": "/classes/1743928696/projects",
+            "title": "Projects for Class: 1743928696"
+          },
+          "reviews": {
+            "href": "/classes/1743928696/reviews",
+            "title": "Reviews for Class: 1743928696"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2843907,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjg0MzkwNyJ9",
+            "username": 8093084,
+            "first_name": "Brandon A",
+            "last_name": "Gibbs",
+            "full_name": "Brandon A Gibbs",
+            "vanity_username": "brandonaaron",
+            "headline": "Architect & Innovator",
+            "pic": "https://static.skillshare.com/uploads/users/8093084/user-image-medium.jpg?1050114047",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8093084/user-image-small.jpg?2129466159",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8093084/user-image-large.jpg?1047572391",
+            "_links": {
+              "self": {
+                "href": "/users/8093084",
+                "title": "Brandon A Gibbs - Architect & Innovator"
+              },
+              "my_classes": {
+                "href": "/users/8093084/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8093084/completions",
+                "title": "Completions for User: 8093084"
+              },
+              "discussions": {
+                "href": "/users/8093084/discussions",
+                "title": "Discussions for User: 8093084"
+              },
+              "followers": {
+                "href": "/users/8093084/followers",
+                "title": "Followers for User: 8093084"
+              },
+              "following": {
+                "href": "/users/8093084/following",
+                "title": "Following for User: 8093084"
+              },
+              "notifications": {
+                "href": "/users/8093084/notifications",
+                "title": "Notifications for User: 8093084"
+              },
+              "projects": {
+                "href": "/users/8093084/projects",
+                "title": "Projects for User: 8093084"
+              },
+              "rosters": {
+                "href": "/users/8093084/rosters",
+                "title": "Rosters for User: 8093084"
+              },
+              "userTags": {
+                "href": "/users/8093084/userTags",
+                "title": "UserTags for User: 8093084"
+              },
+              "votes": {
+                "href": "/users/8093084/votes",
+                "title": "Votes for User: 8093084"
+              },
+              "wishlist": {
+                "href": "/users/8093084/wishlist",
+                "title": "Wishlist for User: 8093084"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578752,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODc1MiJ9",
+        "sku": 1880703736,
+        "title": "CLASS #02- Tender Documents",
+        "project_title": "By the end, and to make the best out of this class I recommend you to go through the Tender documents of your project, and try to extract and sorting the information that will support the approach of ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/8da257d06c2ee1a149e7142aa0c67ba3/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/8da257d06c2ee1a149e7142aa0c67ba3/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/8da257d06c2ee1a149e7142aa0c67ba3/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/CLASS-02-Tender-Documents/1880703736",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "43m",
+        "total_videos_duration_seconds": 2563,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 38,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1880703736",
+            "title": "CLASS #02- Tender Documents"
+          },
+          "teacher": {
+            "href": "/users/128318858",
+            "title": "Said Soliman - Cost Management & ERP Consultant"
+          },
+          "units": {
+            "href": "/classes/1880703736/units",
+            "title": "Units for Class: 1880703736"
+          },
+          "sessions": {
+            "href": "/classes/1880703736/sessions",
+            "title": "Sessions for Class: 1880703736"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1880703736/students",
+            "title": "Students for Class: 1880703736"
+          },
+          "projects": {
+            "href": "/classes/1880703736/projects",
+            "title": "Projects for Class: 1880703736"
+          },
+          "reviews": {
+            "href": "/classes/1880703736/reviews",
+            "title": "Reviews for Class: 1880703736"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 22384573,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjIzODQ1NzMifQ==",
+            "username": 128318858,
+            "first_name": "Said",
+            "last_name": "Soliman",
+            "full_name": "Said Soliman",
+            "vanity_username": null,
+            "headline": "Cost Management & ERP Consultant",
+            "pic": "https://static.skillshare.com/uploads/users/128318858/user-image-medium.jpg?894528811",
+            "pic_sm": "https://static.skillshare.com/uploads/users/128318858/user-image-small.jpg?1135734279",
+            "pic_lg": "https://static.skillshare.com/uploads/users/128318858/user-image-large.jpg?616354278",
+            "_links": {
+              "self": {
+                "href": "/users/128318858",
+                "title": "Said Soliman - Cost Management & ERP Consultant"
+              },
+              "my_classes": {
+                "href": "/users/128318858/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/128318858/completions",
+                "title": "Completions for User: 128318858"
+              },
+              "discussions": {
+                "href": "/users/128318858/discussions",
+                "title": "Discussions for User: 128318858"
+              },
+              "followers": {
+                "href": "/users/128318858/followers",
+                "title": "Followers for User: 128318858"
+              },
+              "following": {
+                "href": "/users/128318858/following",
+                "title": "Following for User: 128318858"
+              },
+              "notifications": {
+                "href": "/users/128318858/notifications",
+                "title": "Notifications for User: 128318858"
+              },
+              "projects": {
+                "href": "/users/128318858/projects",
+                "title": "Projects for User: 128318858"
+              },
+              "rosters": {
+                "href": "/users/128318858/rosters",
+                "title": "Rosters for User: 128318858"
+              },
+              "userTags": {
+                "href": "/users/128318858/userTags",
+                "title": "UserTags for User: 128318858"
+              },
+              "votes": {
+                "href": "/users/128318858/votes",
+                "title": "Votes for User: 128318858"
+              },
+              "wishlist": {
+                "href": "/users/128318858/wishlist",
+                "title": "Wishlist for User: 128318858"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578755,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODc1NSJ9",
+        "sku": 391633895,
+        "title": "Finding Backdrops for Product Photography",
+        "project_title": "Create imagery that pops! For our class project, find a product. It can be one for a friends business, your own business or even just something that is laying around the house. Once you find a product",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a1fefa4e648f4a02d95f14a956075c99/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a1fefa4e648f4a02d95f14a956075c99/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a1fefa4e648f4a02d95f14a956075c99/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Finding-Backdrops-for-Product-Photography/391633895",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "12m",
+        "total_videos_duration_seconds": 708,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 67,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 6, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/391633895",
+            "title": "Finding Backdrops for Product Photography"
+          },
+          "teacher": {
+            "href": "/users/5495750",
+            "title": "Nicolett Electra - Photographer and Makeup Artist"
+          },
+          "units": {
+            "href": "/classes/391633895/units",
+            "title": "Units for Class: 391633895"
+          },
+          "sessions": {
+            "href": "/classes/391633895/sessions",
+            "title": "Sessions for Class: 391633895"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/391633895/students",
+            "title": "Students for Class: 391633895"
+          },
+          "projects": {
+            "href": "/classes/391633895/projects",
+            "title": "Projects for Class: 391633895"
+          },
+          "reviews": {
+            "href": "/classes/391633895/reviews",
+            "title": "Reviews for Class: 391633895"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2038256,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjAzODI1NiJ9",
+            "username": 5495750,
+            "first_name": "Nicolett",
+            "last_name": "Electra",
+            "full_name": "Nicolett Electra",
+            "vanity_username": "electricvictory",
+            "headline": "Photographer and Makeup Artist",
+            "pic": "https://static.skillshare.com/uploads/users/5495750/user-image-medium.jpg?267209061",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5495750/user-image-small.jpg?1732703382",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5495750/user-image-large.jpg?1481449809",
+            "_links": {
+              "self": {
+                "href": "/users/5495750",
+                "title": "Nicolett Electra - Photographer and Makeup Artist"
+              },
+              "my_classes": {
+                "href": "/users/5495750/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5495750/completions",
+                "title": "Completions for User: 5495750"
+              },
+              "discussions": {
+                "href": "/users/5495750/discussions",
+                "title": "Discussions for User: 5495750"
+              },
+              "followers": {
+                "href": "/users/5495750/followers",
+                "title": "Followers for User: 5495750"
+              },
+              "following": {
+                "href": "/users/5495750/following",
+                "title": "Following for User: 5495750"
+              },
+              "notifications": {
+                "href": "/users/5495750/notifications",
+                "title": "Notifications for User: 5495750"
+              },
+              "projects": {
+                "href": "/users/5495750/projects",
+                "title": "Projects for User: 5495750"
+              },
+              "rosters": {
+                "href": "/users/5495750/rosters",
+                "title": "Rosters for User: 5495750"
+              },
+              "userTags": {
+                "href": "/users/5495750/userTags",
+                "title": "UserTags for User: 5495750"
+              },
+              "votes": {
+                "href": "/users/5495750/votes",
+                "title": "Votes for User: 5495750"
+              },
+              "wishlist": {
+                "href": "/users/5495750/wishlist",
+                "title": "Wishlist for User: 5495750"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578765,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODc2NSJ9",
+        "sku": 306333006,
+        "title": "Digital Marketing Demystified: The Ultimate Guide to Success",
+        "project_title": "Let's test your basic understanding of digital marketing - what is your current understanding of it? Watch your understanding transform during this class! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a2327635b4f1366f5f9759435620e886/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a2327635b4f1366f5f9759435620e886/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a2327635b4f1366f5f9759435620e886/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Digital-Marketing-Demystified-The-Ultimate-Guide-to-Success/306333006",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 32,
+        "total_videos_duration": "2h 53m",
+        "total_videos_duration_seconds": 10358,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 1572,
+        "num_projects": 8,
+        "num_discussions": 4,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 5, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/306333006",
+            "title": "Digital Marketing Demystified: The Ultimate Guide to Success"
+          },
+          "teacher": {
+            "href": "/users/981553964",
+            "title": "Megs Hollis - #DoDigitalBetter"
+          },
+          "units": {
+            "href": "/classes/306333006/units",
+            "title": "Units for Class: 306333006"
+          },
+          "sessions": {
+            "href": "/classes/306333006/sessions",
+            "title": "Sessions for Class: 306333006"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/306333006/students",
+            "title": "Students for Class: 306333006"
+          },
+          "projects": {
+            "href": "/classes/306333006/projects",
+            "title": "Projects for Class: 306333006"
+          },
+          "reviews": {
+            "href": "/classes/306333006/reviews",
+            "title": "Reviews for Class: 306333006"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13607775,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTM2MDc3NzUifQ==",
+            "username": 981553964,
+            "first_name": "Megs",
+            "last_name": "Hollis",
+            "full_name": "Megs Hollis",
+            "vanity_username": "megshollis",
+            "headline": "#DoDigitalBetter",
+            "pic": "https://static.skillshare.com/uploads/users/981553964/user-image-medium.jpg?516217987",
+            "pic_sm": "https://static.skillshare.com/uploads/users/981553964/user-image-small.jpg?688361283",
+            "pic_lg": "https://static.skillshare.com/uploads/users/981553964/user-image-large.jpg?1391408499",
+            "_links": {
+              "self": {
+                "href": "/users/981553964",
+                "title": "Megs Hollis - #DoDigitalBetter"
+              },
+              "my_classes": {
+                "href": "/users/981553964/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/981553964/completions",
+                "title": "Completions for User: 981553964"
+              },
+              "discussions": {
+                "href": "/users/981553964/discussions",
+                "title": "Discussions for User: 981553964"
+              },
+              "followers": {
+                "href": "/users/981553964/followers",
+                "title": "Followers for User: 981553964"
+              },
+              "following": {
+                "href": "/users/981553964/following",
+                "title": "Following for User: 981553964"
+              },
+              "notifications": {
+                "href": "/users/981553964/notifications",
+                "title": "Notifications for User: 981553964"
+              },
+              "projects": {
+                "href": "/users/981553964/projects",
+                "title": "Projects for User: 981553964"
+              },
+              "rosters": {
+                "href": "/users/981553964/rosters",
+                "title": "Rosters for User: 981553964"
+              },
+              "userTags": {
+                "href": "/users/981553964/userTags",
+                "title": "UserTags for User: 981553964"
+              },
+              "votes": {
+                "href": "/users/981553964/votes",
+                "title": "Votes for User: 981553964"
+              },
+              "wishlist": {
+                "href": "/users/981553964/wishlist",
+                "title": "Wishlist for User: 981553964"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578773,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODc3MyJ9",
+        "sku": 681367195,
+        "title": "Logo Animation Fundamentals in After Effects",
+        "project_title": "In this class, we'll learn about this custom logo animation.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/eb2035eb54055a918c62b81eec5e3d25/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/eb2035eb54055a918c62b81eec5e3d25/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/eb2035eb54055a918c62b81eec5e3d25/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Logo-Animation-Fundamentals-in-After-Effects/681367195",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "36m",
+        "total_videos_duration_seconds": 2186,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 196,
+        "num_projects": 1,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 6, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/681367195",
+            "title": "Logo Animation Fundamentals in After Effects"
+          },
+          "teacher": {
+            "href": "/users/417012497",
+            "title": "Shoaib Baghi - Motion Graphics Designer"
+          },
+          "units": {
+            "href": "/classes/681367195/units",
+            "title": "Units for Class: 681367195"
+          },
+          "sessions": {
+            "href": "/classes/681367195/sessions",
+            "title": "Sessions for Class: 681367195"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/681367195/students",
+            "title": "Students for Class: 681367195"
+          },
+          "projects": {
+            "href": "/classes/681367195/projects",
+            "title": "Projects for Class: 681367195"
+          },
+          "reviews": {
+            "href": "/classes/681367195/reviews",
+            "title": "Reviews for Class: 681367195"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26359967,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYzNTk5NjcifQ==",
+            "username": 417012497,
+            "first_name": "Shoaib",
+            "last_name": "Baghi",
+            "full_name": "Shoaib Baghi",
+            "vanity_username": "shoaibaghi",
+            "headline": "Motion Graphics Designer",
+            "pic": "https://static.skillshare.com/uploads/users/417012497/user-image-medium.jpg?1822311384",
+            "pic_sm": "https://static.skillshare.com/uploads/users/417012497/user-image-small.jpg?1793828832",
+            "pic_lg": "https://static.skillshare.com/uploads/users/417012497/user-image-large.jpg?1988712020",
+            "_links": {
+              "self": {
+                "href": "/users/417012497",
+                "title": "Shoaib Baghi - Motion Graphics Designer"
+              },
+              "my_classes": {
+                "href": "/users/417012497/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/417012497/completions",
+                "title": "Completions for User: 417012497"
+              },
+              "discussions": {
+                "href": "/users/417012497/discussions",
+                "title": "Discussions for User: 417012497"
+              },
+              "followers": {
+                "href": "/users/417012497/followers",
+                "title": "Followers for User: 417012497"
+              },
+              "following": {
+                "href": "/users/417012497/following",
+                "title": "Following for User: 417012497"
+              },
+              "notifications": {
+                "href": "/users/417012497/notifications",
+                "title": "Notifications for User: 417012497"
+              },
+              "projects": {
+                "href": "/users/417012497/projects",
+                "title": "Projects for User: 417012497"
+              },
+              "rosters": {
+                "href": "/users/417012497/rosters",
+                "title": "Rosters for User: 417012497"
+              },
+              "userTags": {
+                "href": "/users/417012497/userTags",
+                "title": "UserTags for User: 417012497"
+              },
+              "votes": {
+                "href": "/users/417012497/votes",
+                "title": "Votes for User: 417012497"
+              },
+              "wishlist": {
+                "href": "/users/417012497/wishlist",
+                "title": "Wishlist for User: 417012497"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578779,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODc3OSJ9",
+        "sku": 1164492642,
+        "title": "Creating 8-Bit Music for Video Games",
+        "project_title": "Create your own re-scoring for Brave! You can use your own DAW, or follow along on Ableton Live.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/fe9f0c7380ef653f7c1af3a592a6a685/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/fe9f0c7380ef653f7c1af3a592a6a685/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/fe9f0c7380ef653f7c1af3a592a6a685/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Creating-8-Bit-Music-for-Video-Games/1164492642",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "52m",
+        "total_videos_duration_seconds": 3096,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 99,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 6, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1164492642",
+            "title": "Creating 8-Bit Music for Video Games"
+          },
+          "teacher": {
+            "href": "/users/203020513",
+            "title": "Misici - Music Composer & Producer"
+          },
+          "units": {
+            "href": "/classes/1164492642/units",
+            "title": "Units for Class: 1164492642"
+          },
+          "sessions": {
+            "href": "/classes/1164492642/sessions",
+            "title": "Sessions for Class: 1164492642"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1164492642/students",
+            "title": "Students for Class: 1164492642"
+          },
+          "projects": {
+            "href": "/classes/1164492642/projects",
+            "title": "Projects for Class: 1164492642"
+          },
+          "reviews": {
+            "href": "/classes/1164492642/reviews",
+            "title": "Reviews for Class: 1164492642"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25236402,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUyMzY0MDIifQ==",
+            "username": 203020513,
+            "first_name": "Misici",
+            "last_name": null,
+            "full_name": "Misici",
+            "vanity_username": "misici",
+            "headline": "Music Composer & Producer",
+            "pic": "https://static.skillshare.com/uploads/users/203020513/user-image-medium.jpg?2039729140",
+            "pic_sm": "https://static.skillshare.com/uploads/users/203020513/user-image-small.jpg?392914120",
+            "pic_lg": "https://static.skillshare.com/uploads/users/203020513/user-image-large.jpg?2066816354",
+            "_links": {
+              "self": {
+                "href": "/users/203020513",
+                "title": "Misici - Music Composer & Producer"
+              },
+              "my_classes": {
+                "href": "/users/203020513/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/203020513/completions",
+                "title": "Completions for User: 203020513"
+              },
+              "discussions": {
+                "href": "/users/203020513/discussions",
+                "title": "Discussions for User: 203020513"
+              },
+              "followers": {
+                "href": "/users/203020513/followers",
+                "title": "Followers for User: 203020513"
+              },
+              "following": {
+                "href": "/users/203020513/following",
+                "title": "Following for User: 203020513"
+              },
+              "notifications": {
+                "href": "/users/203020513/notifications",
+                "title": "Notifications for User: 203020513"
+              },
+              "projects": {
+                "href": "/users/203020513/projects",
+                "title": "Projects for User: 203020513"
+              },
+              "rosters": {
+                "href": "/users/203020513/rosters",
+                "title": "Rosters for User: 203020513"
+              },
+              "userTags": {
+                "href": "/users/203020513/userTags",
+                "title": "UserTags for User: 203020513"
+              },
+              "votes": {
+                "href": "/users/203020513/votes",
+                "title": "Votes for User: 203020513"
+              },
+              "wishlist": {
+                "href": "/users/203020513/wishlist",
+                "title": "Wishlist for User: 203020513"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578780,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODc4MCJ9",
+        "sku": 34751206,
+        "title": "INSTAGRAM MARKETING STRATEGY 101 COURSE",
+        "project_title": "PROJECT DETAILS -",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/5da952cb01895e407056d98eda31c49b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/5da952cb01895e407056d98eda31c49b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/5da952cb01895e407056d98eda31c49b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/INSTAGRAM-MARKETING-STRATEGY-101-COURSE/34751206",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 23,
+        "total_videos_duration": "2h 57m",
+        "total_videos_duration_seconds": 10595,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 86,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 20, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/34751206",
+            "title": "INSTAGRAM MARKETING STRATEGY 101 COURSE"
+          },
+          "teacher": {
+            "href": "/users/902696682",
+            "title": "Deepali Kale - Social Media Strategist/Manager"
+          },
+          "units": {
+            "href": "/classes/34751206/units",
+            "title": "Units for Class: 34751206"
+          },
+          "sessions": {
+            "href": "/classes/34751206/sessions",
+            "title": "Sessions for Class: 34751206"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/34751206/students",
+            "title": "Students for Class: 34751206"
+          },
+          "projects": {
+            "href": "/classes/34751206/projects",
+            "title": "Projects for Class: 34751206"
+          },
+          "reviews": {
+            "href": "/classes/34751206/reviews",
+            "title": "Reviews for Class: 34751206"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 24418835,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjQ0MTg4MzUifQ==",
+            "username": 902696682,
+            "first_name": "Deepali",
+            "last_name": "Kale",
+            "full_name": "Deepali Kale",
+            "vanity_username": null,
+            "headline": "Social Media Strategist/Manager",
+            "pic": "https://static.skillshare.com/uploads/users/902696682/user-image-medium.png?663927197",
+            "pic_sm": "https://static.skillshare.com/uploads/users/902696682/user-image-small.png?1130853456",
+            "pic_lg": "https://static.skillshare.com/uploads/users/902696682/user-image-large.png?815718472",
+            "_links": {
+              "self": {
+                "href": "/users/902696682",
+                "title": "Deepali Kale - Social Media Strategist/Manager"
+              },
+              "my_classes": {
+                "href": "/users/902696682/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/902696682/completions",
+                "title": "Completions for User: 902696682"
+              },
+              "discussions": {
+                "href": "/users/902696682/discussions",
+                "title": "Discussions for User: 902696682"
+              },
+              "followers": {
+                "href": "/users/902696682/followers",
+                "title": "Followers for User: 902696682"
+              },
+              "following": {
+                "href": "/users/902696682/following",
+                "title": "Following for User: 902696682"
+              },
+              "notifications": {
+                "href": "/users/902696682/notifications",
+                "title": "Notifications for User: 902696682"
+              },
+              "projects": {
+                "href": "/users/902696682/projects",
+                "title": "Projects for User: 902696682"
+              },
+              "rosters": {
+                "href": "/users/902696682/rosters",
+                "title": "Rosters for User: 902696682"
+              },
+              "userTags": {
+                "href": "/users/902696682/userTags",
+                "title": "UserTags for User: 902696682"
+              },
+              "votes": {
+                "href": "/users/902696682/votes",
+                "title": "Votes for User: 902696682"
+              },
+              "wishlist": {
+                "href": "/users/902696682/wishlist",
+                "title": "Wishlist for User: 902696682"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578791,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODc5MSJ9",
+        "sku": 1948614573,
+        "title": "Moving Clouds - A Creative Project to Help Cope with Emotional Ups and Downs",
+        "project_title": "Class project:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/92bca4aa7517552b501afebde69bb706/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/92bca4aa7517552b501afebde69bb706/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/92bca4aa7517552b501afebde69bb706/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Moving-Clouds-A-Creative-Project-to-Help-Cope-with-Emotional-Ups-and-Downs/1948614573",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "45m",
+        "total_videos_duration_seconds": 2700,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 29,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 6, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1948614573",
+            "title": "Moving Clouds - A Creative Project to Help Cope with Emotional Ups and Downs"
+          },
+          "teacher": {
+            "href": "/users/345865560",
+            "title": "Agnes De Bezenac - Art and Self-Care"
+          },
+          "units": {
+            "href": "/classes/1948614573/units",
+            "title": "Units for Class: 1948614573"
+          },
+          "sessions": {
+            "href": "/classes/1948614573/sessions",
+            "title": "Sessions for Class: 1948614573"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1948614573/students",
+            "title": "Students for Class: 1948614573"
+          },
+          "projects": {
+            "href": "/classes/1948614573/projects",
+            "title": "Projects for Class: 1948614573"
+          },
+          "reviews": {
+            "href": "/classes/1948614573/reviews",
+            "title": "Reviews for Class: 1948614573"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19631404,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTk2MzE0MDQifQ==",
+            "username": 345865560,
+            "first_name": "Agnes",
+            "last_name": "De Bezenac",
+            "full_name": "Agnes De Bezenac",
+            "vanity_username": "debezenac",
+            "headline": "Art and Self-Care",
+            "pic": "https://static.skillshare.com/uploads/users/345865560/user-image-medium.jpg?1645907271",
+            "pic_sm": "https://static.skillshare.com/uploads/users/345865560/user-image-small.jpg?1049833936",
+            "pic_lg": "https://static.skillshare.com/uploads/users/345865560/user-image-large.jpg?695134110",
+            "_links": {
+              "self": {
+                "href": "/users/345865560",
+                "title": "Agnes De Bezenac - Art and Self-Care"
+              },
+              "my_classes": {
+                "href": "/users/345865560/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/345865560/completions",
+                "title": "Completions for User: 345865560"
+              },
+              "discussions": {
+                "href": "/users/345865560/discussions",
+                "title": "Discussions for User: 345865560"
+              },
+              "followers": {
+                "href": "/users/345865560/followers",
+                "title": "Followers for User: 345865560"
+              },
+              "following": {
+                "href": "/users/345865560/following",
+                "title": "Following for User: 345865560"
+              },
+              "notifications": {
+                "href": "/users/345865560/notifications",
+                "title": "Notifications for User: 345865560"
+              },
+              "projects": {
+                "href": "/users/345865560/projects",
+                "title": "Projects for User: 345865560"
+              },
+              "rosters": {
+                "href": "/users/345865560/rosters",
+                "title": "Rosters for User: 345865560"
+              },
+              "userTags": {
+                "href": "/users/345865560/userTags",
+                "title": "UserTags for User: 345865560"
+              },
+              "votes": {
+                "href": "/users/345865560/votes",
+                "title": "Votes for User: 345865560"
+              },
+              "wishlist": {
+                "href": "/users/345865560/wishlist",
+                "title": "Wishlist for User: 345865560"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578818,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODgxOCJ9",
+        "sku": 1832118295,
+        "title": "EASY FRENCH FOR BEGINNERS",
+        "project_title": "Hello dear students, See below pdf file written activities where you can practice more about some topics you learned in the lesson- Practice French alphabet pronunciation from the new vocabulary provi",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6307408905112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6307408905112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6307408905112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/EASY-FRENCH-FOR-BEGINNERS/1832118295",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 23,
+        "total_videos_duration": "1h 23m",
+        "total_videos_duration_seconds": 4973,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 46,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1832118295",
+            "title": "EASY FRENCH FOR BEGINNERS"
+          },
+          "teacher": {
+            "href": "/users/50232658",
+            "title": "Tiana Rak - FRENCH TUTOR"
+          },
+          "units": {
+            "href": "/classes/1832118295/units",
+            "title": "Units for Class: 1832118295"
+          },
+          "sessions": {
+            "href": "/classes/1832118295/sessions",
+            "title": "Sessions for Class: 1832118295"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1832118295/students",
+            "title": "Students for Class: 1832118295"
+          },
+          "projects": {
+            "href": "/classes/1832118295/projects",
+            "title": "Projects for Class: 1832118295"
+          },
+          "reviews": {
+            "href": "/classes/1832118295/reviews",
+            "title": "Reviews for Class: 1832118295"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26363517,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYzNjM1MTcifQ==",
+            "username": 50232658,
+            "first_name": "Tiana",
+            "last_name": "Rak",
+            "full_name": "Tiana Rak",
+            "vanity_username": null,
+            "headline": "FRENCH TUTOR",
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/50232658",
+                "title": "Tiana Rak - FRENCH TUTOR"
+              },
+              "my_classes": {
+                "href": "/users/50232658/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/50232658/completions",
+                "title": "Completions for User: 50232658"
+              },
+              "discussions": {
+                "href": "/users/50232658/discussions",
+                "title": "Discussions for User: 50232658"
+              },
+              "followers": {
+                "href": "/users/50232658/followers",
+                "title": "Followers for User: 50232658"
+              },
+              "following": {
+                "href": "/users/50232658/following",
+                "title": "Following for User: 50232658"
+              },
+              "notifications": {
+                "href": "/users/50232658/notifications",
+                "title": "Notifications for User: 50232658"
+              },
+              "projects": {
+                "href": "/users/50232658/projects",
+                "title": "Projects for User: 50232658"
+              },
+              "rosters": {
+                "href": "/users/50232658/rosters",
+                "title": "Rosters for User: 50232658"
+              },
+              "userTags": {
+                "href": "/users/50232658/userTags",
+                "title": "UserTags for User: 50232658"
+              },
+              "votes": {
+                "href": "/users/50232658/votes",
+                "title": "Votes for User: 50232658"
+              },
+              "wishlist": {
+                "href": "/users/50232658/wishlist",
+                "title": "Wishlist for User: 50232658"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578822,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODgyMiJ9",
+        "sku": 2072865278,
+        "title": "Mastering Cinematography in Narrative Storytelling: Oscar Tips on Visual Sentences",
+        "project_title": "The class project will include creating a scene with the intentional use of visual storytelling techniques learnt from this course.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/15074279300881491a3b76b4d075d503/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/15074279300881491a3b76b4d075d503/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/15074279300881491a3b76b4d075d503/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Mastering-Cinematography-in-Narrative-Storytelling-Oscar-Tips-on-Visual-Sentences/2072865278",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "43m",
+        "total_videos_duration_seconds": 2559,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 149,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 26, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2072865278",
+            "title": "Mastering Cinematography in Narrative Storytelling: Oscar Tips on Visual Sentences"
+          },
+          "teacher": {
+            "href": "/users/611459566",
+            "title": "Isaac Olowoporoku"
+          },
+          "units": {
+            "href": "/classes/2072865278/units",
+            "title": "Units for Class: 2072865278"
+          },
+          "sessions": {
+            "href": "/classes/2072865278/sessions",
+            "title": "Sessions for Class: 2072865278"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2072865278/students",
+            "title": "Students for Class: 2072865278"
+          },
+          "projects": {
+            "href": "/classes/2072865278/projects",
+            "title": "Projects for Class: 2072865278"
+          },
+          "reviews": {
+            "href": "/classes/2072865278/reviews",
+            "title": "Reviews for Class: 2072865278"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 22397778,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjIzOTc3NzgifQ==",
+            "username": 611459566,
+            "first_name": "Isaac",
+            "last_name": "Olowoporoku",
+            "full_name": "Isaac Olowoporoku",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/611459566",
+                "title": "Isaac Olowoporoku"
+              },
+              "my_classes": {
+                "href": "/users/611459566/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/611459566/completions",
+                "title": "Completions for User: 611459566"
+              },
+              "discussions": {
+                "href": "/users/611459566/discussions",
+                "title": "Discussions for User: 611459566"
+              },
+              "followers": {
+                "href": "/users/611459566/followers",
+                "title": "Followers for User: 611459566"
+              },
+              "following": {
+                "href": "/users/611459566/following",
+                "title": "Following for User: 611459566"
+              },
+              "notifications": {
+                "href": "/users/611459566/notifications",
+                "title": "Notifications for User: 611459566"
+              },
+              "projects": {
+                "href": "/users/611459566/projects",
+                "title": "Projects for User: 611459566"
+              },
+              "rosters": {
+                "href": "/users/611459566/rosters",
+                "title": "Rosters for User: 611459566"
+              },
+              "userTags": {
+                "href": "/users/611459566/userTags",
+                "title": "UserTags for User: 611459566"
+              },
+              "votes": {
+                "href": "/users/611459566/votes",
+                "title": "Votes for User: 611459566"
+              },
+              "wishlist": {
+                "href": "/users/611459566/wishlist",
+                "title": "Wishlist for User: 611459566"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

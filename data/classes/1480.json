@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1480",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1479",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1481",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 578216,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODIxNiJ9",
+        "sku": 1872939643,
+        "title": "Creating Next-Gen Environments in UE5",
+        "project_title": "Download the Project Files ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/de4a844e1915cbff638eb470efa971c9/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/de4a844e1915cbff638eb470efa971c9/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/de4a844e1915cbff638eb470efa971c9/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Creating-Next-Gen-Environments-in-UE5/1872939643",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 39,
+        "total_videos_duration": "1d 13h 58m",
+        "total_videos_duration_seconds": 136678,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 375,
+        "num_projects": 0,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 5, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1872939643",
+            "title": "Creating Next-Gen Environments in UE5"
+          },
+          "teacher": {
+            "href": "/users/7778141",
+            "title": "Nexttut - A Specialist in CG Tutorials"
+          },
+          "units": {
+            "href": "/classes/1872939643/units",
+            "title": "Units for Class: 1872939643"
+          },
+          "sessions": {
+            "href": "/classes/1872939643/sessions",
+            "title": "Sessions for Class: 1872939643"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1872939643/students",
+            "title": "Students for Class: 1872939643"
+          },
+          "projects": {
+            "href": "/classes/1872939643/projects",
+            "title": "Projects for Class: 1872939643"
+          },
+          "reviews": {
+            "href": "/classes/1872939643/reviews",
+            "title": "Reviews for Class: 1872939643"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3130769,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzEzMDc2OSJ9",
+            "username": 7778141,
+            "first_name": "Nexttut",
+            "last_name": null,
+            "full_name": "Nexttut",
+            "vanity_username": "nexttuteducation",
+            "headline": "A Specialist in CG Tutorials",
+            "pic": "https://static.skillshare.com/uploads/users/7778141/user-image-medium.jpg?672995461",
+            "pic_sm": "https://static.skillshare.com/uploads/users/7778141/user-image-small.jpg?1294832591",
+            "pic_lg": "https://static.skillshare.com/uploads/users/7778141/user-image-large.jpg?1565032397",
+            "_links": {
+              "self": {
+                "href": "/users/7778141",
+                "title": "Nexttut - A Specialist in CG Tutorials"
+              },
+              "my_classes": {
+                "href": "/users/7778141/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/7778141/completions",
+                "title": "Completions for User: 7778141"
+              },
+              "discussions": {
+                "href": "/users/7778141/discussions",
+                "title": "Discussions for User: 7778141"
+              },
+              "followers": {
+                "href": "/users/7778141/followers",
+                "title": "Followers for User: 7778141"
+              },
+              "following": {
+                "href": "/users/7778141/following",
+                "title": "Following for User: 7778141"
+              },
+              "notifications": {
+                "href": "/users/7778141/notifications",
+                "title": "Notifications for User: 7778141"
+              },
+              "projects": {
+                "href": "/users/7778141/projects",
+                "title": "Projects for User: 7778141"
+              },
+              "rosters": {
+                "href": "/users/7778141/rosters",
+                "title": "Rosters for User: 7778141"
+              },
+              "userTags": {
+                "href": "/users/7778141/userTags",
+                "title": "UserTags for User: 7778141"
+              },
+              "votes": {
+                "href": "/users/7778141/votes",
+                "title": "Votes for User: 7778141"
+              },
+              "wishlist": {
+                "href": "/users/7778141/wishlist",
+                "title": "Wishlist for User: 7778141"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578240,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODI0MCJ9",
+        "sku": 838381116,
+        "title": "Type and Use of Network Devices",
+        "project_title": "This assignment is about learning the technological aspects of Network Devices. There is no grading or scoring. It is all about growing as a community & learning about key concepts. However, some of t",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9da5b798c97027ec645782b97a82b93f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9da5b798c97027ec645782b97a82b93f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9da5b798c97027ec645782b97a82b93f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Type-and-Use-of-Network-Devices/838381116",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "26m",
+        "total_videos_duration_seconds": 1544,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 119,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 4, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/838381116",
+            "title": "Type and Use of Network Devices"
+          },
+          "teacher": {
+            "href": "/users/750817448",
+            "title": "Balvir Singh Chahal"
+          },
+          "units": {
+            "href": "/classes/838381116/units",
+            "title": "Units for Class: 838381116"
+          },
+          "sessions": {
+            "href": "/classes/838381116/sessions",
+            "title": "Sessions for Class: 838381116"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/838381116/students",
+            "title": "Students for Class: 838381116"
+          },
+          "projects": {
+            "href": "/classes/838381116/projects",
+            "title": "Projects for Class: 838381116"
+          },
+          "reviews": {
+            "href": "/classes/838381116/reviews",
+            "title": "Reviews for Class: 838381116"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19422576,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTk0MjI1NzYifQ==",
+            "username": 750817448,
+            "first_name": "Balvir Singh",
+            "last_name": "Chahal",
+            "full_name": "Balvir Singh Chahal",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/750817448/user-image-medium.jpg?1250951464",
+            "pic_sm": "https://static.skillshare.com/uploads/users/750817448/user-image-small.jpg?1887687900",
+            "pic_lg": "https://static.skillshare.com/uploads/users/750817448/user-image-large.jpg?1274265865",
+            "_links": {
+              "self": {
+                "href": "/users/750817448",
+                "title": "Balvir Singh Chahal"
+              },
+              "my_classes": {
+                "href": "/users/750817448/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/750817448/completions",
+                "title": "Completions for User: 750817448"
+              },
+              "discussions": {
+                "href": "/users/750817448/discussions",
+                "title": "Discussions for User: 750817448"
+              },
+              "followers": {
+                "href": "/users/750817448/followers",
+                "title": "Followers for User: 750817448"
+              },
+              "following": {
+                "href": "/users/750817448/following",
+                "title": "Following for User: 750817448"
+              },
+              "notifications": {
+                "href": "/users/750817448/notifications",
+                "title": "Notifications for User: 750817448"
+              },
+              "projects": {
+                "href": "/users/750817448/projects",
+                "title": "Projects for User: 750817448"
+              },
+              "rosters": {
+                "href": "/users/750817448/rosters",
+                "title": "Rosters for User: 750817448"
+              },
+              "userTags": {
+                "href": "/users/750817448/userTags",
+                "title": "UserTags for User: 750817448"
+              },
+              "votes": {
+                "href": "/users/750817448/votes",
+                "title": "Votes for User: 750817448"
+              },
+              "wishlist": {
+                "href": "/users/750817448/wishlist",
+                "title": "Wishlist for User: 750817448"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578242,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODI0MiJ9",
+        "sku": 1977119930,
+        "title": "15 Days Gouache Challenge : Explore the Beauty of Nature",
+        "project_title": "Join me in this 15 Day Gouache Challenge and paint 15 Beautiful Nature Inspired Landscapes. Each class project is unique from one another but is made using a combination of techniques & elements.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a796b641bcb761f28aad6a31d5589c6b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a796b641bcb761f28aad6a31d5589c6b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a796b641bcb761f28aad6a31d5589c6b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/15-Days-Gouache-Challenge-Explore-the-Beauty-of-Nature/1977119930",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 40,
+        "total_videos_duration": "9h 21m",
+        "total_videos_duration_seconds": 33653,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 583,
+        "num_projects": 18,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 5, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1977119930",
+            "title": "15 Days Gouache Challenge : Explore the Beauty of Nature"
+          },
+          "teacher": {
+            "href": "/users/296052266",
+            "title": "Payal Sinha - TheSimplyAesthetic- Artist & Educator"
+          },
+          "units": {
+            "href": "/classes/1977119930/units",
+            "title": "Units for Class: 1977119930"
+          },
+          "sessions": {
+            "href": "/classes/1977119930/sessions",
+            "title": "Sessions for Class: 1977119930"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1977119930/students",
+            "title": "Students for Class: 1977119930"
+          },
+          "projects": {
+            "href": "/classes/1977119930/projects",
+            "title": "Projects for Class: 1977119930"
+          },
+          "reviews": {
+            "href": "/classes/1977119930/reviews",
+            "title": "Reviews for Class: 1977119930"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19145518,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTkxNDU1MTgifQ==",
+            "username": 296052266,
+            "first_name": "Payal",
+            "last_name": "Sinha",
+            "full_name": "Payal Sinha",
+            "vanity_username": "thesimplyaesthetic",
+            "headline": "TheSimplyAesthetic- Artist & Educator",
+            "pic": "https://static.skillshare.com/uploads/users/296052266/user-image-medium.png?1933396313",
+            "pic_sm": "https://static.skillshare.com/uploads/users/296052266/user-image-small.png?498857822",
+            "pic_lg": "https://static.skillshare.com/uploads/users/296052266/user-image-large.png?235031506",
+            "_links": {
+              "self": {
+                "href": "/users/296052266",
+                "title": "Payal Sinha - TheSimplyAesthetic- Artist & Educator"
+              },
+              "my_classes": {
+                "href": "/users/296052266/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/296052266/completions",
+                "title": "Completions for User: 296052266"
+              },
+              "discussions": {
+                "href": "/users/296052266/discussions",
+                "title": "Discussions for User: 296052266"
+              },
+              "followers": {
+                "href": "/users/296052266/followers",
+                "title": "Followers for User: 296052266"
+              },
+              "following": {
+                "href": "/users/296052266/following",
+                "title": "Following for User: 296052266"
+              },
+              "notifications": {
+                "href": "/users/296052266/notifications",
+                "title": "Notifications for User: 296052266"
+              },
+              "projects": {
+                "href": "/users/296052266/projects",
+                "title": "Projects for User: 296052266"
+              },
+              "rosters": {
+                "href": "/users/296052266/rosters",
+                "title": "Rosters for User: 296052266"
+              },
+              "userTags": {
+                "href": "/users/296052266/userTags",
+                "title": "UserTags for User: 296052266"
+              },
+              "votes": {
+                "href": "/users/296052266/votes",
+                "title": "Votes for User: 296052266"
+              },
+              "wishlist": {
+                "href": "/users/296052266/wishlist",
+                "title": "Wishlist for User: 296052266"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578245,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODI0NSJ9",
+        "sku": 1810235355,
+        "title": "Python 101: Object Oriented Programming for Beginners",
+        "project_title": "Before heading to the class project, we will brush up our Object Oriented Programming Skills by going through key exercises that will give us a deeper understanding of OOP in Python.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/8cce961303b1b2a60114a461128a1004/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/8cce961303b1b2a60114a461128a1004/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/8cce961303b1b2a60114a461128a1004/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Python-101-Object-Oriented-Programming-for-Beginners/1810235355",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "27m",
+        "total_videos_duration_seconds": 1628,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 78,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 3, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1810235355",
+            "title": "Python 101: Object Oriented Programming for Beginners"
+          },
+          "teacher": {
+            "href": "/users/479302137",
+            "title": "Naser Jamal - Computer Engineer"
+          },
+          "units": {
+            "href": "/classes/1810235355/units",
+            "title": "Units for Class: 1810235355"
+          },
+          "sessions": {
+            "href": "/classes/1810235355/sessions",
+            "title": "Sessions for Class: 1810235355"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1810235355/students",
+            "title": "Students for Class: 1810235355"
+          },
+          "projects": {
+            "href": "/classes/1810235355/projects",
+            "title": "Projects for Class: 1810235355"
+          },
+          "reviews": {
+            "href": "/classes/1810235355/reviews",
+            "title": "Reviews for Class: 1810235355"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26094397,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYwOTQzOTcifQ==",
+            "username": 479302137,
+            "first_name": "Naser",
+            "last_name": "Jamal",
+            "full_name": "Naser Jamal",
+            "vanity_username": "naserjamal",
+            "headline": "Computer Engineer",
+            "pic": "https://static.skillshare.com/uploads/users/479302137/user-image-medium.jpg?310654706",
+            "pic_sm": "https://static.skillshare.com/uploads/users/479302137/user-image-small.jpg?1685738000",
+            "pic_lg": "https://static.skillshare.com/uploads/users/479302137/user-image-large.jpg?2099805180",
+            "_links": {
+              "self": {
+                "href": "/users/479302137",
+                "title": "Naser Jamal - Computer Engineer"
+              },
+              "my_classes": {
+                "href": "/users/479302137/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/479302137/completions",
+                "title": "Completions for User: 479302137"
+              },
+              "discussions": {
+                "href": "/users/479302137/discussions",
+                "title": "Discussions for User: 479302137"
+              },
+              "followers": {
+                "href": "/users/479302137/followers",
+                "title": "Followers for User: 479302137"
+              },
+              "following": {
+                "href": "/users/479302137/following",
+                "title": "Following for User: 479302137"
+              },
+              "notifications": {
+                "href": "/users/479302137/notifications",
+                "title": "Notifications for User: 479302137"
+              },
+              "projects": {
+                "href": "/users/479302137/projects",
+                "title": "Projects for User: 479302137"
+              },
+              "rosters": {
+                "href": "/users/479302137/rosters",
+                "title": "Rosters for User: 479302137"
+              },
+              "userTags": {
+                "href": "/users/479302137/userTags",
+                "title": "UserTags for User: 479302137"
+              },
+              "votes": {
+                "href": "/users/479302137/votes",
+                "title": "Votes for User: 479302137"
+              },
+              "wishlist": {
+                "href": "/users/479302137/wishlist",
+                "title": "Wishlist for User: 479302137"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578250,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODI1MCJ9",
+        "sku": 239710017,
+        "title": "Streamlabs Chatbot For Twitch",
+        "project_title": "Project:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/76a9c25724f3105429115018b16fa17d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/76a9c25724f3105429115018b16fa17d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/76a9c25724f3105429115018b16fa17d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Streamlabs-Chatbot-For-Twitch/239710017",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "57m",
+        "total_videos_duration_seconds": 3404,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 22,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/239710017",
+            "title": "Streamlabs Chatbot For Twitch"
+          },
+          "teacher": {
+            "href": "/users/677255616",
+            "title": "Trui - Twitch Streaming Specialist"
+          },
+          "units": {
+            "href": "/classes/239710017/units",
+            "title": "Units for Class: 239710017"
+          },
+          "sessions": {
+            "href": "/classes/239710017/sessions",
+            "title": "Sessions for Class: 239710017"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/239710017/students",
+            "title": "Students for Class: 239710017"
+          },
+          "projects": {
+            "href": "/classes/239710017/projects",
+            "title": "Projects for Class: 239710017"
+          },
+          "reviews": {
+            "href": "/classes/239710017/reviews",
+            "title": "Reviews for Class: 239710017"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11798232,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTE3OTgyMzIifQ==",
+            "username": 677255616,
+            "first_name": "Trui",
+            "last_name": null,
+            "full_name": "Trui",
+            "vanity_username": null,
+            "headline": "Twitch Streaming Specialist",
+            "pic": "https://static.skillshare.com/uploads/users/677255616/user-image-medium.png?1569069186",
+            "pic_sm": "https://static.skillshare.com/uploads/users/677255616/user-image-small.png?484294362",
+            "pic_lg": "https://static.skillshare.com/uploads/users/677255616/user-image-large.png?1678060633",
+            "_links": {
+              "self": {
+                "href": "/users/677255616",
+                "title": "Trui - Twitch Streaming Specialist"
+              },
+              "my_classes": {
+                "href": "/users/677255616/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/677255616/completions",
+                "title": "Completions for User: 677255616"
+              },
+              "discussions": {
+                "href": "/users/677255616/discussions",
+                "title": "Discussions for User: 677255616"
+              },
+              "followers": {
+                "href": "/users/677255616/followers",
+                "title": "Followers for User: 677255616"
+              },
+              "following": {
+                "href": "/users/677255616/following",
+                "title": "Following for User: 677255616"
+              },
+              "notifications": {
+                "href": "/users/677255616/notifications",
+                "title": "Notifications for User: 677255616"
+              },
+              "projects": {
+                "href": "/users/677255616/projects",
+                "title": "Projects for User: 677255616"
+              },
+              "rosters": {
+                "href": "/users/677255616/rosters",
+                "title": "Rosters for User: 677255616"
+              },
+              "userTags": {
+                "href": "/users/677255616/userTags",
+                "title": "UserTags for User: 677255616"
+              },
+              "votes": {
+                "href": "/users/677255616/votes",
+                "title": "Votes for User: 677255616"
+              },
+              "wishlist": {
+                "href": "/users/677255616/wishlist",
+                "title": "Wishlist for User: 677255616"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578288,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODI4OCJ9",
+        "sku": 72092975,
+        "title": "Painting With Gouache: Mastering the Medium",
+        "project_title": "Your project is to paint a cake that can be gifted as a birthday card for someone you love.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/81501d7bcfb8e326322a61f7963dc5c6/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/81501d7bcfb8e326322a61f7963dc5c6/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/81501d7bcfb8e326322a61f7963dc5c6/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Painting-With-Gouache-Mastering-the-Medium/72092975",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "20m",
+        "total_videos_duration_seconds": 1174,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 38,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jul 4, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/72092975",
+            "title": "Painting With Gouache: Mastering the Medium"
+          },
+          "teacher": {
+            "href": "/users/750642769",
+            "title": "Alyse Mercey - Artist and Creative"
+          },
+          "units": {
+            "href": "/classes/72092975/units",
+            "title": "Units for Class: 72092975"
+          },
+          "sessions": {
+            "href": "/classes/72092975/sessions",
+            "title": "Sessions for Class: 72092975"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/72092975/students",
+            "title": "Students for Class: 72092975"
+          },
+          "projects": {
+            "href": "/classes/72092975/projects",
+            "title": "Projects for Class: 72092975"
+          },
+          "reviews": {
+            "href": "/classes/72092975/reviews",
+            "title": "Reviews for Class: 72092975"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17027666,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTcwMjc2NjYifQ==",
+            "username": 750642769,
+            "first_name": "Alyse",
+            "last_name": "Mercey",
+            "full_name": "Alyse Mercey",
+            "vanity_username": null,
+            "headline": "Artist and Creative",
+            "pic": "https://static.skillshare.com/uploads/users/750642769/user-image-medium.jpg?2090176126",
+            "pic_sm": "https://static.skillshare.com/uploads/users/750642769/user-image-small.jpg?1403183343",
+            "pic_lg": "https://static.skillshare.com/uploads/users/750642769/user-image-large.jpg?512080681",
+            "_links": {
+              "self": {
+                "href": "/users/750642769",
+                "title": "Alyse Mercey - Artist and Creative"
+              },
+              "my_classes": {
+                "href": "/users/750642769/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/750642769/completions",
+                "title": "Completions for User: 750642769"
+              },
+              "discussions": {
+                "href": "/users/750642769/discussions",
+                "title": "Discussions for User: 750642769"
+              },
+              "followers": {
+                "href": "/users/750642769/followers",
+                "title": "Followers for User: 750642769"
+              },
+              "following": {
+                "href": "/users/750642769/following",
+                "title": "Following for User: 750642769"
+              },
+              "notifications": {
+                "href": "/users/750642769/notifications",
+                "title": "Notifications for User: 750642769"
+              },
+              "projects": {
+                "href": "/users/750642769/projects",
+                "title": "Projects for User: 750642769"
+              },
+              "rosters": {
+                "href": "/users/750642769/rosters",
+                "title": "Rosters for User: 750642769"
+              },
+              "userTags": {
+                "href": "/users/750642769/userTags",
+                "title": "UserTags for User: 750642769"
+              },
+              "votes": {
+                "href": "/users/750642769/votes",
+                "title": "Votes for User: 750642769"
+              },
+              "wishlist": {
+                "href": "/users/750642769/wishlist",
+                "title": "Wishlist for User: 750642769"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578297,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODI5NyJ9",
+        "sku": 813909310,
+        "title": "Watercolor Painting - Practice Fundamentals & Water Control w/ Popsicles",
+        "project_title": "For the class project, I'd like you to paint the popsicle in the class (or a different subject of your choice).",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/33591f656a4ddd8c5675ee6a978c959d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/33591f656a4ddd8c5675ee6a978c959d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/33591f656a4ddd8c5675ee6a978c959d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolor-Painting-Practice-Fundamentals-Water-Control-w-Popsicles/813909310",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "1h 28m",
+        "total_videos_duration_seconds": 5273,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 321,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 12, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/813909310",
+            "title": "Watercolor Painting - Practice Fundamentals & Water Control w/ Popsicles"
+          },
+          "teacher": {
+            "href": "/users/605611160",
+            "title": "Tanja Jensen - Artist - Sculpting, drawing and painting"
+          },
+          "units": {
+            "href": "/classes/813909310/units",
+            "title": "Units for Class: 813909310"
+          },
+          "sessions": {
+            "href": "/classes/813909310/sessions",
+            "title": "Sessions for Class: 813909310"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/813909310/students",
+            "title": "Students for Class: 813909310"
+          },
+          "projects": {
+            "href": "/classes/813909310/projects",
+            "title": "Projects for Class: 813909310"
+          },
+          "reviews": {
+            "href": "/classes/813909310/reviews",
+            "title": "Reviews for Class: 813909310"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 20981849,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjA5ODE4NDkifQ==",
+            "username": 605611160,
+            "first_name": "Tanja",
+            "last_name": "Jensen",
+            "full_name": "Tanja Jensen",
+            "vanity_username": null,
+            "headline": "Artist - Sculpting, drawing and painting",
+            "pic": "https://static.skillshare.com/uploads/users/605611160/user-image-medium.jpg?1105015765",
+            "pic_sm": "https://static.skillshare.com/uploads/users/605611160/user-image-small.jpg?734409126",
+            "pic_lg": "https://static.skillshare.com/uploads/users/605611160/user-image-large.jpg?240971403",
+            "_links": {
+              "self": {
+                "href": "/users/605611160",
+                "title": "Tanja Jensen - Artist - Sculpting, drawing and painting"
+              },
+              "my_classes": {
+                "href": "/users/605611160/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/605611160/completions",
+                "title": "Completions for User: 605611160"
+              },
+              "discussions": {
+                "href": "/users/605611160/discussions",
+                "title": "Discussions for User: 605611160"
+              },
+              "followers": {
+                "href": "/users/605611160/followers",
+                "title": "Followers for User: 605611160"
+              },
+              "following": {
+                "href": "/users/605611160/following",
+                "title": "Following for User: 605611160"
+              },
+              "notifications": {
+                "href": "/users/605611160/notifications",
+                "title": "Notifications for User: 605611160"
+              },
+              "projects": {
+                "href": "/users/605611160/projects",
+                "title": "Projects for User: 605611160"
+              },
+              "rosters": {
+                "href": "/users/605611160/rosters",
+                "title": "Rosters for User: 605611160"
+              },
+              "userTags": {
+                "href": "/users/605611160/userTags",
+                "title": "UserTags for User: 605611160"
+              },
+              "votes": {
+                "href": "/users/605611160/votes",
+                "title": "Votes for User: 605611160"
+              },
+              "wishlist": {
+                "href": "/users/605611160/wishlist",
+                "title": "Wishlist for User: 605611160"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578301,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODMwMSJ9",
+        "sku": 485140330,
+        "title": "Facebook Ads Guide pour entreprise avec Meta Business Suite [EN FRANÇAIS]",
+        "project_title": "Projets à réaliser : Se préparer à lancer son activité en ligne",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a5c646059f0c4aad3ed66f162b19bcb0/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a5c646059f0c4aad3ed66f162b19bcb0/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a5c646059f0c4aad3ed66f162b19bcb0/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Facebook-Ads-Guide-pour-entreprise-avec-Meta-Business-Suite-EN-FRAN%C3%87AIS/485140330",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 61,
+        "total_videos_duration": "9h 27m",
+        "total_videos_duration_seconds": 34044,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 103,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 4, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/485140330",
+            "title": "Facebook Ads Guide pour entreprise avec Meta Business Suite [EN FRANÇAIS]"
+          },
+          "teacher": {
+            "href": "/users/509303199",
+            "title": "Dr. Firas - Europe Innovation - Docteur en Système d'Information"
+          },
+          "units": {
+            "href": "/classes/485140330/units",
+            "title": "Units for Class: 485140330"
+          },
+          "sessions": {
+            "href": "/classes/485140330/sessions",
+            "title": "Sessions for Class: 485140330"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/485140330/students",
+            "title": "Students for Class: 485140330"
+          },
+          "projects": {
+            "href": "/classes/485140330/projects",
+            "title": "Projects for Class: 485140330"
+          },
+          "reviews": {
+            "href": "/classes/485140330/reviews",
+            "title": "Reviews for Class: 485140330"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 12494223,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTI0OTQyMjMifQ==",
+            "username": 509303199,
+            "first_name": "Dr. Firas",
+            "last_name": "- Europe Innovation",
+            "full_name": "Dr. Firas - Europe Innovation",
+            "vanity_username": null,
+            "headline": "Docteur en Système d'Information",
+            "pic": "https://static.skillshare.com/uploads/users/509303199/user-image-medium.png?571529602",
+            "pic_sm": "https://static.skillshare.com/uploads/users/509303199/user-image-small.png?1497298273",
+            "pic_lg": "https://static.skillshare.com/uploads/users/509303199/user-image-large.png?308685958",
+            "_links": {
+              "self": {
+                "href": "/users/509303199",
+                "title": "Dr. Firas - Europe Innovation - Docteur en Système d'Information"
+              },
+              "my_classes": {
+                "href": "/users/509303199/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/509303199/completions",
+                "title": "Completions for User: 509303199"
+              },
+              "discussions": {
+                "href": "/users/509303199/discussions",
+                "title": "Discussions for User: 509303199"
+              },
+              "followers": {
+                "href": "/users/509303199/followers",
+                "title": "Followers for User: 509303199"
+              },
+              "following": {
+                "href": "/users/509303199/following",
+                "title": "Following for User: 509303199"
+              },
+              "notifications": {
+                "href": "/users/509303199/notifications",
+                "title": "Notifications for User: 509303199"
+              },
+              "projects": {
+                "href": "/users/509303199/projects",
+                "title": "Projects for User: 509303199"
+              },
+              "rosters": {
+                "href": "/users/509303199/rosters",
+                "title": "Rosters for User: 509303199"
+              },
+              "userTags": {
+                "href": "/users/509303199/userTags",
+                "title": "UserTags for User: 509303199"
+              },
+              "votes": {
+                "href": "/users/509303199/votes",
+                "title": "Votes for User: 509303199"
+              },
+              "wishlist": {
+                "href": "/users/509303199/wishlist",
+                "title": "Wishlist for User: 509303199"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578322,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODMyMiJ9",
+        "sku": 567417600,
+        "title": "Modern Watercolor Animals: Explore Different Watercolor Techniques with Bold and Vibrant Colors",
+        "project_title": "We will be using different water based materials to create 10 different and vibrantly colored pet animals. Post your creative animals down below!\nCard Sizes\n\n4. 38\" x 5. 75\n4. 637\" x 6. 5\"\n5. 127\" x 7",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6307611273112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6307611273112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6307611273112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Modern-Watercolor-Animals-Explore-Different-Watercolor-Techniques-with-Bold-and-Vibrant-Colors/567417600",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "2h 24m",
+        "total_videos_duration_seconds": 8647,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 143,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 5, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/567417600",
+            "title": "Modern Watercolor Animals: Explore Different Watercolor Techniques with Bold and Vibrant Colors"
+          },
+          "teacher": {
+            "href": "/users/823836798",
+            "title": "Shalina Chranya"
+          },
+          "units": {
+            "href": "/classes/567417600/units",
+            "title": "Units for Class: 567417600"
+          },
+          "sessions": {
+            "href": "/classes/567417600/sessions",
+            "title": "Sessions for Class: 567417600"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/567417600/students",
+            "title": "Students for Class: 567417600"
+          },
+          "projects": {
+            "href": "/classes/567417600/projects",
+            "title": "Projects for Class: 567417600"
+          },
+          "reviews": {
+            "href": "/classes/567417600/reviews",
+            "title": "Reviews for Class: 567417600"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18567590,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTg1Njc1OTAifQ==",
+            "username": 823836798,
+            "first_name": "Shalina",
+            "last_name": "Chranya",
+            "full_name": "Shalina Chranya",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/823836798/user-image-medium.jpg?950846237",
+            "pic_sm": "https://static.skillshare.com/uploads/users/823836798/user-image-small.jpg?1957666806",
+            "pic_lg": "https://static.skillshare.com/uploads/users/823836798/user-image-large.jpg?447646456",
+            "_links": {
+              "self": {
+                "href": "/users/823836798",
+                "title": "Shalina Chranya"
+              },
+              "my_classes": {
+                "href": "/users/823836798/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/823836798/completions",
+                "title": "Completions for User: 823836798"
+              },
+              "discussions": {
+                "href": "/users/823836798/discussions",
+                "title": "Discussions for User: 823836798"
+              },
+              "followers": {
+                "href": "/users/823836798/followers",
+                "title": "Followers for User: 823836798"
+              },
+              "following": {
+                "href": "/users/823836798/following",
+                "title": "Following for User: 823836798"
+              },
+              "notifications": {
+                "href": "/users/823836798/notifications",
+                "title": "Notifications for User: 823836798"
+              },
+              "projects": {
+                "href": "/users/823836798/projects",
+                "title": "Projects for User: 823836798"
+              },
+              "rosters": {
+                "href": "/users/823836798/rosters",
+                "title": "Rosters for User: 823836798"
+              },
+              "userTags": {
+                "href": "/users/823836798/userTags",
+                "title": "UserTags for User: 823836798"
+              },
+              "votes": {
+                "href": "/users/823836798/votes",
+                "title": "Votes for User: 823836798"
+              },
+              "wishlist": {
+                "href": "/users/823836798/wishlist",
+                "title": "Wishlist for User: 823836798"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 578323,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3ODMyMyJ9",
+        "sku": 344419520,
+        "title": "Graphic Design: A Complete Guide to Finding Opportunities",
+        "project_title": "We will do a live project together. The way to success in Graphic Designing lies :",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/10b7f852f148c0b532b9283c5545ba23/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/10b7f852f148c0b532b9283c5545ba23/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/10b7f852f148c0b532b9283c5545ba23/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Graphic-Design-A-Complete-Guide-to-Finding-Opportunities/344419520",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "21m",
+        "total_videos_duration_seconds": 1284,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 104,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 7, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/344419520",
+            "title": "Graphic Design: A Complete Guide to Finding Opportunities"
+          },
+          "teacher": {
+            "href": "/users/985832958",
+            "title": "Ragini Deshmukh - Artist, Designer & Educator"
+          },
+          "units": {
+            "href": "/classes/344419520/units",
+            "title": "Units for Class: 344419520"
+          },
+          "sessions": {
+            "href": "/classes/344419520/sessions",
+            "title": "Sessions for Class: 344419520"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/344419520/students",
+            "title": "Students for Class: 344419520"
+          },
+          "projects": {
+            "href": "/classes/344419520/projects",
+            "title": "Projects for Class: 344419520"
+          },
+          "reviews": {
+            "href": "/classes/344419520/reviews",
+            "title": "Reviews for Class: 344419520"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 24051978,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjQwNTE5NzgifQ==",
+            "username": 985832958,
+            "first_name": "Ragini",
+            "last_name": "Deshmukh",
+            "full_name": "Ragini Deshmukh",
+            "vanity_username": "raginideshmukh",
+            "headline": "Artist, Designer & Educator",
+            "pic": "https://static.skillshare.com/uploads/users/985832958/user-image-medium.jpg?1420787722",
+            "pic_sm": "https://static.skillshare.com/uploads/users/985832958/user-image-small.jpg?1860569057",
+            "pic_lg": "https://static.skillshare.com/uploads/users/985832958/user-image-large.jpg?1228097357",
+            "_links": {
+              "self": {
+                "href": "/users/985832958",
+                "title": "Ragini Deshmukh - Artist, Designer & Educator"
+              },
+              "my_classes": {
+                "href": "/users/985832958/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/985832958/completions",
+                "title": "Completions for User: 985832958"
+              },
+              "discussions": {
+                "href": "/users/985832958/discussions",
+                "title": "Discussions for User: 985832958"
+              },
+              "followers": {
+                "href": "/users/985832958/followers",
+                "title": "Followers for User: 985832958"
+              },
+              "following": {
+                "href": "/users/985832958/following",
+                "title": "Following for User: 985832958"
+              },
+              "notifications": {
+                "href": "/users/985832958/notifications",
+                "title": "Notifications for User: 985832958"
+              },
+              "projects": {
+                "href": "/users/985832958/projects",
+                "title": "Projects for User: 985832958"
+              },
+              "rosters": {
+                "href": "/users/985832958/rosters",
+                "title": "Rosters for User: 985832958"
+              },
+              "userTags": {
+                "href": "/users/985832958/userTags",
+                "title": "UserTags for User: 985832958"
+              },
+              "votes": {
+                "href": "/users/985832958/votes",
+                "title": "Votes for User: 985832958"
+              },
+              "wishlist": {
+                "href": "/users/985832958/wishlist",
+                "title": "Wishlist for User: 985832958"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

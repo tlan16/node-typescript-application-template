@@ -1,0 +1,37 @@
+# node packages
+node_modules
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Jetbrain
+.idea/workspace.xml
+.ideausage.statistics.xml
+.idea/shelf
+.iml
+
+# OS
+.DS_Store
+
+# Build
+dist
+
+# Coverage
+/coverage
+
+# Logs
+*.log
+
+# Temp folder
+/temp
+/tmp
+
+# Lint
+.eslintcache
+
+# Typescript
+tsconfig.tsbuildinfo

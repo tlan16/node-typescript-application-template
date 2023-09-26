@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1434",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1433",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1435",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 574937,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDkzNyJ9",
+        "sku": 154030206,
+        "title": "Effective Delegation and Supervision: Tips, Tools, Strategies, Language and Speech.",
+        "project_title": "The Class Project:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/52c604b4d913f7ced4fb562b3b3d0c78/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/52c604b4d913f7ced4fb562b3b3d0c78/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/52c604b4d913f7ced4fb562b3b3d0c78/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Effective-Delegation-and-Supervision-Tips-Tools-Strategies-Language-and-Speech/154030206",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "15m",
+        "total_videos_duration_seconds": 878,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 25,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 15, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/154030206",
+            "title": "Effective Delegation and Supervision: Tips, Tools, Strategies, Language and Speech."
+          },
+          "teacher": {
+            "href": "/users/5553492",
+            "title": "Ujjwal (Coachuj) Khadka - Executive Coach and a Published Author."
+          },
+          "units": {
+            "href": "/classes/154030206/units",
+            "title": "Units for Class: 154030206"
+          },
+          "sessions": {
+            "href": "/classes/154030206/sessions",
+            "title": "Sessions for Class: 154030206"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/154030206/students",
+            "title": "Students for Class: 154030206"
+          },
+          "projects": {
+            "href": "/classes/154030206/projects",
+            "title": "Projects for Class: 154030206"
+          },
+          "reviews": {
+            "href": "/classes/154030206/reviews",
+            "title": "Reviews for Class: 154030206"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3212741,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzIxMjc0MSJ9",
+            "username": 5553492,
+            "first_name": "Ujjwal (Coachuj)",
+            "last_name": "Khadka",
+            "full_name": "Ujjwal (Coachuj) Khadka",
+            "vanity_username": null,
+            "headline": "Executive Coach and a Published Author.",
+            "pic": "https://static.skillshare.com/uploads/users/5553492/user-image-medium.jpg?682255744",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5553492/user-image-small.jpg?1549720779",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5553492/user-image-large.jpg?1507914850",
+            "_links": {
+              "self": {
+                "href": "/users/5553492",
+                "title": "Ujjwal (Coachuj) Khadka - Executive Coach and a Published Author."
+              },
+              "my_classes": {
+                "href": "/users/5553492/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5553492/completions",
+                "title": "Completions for User: 5553492"
+              },
+              "discussions": {
+                "href": "/users/5553492/discussions",
+                "title": "Discussions for User: 5553492"
+              },
+              "followers": {
+                "href": "/users/5553492/followers",
+                "title": "Followers for User: 5553492"
+              },
+              "following": {
+                "href": "/users/5553492/following",
+                "title": "Following for User: 5553492"
+              },
+              "notifications": {
+                "href": "/users/5553492/notifications",
+                "title": "Notifications for User: 5553492"
+              },
+              "projects": {
+                "href": "/users/5553492/projects",
+                "title": "Projects for User: 5553492"
+              },
+              "rosters": {
+                "href": "/users/5553492/rosters",
+                "title": "Rosters for User: 5553492"
+              },
+              "userTags": {
+                "href": "/users/5553492/userTags",
+                "title": "UserTags for User: 5553492"
+              },
+              "votes": {
+                "href": "/users/5553492/votes",
+                "title": "Votes for User: 5553492"
+              },
+              "wishlist": {
+                "href": "/users/5553492/wishlist",
+                "title": "Wishlist for User: 5553492"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574942,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDk0MiJ9",
+        "sku": 236674587,
+        "title": "Notion for Teachers",
+        "project_title": "For your project, use your new Notion Skills to make and develop your own, personalised woorkspace and share it in the project gallery (:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/742207ba99f6c8bb49c98a4487654003/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/742207ba99f6c8bb49c98a4487654003/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/742207ba99f6c8bb49c98a4487654003/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Notion-for-Teachers/236674587",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 24,
+        "total_videos_duration": "1h 51m",
+        "total_videos_duration_seconds": 6687,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 191,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/236674587",
+            "title": "Notion for Teachers"
+          },
+          "teacher": {
+            "href": "/users/949379640",
+            "title": "Wesley Lacey"
+          },
+          "units": {
+            "href": "/classes/236674587/units",
+            "title": "Units for Class: 236674587"
+          },
+          "sessions": {
+            "href": "/classes/236674587/sessions",
+            "title": "Sessions for Class: 236674587"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/236674587/students",
+            "title": "Students for Class: 236674587"
+          },
+          "projects": {
+            "href": "/classes/236674587/projects",
+            "title": "Projects for Class: 236674587"
+          },
+          "reviews": {
+            "href": "/classes/236674587/reviews",
+            "title": "Reviews for Class: 236674587"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 18915586,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTg5MTU1ODYifQ==",
+            "username": 949379640,
+            "first_name": "Wesley",
+            "last_name": "Lacey",
+            "full_name": "Wesley Lacey",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/949379640/user-image-medium.jpg?1232189776",
+            "pic_sm": "https://static.skillshare.com/uploads/users/949379640/user-image-small.jpg?339670230",
+            "pic_lg": "https://static.skillshare.com/uploads/users/949379640/user-image-large.jpg?1444786229",
+            "_links": {
+              "self": {
+                "href": "/users/949379640",
+                "title": "Wesley Lacey"
+              },
+              "my_classes": {
+                "href": "/users/949379640/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/949379640/completions",
+                "title": "Completions for User: 949379640"
+              },
+              "discussions": {
+                "href": "/users/949379640/discussions",
+                "title": "Discussions for User: 949379640"
+              },
+              "followers": {
+                "href": "/users/949379640/followers",
+                "title": "Followers for User: 949379640"
+              },
+              "following": {
+                "href": "/users/949379640/following",
+                "title": "Following for User: 949379640"
+              },
+              "notifications": {
+                "href": "/users/949379640/notifications",
+                "title": "Notifications for User: 949379640"
+              },
+              "projects": {
+                "href": "/users/949379640/projects",
+                "title": "Projects for User: 949379640"
+              },
+              "rosters": {
+                "href": "/users/949379640/rosters",
+                "title": "Rosters for User: 949379640"
+              },
+              "userTags": {
+                "href": "/users/949379640/userTags",
+                "title": "UserTags for User: 949379640"
+              },
+              "votes": {
+                "href": "/users/949379640/votes",
+                "title": "Votes for User: 949379640"
+              },
+              "wishlist": {
+                "href": "/users/949379640/wishlist",
+                "title": "Wishlist for User: 949379640"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574946,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDk0NiJ9",
+        "sku": 874512074,
+        "title": "Synthesis and Sound Design for Music Production and Composition: The Complete Beginner's Guide",
+        "project_title": "Share your sounds, Vital presets and/or complete compositions with the class.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ec6efda2f40177b1dd3f62bc6ced5fc2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ec6efda2f40177b1dd3f62bc6ced5fc2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ec6efda2f40177b1dd3f62bc6ced5fc2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Synthesis-and-Sound-Design-for-Music-Production-and-Composition-The-Complete-Beginners-Guide/874512074",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 58,
+        "total_videos_duration": "6h 27m",
+        "total_videos_duration_seconds": 23234,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 274,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 14, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/874512074",
+            "title": "Synthesis and Sound Design for Music Production and Composition: The Complete Beginner's Guide"
+          },
+          "teacher": {
+            "href": "/users/600932762",
+            "title": "Steve Lydford - Music, Sound Design and Productivity"
+          },
+          "units": {
+            "href": "/classes/874512074/units",
+            "title": "Units for Class: 874512074"
+          },
+          "sessions": {
+            "href": "/classes/874512074/sessions",
+            "title": "Sessions for Class: 874512074"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/874512074/students",
+            "title": "Students for Class: 874512074"
+          },
+          "projects": {
+            "href": "/classes/874512074/projects",
+            "title": "Projects for Class: 874512074"
+          },
+          "reviews": {
+            "href": "/classes/874512074/reviews",
+            "title": "Reviews for Class: 874512074"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19091076,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTkwOTEwNzYifQ==",
+            "username": 600932762,
+            "first_name": "Steve",
+            "last_name": "Lydford",
+            "full_name": "Steve Lydford",
+            "vanity_username": null,
+            "headline": "Music, Sound Design and Productivity",
+            "pic": "https://static.skillshare.com/uploads/users/600932762/user-image-medium.jpg?1529216339",
+            "pic_sm": "https://static.skillshare.com/uploads/users/600932762/user-image-small.jpg?1411099881",
+            "pic_lg": "https://static.skillshare.com/uploads/users/600932762/user-image-large.jpg?1938989156",
+            "_links": {
+              "self": {
+                "href": "/users/600932762",
+                "title": "Steve Lydford - Music, Sound Design and Productivity"
+              },
+              "my_classes": {
+                "href": "/users/600932762/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/600932762/completions",
+                "title": "Completions for User: 600932762"
+              },
+              "discussions": {
+                "href": "/users/600932762/discussions",
+                "title": "Discussions for User: 600932762"
+              },
+              "followers": {
+                "href": "/users/600932762/followers",
+                "title": "Followers for User: 600932762"
+              },
+              "following": {
+                "href": "/users/600932762/following",
+                "title": "Following for User: 600932762"
+              },
+              "notifications": {
+                "href": "/users/600932762/notifications",
+                "title": "Notifications for User: 600932762"
+              },
+              "projects": {
+                "href": "/users/600932762/projects",
+                "title": "Projects for User: 600932762"
+              },
+              "rosters": {
+                "href": "/users/600932762/rosters",
+                "title": "Rosters for User: 600932762"
+              },
+              "userTags": {
+                "href": "/users/600932762/userTags",
+                "title": "UserTags for User: 600932762"
+              },
+              "votes": {
+                "href": "/users/600932762/votes",
+                "title": "Votes for User: 600932762"
+              },
+              "wishlist": {
+                "href": "/users/600932762/wishlist",
+                "title": "Wishlist for User: 600932762"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574953,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDk1MyJ9",
+        "sku": 1869025816,
+        "title": "Balancing Your Side Hustle with Your Full-Time Job: A  Short Practical Guide",
+        "project_title": "Follow along with the lessons and figure out how much free time you have to allocate towards your side hustle and work that into your calendar.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f856cc398f8b0bc6d1bf3d50db9de679/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f856cc398f8b0bc6d1bf3d50db9de679/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f856cc398f8b0bc6d1bf3d50db9de679/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Balancing-Your-Side-Hustle-with-Your-Full-Time-Job-A-Short-Practical-Guide/1869025816",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "21m",
+        "total_videos_duration_seconds": 1248,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 602,
+        "num_projects": 4,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 15, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1869025816",
+            "title": "Balancing Your Side Hustle with Your Full-Time Job: A  Short Practical Guide"
+          },
+          "teacher": {
+            "href": "/users/580093704",
+            "title": "Lámidé Elizabeth - Banker, Investor & Content Creator"
+          },
+          "units": {
+            "href": "/classes/1869025816/units",
+            "title": "Units for Class: 1869025816"
+          },
+          "sessions": {
+            "href": "/classes/1869025816/sessions",
+            "title": "Sessions for Class: 1869025816"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1869025816/students",
+            "title": "Students for Class: 1869025816"
+          },
+          "projects": {
+            "href": "/classes/1869025816/projects",
+            "title": "Projects for Class: 1869025816"
+          },
+          "reviews": {
+            "href": "/classes/1869025816/reviews",
+            "title": "Reviews for Class: 1869025816"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25828001,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjU4MjgwMDEifQ==",
+            "username": 580093704,
+            "first_name": "Lámidé",
+            "last_name": "Elizabeth",
+            "full_name": "Lámidé Elizabeth",
+            "vanity_username": "lamideelizabeth",
+            "headline": "Banker, Investor & Content Creator",
+            "pic": "https://static.skillshare.com/uploads/users/580093704/user-image-medium.jpg?440961340",
+            "pic_sm": "https://static.skillshare.com/uploads/users/580093704/user-image-small.jpg?1342080980",
+            "pic_lg": "https://static.skillshare.com/uploads/users/580093704/user-image-large.jpg?1886937059",
+            "_links": {
+              "self": {
+                "href": "/users/580093704",
+                "title": "Lámidé Elizabeth - Banker, Investor & Content Creator"
+              },
+              "my_classes": {
+                "href": "/users/580093704/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/580093704/completions",
+                "title": "Completions for User: 580093704"
+              },
+              "discussions": {
+                "href": "/users/580093704/discussions",
+                "title": "Discussions for User: 580093704"
+              },
+              "followers": {
+                "href": "/users/580093704/followers",
+                "title": "Followers for User: 580093704"
+              },
+              "following": {
+                "href": "/users/580093704/following",
+                "title": "Following for User: 580093704"
+              },
+              "notifications": {
+                "href": "/users/580093704/notifications",
+                "title": "Notifications for User: 580093704"
+              },
+              "projects": {
+                "href": "/users/580093704/projects",
+                "title": "Projects for User: 580093704"
+              },
+              "rosters": {
+                "href": "/users/580093704/rosters",
+                "title": "Rosters for User: 580093704"
+              },
+              "userTags": {
+                "href": "/users/580093704/userTags",
+                "title": "UserTags for User: 580093704"
+              },
+              "votes": {
+                "href": "/users/580093704/votes",
+                "title": "Votes for User: 580093704"
+              },
+              "wishlist": {
+                "href": "/users/580093704/wishlist",
+                "title": "Wishlist for User: 580093704"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574955,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDk1NSJ9",
+        "sku": 1283433265,
+        "title": "Solidity Essentials: Web3 Development Blockchain Programming",
+        "project_title": "After you finished watching all the lessons in this course, then review the project below,  and then implement the steps mentioned in it.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c56c1d769a20b6e64d156784c1c6d3f8/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c56c1d769a20b6e64d156784c1c6d3f8/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c56c1d769a20b6e64d156784c1c6d3f8/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Solidity-Essentials-Web3-Development-Blockchain-Programming/1283433265",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 20,
+        "total_videos_duration": "1h 4m",
+        "total_videos_duration_seconds": 3831,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 59,
+        "num_projects": 0,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "10 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1283433265",
+            "title": "Solidity Essentials: Web3 Development Blockchain Programming"
+          },
+          "teacher": {
+            "href": "/users/8617535",
+            "title": "Amir Rimer - My great passion in life is to teach others"
+          },
+          "units": {
+            "href": "/classes/1283433265/units",
+            "title": "Units for Class: 1283433265"
+          },
+          "sessions": {
+            "href": "/classes/1283433265/sessions",
+            "title": "Sessions for Class: 1283433265"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1283433265/students",
+            "title": "Students for Class: 1283433265"
+          },
+          "projects": {
+            "href": "/classes/1283433265/projects",
+            "title": "Projects for Class: 1283433265"
+          },
+          "reviews": {
+            "href": "/classes/1283433265/reviews",
+            "title": "Reviews for Class: 1283433265"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 402858,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDAyODU4In0=",
+            "username": 8617535,
+            "first_name": "Amir",
+            "last_name": "Rimer",
+            "full_name": "Amir Rimer",
+            "vanity_username": "askinstructor",
+            "headline": "My great passion in life is to teach others",
+            "pic": "https://static.skillshare.com/uploads/users/8617535/user-image-medium.png?687560653",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8617535/user-image-small.png?1371540081",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8617535/user-image-large.png?1430537580",
+            "_links": {
+              "self": {
+                "href": "/users/8617535",
+                "title": "Amir Rimer - My great passion in life is to teach others"
+              },
+              "my_classes": {
+                "href": "/users/8617535/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8617535/completions",
+                "title": "Completions for User: 8617535"
+              },
+              "discussions": {
+                "href": "/users/8617535/discussions",
+                "title": "Discussions for User: 8617535"
+              },
+              "followers": {
+                "href": "/users/8617535/followers",
+                "title": "Followers for User: 8617535"
+              },
+              "following": {
+                "href": "/users/8617535/following",
+                "title": "Following for User: 8617535"
+              },
+              "notifications": {
+                "href": "/users/8617535/notifications",
+                "title": "Notifications for User: 8617535"
+              },
+              "projects": {
+                "href": "/users/8617535/projects",
+                "title": "Projects for User: 8617535"
+              },
+              "rosters": {
+                "href": "/users/8617535/rosters",
+                "title": "Rosters for User: 8617535"
+              },
+              "userTags": {
+                "href": "/users/8617535/userTags",
+                "title": "UserTags for User: 8617535"
+              },
+              "votes": {
+                "href": "/users/8617535/votes",
+                "title": "Votes for User: 8617535"
+              },
+              "wishlist": {
+                "href": "/users/8617535/wishlist",
+                "title": "Wishlist for User: 8617535"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574956,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDk1NiJ9",
+        "sku": 429456654,
+        "title": "Draw Using Grids - Drawing Lesson for Kids",
+        "project_title": "Practice drawing the Mickey Mouse using grids by downloading the original picture and the grid file.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/540f19181a7b25bdbae8642351953a3e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/540f19181a7b25bdbae8642351953a3e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/540f19181a7b25bdbae8642351953a3e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Draw-Using-Grids-Drawing-Lesson-for-Kids/429456654",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "26m",
+        "total_videos_duration_seconds": 1544,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 25,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/429456654",
+            "title": "Draw Using Grids - Drawing Lesson for Kids"
+          },
+          "teacher": {
+            "href": "/users/158076955",
+            "title": "Abinaya Sindhu - BooBooPaintz"
+          },
+          "units": {
+            "href": "/classes/429456654/units",
+            "title": "Units for Class: 429456654"
+          },
+          "sessions": {
+            "href": "/classes/429456654/sessions",
+            "title": "Sessions for Class: 429456654"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/429456654/students",
+            "title": "Students for Class: 429456654"
+          },
+          "projects": {
+            "href": "/classes/429456654/projects",
+            "title": "Projects for Class: 429456654"
+          },
+          "reviews": {
+            "href": "/classes/429456654/reviews",
+            "title": "Reviews for Class: 429456654"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13076419,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTMwNzY0MTkifQ==",
+            "username": 158076955,
+            "first_name": "Abinaya",
+            "last_name": "Sindhu",
+            "full_name": "Abinaya Sindhu",
+            "vanity_username": "booboopaintz",
+            "headline": "BooBooPaintz",
+            "pic": "https://static.skillshare.com/uploads/users/158076955/user-image-medium.png?957030483",
+            "pic_sm": "https://static.skillshare.com/uploads/users/158076955/user-image-small.png?1295864074",
+            "pic_lg": "https://static.skillshare.com/uploads/users/158076955/user-image-large.png?1826696943",
+            "_links": {
+              "self": {
+                "href": "/users/158076955",
+                "title": "Abinaya Sindhu - BooBooPaintz"
+              },
+              "my_classes": {
+                "href": "/users/158076955/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/158076955/completions",
+                "title": "Completions for User: 158076955"
+              },
+              "discussions": {
+                "href": "/users/158076955/discussions",
+                "title": "Discussions for User: 158076955"
+              },
+              "followers": {
+                "href": "/users/158076955/followers",
+                "title": "Followers for User: 158076955"
+              },
+              "following": {
+                "href": "/users/158076955/following",
+                "title": "Following for User: 158076955"
+              },
+              "notifications": {
+                "href": "/users/158076955/notifications",
+                "title": "Notifications for User: 158076955"
+              },
+              "projects": {
+                "href": "/users/158076955/projects",
+                "title": "Projects for User: 158076955"
+              },
+              "rosters": {
+                "href": "/users/158076955/rosters",
+                "title": "Rosters for User: 158076955"
+              },
+              "userTags": {
+                "href": "/users/158076955/userTags",
+                "title": "UserTags for User: 158076955"
+              },
+              "votes": {
+                "href": "/users/158076955/votes",
+                "title": "Votes for User: 158076955"
+              },
+              "wishlist": {
+                "href": "/users/158076955/wishlist",
+                "title": "Wishlist for User: 158076955"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574957,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDk1NyJ9",
+        "sku": 88343364,
+        "title": "Learning Voice Acting/ Voice Impressions- For Advanced",
+        "project_title": "Upload a clip of your favorite voice that you have been working on. Be sure to post a clear and understandable video and to comment on your classmates videos as well to show support,",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6306157835112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6306157835112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6306157835112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learning-Voice-Acting-Voice-Impressions-For-Advanced/88343364",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "35m",
+        "total_videos_duration_seconds": 2080,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 66,
+        "num_projects": 1,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 14, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/88343364",
+            "title": "Learning Voice Acting/ Voice Impressions- For Advanced"
+          },
+          "teacher": {
+            "href": "/users/830466637",
+            "title": "MJ Christensen - Actor/ Voice Actor"
+          },
+          "units": {
+            "href": "/classes/88343364/units",
+            "title": "Units for Class: 88343364"
+          },
+          "sessions": {
+            "href": "/classes/88343364/sessions",
+            "title": "Sessions for Class: 88343364"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/88343364/students",
+            "title": "Students for Class: 88343364"
+          },
+          "projects": {
+            "href": "/classes/88343364/projects",
+            "title": "Projects for Class: 88343364"
+          },
+          "reviews": {
+            "href": "/classes/88343364/reviews",
+            "title": "Reviews for Class: 88343364"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 23032890,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjMwMzI4OTAifQ==",
+            "username": 830466637,
+            "first_name": "MJ",
+            "last_name": "Christensen",
+            "full_name": "MJ Christensen",
+            "vanity_username": "mjclark",
+            "headline": "Actor/ Voice Actor",
+            "pic": "https://static.skillshare.com/uploads/users/830466637/user-image-medium.jpg?1711798543",
+            "pic_sm": "https://static.skillshare.com/uploads/users/830466637/user-image-small.jpg?1282007529",
+            "pic_lg": "https://static.skillshare.com/uploads/users/830466637/user-image-large.jpg?333386274",
+            "_links": {
+              "self": {
+                "href": "/users/830466637",
+                "title": "MJ Christensen - Actor/ Voice Actor"
+              },
+              "my_classes": {
+                "href": "/users/830466637/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/830466637/completions",
+                "title": "Completions for User: 830466637"
+              },
+              "discussions": {
+                "href": "/users/830466637/discussions",
+                "title": "Discussions for User: 830466637"
+              },
+              "followers": {
+                "href": "/users/830466637/followers",
+                "title": "Followers for User: 830466637"
+              },
+              "following": {
+                "href": "/users/830466637/following",
+                "title": "Following for User: 830466637"
+              },
+              "notifications": {
+                "href": "/users/830466637/notifications",
+                "title": "Notifications for User: 830466637"
+              },
+              "projects": {
+                "href": "/users/830466637/projects",
+                "title": "Projects for User: 830466637"
+              },
+              "rosters": {
+                "href": "/users/830466637/rosters",
+                "title": "Rosters for User: 830466637"
+              },
+              "userTags": {
+                "href": "/users/830466637/userTags",
+                "title": "UserTags for User: 830466637"
+              },
+              "votes": {
+                "href": "/users/830466637/votes",
+                "title": "Votes for User: 830466637"
+              },
+              "wishlist": {
+                "href": "/users/830466637/wishlist",
+                "title": "Wishlist for User: 830466637"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574958,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDk1OCJ9",
+        "sku": 1523675154,
+        "title": "OIL PAINTING TUTORIAL: MISTY SHORELINE",
+        "project_title": "In this class I want you to really work at creating a painting that speaks to your soul and to use the techniques I teach you to really explore the scene that your brushes are bringing to life.   Oil ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6ecbff9586b8caed3792c3c38835c30e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6ecbff9586b8caed3792c3c38835c30e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6ecbff9586b8caed3792c3c38835c30e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/OIL-PAINTING-TUTORIAL-MISTY-SHORELINE/1523675154",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "50m",
+        "total_videos_duration_seconds": 2986,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 421,
+        "num_projects": 11,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 18, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1523675154",
+            "title": "OIL PAINTING TUTORIAL: MISTY SHORELINE"
+          },
+          "teacher": {
+            "href": "/users/247642391",
+            "title": "Sarah Mckendry - Canadian Realist Painter"
+          },
+          "units": {
+            "href": "/classes/1523675154/units",
+            "title": "Units for Class: 1523675154"
+          },
+          "sessions": {
+            "href": "/classes/1523675154/sessions",
+            "title": "Sessions for Class: 1523675154"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1523675154/students",
+            "title": "Students for Class: 1523675154"
+          },
+          "projects": {
+            "href": "/classes/1523675154/projects",
+            "title": "Projects for Class: 1523675154"
+          },
+          "reviews": {
+            "href": "/classes/1523675154/reviews",
+            "title": "Reviews for Class: 1523675154"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 9707342,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTcwNzM0MiJ9",
+            "username": 247642391,
+            "first_name": "Sarah",
+            "last_name": "Mckendry",
+            "full_name": "Sarah Mckendry",
+            "vanity_username": "artistsarahmckendry",
+            "headline": "Canadian Realist Painter",
+            "pic": "https://static.skillshare.com/uploads/users/247642391/user-image-medium.png?975302625",
+            "pic_sm": "https://static.skillshare.com/uploads/users/247642391/user-image-small.png?1345454287",
+            "pic_lg": "https://static.skillshare.com/uploads/users/247642391/user-image-large.png?992524409",
+            "_links": {
+              "self": {
+                "href": "/users/247642391",
+                "title": "Sarah Mckendry - Canadian Realist Painter"
+              },
+              "my_classes": {
+                "href": "/users/247642391/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/247642391/completions",
+                "title": "Completions for User: 247642391"
+              },
+              "discussions": {
+                "href": "/users/247642391/discussions",
+                "title": "Discussions for User: 247642391"
+              },
+              "followers": {
+                "href": "/users/247642391/followers",
+                "title": "Followers for User: 247642391"
+              },
+              "following": {
+                "href": "/users/247642391/following",
+                "title": "Following for User: 247642391"
+              },
+              "notifications": {
+                "href": "/users/247642391/notifications",
+                "title": "Notifications for User: 247642391"
+              },
+              "projects": {
+                "href": "/users/247642391/projects",
+                "title": "Projects for User: 247642391"
+              },
+              "rosters": {
+                "href": "/users/247642391/rosters",
+                "title": "Rosters for User: 247642391"
+              },
+              "userTags": {
+                "href": "/users/247642391/userTags",
+                "title": "UserTags for User: 247642391"
+              },
+              "votes": {
+                "href": "/users/247642391/votes",
+                "title": "Votes for User: 247642391"
+              },
+              "wishlist": {
+                "href": "/users/247642391/wishlist",
+                "title": "Wishlist for User: 247642391"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574960,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDk2MCJ9",
+        "sku": 1512502636,
+        "title": "Procreate Highly Textural Mixed Media Cactus Art Including 25 Brushes and Mixed Media Assets",
+        "project_title": "Project Description",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/23c6f55aa43915bd28ea715a60aa0019/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/23c6f55aa43915bd28ea715a60aa0019/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/23c6f55aa43915bd28ea715a60aa0019/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Procreate-Highly-Textural-Mixed-Media-Cactus-Art-Including-25-Brushes-and-Mixed-Media-Assets/1512502636",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 29m",
+        "total_videos_duration_seconds": 5319,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 277,
+        "num_projects": 17,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 17, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1512502636",
+            "title": "Procreate Highly Textural Mixed Media Cactus Art Including 25 Brushes and Mixed Media Assets"
+          },
+          "teacher": {
+            "href": "/users/3656902",
+            "title": "Delores Naskrent - Creative Explorer"
+          },
+          "units": {
+            "href": "/classes/1512502636/units",
+            "title": "Units for Class: 1512502636"
+          },
+          "sessions": {
+            "href": "/classes/1512502636/sessions",
+            "title": "Sessions for Class: 1512502636"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1512502636/students",
+            "title": "Students for Class: 1512502636"
+          },
+          "projects": {
+            "href": "/classes/1512502636/projects",
+            "title": "Projects for Class: 1512502636"
+          },
+          "reviews": {
+            "href": "/classes/1512502636/reviews",
+            "title": "Reviews for Class: 1512502636"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 3900428,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMzkwMDQyOCJ9",
+            "username": 3656902,
+            "first_name": "Delores",
+            "last_name": "Naskrent",
+            "full_name": "Delores Naskrent",
+            "vanity_username": null,
+            "headline": "Creative Explorer",
+            "pic": "https://static.skillshare.com/uploads/users/3656902/user-image-medium.jpg?166433333",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3656902/user-image-small.jpg?784674700",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3656902/user-image-large.jpg?599187734",
+            "_links": {
+              "self": {
+                "href": "/users/3656902",
+                "title": "Delores Naskrent - Creative Explorer"
+              },
+              "my_classes": {
+                "href": "/users/3656902/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3656902/completions",
+                "title": "Completions for User: 3656902"
+              },
+              "discussions": {
+                "href": "/users/3656902/discussions",
+                "title": "Discussions for User: 3656902"
+              },
+              "followers": {
+                "href": "/users/3656902/followers",
+                "title": "Followers for User: 3656902"
+              },
+              "following": {
+                "href": "/users/3656902/following",
+                "title": "Following for User: 3656902"
+              },
+              "notifications": {
+                "href": "/users/3656902/notifications",
+                "title": "Notifications for User: 3656902"
+              },
+              "projects": {
+                "href": "/users/3656902/projects",
+                "title": "Projects for User: 3656902"
+              },
+              "rosters": {
+                "href": "/users/3656902/rosters",
+                "title": "Rosters for User: 3656902"
+              },
+              "userTags": {
+                "href": "/users/3656902/userTags",
+                "title": "UserTags for User: 3656902"
+              },
+              "votes": {
+                "href": "/users/3656902/votes",
+                "title": "Votes for User: 3656902"
+              },
+              "wishlist": {
+                "href": "/users/3656902/wishlist",
+                "title": "Wishlist for User: 3656902"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 574962,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3NDk2MiJ9",
+        "sku": 503668940,
+        "title": "Social media influencers and intellectual property rights",
+        "project_title": "Taking into account the class content build an audit report regarding intellectual property rights you are using in social media:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/88982fdd4797aad4109ec94185ea37b1/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/88982fdd4797aad4109ec94185ea37b1/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/88982fdd4797aad4109ec94185ea37b1/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Social-media-influencers-and-intellectual-property-rights/503668940",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 51,
+        "total_videos_duration": "2h 9m",
+        "total_videos_duration_seconds": 7748,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 39,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "May 23, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/503668940",
+            "title": "Social media influencers and intellectual property rights"
+          },
+          "teacher": {
+            "href": "/users/95686394",
+            "title": "Ventsislav Stoilov - Intellectual property manager, lecturer "
+          },
+          "units": {
+            "href": "/classes/503668940/units",
+            "title": "Units for Class: 503668940"
+          },
+          "sessions": {
+            "href": "/classes/503668940/sessions",
+            "title": "Sessions for Class: 503668940"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/503668940/students",
+            "title": "Students for Class: 503668940"
+          },
+          "projects": {
+            "href": "/classes/503668940/projects",
+            "title": "Projects for Class: 503668940"
+          },
+          "reviews": {
+            "href": "/classes/503668940/reviews",
+            "title": "Reviews for Class: 503668940"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 14867369,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTQ4NjczNjkifQ==",
+            "username": 95686394,
+            "first_name": "Ventsislav",
+            "last_name": "Stoilov",
+            "full_name": "Ventsislav Stoilov",
+            "vanity_username": "ip_teacher",
+            "headline": "Intellectual property manager, lecturer ",
+            "pic": "https://static.skillshare.com/uploads/users/95686394/user-image-medium.jpg?386919134",
+            "pic_sm": "https://static.skillshare.com/uploads/users/95686394/user-image-small.jpg?1025258629",
+            "pic_lg": "https://static.skillshare.com/uploads/users/95686394/user-image-large.jpg?409309766",
+            "_links": {
+              "self": {
+                "href": "/users/95686394",
+                "title": "Ventsislav Stoilov - Intellectual property manager, lecturer "
+              },
+              "my_classes": {
+                "href": "/users/95686394/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/95686394/completions",
+                "title": "Completions for User: 95686394"
+              },
+              "discussions": {
+                "href": "/users/95686394/discussions",
+                "title": "Discussions for User: 95686394"
+              },
+              "followers": {
+                "href": "/users/95686394/followers",
+                "title": "Followers for User: 95686394"
+              },
+              "following": {
+                "href": "/users/95686394/following",
+                "title": "Following for User: 95686394"
+              },
+              "notifications": {
+                "href": "/users/95686394/notifications",
+                "title": "Notifications for User: 95686394"
+              },
+              "projects": {
+                "href": "/users/95686394/projects",
+                "title": "Projects for User: 95686394"
+              },
+              "rosters": {
+                "href": "/users/95686394/rosters",
+                "title": "Rosters for User: 95686394"
+              },
+              "userTags": {
+                "href": "/users/95686394/userTags",
+                "title": "UserTags for User: 95686394"
+              },
+              "votes": {
+                "href": "/users/95686394/votes",
+                "title": "Votes for User: 95686394"
+              },
+              "wishlist": {
+                "href": "/users/95686394/wishlist",
+                "title": "Wishlist for User: 95686394"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

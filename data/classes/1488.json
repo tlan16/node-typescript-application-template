@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1488",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1487",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1489",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 579111,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTExMSJ9",
+        "sku": 1629466390,
+        "title": "iColorama for Digital Artists to learn Five Brush Techniques to change Photos into Paintings",
+        "project_title": "Welcome to my third class using iColorama to Transform your Artwork into Amazing Images.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e1f7ce135a47b04e9ef8d07bd90aa0f4/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e1f7ce135a47b04e9ef8d07bd90aa0f4/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e1f7ce135a47b04e9ef8d07bd90aa0f4/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/iColorama-for-Digital-Artists-to-learn-Five-Brush-Techniques-to-change-Photos-into-Paintings/1629466390",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "53m",
+        "total_videos_duration_seconds": 3160,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 73,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 16, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1629466390",
+            "title": "iColorama for Digital Artists to learn Five Brush Techniques to change Photos into Paintings"
+          },
+          "teacher": {
+            "href": "/users/787065815",
+            "title": "Christine Sherborne - Artist and Author "
+          },
+          "units": {
+            "href": "/classes/1629466390/units",
+            "title": "Units for Class: 1629466390"
+          },
+          "sessions": {
+            "href": "/classes/1629466390/sessions",
+            "title": "Sessions for Class: 1629466390"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1629466390/students",
+            "title": "Students for Class: 1629466390"
+          },
+          "projects": {
+            "href": "/classes/1629466390/projects",
+            "title": "Projects for Class: 1629466390"
+          },
+          "reviews": {
+            "href": "/classes/1629466390/reviews",
+            "title": "Reviews for Class: 1629466390"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17564536,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTc1NjQ1MzYifQ==",
+            "username": 787065815,
+            "first_name": "Christine",
+            "last_name": "Sherborne",
+            "full_name": "Christine Sherborne",
+            "vanity_username": null,
+            "headline": "Artist and Author ",
+            "pic": "https://static.skillshare.com/uploads/users/787065815/user-image-medium.jpg?1821845215",
+            "pic_sm": "https://static.skillshare.com/uploads/users/787065815/user-image-small.jpg?903417373",
+            "pic_lg": "https://static.skillshare.com/uploads/users/787065815/user-image-large.jpg?1670877276",
+            "_links": {
+              "self": {
+                "href": "/users/787065815",
+                "title": "Christine Sherborne - Artist and Author "
+              },
+              "my_classes": {
+                "href": "/users/787065815/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/787065815/completions",
+                "title": "Completions for User: 787065815"
+              },
+              "discussions": {
+                "href": "/users/787065815/discussions",
+                "title": "Discussions for User: 787065815"
+              },
+              "followers": {
+                "href": "/users/787065815/followers",
+                "title": "Followers for User: 787065815"
+              },
+              "following": {
+                "href": "/users/787065815/following",
+                "title": "Following for User: 787065815"
+              },
+              "notifications": {
+                "href": "/users/787065815/notifications",
+                "title": "Notifications for User: 787065815"
+              },
+              "projects": {
+                "href": "/users/787065815/projects",
+                "title": "Projects for User: 787065815"
+              },
+              "rosters": {
+                "href": "/users/787065815/rosters",
+                "title": "Rosters for User: 787065815"
+              },
+              "userTags": {
+                "href": "/users/787065815/userTags",
+                "title": "UserTags for User: 787065815"
+              },
+              "votes": {
+                "href": "/users/787065815/votes",
+                "title": "Votes for User: 787065815"
+              },
+              "wishlist": {
+                "href": "/users/787065815/wishlist",
+                "title": "Wishlist for User: 787065815"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579128,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTEyOCJ9",
+        "sku": 269079020,
+        "title": "Introduction to . NET MAUI Development",
+        "project_title": "Develop a simple app using . NET MAUI and post your code to a GitHub Repository. This app should have four pages that can be navigated to and should feature a country being printed on each.  ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/1ec17a88d1767d4927cb11d3bbdc547d/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/1ec17a88d1767d4927cb11d3bbdc547d/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/1ec17a88d1767d4927cb11d3bbdc547d/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Introduction-to-NET-MAUI-Development/269079020",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 4m",
+        "total_videos_duration_seconds": 3828,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 101,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/269079020",
+            "title": "Introduction to . NET MAUI Development"
+          },
+          "teacher": {
+            "href": "/users/6899120",
+            "title": "Trevoir Williams - Jamaican Software Engineer"
+          },
+          "units": {
+            "href": "/classes/269079020/units",
+            "title": "Units for Class: 269079020"
+          },
+          "sessions": {
+            "href": "/classes/269079020/sessions",
+            "title": "Sessions for Class: 269079020"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/269079020/students",
+            "title": "Students for Class: 269079020"
+          },
+          "projects": {
+            "href": "/classes/269079020/projects",
+            "title": "Projects for Class: 269079020"
+          },
+          "reviews": {
+            "href": "/classes/269079020/reviews",
+            "title": "Reviews for Class: 269079020"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7838187,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzgzODE4NyJ9",
+            "username": 6899120,
+            "first_name": "Trevoir",
+            "last_name": "Williams",
+            "full_name": "Trevoir Williams",
+            "vanity_username": "trevoirwilliams",
+            "headline": "Jamaican Software Engineer",
+            "pic": "https://static.skillshare.com/uploads/users/6899120/user-image-medium.png?1632735628",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6899120/user-image-small.png?2142121119",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6899120/user-image-large.png?1648084781",
+            "_links": {
+              "self": {
+                "href": "/users/6899120",
+                "title": "Trevoir Williams - Jamaican Software Engineer"
+              },
+              "my_classes": {
+                "href": "/users/6899120/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6899120/completions",
+                "title": "Completions for User: 6899120"
+              },
+              "discussions": {
+                "href": "/users/6899120/discussions",
+                "title": "Discussions for User: 6899120"
+              },
+              "followers": {
+                "href": "/users/6899120/followers",
+                "title": "Followers for User: 6899120"
+              },
+              "following": {
+                "href": "/users/6899120/following",
+                "title": "Following for User: 6899120"
+              },
+              "notifications": {
+                "href": "/users/6899120/notifications",
+                "title": "Notifications for User: 6899120"
+              },
+              "projects": {
+                "href": "/users/6899120/projects",
+                "title": "Projects for User: 6899120"
+              },
+              "rosters": {
+                "href": "/users/6899120/rosters",
+                "title": "Rosters for User: 6899120"
+              },
+              "userTags": {
+                "href": "/users/6899120/userTags",
+                "title": "UserTags for User: 6899120"
+              },
+              "votes": {
+                "href": "/users/6899120/votes",
+                "title": "Votes for User: 6899120"
+              },
+              "wishlist": {
+                "href": "/users/6899120/wishlist",
+                "title": "Wishlist for User: 6899120"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579130,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTEzMCJ9",
+        "sku": 353130036,
+        "title": "An Introduction to the Oud",
+        "project_title": "1) At the end of this course, you will have learnt about:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6a9794dbf8528811de82d95c58dd05b7/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6a9794dbf8528811de82d95c58dd05b7/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6a9794dbf8528811de82d95c58dd05b7/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/An-Introduction-to-the-Oud/353130036",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "16m",
+        "total_videos_duration_seconds": 968,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 35,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 9, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/353130036",
+            "title": "An Introduction to the Oud"
+          },
+          "teacher": {
+            "href": "/users/685629215",
+            "title": "Kian How Yoa"
+          },
+          "units": {
+            "href": "/classes/353130036/units",
+            "title": "Units for Class: 353130036"
+          },
+          "sessions": {
+            "href": "/classes/353130036/sessions",
+            "title": "Sessions for Class: 353130036"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/353130036/students",
+            "title": "Students for Class: 353130036"
+          },
+          "projects": {
+            "href": "/classes/353130036/projects",
+            "title": "Projects for Class: 353130036"
+          },
+          "reviews": {
+            "href": "/classes/353130036/reviews",
+            "title": "Reviews for Class: 353130036"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21272511,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjEyNzI1MTEifQ==",
+            "username": 685629215,
+            "first_name": "Kian How",
+            "last_name": "Yoa",
+            "full_name": "Kian How Yoa",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/685629215",
+                "title": "Kian How Yoa"
+              },
+              "my_classes": {
+                "href": "/users/685629215/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/685629215/completions",
+                "title": "Completions for User: 685629215"
+              },
+              "discussions": {
+                "href": "/users/685629215/discussions",
+                "title": "Discussions for User: 685629215"
+              },
+              "followers": {
+                "href": "/users/685629215/followers",
+                "title": "Followers for User: 685629215"
+              },
+              "following": {
+                "href": "/users/685629215/following",
+                "title": "Following for User: 685629215"
+              },
+              "notifications": {
+                "href": "/users/685629215/notifications",
+                "title": "Notifications for User: 685629215"
+              },
+              "projects": {
+                "href": "/users/685629215/projects",
+                "title": "Projects for User: 685629215"
+              },
+              "rosters": {
+                "href": "/users/685629215/rosters",
+                "title": "Rosters for User: 685629215"
+              },
+              "userTags": {
+                "href": "/users/685629215/userTags",
+                "title": "UserTags for User: 685629215"
+              },
+              "votes": {
+                "href": "/users/685629215/votes",
+                "title": "Votes for User: 685629215"
+              },
+              "wishlist": {
+                "href": "/users/685629215/wishlist",
+                "title": "Wishlist for User: 685629215"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579146,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTE0NiJ9",
+        "sku": 848918160,
+        "title": "Digital Watercolor Illustration - Cute Kitchen Tools in Procreate - Kawaii Food Art",
+        "project_title": "Assignment:You class project will be next: to create the illustration with kawaii kitchenware, that you like and that will bring joy to your life, using the tips and brushes that I gave you today.\nMat",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ddfac5484c7daf7447e2d9dd76177b3c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ddfac5484c7daf7447e2d9dd76177b3c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ddfac5484c7daf7447e2d9dd76177b3c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Digital-Watercolor-Illustration-Cute-Kitchen-Tools-in-Procreate-Kawaii-Food-Art/848918160",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "1h 32m",
+        "total_videos_duration_seconds": 5500,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 248,
+        "num_projects": 3,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/848918160",
+            "title": "Digital Watercolor Illustration - Cute Kitchen Tools in Procreate - Kawaii Food Art"
+          },
+          "teacher": {
+            "href": "/users/4332344",
+            "title": "Inga Yoon - Digital illustrator and teacher"
+          },
+          "units": {
+            "href": "/classes/848918160/units",
+            "title": "Units for Class: 848918160"
+          },
+          "sessions": {
+            "href": "/classes/848918160/sessions",
+            "title": "Sessions for Class: 848918160"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/848918160/students",
+            "title": "Students for Class: 848918160"
+          },
+          "projects": {
+            "href": "/classes/848918160/projects",
+            "title": "Projects for Class: 848918160"
+          },
+          "reviews": {
+            "href": "/classes/848918160/reviews",
+            "title": "Reviews for Class: 848918160"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5830850,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTgzMDg1MCJ9",
+            "username": 4332344,
+            "first_name": "Inga",
+            "last_name": "Yoon",
+            "full_name": "Inga Yoon",
+            "vanity_username": "boostudio",
+            "headline": "Digital illustrator and teacher",
+            "pic": "https://static.skillshare.com/uploads/users/4332344/user-image-medium.jpg?327907131",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4332344/user-image-small.jpg?605342192",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4332344/user-image-large.jpg?250087107",
+            "_links": {
+              "self": {
+                "href": "/users/4332344",
+                "title": "Inga Yoon - Digital illustrator and teacher"
+              },
+              "my_classes": {
+                "href": "/users/4332344/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4332344/completions",
+                "title": "Completions for User: 4332344"
+              },
+              "discussions": {
+                "href": "/users/4332344/discussions",
+                "title": "Discussions for User: 4332344"
+              },
+              "followers": {
+                "href": "/users/4332344/followers",
+                "title": "Followers for User: 4332344"
+              },
+              "following": {
+                "href": "/users/4332344/following",
+                "title": "Following for User: 4332344"
+              },
+              "notifications": {
+                "href": "/users/4332344/notifications",
+                "title": "Notifications for User: 4332344"
+              },
+              "projects": {
+                "href": "/users/4332344/projects",
+                "title": "Projects for User: 4332344"
+              },
+              "rosters": {
+                "href": "/users/4332344/rosters",
+                "title": "Rosters for User: 4332344"
+              },
+              "userTags": {
+                "href": "/users/4332344/userTags",
+                "title": "UserTags for User: 4332344"
+              },
+              "votes": {
+                "href": "/users/4332344/votes",
+                "title": "Votes for User: 4332344"
+              },
+              "wishlist": {
+                "href": "/users/4332344/wishlist",
+                "title": "Wishlist for User: 4332344"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579147,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTE0NyJ9",
+        "sku": 59245395,
+        "title": "How to Draw Face: Female Character Drawing (Fundamental Guides)",
+        "project_title": "Hello friendsI hope you use this course well. In this course, I have tried to teach you how to draw different types of female face  with a very easy method. Please watch the episodes carefully. And tr",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/feecf6c47aad9ae896505a550202f369/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/feecf6c47aad9ae896505a550202f369/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/feecf6c47aad9ae896505a550202f369/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Draw-Face-Female-Character-Drawing-Fundamental-Guides/59245395",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 18,
+        "total_videos_duration": "4h 9m",
+        "total_videos_duration_seconds": 14913,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 283,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 10, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/59245395",
+            "title": "How to Draw Face: Female Character Drawing (Fundamental Guides)"
+          },
+          "teacher": {
+            "href": "/users/965477258",
+            "title": "Amelie Braun - Artist & Cartoonist"
+          },
+          "units": {
+            "href": "/classes/59245395/units",
+            "title": "Units for Class: 59245395"
+          },
+          "sessions": {
+            "href": "/classes/59245395/sessions",
+            "title": "Sessions for Class: 59245395"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/59245395/students",
+            "title": "Students for Class: 59245395"
+          },
+          "projects": {
+            "href": "/classes/59245395/projects",
+            "title": "Projects for Class: 59245395"
+          },
+          "reviews": {
+            "href": "/classes/59245395/reviews",
+            "title": "Reviews for Class: 59245395"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 21884981,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjE4ODQ5ODEifQ==",
+            "username": 965477258,
+            "first_name": "Amelie",
+            "last_name": "Braun",
+            "full_name": "Amelie Braun",
+            "vanity_username": null,
+            "headline": "Artist & Cartoonist",
+            "pic": "https://static.skillshare.com/uploads/users/965477258/user-image-medium.jpg?1909139472",
+            "pic_sm": "https://static.skillshare.com/uploads/users/965477258/user-image-small.jpg?1619720987",
+            "pic_lg": "https://static.skillshare.com/uploads/users/965477258/user-image-large.jpg?953363041",
+            "_links": {
+              "self": {
+                "href": "/users/965477258",
+                "title": "Amelie Braun - Artist & Cartoonist"
+              },
+              "my_classes": {
+                "href": "/users/965477258/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/965477258/completions",
+                "title": "Completions for User: 965477258"
+              },
+              "discussions": {
+                "href": "/users/965477258/discussions",
+                "title": "Discussions for User: 965477258"
+              },
+              "followers": {
+                "href": "/users/965477258/followers",
+                "title": "Followers for User: 965477258"
+              },
+              "following": {
+                "href": "/users/965477258/following",
+                "title": "Following for User: 965477258"
+              },
+              "notifications": {
+                "href": "/users/965477258/notifications",
+                "title": "Notifications for User: 965477258"
+              },
+              "projects": {
+                "href": "/users/965477258/projects",
+                "title": "Projects for User: 965477258"
+              },
+              "rosters": {
+                "href": "/users/965477258/rosters",
+                "title": "Rosters for User: 965477258"
+              },
+              "userTags": {
+                "href": "/users/965477258/userTags",
+                "title": "UserTags for User: 965477258"
+              },
+              "votes": {
+                "href": "/users/965477258/votes",
+                "title": "Votes for User: 965477258"
+              },
+              "wishlist": {
+                "href": "/users/965477258/wishlist",
+                "title": "Wishlist for User: 965477258"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579149,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTE0OSJ9",
+        "sku": 1405584978,
+        "title": "Introduction to Design",
+        "project_title": "Assignment",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6309975593112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6309975593112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6309975593112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Introduction-to-Design/1405584978",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "2m",
+        "total_videos_duration_seconds": 115,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 24,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 14, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1405584978",
+            "title": "Introduction to Design"
+          },
+          "teacher": {
+            "href": "/users/679102079",
+            "title": "LevelZero By Game of Apps"
+          },
+          "units": {
+            "href": "/classes/1405584978/units",
+            "title": "Units for Class: 1405584978"
+          },
+          "sessions": {
+            "href": "/classes/1405584978/sessions",
+            "title": "Sessions for Class: 1405584978"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1405584978/students",
+            "title": "Students for Class: 1405584978"
+          },
+          "projects": {
+            "href": "/classes/1405584978/projects",
+            "title": "Projects for Class: 1405584978"
+          },
+          "reviews": {
+            "href": "/classes/1405584978/reviews",
+            "title": "Reviews for Class: 1405584978"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26390229,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYzOTAyMjkifQ==",
+            "username": 679102079,
+            "first_name": "LevelZero",
+            "last_name": "By Game of Apps",
+            "full_name": "LevelZero By Game of Apps",
+            "vanity_username": "levelzero",
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/679102079/user-image-medium.png?577941383",
+            "pic_sm": "https://static.skillshare.com/uploads/users/679102079/user-image-small.png?363972604",
+            "pic_lg": "https://static.skillshare.com/uploads/users/679102079/user-image-large.png?1340887317",
+            "_links": {
+              "self": {
+                "href": "/users/679102079",
+                "title": "LevelZero By Game of Apps"
+              },
+              "my_classes": {
+                "href": "/users/679102079/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/679102079/completions",
+                "title": "Completions for User: 679102079"
+              },
+              "discussions": {
+                "href": "/users/679102079/discussions",
+                "title": "Discussions for User: 679102079"
+              },
+              "followers": {
+                "href": "/users/679102079/followers",
+                "title": "Followers for User: 679102079"
+              },
+              "following": {
+                "href": "/users/679102079/following",
+                "title": "Following for User: 679102079"
+              },
+              "notifications": {
+                "href": "/users/679102079/notifications",
+                "title": "Notifications for User: 679102079"
+              },
+              "projects": {
+                "href": "/users/679102079/projects",
+                "title": "Projects for User: 679102079"
+              },
+              "rosters": {
+                "href": "/users/679102079/rosters",
+                "title": "Rosters for User: 679102079"
+              },
+              "userTags": {
+                "href": "/users/679102079/userTags",
+                "title": "UserTags for User: 679102079"
+              },
+              "votes": {
+                "href": "/users/679102079/votes",
+                "title": "Votes for User: 679102079"
+              },
+              "wishlist": {
+                "href": "/users/679102079/wishlist",
+                "title": "Wishlist for User: 679102079"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579150,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTE1MCJ9",
+        "sku": 1985168298,
+        "title": "Cooking Basics: Level up Your Cooking Skills",
+        "project_title": "This project of the class is to share picture of any one recipe from the class",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/68c0ff6fad1487284659fda716b763a2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/68c0ff6fad1487284659fda716b763a2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/68c0ff6fad1487284659fda716b763a2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Cooking-Basics-Level-up-Your-Cooking-Skills/1985168298",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 18,
+        "total_videos_duration": "2h 19m",
+        "total_videos_duration_seconds": 8316,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 410,
+        "num_projects": 3,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "12 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1985168298",
+            "title": "Cooking Basics: Level up Your Cooking Skills"
+          },
+          "teacher": {
+            "href": "/users/524338642",
+            "title": "Shubranshu Bhandoh -  Baker/Pastry Chef - Le Cordon Bleu "
+          },
+          "units": {
+            "href": "/classes/1985168298/units",
+            "title": "Units for Class: 1985168298"
+          },
+          "sessions": {
+            "href": "/classes/1985168298/sessions",
+            "title": "Sessions for Class: 1985168298"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1985168298/students",
+            "title": "Students for Class: 1985168298"
+          },
+          "projects": {
+            "href": "/classes/1985168298/projects",
+            "title": "Projects for Class: 1985168298"
+          },
+          "reviews": {
+            "href": "/classes/1985168298/reviews",
+            "title": "Reviews for Class: 1985168298"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13969745,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTM5Njk3NDUifQ==",
+            "username": 524338642,
+            "first_name": "Shubranshu",
+            "last_name": "Bhandoh",
+            "full_name": "Shubranshu Bhandoh",
+            "vanity_username": null,
+            "headline": " Baker/Pastry Chef - Le Cordon Bleu ",
+            "pic": "https://static.skillshare.com/uploads/users/524338642/user-image-medium.png?324327678",
+            "pic_sm": "https://static.skillshare.com/uploads/users/524338642/user-image-small.png?1929607806",
+            "pic_lg": "https://static.skillshare.com/uploads/users/524338642/user-image-large.png?1441141980",
+            "_links": {
+              "self": {
+                "href": "/users/524338642",
+                "title": "Shubranshu Bhandoh -  Baker/Pastry Chef - Le Cordon Bleu "
+              },
+              "my_classes": {
+                "href": "/users/524338642/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/524338642/completions",
+                "title": "Completions for User: 524338642"
+              },
+              "discussions": {
+                "href": "/users/524338642/discussions",
+                "title": "Discussions for User: 524338642"
+              },
+              "followers": {
+                "href": "/users/524338642/followers",
+                "title": "Followers for User: 524338642"
+              },
+              "following": {
+                "href": "/users/524338642/following",
+                "title": "Following for User: 524338642"
+              },
+              "notifications": {
+                "href": "/users/524338642/notifications",
+                "title": "Notifications for User: 524338642"
+              },
+              "projects": {
+                "href": "/users/524338642/projects",
+                "title": "Projects for User: 524338642"
+              },
+              "rosters": {
+                "href": "/users/524338642/rosters",
+                "title": "Rosters for User: 524338642"
+              },
+              "userTags": {
+                "href": "/users/524338642/userTags",
+                "title": "UserTags for User: 524338642"
+              },
+              "votes": {
+                "href": "/users/524338642/votes",
+                "title": "Votes for User: 524338642"
+              },
+              "wishlist": {
+                "href": "/users/524338642/wishlist",
+                "title": "Wishlist for User: 524338642"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579157,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTE1NyJ9",
+        "sku": 77051613,
+        "title": "Deine Markenstrategie schreiben: So versteht deine Zielgruppe dein Produkt",
+        "project_title": "Lade dir die Arbeitsblätter herunter und lege direkt mit den Übungen los!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e7e9961d0284ab1cc7cbfc75c0f0a883/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e7e9961d0284ab1cc7cbfc75c0f0a883/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e7e9961d0284ab1cc7cbfc75c0f0a883/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Deine-Markenstrategie-schreiben-So-versteht-deine-Zielgruppe-dein-Produkt/77051613",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h",
+        "total_videos_duration_seconds": 3651,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 60,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/77051613",
+            "title": "Deine Markenstrategie schreiben: So versteht deine Zielgruppe dein Produkt"
+          },
+          "teacher": {
+            "href": "/users/723087250",
+            "title": "Jupp Rehbehn - Brand Design is the essence of your busi"
+          },
+          "units": {
+            "href": "/classes/77051613/units",
+            "title": "Units for Class: 77051613"
+          },
+          "sessions": {
+            "href": "/classes/77051613/sessions",
+            "title": "Sessions for Class: 77051613"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/77051613/students",
+            "title": "Students for Class: 77051613"
+          },
+          "projects": {
+            "href": "/classes/77051613/projects",
+            "title": "Projects for Class: 77051613"
+          },
+          "reviews": {
+            "href": "/classes/77051613/reviews",
+            "title": "Reviews for Class: 77051613"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 25792050,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjU3OTIwNTAifQ==",
+            "username": 723087250,
+            "first_name": "Jupp",
+            "last_name": "Rehbehn",
+            "full_name": "Jupp Rehbehn",
+            "vanity_username": "jupp",
+            "headline": "Brand Design is the essence of your busi",
+            "pic": "https://static.skillshare.com/uploads/users/723087250/user-image-medium.jpg?699836519",
+            "pic_sm": "https://static.skillshare.com/uploads/users/723087250/user-image-small.jpg?715011076",
+            "pic_lg": "https://static.skillshare.com/uploads/users/723087250/user-image-large.jpg?721802105",
+            "_links": {
+              "self": {
+                "href": "/users/723087250",
+                "title": "Jupp Rehbehn - Brand Design is the essence of your busi"
+              },
+              "my_classes": {
+                "href": "/users/723087250/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/723087250/completions",
+                "title": "Completions for User: 723087250"
+              },
+              "discussions": {
+                "href": "/users/723087250/discussions",
+                "title": "Discussions for User: 723087250"
+              },
+              "followers": {
+                "href": "/users/723087250/followers",
+                "title": "Followers for User: 723087250"
+              },
+              "following": {
+                "href": "/users/723087250/following",
+                "title": "Following for User: 723087250"
+              },
+              "notifications": {
+                "href": "/users/723087250/notifications",
+                "title": "Notifications for User: 723087250"
+              },
+              "projects": {
+                "href": "/users/723087250/projects",
+                "title": "Projects for User: 723087250"
+              },
+              "rosters": {
+                "href": "/users/723087250/rosters",
+                "title": "Rosters for User: 723087250"
+              },
+              "userTags": {
+                "href": "/users/723087250/userTags",
+                "title": "UserTags for User: 723087250"
+              },
+              "votes": {
+                "href": "/users/723087250/votes",
+                "title": "Votes for User: 723087250"
+              },
+              "wishlist": {
+                "href": "/users/723087250/wishlist",
+                "title": "Wishlist for User: 723087250"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579159,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTE1OSJ9",
+        "sku": 1743653589,
+        "title": "Super 8 Film Making - A Beginners Guide",
+        "project_title": "Your class project is to create your own super 8 film! This can be a film you have already made or something completely new! ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/7bf49634584dabb091b928297ee37b84/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/7bf49634584dabb091b928297ee37b84/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/7bf49634584dabb091b928297ee37b84/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Super-8-Film-Making-A-Beginners-Guide/1743653589",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "13m",
+        "total_videos_duration_seconds": 751,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 62,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1743653589",
+            "title": "Super 8 Film Making - A Beginners Guide"
+          },
+          "teacher": {
+            "href": "/users/7942858",
+            "title": "Ellis Richard"
+          },
+          "units": {
+            "href": "/classes/1743653589/units",
+            "title": "Units for Class: 1743653589"
+          },
+          "sessions": {
+            "href": "/classes/1743653589/sessions",
+            "title": "Sessions for Class: 1743653589"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1743653589/students",
+            "title": "Students for Class: 1743653589"
+          },
+          "projects": {
+            "href": "/classes/1743653589/projects",
+            "title": "Projects for Class: 1743653589"
+          },
+          "reviews": {
+            "href": "/classes/1743653589/reviews",
+            "title": "Reviews for Class: 1743653589"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 811857,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODExODU3In0=",
+            "username": 7942858,
+            "first_name": "Ellis",
+            "last_name": "Richard",
+            "full_name": "Ellis Richard",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/7942858/user-image-medium.jpg?480538063",
+            "pic_sm": "https://static.skillshare.com/uploads/users/7942858/user-image-small.jpg?1287959906",
+            "pic_lg": "https://static.skillshare.com/uploads/users/7942858/user-image-large.jpg?512387188",
+            "_links": {
+              "self": {
+                "href": "/users/7942858",
+                "title": "Ellis Richard"
+              },
+              "my_classes": {
+                "href": "/users/7942858/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/7942858/completions",
+                "title": "Completions for User: 7942858"
+              },
+              "discussions": {
+                "href": "/users/7942858/discussions",
+                "title": "Discussions for User: 7942858"
+              },
+              "followers": {
+                "href": "/users/7942858/followers",
+                "title": "Followers for User: 7942858"
+              },
+              "following": {
+                "href": "/users/7942858/following",
+                "title": "Following for User: 7942858"
+              },
+              "notifications": {
+                "href": "/users/7942858/notifications",
+                "title": "Notifications for User: 7942858"
+              },
+              "projects": {
+                "href": "/users/7942858/projects",
+                "title": "Projects for User: 7942858"
+              },
+              "rosters": {
+                "href": "/users/7942858/rosters",
+                "title": "Rosters for User: 7942858"
+              },
+              "userTags": {
+                "href": "/users/7942858/userTags",
+                "title": "UserTags for User: 7942858"
+              },
+              "votes": {
+                "href": "/users/7942858/votes",
+                "title": "Votes for User: 7942858"
+              },
+              "wishlist": {
+                "href": "/users/7942858/wishlist",
+                "title": "Wishlist for User: 7942858"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 579162,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU3OTE2MiJ9",
+        "sku": 552097461,
+        "title": "Kinemaster For Beginners - How to Edit Videos IN Mobile",
+        "project_title": "Take a clip Import it into Kinemaster and then edit the clip as shown in class. Don't be scared of experimenting with the app it is the best way to learn. After you do all the Editing Than post your v",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/94399eff94dda78b3ca1b620aeaffb43/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/94399eff94dda78b3ca1b620aeaffb43/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/94399eff94dda78b3ca1b620aeaffb43/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Kinemaster-For-Beginners-How-to-Edit-Videos-IN-Mobile/552097461",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "41m",
+        "total_videos_duration_seconds": 2460,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 95,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Jun 8, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/552097461",
+            "title": "Kinemaster For Beginners - How to Edit Videos IN Mobile"
+          },
+          "teacher": {
+            "href": "/users/397714559",
+            "title": "Faizan Amjed - Video Editor,Filmmaker & Youtuber"
+          },
+          "units": {
+            "href": "/classes/552097461/units",
+            "title": "Units for Class: 552097461"
+          },
+          "sessions": {
+            "href": "/classes/552097461/sessions",
+            "title": "Sessions for Class: 552097461"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/552097461/students",
+            "title": "Students for Class: 552097461"
+          },
+          "projects": {
+            "href": "/classes/552097461/projects",
+            "title": "Projects for Class: 552097461"
+          },
+          "reviews": {
+            "href": "/classes/552097461/reviews",
+            "title": "Reviews for Class: 552097461"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 14731792,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTQ3MzE3OTIifQ==",
+            "username": 397714559,
+            "first_name": "Faizan",
+            "last_name": "Amjed",
+            "full_name": "Faizan Amjed",
+            "vanity_username": "faizanamjed",
+            "headline": "Video Editor,Filmmaker & Youtuber",
+            "pic": "https://static.skillshare.com/uploads/users/397714559/user-image-medium.jpg?152209320",
+            "pic_sm": "https://static.skillshare.com/uploads/users/397714559/user-image-small.jpg?264444158",
+            "pic_lg": "https://static.skillshare.com/uploads/users/397714559/user-image-large.jpg?4961033",
+            "_links": {
+              "self": {
+                "href": "/users/397714559",
+                "title": "Faizan Amjed - Video Editor,Filmmaker & Youtuber"
+              },
+              "my_classes": {
+                "href": "/users/397714559/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/397714559/completions",
+                "title": "Completions for User: 397714559"
+              },
+              "discussions": {
+                "href": "/users/397714559/discussions",
+                "title": "Discussions for User: 397714559"
+              },
+              "followers": {
+                "href": "/users/397714559/followers",
+                "title": "Followers for User: 397714559"
+              },
+              "following": {
+                "href": "/users/397714559/following",
+                "title": "Following for User: 397714559"
+              },
+              "notifications": {
+                "href": "/users/397714559/notifications",
+                "title": "Notifications for User: 397714559"
+              },
+              "projects": {
+                "href": "/users/397714559/projects",
+                "title": "Projects for User: 397714559"
+              },
+              "rosters": {
+                "href": "/users/397714559/rosters",
+                "title": "Rosters for User: 397714559"
+              },
+              "userTags": {
+                "href": "/users/397714559/userTags",
+                "title": "UserTags for User: 397714559"
+              },
+              "votes": {
+                "href": "/users/397714559/votes",
+                "title": "Votes for User: 397714559"
+              },
+              "wishlist": {
+                "href": "/users/397714559/wishlist",
+                "title": "Wishlist for User: 397714559"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

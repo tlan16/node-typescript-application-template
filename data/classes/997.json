@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=997",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=996",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=998",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 624069,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDA2OSJ9",
+        "sku": 996830927,
+        "title": "Figma Practical Essentials: Design Movies App UI",
+        "project_title": "Throughout the course, I encourage you to follow me step-by-step in creating two screens for the streaming movies application. Let's embark on this journey together!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/3b89e33864ce7f4d9cfb630b5cfc2488/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/3b89e33864ce7f4d9cfb630b5cfc2488/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/3b89e33864ce7f4d9cfb630b5cfc2488/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Figma-Practical-Essentials-Design-Movies-App-UI/996830927",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "35m",
+        "total_videos_duration_seconds": 2094,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 55,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/996830927",
+            "title": "Figma Practical Essentials: Design Movies App UI"
+          },
+          "teacher": {
+            "href": "/users/259732092",
+            "title": "Tetiana G - UX Designer"
+          },
+          "units": {
+            "href": "/classes/996830927/units",
+            "title": "Units for Class: 996830927"
+          },
+          "sessions": {
+            "href": "/classes/996830927/sessions",
+            "title": "Sessions for Class: 996830927"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/996830927/students",
+            "title": "Students for Class: 996830927"
+          },
+          "projects": {
+            "href": "/classes/996830927/projects",
+            "title": "Projects for Class: 996830927"
+          },
+          "reviews": {
+            "href": "/classes/996830927/reviews",
+            "title": "Reviews for Class: 996830927"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 24385186,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjQzODUxODYifQ==",
+            "username": 259732092,
+            "first_name": "Tetiana",
+            "last_name": "G",
+            "full_name": "Tetiana G",
+            "vanity_username": null,
+            "headline": "UX Designer",
+            "pic": "https://static.skillshare.com/uploads/users/259732092/user-image-medium.png?779758028",
+            "pic_sm": "https://static.skillshare.com/uploads/users/259732092/user-image-small.png?2105197192",
+            "pic_lg": "https://static.skillshare.com/uploads/users/259732092/user-image-large.png?468572959",
+            "_links": {
+              "self": {
+                "href": "/users/259732092",
+                "title": "Tetiana G - UX Designer"
+              },
+              "my_classes": {
+                "href": "/users/259732092/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/259732092/completions",
+                "title": "Completions for User: 259732092"
+              },
+              "discussions": {
+                "href": "/users/259732092/discussions",
+                "title": "Discussions for User: 259732092"
+              },
+              "followers": {
+                "href": "/users/259732092/followers",
+                "title": "Followers for User: 259732092"
+              },
+              "following": {
+                "href": "/users/259732092/following",
+                "title": "Following for User: 259732092"
+              },
+              "notifications": {
+                "href": "/users/259732092/notifications",
+                "title": "Notifications for User: 259732092"
+              },
+              "projects": {
+                "href": "/users/259732092/projects",
+                "title": "Projects for User: 259732092"
+              },
+              "rosters": {
+                "href": "/users/259732092/rosters",
+                "title": "Rosters for User: 259732092"
+              },
+              "userTags": {
+                "href": "/users/259732092/userTags",
+                "title": "UserTags for User: 259732092"
+              },
+              "votes": {
+                "href": "/users/259732092/votes",
+                "title": "Votes for User: 259732092"
+              },
+              "wishlist": {
+                "href": "/users/259732092/wishlist",
+                "title": "Wishlist for User: 259732092"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624073,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDA3MyJ9",
+        "sku": 1468155107,
+        "title": "Prompt Engineering for Everyone with chatGPT and GPT-4",
+        "project_title": "Plan a 3-day travel itinerary for a group of three friends going on a vacation in Cairo, Egypt in June, including accommodation, attractions, and activities.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ee55a4484246cd22dc7115818c79599f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ee55a4484246cd22dc7115818c79599f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ee55a4484246cd22dc7115818c79599f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Prompt-Engineering-for-Everyone-with-chatGPT-and-GPT-4/1468155107",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 32,
+        "total_videos_duration": "2h 11m",
+        "total_videos_duration_seconds": 7887,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 442,
+        "num_projects": 12,
+        "num_discussions": 8,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1468155107",
+            "title": "Prompt Engineering for Everyone with chatGPT and GPT-4"
+          },
+          "teacher": {
+            "href": "/users/220094196",
+            "title": "Andrei Gheorghiu - Accredited ITIL®, CISSP® and ISO 27001 T"
+          },
+          "units": {
+            "href": "/classes/1468155107/units",
+            "title": "Units for Class: 1468155107"
+          },
+          "sessions": {
+            "href": "/classes/1468155107/sessions",
+            "title": "Sessions for Class: 1468155107"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1468155107/students",
+            "title": "Students for Class: 1468155107"
+          },
+          "projects": {
+            "href": "/classes/1468155107/projects",
+            "title": "Projects for Class: 1468155107"
+          },
+          "reviews": {
+            "href": "/classes/1468155107/reviews",
+            "title": "Reviews for Class: 1468155107"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 29953475,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjk5NTM0NzUifQ==",
+            "username": 220094196,
+            "first_name": "Andrei",
+            "last_name": "Gheorghiu",
+            "full_name": "Andrei Gheorghiu",
+            "vanity_username": null,
+            "headline": "Accredited ITIL®, CISSP® and ISO 27001 T",
+            "pic": "https://static.skillshare.com/uploads/users/220094196/user-image-medium.png?1689373692",
+            "pic_sm": "https://static.skillshare.com/uploads/users/220094196/user-image-small.png?344091154",
+            "pic_lg": "https://static.skillshare.com/uploads/users/220094196/user-image-large.png?1856352549",
+            "_links": {
+              "self": {
+                "href": "/users/220094196",
+                "title": "Andrei Gheorghiu - Accredited ITIL®, CISSP® and ISO 27001 T"
+              },
+              "my_classes": {
+                "href": "/users/220094196/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/220094196/completions",
+                "title": "Completions for User: 220094196"
+              },
+              "discussions": {
+                "href": "/users/220094196/discussions",
+                "title": "Discussions for User: 220094196"
+              },
+              "followers": {
+                "href": "/users/220094196/followers",
+                "title": "Followers for User: 220094196"
+              },
+              "following": {
+                "href": "/users/220094196/following",
+                "title": "Following for User: 220094196"
+              },
+              "notifications": {
+                "href": "/users/220094196/notifications",
+                "title": "Notifications for User: 220094196"
+              },
+              "projects": {
+                "href": "/users/220094196/projects",
+                "title": "Projects for User: 220094196"
+              },
+              "rosters": {
+                "href": "/users/220094196/rosters",
+                "title": "Rosters for User: 220094196"
+              },
+              "userTags": {
+                "href": "/users/220094196/userTags",
+                "title": "UserTags for User: 220094196"
+              },
+              "votes": {
+                "href": "/users/220094196/votes",
+                "title": "Votes for User: 220094196"
+              },
+              "wishlist": {
+                "href": "/users/220094196/wishlist",
+                "title": "Wishlist for User: 220094196"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624074,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDA3NCJ9",
+        "sku": 982299781,
+        "title": "Intro to Motion Graphics : Minimal Style Animation in After Effects",
+        "project_title": "For the class project, please download the resources and follow along, please work on the assignment to animate a similar video as what we taught in class. Make sure to upload the video in the project",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/bacae464082d7fb442549d08ead53fc1/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/bacae464082d7fb442549d08ead53fc1/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/bacae464082d7fb442549d08ead53fc1/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Intro-to-Motion-Graphics-Minimal-Style-Animation-in-After-Effects/982299781",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "31m",
+        "total_videos_duration_seconds": 1863,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 399,
+        "num_projects": 11,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/982299781",
+            "title": "Intro to Motion Graphics : Minimal Style Animation in After Effects"
+          },
+          "teacher": {
+            "href": "/users/1257788",
+            "title": "Hongshu Guo - Motion Designer"
+          },
+          "units": {
+            "href": "/classes/982299781/units",
+            "title": "Units for Class: 982299781"
+          },
+          "sessions": {
+            "href": "/classes/982299781/sessions",
+            "title": "Sessions for Class: 982299781"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/982299781/students",
+            "title": "Students for Class: 982299781"
+          },
+          "projects": {
+            "href": "/classes/982299781/projects",
+            "title": "Projects for Class: 982299781"
+          },
+          "reviews": {
+            "href": "/classes/982299781/reviews",
+            "title": "Reviews for Class: 982299781"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1577329,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTU3NzMyOSJ9",
+            "username": 1257788,
+            "first_name": "Hongshu",
+            "last_name": "Guo",
+            "full_name": "Hongshu Guo",
+            "vanity_username": null,
+            "headline": "Motion Designer",
+            "pic": "https://static.skillshare.com/uploads/users/1257788/user-image-medium.jpg?1745831147",
+            "pic_sm": "https://static.skillshare.com/uploads/users/1257788/user-image-small.jpg?298652128",
+            "pic_lg": "https://static.skillshare.com/uploads/users/1257788/user-image-large.jpg?990808479",
+            "_links": {
+              "self": {
+                "href": "/users/1257788",
+                "title": "Hongshu Guo - Motion Designer"
+              },
+              "my_classes": {
+                "href": "/users/1257788/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/1257788/completions",
+                "title": "Completions for User: 1257788"
+              },
+              "discussions": {
+                "href": "/users/1257788/discussions",
+                "title": "Discussions for User: 1257788"
+              },
+              "followers": {
+                "href": "/users/1257788/followers",
+                "title": "Followers for User: 1257788"
+              },
+              "following": {
+                "href": "/users/1257788/following",
+                "title": "Following for User: 1257788"
+              },
+              "notifications": {
+                "href": "/users/1257788/notifications",
+                "title": "Notifications for User: 1257788"
+              },
+              "projects": {
+                "href": "/users/1257788/projects",
+                "title": "Projects for User: 1257788"
+              },
+              "rosters": {
+                "href": "/users/1257788/rosters",
+                "title": "Rosters for User: 1257788"
+              },
+              "userTags": {
+                "href": "/users/1257788/userTags",
+                "title": "UserTags for User: 1257788"
+              },
+              "votes": {
+                "href": "/users/1257788/votes",
+                "title": "Votes for User: 1257788"
+              },
+              "wishlist": {
+                "href": "/users/1257788/wishlist",
+                "title": "Wishlist for User: 1257788"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624076,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDA3NiJ9",
+        "sku": 1293636428,
+        "title": "AI for Creatives & Businesses: ChatGPT, Midjourney, Google Bard, and DALL-E Crash Course",
+        "project_title": "Post your best Midjourney-created image.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/766cfee37e18ce99d5965a954c11cb1e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/766cfee37e18ce99d5965a954c11cb1e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/766cfee37e18ce99d5965a954c11cb1e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/AI-for-Creatives-Businesses-ChatGPT-Midjourney-Google-Bard-and-DALL-E-Crash-Course/1293636428",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 12,
+        "total_videos_duration": "1h 39m",
+        "total_videos_duration_seconds": 5920,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 277,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1293636428",
+            "title": "AI for Creatives & Businesses: ChatGPT, Midjourney, Google Bard, and DALL-E Crash Course"
+          },
+          "teacher": {
+            "href": "/users/4375174",
+            "title": "Phil Ebiner - Video | Photo | Design"
+          },
+          "units": {
+            "href": "/classes/1293636428/units",
+            "title": "Units for Class: 1293636428"
+          },
+          "sessions": {
+            "href": "/classes/1293636428/sessions",
+            "title": "Sessions for Class: 1293636428"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1293636428/students",
+            "title": "Students for Class: 1293636428"
+          },
+          "projects": {
+            "href": "/classes/1293636428/projects",
+            "title": "Projects for Class: 1293636428"
+          },
+          "reviews": {
+            "href": "/classes/1293636428/reviews",
+            "title": "Reviews for Class: 1293636428"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 119542,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTE5NTQyIn0=",
+            "username": 4375174,
+            "first_name": "Phil",
+            "last_name": "Ebiner",
+            "full_name": "Phil Ebiner",
+            "vanity_username": "videoschoolonline",
+            "headline": "Video | Photo | Design",
+            "pic": "https://static.skillshare.com/uploads/users/4375174/user-image-medium.jpg?813485481",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4375174/user-image-small.jpg?980194017",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4375174/user-image-large.jpg?1313297286",
+            "_links": {
+              "self": {
+                "href": "/users/4375174",
+                "title": "Phil Ebiner - Video | Photo | Design"
+              },
+              "my_classes": {
+                "href": "/users/4375174/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4375174/completions",
+                "title": "Completions for User: 4375174"
+              },
+              "discussions": {
+                "href": "/users/4375174/discussions",
+                "title": "Discussions for User: 4375174"
+              },
+              "followers": {
+                "href": "/users/4375174/followers",
+                "title": "Followers for User: 4375174"
+              },
+              "following": {
+                "href": "/users/4375174/following",
+                "title": "Following for User: 4375174"
+              },
+              "notifications": {
+                "href": "/users/4375174/notifications",
+                "title": "Notifications for User: 4375174"
+              },
+              "projects": {
+                "href": "/users/4375174/projects",
+                "title": "Projects for User: 4375174"
+              },
+              "rosters": {
+                "href": "/users/4375174/rosters",
+                "title": "Rosters for User: 4375174"
+              },
+              "userTags": {
+                "href": "/users/4375174/userTags",
+                "title": "UserTags for User: 4375174"
+              },
+              "votes": {
+                "href": "/users/4375174/votes",
+                "title": "Votes for User: 4375174"
+              },
+              "wishlist": {
+                "href": "/users/4375174/wishlist",
+                "title": "Wishlist for User: 4375174"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624079,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDA3OSJ9",
+        "sku": 1886366033,
+        "title": "Stable Diffusion Deforum: Viral gehen auf TikTok & Instagram",
+        "project_title": "Aufgabe: Erstelle ein ansprechendes und kreatives Video mithilfe von Deforum und passendem Prompt-Engineering!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/37985963d95c375519f310aa2092740a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/37985963d95c375519f310aa2092740a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/37985963d95c375519f310aa2092740a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Stable-Diffusion-Deforum-Viral-gehen-auf-TikTok-Instagram/1886366033",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 47,
+        "total_videos_duration": "3h 55m",
+        "total_videos_duration_seconds": 14088,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 21,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1886366033",
+            "title": "Stable Diffusion Deforum: Viral gehen auf TikTok & Instagram"
+          },
+          "teacher": {
+            "href": "/users/221617055",
+            "title": "Arnold Oberleiter"
+          },
+          "units": {
+            "href": "/classes/1886366033/units",
+            "title": "Units for Class: 1886366033"
+          },
+          "sessions": {
+            "href": "/classes/1886366033/sessions",
+            "title": "Sessions for Class: 1886366033"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1886366033/students",
+            "title": "Students for Class: 1886366033"
+          },
+          "projects": {
+            "href": "/classes/1886366033/projects",
+            "title": "Projects for Class: 1886366033"
+          },
+          "reviews": {
+            "href": "/classes/1886366033/reviews",
+            "title": "Reviews for Class: 1886366033"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 28223027,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjgyMjMwMjcifQ==",
+            "username": 221617055,
+            "first_name": "Arnold",
+            "last_name": "Oberleiter",
+            "full_name": "Arnold Oberleiter",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/221617055",
+                "title": "Arnold Oberleiter"
+              },
+              "my_classes": {
+                "href": "/users/221617055/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/221617055/completions",
+                "title": "Completions for User: 221617055"
+              },
+              "discussions": {
+                "href": "/users/221617055/discussions",
+                "title": "Discussions for User: 221617055"
+              },
+              "followers": {
+                "href": "/users/221617055/followers",
+                "title": "Followers for User: 221617055"
+              },
+              "following": {
+                "href": "/users/221617055/following",
+                "title": "Following for User: 221617055"
+              },
+              "notifications": {
+                "href": "/users/221617055/notifications",
+                "title": "Notifications for User: 221617055"
+              },
+              "projects": {
+                "href": "/users/221617055/projects",
+                "title": "Projects for User: 221617055"
+              },
+              "rosters": {
+                "href": "/users/221617055/rosters",
+                "title": "Rosters for User: 221617055"
+              },
+              "userTags": {
+                "href": "/users/221617055/userTags",
+                "title": "UserTags for User: 221617055"
+              },
+              "votes": {
+                "href": "/users/221617055/votes",
+                "title": "Votes for User: 221617055"
+              },
+              "wishlist": {
+                "href": "/users/221617055/wishlist",
+                "title": "Wishlist for User: 221617055"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624085,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDA4NSJ9",
+        "sku": 1216594886,
+        "title": "Tiny Watercolor Paintings for Summer Fun",
+        "project_title": "For your class project, you will create six tiny (2\" x2\") watercolor paintings of colorful and fun Summer subjects.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/5adc6121a5cd5e94de3886605e3d98f5/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/5adc6121a5cd5e94de3886605e3d98f5/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/5adc6121a5cd5e94de3886605e3d98f5/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Tiny-Watercolor-Paintings-for-Summer-Fun/1216594886",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "2h 5m",
+        "total_videos_duration_seconds": 7507,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 41,
+        "num_projects": 5,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1216594886",
+            "title": "Tiny Watercolor Paintings for Summer Fun"
+          },
+          "teacher": {
+            "href": "/users/9415309",
+            "title": "Jessica Wesolek - Artist/Teacher"
+          },
+          "units": {
+            "href": "/classes/1216594886/units",
+            "title": "Units for Class: 1216594886"
+          },
+          "sessions": {
+            "href": "/classes/1216594886/sessions",
+            "title": "Sessions for Class: 1216594886"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1216594886/students",
+            "title": "Students for Class: 1216594886"
+          },
+          "projects": {
+            "href": "/classes/1216594886/projects",
+            "title": "Projects for Class: 1216594886"
+          },
+          "reviews": {
+            "href": "/classes/1216594886/reviews",
+            "title": "Reviews for Class: 1216594886"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2155861,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjE1NTg2MSJ9",
+            "username": 9415309,
+            "first_name": "Jessica",
+            "last_name": "Wesolek",
+            "full_name": "Jessica Wesolek",
+            "vanity_username": null,
+            "headline": "Artist/Teacher",
+            "pic": "https://static.skillshare.com/uploads/users/9415309/user-image-medium.jpg?8609223",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9415309/user-image-small.jpg?971723166",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9415309/user-image-large.jpg?1876276229",
+            "_links": {
+              "self": {
+                "href": "/users/9415309",
+                "title": "Jessica Wesolek - Artist/Teacher"
+              },
+              "my_classes": {
+                "href": "/users/9415309/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9415309/completions",
+                "title": "Completions for User: 9415309"
+              },
+              "discussions": {
+                "href": "/users/9415309/discussions",
+                "title": "Discussions for User: 9415309"
+              },
+              "followers": {
+                "href": "/users/9415309/followers",
+                "title": "Followers for User: 9415309"
+              },
+              "following": {
+                "href": "/users/9415309/following",
+                "title": "Following for User: 9415309"
+              },
+              "notifications": {
+                "href": "/users/9415309/notifications",
+                "title": "Notifications for User: 9415309"
+              },
+              "projects": {
+                "href": "/users/9415309/projects",
+                "title": "Projects for User: 9415309"
+              },
+              "rosters": {
+                "href": "/users/9415309/rosters",
+                "title": "Rosters for User: 9415309"
+              },
+              "userTags": {
+                "href": "/users/9415309/userTags",
+                "title": "UserTags for User: 9415309"
+              },
+              "votes": {
+                "href": "/users/9415309/votes",
+                "title": "Votes for User: 9415309"
+              },
+              "wishlist": {
+                "href": "/users/9415309/wishlist",
+                "title": "Wishlist for User: 9415309"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624095,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDA5NSJ9",
+        "sku": 2014807973,
+        "title": "Procreate Brushes For Digital Drawing - Mix Traditional Pencil Drawing With The Power Of Procreate",
+        "project_title": "The project for this class is to create a digital drawing of an object with digital brushes created in Procreate.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/73c01be3a07ab7f02d5facce1782d0e5/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/73c01be3a07ab7f02d5facce1782d0e5/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/73c01be3a07ab7f02d5facce1782d0e5/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Procreate-Brushes-For-Digital-Drawing-Mix-Traditional-Pencil-Drawing-With-The-Power-Of-Procreate/2014807973",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 19,
+        "total_videos_duration": "1h 46m",
+        "total_videos_duration_seconds": 6387,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 307,
+        "num_projects": 17,
+        "num_discussions": 5,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "3 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2014807973",
+            "title": "Procreate Brushes For Digital Drawing - Mix Traditional Pencil Drawing With The Power Of Procreate"
+          },
+          "teacher": {
+            "href": "/users/6832149",
+            "title": "The Artmother - Professional Art Teacher and Artist"
+          },
+          "units": {
+            "href": "/classes/2014807973/units",
+            "title": "Units for Class: 2014807973"
+          },
+          "sessions": {
+            "href": "/classes/2014807973/sessions",
+            "title": "Sessions for Class: 2014807973"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2014807973/students",
+            "title": "Students for Class: 2014807973"
+          },
+          "projects": {
+            "href": "/classes/2014807973/projects",
+            "title": "Projects for Class: 2014807973"
+          },
+          "reviews": {
+            "href": "/classes/2014807973/reviews",
+            "title": "Reviews for Class: 2014807973"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2506334,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjUwNjMzNCJ9",
+            "username": 6832149,
+            "first_name": "The",
+            "last_name": "Artmother",
+            "full_name": "The Artmother",
+            "vanity_username": "theartmother",
+            "headline": "Professional Art Teacher and Artist",
+            "pic": "https://static.skillshare.com/uploads/users/6832149/user-image-medium.jpg?1876499911",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6832149/user-image-small.jpg?1234018740",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6832149/user-image-large.jpg?403321175",
+            "_links": {
+              "self": {
+                "href": "/users/6832149",
+                "title": "The Artmother - Professional Art Teacher and Artist"
+              },
+              "my_classes": {
+                "href": "/users/6832149/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6832149/completions",
+                "title": "Completions for User: 6832149"
+              },
+              "discussions": {
+                "href": "/users/6832149/discussions",
+                "title": "Discussions for User: 6832149"
+              },
+              "followers": {
+                "href": "/users/6832149/followers",
+                "title": "Followers for User: 6832149"
+              },
+              "following": {
+                "href": "/users/6832149/following",
+                "title": "Following for User: 6832149"
+              },
+              "notifications": {
+                "href": "/users/6832149/notifications",
+                "title": "Notifications for User: 6832149"
+              },
+              "projects": {
+                "href": "/users/6832149/projects",
+                "title": "Projects for User: 6832149"
+              },
+              "rosters": {
+                "href": "/users/6832149/rosters",
+                "title": "Rosters for User: 6832149"
+              },
+              "userTags": {
+                "href": "/users/6832149/userTags",
+                "title": "UserTags for User: 6832149"
+              },
+              "votes": {
+                "href": "/users/6832149/votes",
+                "title": "Votes for User: 6832149"
+              },
+              "wishlist": {
+                "href": "/users/6832149/wishlist",
+                "title": "Wishlist for User: 6832149"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624097,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDA5NyJ9",
+        "sku": 387312718,
+        "title": "Develop 5 Crucial Habits of Successful & Famous Writers",
+        "project_title": "Select a writing project or task that aligns with their interests, goals, and desired outcomes. This can range from writing a short story, crafting a personal essay, developing a blog series, or even ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/43d316c63ff474c1efcdc21453ced89b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/43d316c63ff474c1efcdc21453ced89b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/43d316c63ff474c1efcdc21453ced89b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Develop-5-Crucial-Habits-of-Successful-Famous-Writers/387312718",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "28m",
+        "total_videos_duration_seconds": 1698,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 6,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/387312718",
+            "title": "Develop 5 Crucial Habits of Successful & Famous Writers"
+          },
+          "teacher": {
+            "href": "/users/2944312",
+            "title": "Self Clarity Academy By Sanja Stojanovic - MA Psychology Teacher, Writer, Creator"
+          },
+          "units": {
+            "href": "/classes/387312718/units",
+            "title": "Units for Class: 387312718"
+          },
+          "sessions": {
+            "href": "/classes/387312718/sessions",
+            "title": "Sessions for Class: 387312718"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/387312718/students",
+            "title": "Students for Class: 387312718"
+          },
+          "projects": {
+            "href": "/classes/387312718/projects",
+            "title": "Projects for Class: 387312718"
+          },
+          "reviews": {
+            "href": "/classes/387312718/reviews",
+            "title": "Reviews for Class: 387312718"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2055440,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjA1NTQ0MCJ9",
+            "username": 2944312,
+            "first_name": "Self Clarity Academy",
+            "last_name": "By Sanja Stojanovic",
+            "full_name": "Self Clarity Academy By Sanja Stojanovic",
+            "vanity_username": null,
+            "headline": "MA Psychology Teacher, Writer, Creator",
+            "pic": "https://static.skillshare.com/uploads/users/2944312/user-image-medium.png?106952218",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2944312/user-image-small.png?1790525811",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2944312/user-image-large.png?624637948",
+            "_links": {
+              "self": {
+                "href": "/users/2944312",
+                "title": "Self Clarity Academy By Sanja Stojanovic - MA Psychology Teacher, Writer, Creator"
+              },
+              "my_classes": {
+                "href": "/users/2944312/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2944312/completions",
+                "title": "Completions for User: 2944312"
+              },
+              "discussions": {
+                "href": "/users/2944312/discussions",
+                "title": "Discussions for User: 2944312"
+              },
+              "followers": {
+                "href": "/users/2944312/followers",
+                "title": "Followers for User: 2944312"
+              },
+              "following": {
+                "href": "/users/2944312/following",
+                "title": "Following for User: 2944312"
+              },
+              "notifications": {
+                "href": "/users/2944312/notifications",
+                "title": "Notifications for User: 2944312"
+              },
+              "projects": {
+                "href": "/users/2944312/projects",
+                "title": "Projects for User: 2944312"
+              },
+              "rosters": {
+                "href": "/users/2944312/rosters",
+                "title": "Rosters for User: 2944312"
+              },
+              "userTags": {
+                "href": "/users/2944312/userTags",
+                "title": "UserTags for User: 2944312"
+              },
+              "votes": {
+                "href": "/users/2944312/votes",
+                "title": "Votes for User: 2944312"
+              },
+              "wishlist": {
+                "href": "/users/2944312/wishlist",
+                "title": "Wishlist for User: 2944312"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624099,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDA5OSJ9",
+        "sku": 727175226,
+        "title": "Urban Sketching in Watercolor: Copenhagen Boats and Buildings",
+        "project_title": "Assignment:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f04e54a5c971ab61b117b04d23f27be2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f04e54a5c971ab61b117b04d23f27be2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f04e54a5c971ab61b117b04d23f27be2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Urban-Sketching-in-Watercolor-Copenhagen-Boats-and-Buildings/727175226",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "1h 21m",
+        "total_videos_duration_seconds": 4855,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 25,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/727175226",
+            "title": "Urban Sketching in Watercolor: Copenhagen Boats and Buildings"
+          },
+          "teacher": {
+            "href": "/users/784918632",
+            "title": "Watercolour Mentor (Darren Yeo Artist) - Art Classes, Mentoring & Inspiration!"
+          },
+          "units": {
+            "href": "/classes/727175226/units",
+            "title": "Units for Class: 727175226"
+          },
+          "sessions": {
+            "href": "/classes/727175226/sessions",
+            "title": "Sessions for Class: 727175226"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/727175226/students",
+            "title": "Students for Class: 727175226"
+          },
+          "projects": {
+            "href": "/classes/727175226/projects",
+            "title": "Projects for Class: 727175226"
+          },
+          "reviews": {
+            "href": "/classes/727175226/reviews",
+            "title": "Reviews for Class: 727175226"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 15531448,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTU1MzE0NDgifQ==",
+            "username": 784918632,
+            "first_name": "Watercolour Mentor",
+            "last_name": "(Darren Yeo Artist)",
+            "full_name": "Watercolour Mentor (Darren Yeo Artist)",
+            "vanity_username": "watercolourmentor",
+            "headline": "Art Classes, Mentoring & Inspiration!",
+            "pic": "https://static.skillshare.com/uploads/users/784918632/user-image-medium.png?1334630925",
+            "pic_sm": "https://static.skillshare.com/uploads/users/784918632/user-image-small.png?1729399454",
+            "pic_lg": "https://static.skillshare.com/uploads/users/784918632/user-image-large.png?1521920203",
+            "_links": {
+              "self": {
+                "href": "/users/784918632",
+                "title": "Watercolour Mentor (Darren Yeo Artist) - Art Classes, Mentoring & Inspiration!"
+              },
+              "my_classes": {
+                "href": "/users/784918632/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/784918632/completions",
+                "title": "Completions for User: 784918632"
+              },
+              "discussions": {
+                "href": "/users/784918632/discussions",
+                "title": "Discussions for User: 784918632"
+              },
+              "followers": {
+                "href": "/users/784918632/followers",
+                "title": "Followers for User: 784918632"
+              },
+              "following": {
+                "href": "/users/784918632/following",
+                "title": "Following for User: 784918632"
+              },
+              "notifications": {
+                "href": "/users/784918632/notifications",
+                "title": "Notifications for User: 784918632"
+              },
+              "projects": {
+                "href": "/users/784918632/projects",
+                "title": "Projects for User: 784918632"
+              },
+              "rosters": {
+                "href": "/users/784918632/rosters",
+                "title": "Rosters for User: 784918632"
+              },
+              "userTags": {
+                "href": "/users/784918632/userTags",
+                "title": "UserTags for User: 784918632"
+              },
+              "votes": {
+                "href": "/users/784918632/votes",
+                "title": "Votes for User: 784918632"
+              },
+              "wishlist": {
+                "href": "/users/784918632/wishlist",
+                "title": "Wishlist for User: 784918632"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 624106,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNDEwNiJ9",
+        "sku": 1187851413,
+        "title": "Motion Graphics Essentials: FX Animation with Adobe After Effects",
+        "project_title": "At the end of this course, you'll be ready to tackle the three projects we've covered like a pro!",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/32265105d68d0f6e4afe9f56f8f216d2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/32265105d68d0f6e4afe9f56f8f216d2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/32265105d68d0f6e4afe9f56f8f216d2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Motion-Graphics-Essentials-FX-Animation-with-Adobe-After-Effects/1187851413",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "26m",
+        "total_videos_duration_seconds": 1553,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 528,
+        "num_projects": 18,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1187851413",
+            "title": "Motion Graphics Essentials: FX Animation with Adobe After Effects"
+          },
+          "teacher": {
+            "href": "/users/938711668",
+            "title": "Carminys Guzmán - Motion grapher"
+          },
+          "units": {
+            "href": "/classes/1187851413/units",
+            "title": "Units for Class: 1187851413"
+          },
+          "sessions": {
+            "href": "/classes/1187851413/sessions",
+            "title": "Sessions for Class: 1187851413"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1187851413/students",
+            "title": "Students for Class: 1187851413"
+          },
+          "projects": {
+            "href": "/classes/1187851413/projects",
+            "title": "Projects for Class: 1187851413"
+          },
+          "reviews": {
+            "href": "/classes/1187851413/reviews",
+            "title": "Reviews for Class: 1187851413"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 13422125,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTM0MjIxMjUifQ==",
+            "username": 938711668,
+            "first_name": "Carminys",
+            "last_name": "Guzmán",
+            "full_name": "Carminys Guzmán",
+            "vanity_username": "operary",
+            "headline": "Motion grapher",
+            "pic": "https://static.skillshare.com/uploads/users/938711668/user-image-medium.jpg?2019373822",
+            "pic_sm": "https://static.skillshare.com/uploads/users/938711668/user-image-small.jpg?12408072",
+            "pic_lg": "https://static.skillshare.com/uploads/users/938711668/user-image-large.jpg?744273413",
+            "_links": {
+              "self": {
+                "href": "/users/938711668",
+                "title": "Carminys Guzmán - Motion grapher"
+              },
+              "my_classes": {
+                "href": "/users/938711668/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/938711668/completions",
+                "title": "Completions for User: 938711668"
+              },
+              "discussions": {
+                "href": "/users/938711668/discussions",
+                "title": "Discussions for User: 938711668"
+              },
+              "followers": {
+                "href": "/users/938711668/followers",
+                "title": "Followers for User: 938711668"
+              },
+              "following": {
+                "href": "/users/938711668/following",
+                "title": "Following for User: 938711668"
+              },
+              "notifications": {
+                "href": "/users/938711668/notifications",
+                "title": "Notifications for User: 938711668"
+              },
+              "projects": {
+                "href": "/users/938711668/projects",
+                "title": "Projects for User: 938711668"
+              },
+              "rosters": {
+                "href": "/users/938711668/rosters",
+                "title": "Rosters for User: 938711668"
+              },
+              "userTags": {
+                "href": "/users/938711668/userTags",
+                "title": "UserTags for User: 938711668"
+              },
+              "votes": {
+                "href": "/users/938711668/votes",
+                "title": "Votes for User: 938711668"
+              },
+              "wishlist": {
+                "href": "/users/938711668/wishlist",
+                "title": "Wishlist for User: 938711668"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

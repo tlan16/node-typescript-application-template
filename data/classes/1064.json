@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1064",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1063",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1065",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 626955,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNjk1NSJ9",
+        "sku": 903241558,
+        "title": "Lemon Parfaits",
+        "project_title": "Your project is to make these Lemon parfaits",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/cc153eba66e186abb4b985355b9122d0/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/cc153eba66e186abb4b985355b9122d0/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/cc153eba66e186abb4b985355b9122d0/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Lemon-Parfaits/903241558",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 8,
+        "total_videos_duration": "38m",
+        "total_videos_duration_seconds": 2293,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 2,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "2 months ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/903241558",
+            "title": "Lemon Parfaits"
+          },
+          "teacher": {
+            "href": "/users/9251276",
+            "title": "Nadine Thomas"
+          },
+          "units": {
+            "href": "/classes/903241558/units",
+            "title": "Units for Class: 903241558"
+          },
+          "sessions": {
+            "href": "/classes/903241558/sessions",
+            "title": "Sessions for Class: 903241558"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/903241558/students",
+            "title": "Students for Class: 903241558"
+          },
+          "projects": {
+            "href": "/classes/903241558/projects",
+            "title": "Projects for Class: 903241558"
+          },
+          "reviews": {
+            "href": "/classes/903241558/reviews",
+            "title": "Reviews for Class: 903241558"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 2723120,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjcyMzEyMCJ9",
+            "username": 9251276,
+            "first_name": "Nadine",
+            "last_name": "Thomas",
+            "full_name": "Nadine Thomas",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/9251276/user-image-medium.jpg?915894138",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9251276/user-image-small.jpg?1999859432",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9251276/user-image-large.jpg?713281766",
+            "_links": {
+              "self": {
+                "href": "/users/9251276",
+                "title": "Nadine Thomas"
+              },
+              "my_classes": {
+                "href": "/users/9251276/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9251276/completions",
+                "title": "Completions for User: 9251276"
+              },
+              "discussions": {
+                "href": "/users/9251276/discussions",
+                "title": "Discussions for User: 9251276"
+              },
+              "followers": {
+                "href": "/users/9251276/followers",
+                "title": "Followers for User: 9251276"
+              },
+              "following": {
+                "href": "/users/9251276/following",
+                "title": "Following for User: 9251276"
+              },
+              "notifications": {
+                "href": "/users/9251276/notifications",
+                "title": "Notifications for User: 9251276"
+              },
+              "projects": {
+                "href": "/users/9251276/projects",
+                "title": "Projects for User: 9251276"
+              },
+              "rosters": {
+                "href": "/users/9251276/rosters",
+                "title": "Rosters for User: 9251276"
+              },
+              "userTags": {
+                "href": "/users/9251276/userTags",
+                "title": "UserTags for User: 9251276"
+              },
+              "votes": {
+                "href": "/users/9251276/votes",
+                "title": "Votes for User: 9251276"
+              },
+              "wishlist": {
+                "href": "/users/9251276/wishlist",
+                "title": "Wishlist for User: 9251276"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 626962,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNjk2MiJ9",
+        "sku": 2017064667,
+        "title": "Editing Fiction for Beginners",
+        "project_title": "The Self-Editor’s Planning Guide is a printable PDF that you can also use digitally. This guide is divided into three sections: an editing schedule, planner, and time sheet. This resource includes a 7",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/f758c6468c9e1600844995bd281aef81/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/f758c6468c9e1600844995bd281aef81/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/f758c6468c9e1600844995bd281aef81/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Editing-Fiction-for-Beginners/2017064667",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "24m",
+        "total_videos_duration_seconds": 1436,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 28,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "1 week ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2017064667",
+            "title": "Editing Fiction for Beginners"
+          },
+          "teacher": {
+            "href": "/users/780235964",
+            "title": "Nia Hogan - Storyteller"
+          },
+          "units": {
+            "href": "/classes/2017064667/units",
+            "title": "Units for Class: 2017064667"
+          },
+          "sessions": {
+            "href": "/classes/2017064667/sessions",
+            "title": "Sessions for Class: 2017064667"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2017064667/students",
+            "title": "Students for Class: 2017064667"
+          },
+          "projects": {
+            "href": "/classes/2017064667/projects",
+            "title": "Projects for Class: 2017064667"
+          },
+          "reviews": {
+            "href": "/classes/2017064667/reviews",
+            "title": "Reviews for Class: 2017064667"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10135614,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTAxMzU2MTQifQ==",
+            "username": 780235964,
+            "first_name": "Nia",
+            "last_name": "Hogan",
+            "full_name": "Nia Hogan",
+            "vanity_username": null,
+            "headline": "Storyteller",
+            "pic": "https://static.skillshare.com/uploads/users/780235964/user-image-medium.jpg?1524263584",
+            "pic_sm": "https://static.skillshare.com/uploads/users/780235964/user-image-small.jpg?301068488",
+            "pic_lg": "https://static.skillshare.com/uploads/users/780235964/user-image-large.jpg?596135412",
+            "_links": {
+              "self": {
+                "href": "/users/780235964",
+                "title": "Nia Hogan - Storyteller"
+              },
+              "my_classes": {
+                "href": "/users/780235964/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/780235964/completions",
+                "title": "Completions for User: 780235964"
+              },
+              "discussions": {
+                "href": "/users/780235964/discussions",
+                "title": "Discussions for User: 780235964"
+              },
+              "followers": {
+                "href": "/users/780235964/followers",
+                "title": "Followers for User: 780235964"
+              },
+              "following": {
+                "href": "/users/780235964/following",
+                "title": "Following for User: 780235964"
+              },
+              "notifications": {
+                "href": "/users/780235964/notifications",
+                "title": "Notifications for User: 780235964"
+              },
+              "projects": {
+                "href": "/users/780235964/projects",
+                "title": "Projects for User: 780235964"
+              },
+              "rosters": {
+                "href": "/users/780235964/rosters",
+                "title": "Rosters for User: 780235964"
+              },
+              "userTags": {
+                "href": "/users/780235964/userTags",
+                "title": "UserTags for User: 780235964"
+              },
+              "votes": {
+                "href": "/users/780235964/votes",
+                "title": "Votes for User: 780235964"
+              },
+              "wishlist": {
+                "href": "/users/780235964/wishlist",
+                "title": "Wishlist for User: 780235964"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 626963,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNjk2MyJ9",
+        "sku": 1804791855,
+        "title": "Improving Your Creative Writing",
+        "project_title": "The Tap Into Your Inner Writer: 30-Day Challenge was created to help writers tap into their creativity, grow in their craft, and be more consistent. This resource is a printable PDF that you can also ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6de06f4f559901f48d6e392d7e213898/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6de06f4f559901f48d6e392d7e213898/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6de06f4f559901f48d6e392d7e213898/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Improving-Your-Creative-Writing/1804791855",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "49m",
+        "total_videos_duration_seconds": 2955,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 74,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "4 weeks ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1804791855",
+            "title": "Improving Your Creative Writing"
+          },
+          "teacher": {
+            "href": "/users/780235964",
+            "title": "Nia Hogan - Storyteller"
+          },
+          "units": {
+            "href": "/classes/1804791855/units",
+            "title": "Units for Class: 1804791855"
+          },
+          "sessions": {
+            "href": "/classes/1804791855/sessions",
+            "title": "Sessions for Class: 1804791855"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1804791855/students",
+            "title": "Students for Class: 1804791855"
+          },
+          "projects": {
+            "href": "/classes/1804791855/projects",
+            "title": "Projects for Class: 1804791855"
+          },
+          "reviews": {
+            "href": "/classes/1804791855/reviews",
+            "title": "Reviews for Class: 1804791855"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10135614,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTAxMzU2MTQifQ==",
+            "username": 780235964,
+            "first_name": "Nia",
+            "last_name": "Hogan",
+            "full_name": "Nia Hogan",
+            "vanity_username": null,
+            "headline": "Storyteller",
+            "pic": "https://static.skillshare.com/uploads/users/780235964/user-image-medium.jpg?1524263584",
+            "pic_sm": "https://static.skillshare.com/uploads/users/780235964/user-image-small.jpg?301068488",
+            "pic_lg": "https://static.skillshare.com/uploads/users/780235964/user-image-large.jpg?596135412",
+            "_links": {
+              "self": {
+                "href": "/users/780235964",
+                "title": "Nia Hogan - Storyteller"
+              },
+              "my_classes": {
+                "href": "/users/780235964/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/780235964/completions",
+                "title": "Completions for User: 780235964"
+              },
+              "discussions": {
+                "href": "/users/780235964/discussions",
+                "title": "Discussions for User: 780235964"
+              },
+              "followers": {
+                "href": "/users/780235964/followers",
+                "title": "Followers for User: 780235964"
+              },
+              "following": {
+                "href": "/users/780235964/following",
+                "title": "Following for User: 780235964"
+              },
+              "notifications": {
+                "href": "/users/780235964/notifications",
+                "title": "Notifications for User: 780235964"
+              },
+              "projects": {
+                "href": "/users/780235964/projects",
+                "title": "Projects for User: 780235964"
+              },
+              "rosters": {
+                "href": "/users/780235964/rosters",
+                "title": "Rosters for User: 780235964"
+              },
+              "userTags": {
+                "href": "/users/780235964/userTags",
+                "title": "UserTags for User: 780235964"
+              },
+              "votes": {
+                "href": "/users/780235964/votes",
+                "title": "Votes for User: 780235964"
+              },
+              "wishlist": {
+                "href": "/users/780235964/wishlist",
+                "title": "Wishlist for User: 780235964"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 626964,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNjk2NCJ9",
+        "sku": 823047319,
+        "title": "Plot Development for Beginners",
+        "project_title": "Developing the plot for your next story doesn’t have to be complicated. When you understand all the moving parts of what makes a story memorable, you will be more likely to write a story that can stan",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/2192800c0bfc0c2529eef8611a8d6ef4/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/2192800c0bfc0c2529eef8611a8d6ef4/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/2192800c0bfc0c2529eef8611a8d6ef4/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Plot-Development-for-Beginners/823047319",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "16m",
+        "total_videos_duration_seconds": 950,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 95,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "1 month ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/823047319",
+            "title": "Plot Development for Beginners"
+          },
+          "teacher": {
+            "href": "/users/780235964",
+            "title": "Nia Hogan - Storyteller"
+          },
+          "units": {
+            "href": "/classes/823047319/units",
+            "title": "Units for Class: 823047319"
+          },
+          "sessions": {
+            "href": "/classes/823047319/sessions",
+            "title": "Sessions for Class: 823047319"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/823047319/students",
+            "title": "Students for Class: 823047319"
+          },
+          "projects": {
+            "href": "/classes/823047319/projects",
+            "title": "Projects for Class: 823047319"
+          },
+          "reviews": {
+            "href": "/classes/823047319/reviews",
+            "title": "Reviews for Class: 823047319"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10135614,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTAxMzU2MTQifQ==",
+            "username": 780235964,
+            "first_name": "Nia",
+            "last_name": "Hogan",
+            "full_name": "Nia Hogan",
+            "vanity_username": null,
+            "headline": "Storyteller",
+            "pic": "https://static.skillshare.com/uploads/users/780235964/user-image-medium.jpg?1524263584",
+            "pic_sm": "https://static.skillshare.com/uploads/users/780235964/user-image-small.jpg?301068488",
+            "pic_lg": "https://static.skillshare.com/uploads/users/780235964/user-image-large.jpg?596135412",
+            "_links": {
+              "self": {
+                "href": "/users/780235964",
+                "title": "Nia Hogan - Storyteller"
+              },
+              "my_classes": {
+                "href": "/users/780235964/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/780235964/completions",
+                "title": "Completions for User: 780235964"
+              },
+              "discussions": {
+                "href": "/users/780235964/discussions",
+                "title": "Discussions for User: 780235964"
+              },
+              "followers": {
+                "href": "/users/780235964/followers",
+                "title": "Followers for User: 780235964"
+              },
+              "following": {
+                "href": "/users/780235964/following",
+                "title": "Following for User: 780235964"
+              },
+              "notifications": {
+                "href": "/users/780235964/notifications",
+                "title": "Notifications for User: 780235964"
+              },
+              "projects": {
+                "href": "/users/780235964/projects",
+                "title": "Projects for User: 780235964"
+              },
+              "rosters": {
+                "href": "/users/780235964/rosters",
+                "title": "Rosters for User: 780235964"
+              },
+              "userTags": {
+                "href": "/users/780235964/userTags",
+                "title": "UserTags for User: 780235964"
+              },
+              "votes": {
+                "href": "/users/780235964/votes",
+                "title": "Votes for User: 780235964"
+              },
+              "wishlist": {
+                "href": "/users/780235964/wishlist",
+                "title": "Wishlist for User: 780235964"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 626967,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNjk2NyJ9",
+        "sku": 2043764644,
+        "title": "BLENDER: The Rode NT microphone creation masterclass",
+        "project_title": "Welcome to the \"Creating a Realistic Rode Microphone NT in Blender\" project! This advanced course is tailor-made for intermediate Blender users looking to elevate their skills to the next level by mas",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/20ca2942ea8f1ed9d4900ba6be1cb32e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/20ca2942ea8f1ed9d4900ba6be1cb32e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/20ca2942ea8f1ed9d4900ba6be1cb32e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/BLENDER-The-Rode-NT-microphone-creation-masterclass/2043764644",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 19,
+        "total_videos_duration": "7h 54m",
+        "total_videos_duration_seconds": 28424,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 23,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "1 month ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2043764644",
+            "title": "BLENDER: The Rode NT microphone creation masterclass"
+          },
+          "teacher": {
+            "href": "/users/374190730",
+            "title": "Marwan Hussain - 3D Artist and tutor"
+          },
+          "units": {
+            "href": "/classes/2043764644/units",
+            "title": "Units for Class: 2043764644"
+          },
+          "sessions": {
+            "href": "/classes/2043764644/sessions",
+            "title": "Sessions for Class: 2043764644"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2043764644/students",
+            "title": "Students for Class: 2043764644"
+          },
+          "projects": {
+            "href": "/classes/2043764644/projects",
+            "title": "Projects for Class: 2043764644"
+          },
+          "reviews": {
+            "href": "/classes/2043764644/reviews",
+            "title": "Reviews for Class: 2043764644"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 11517948,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTE1MTc5NDgifQ==",
+            "username": 374190730,
+            "first_name": "Marwan",
+            "last_name": "Hussain",
+            "full_name": "Marwan Hussain",
+            "vanity_username": "marwanhussein",
+            "headline": "3D Artist and tutor",
+            "pic": "https://static.skillshare.com/uploads/users/374190730/user-image-medium.jpg?640525941",
+            "pic_sm": "https://static.skillshare.com/uploads/users/374190730/user-image-small.jpg?2114114941",
+            "pic_lg": "https://static.skillshare.com/uploads/users/374190730/user-image-large.jpg?1097520692",
+            "_links": {
+              "self": {
+                "href": "/users/374190730",
+                "title": "Marwan Hussain - 3D Artist and tutor"
+              },
+              "my_classes": {
+                "href": "/users/374190730/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/374190730/completions",
+                "title": "Completions for User: 374190730"
+              },
+              "discussions": {
+                "href": "/users/374190730/discussions",
+                "title": "Discussions for User: 374190730"
+              },
+              "followers": {
+                "href": "/users/374190730/followers",
+                "title": "Followers for User: 374190730"
+              },
+              "following": {
+                "href": "/users/374190730/following",
+                "title": "Following for User: 374190730"
+              },
+              "notifications": {
+                "href": "/users/374190730/notifications",
+                "title": "Notifications for User: 374190730"
+              },
+              "projects": {
+                "href": "/users/374190730/projects",
+                "title": "Projects for User: 374190730"
+              },
+              "rosters": {
+                "href": "/users/374190730/rosters",
+                "title": "Rosters for User: 374190730"
+              },
+              "userTags": {
+                "href": "/users/374190730/userTags",
+                "title": "UserTags for User: 374190730"
+              },
+              "votes": {
+                "href": "/users/374190730/votes",
+                "title": "Votes for User: 374190730"
+              },
+              "wishlist": {
+                "href": "/users/374190730/wishlist",
+                "title": "Wishlist for User: 374190730"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 626968,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNjk2OCJ9",
+        "sku": 2142131043,
+        "title": "Vibrant Aquatic Art: Mastering Wet-on-Wet Watercolors and Colored Pencils",
+        "project_title": "Welcome to the exhilarating world of watercolor fish painting! In this project, you'll apply the skills and techniques you've acquired in the \"Vibrant Aquatic Art\" Skillshare class to create your own ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e36d7bb50785163272b42307a2592dcd/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e36d7bb50785163272b42307a2592dcd/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e36d7bb50785163272b42307a2592dcd/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Vibrant-Aquatic-Art-Mastering-Wet-on-Wet-Watercolors-and-Colored-Pencils/2142131043",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 5,
+        "total_videos_duration": "17m",
+        "total_videos_duration_seconds": 1011,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 63,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "1 month ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2142131043",
+            "title": "Vibrant Aquatic Art: Mastering Wet-on-Wet Watercolors and Colored Pencils"
+          },
+          "teacher": {
+            "href": "/users/395908897",
+            "title": "Ekaterina Azeeva - watercolor artist"
+          },
+          "units": {
+            "href": "/classes/2142131043/units",
+            "title": "Units for Class: 2142131043"
+          },
+          "sessions": {
+            "href": "/classes/2142131043/sessions",
+            "title": "Sessions for Class: 2142131043"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2142131043/students",
+            "title": "Students for Class: 2142131043"
+          },
+          "projects": {
+            "href": "/classes/2142131043/projects",
+            "title": "Projects for Class: 2142131043"
+          },
+          "reviews": {
+            "href": "/classes/2142131043/reviews",
+            "title": "Reviews for Class: 2142131043"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 10770672,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTA3NzA2NzIifQ==",
+            "username": 395908897,
+            "first_name": "Ekaterina",
+            "last_name": "Azeeva",
+            "full_name": "Ekaterina Azeeva",
+            "vanity_username": "katyastrog",
+            "headline": "watercolor artist",
+            "pic": "https://static.skillshare.com/uploads/users/395908897/user-image-medium.png?1567337847",
+            "pic_sm": "https://static.skillshare.com/uploads/users/395908897/user-image-small.png?249033968",
+            "pic_lg": "https://static.skillshare.com/uploads/users/395908897/user-image-large.png?1803173682",
+            "_links": {
+              "self": {
+                "href": "/users/395908897",
+                "title": "Ekaterina Azeeva - watercolor artist"
+              },
+              "my_classes": {
+                "href": "/users/395908897/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/395908897/completions",
+                "title": "Completions for User: 395908897"
+              },
+              "discussions": {
+                "href": "/users/395908897/discussions",
+                "title": "Discussions for User: 395908897"
+              },
+              "followers": {
+                "href": "/users/395908897/followers",
+                "title": "Followers for User: 395908897"
+              },
+              "following": {
+                "href": "/users/395908897/following",
+                "title": "Following for User: 395908897"
+              },
+              "notifications": {
+                "href": "/users/395908897/notifications",
+                "title": "Notifications for User: 395908897"
+              },
+              "projects": {
+                "href": "/users/395908897/projects",
+                "title": "Projects for User: 395908897"
+              },
+              "rosters": {
+                "href": "/users/395908897/rosters",
+                "title": "Rosters for User: 395908897"
+              },
+              "userTags": {
+                "href": "/users/395908897/userTags",
+                "title": "UserTags for User: 395908897"
+              },
+              "votes": {
+                "href": "/users/395908897/votes",
+                "title": "Votes for User: 395908897"
+              },
+              "wishlist": {
+                "href": "/users/395908897/wishlist",
+                "title": "Wishlist for User: 395908897"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 626975,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNjk3NSJ9",
+        "sku": 939896255,
+        "title": "Potato Printing: Design and Create Custom Printed Cloth Napkins",
+        "project_title": "Your project is to create a potato printed pattern on paper, fabric, or both. By using the techniques in this class you will be able to decorate all kinds of surfaces now and in the future.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b36bf510e2d931dc7f968b026873805c/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b36bf510e2d931dc7f968b026873805c/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b36bf510e2d931dc7f968b026873805c/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Potato-Printing-Design-and-Create-Custom-Printed-Cloth-Napkins/939896255",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "25m",
+        "total_videos_duration_seconds": 1528,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 32,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "3 weeks ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/939896255",
+            "title": "Potato Printing: Design and Create Custom Printed Cloth Napkins"
+          },
+          "teacher": {
+            "href": "/users/8783071",
+            "title": "Kristi Westberg - Artist at At the Dot Design"
+          },
+          "units": {
+            "href": "/classes/939896255/units",
+            "title": "Units for Class: 939896255"
+          },
+          "sessions": {
+            "href": "/classes/939896255/sessions",
+            "title": "Sessions for Class: 939896255"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/939896255/students",
+            "title": "Students for Class: 939896255"
+          },
+          "projects": {
+            "href": "/classes/939896255/projects",
+            "title": "Projects for Class: 939896255"
+          },
+          "reviews": {
+            "href": "/classes/939896255/reviews",
+            "title": "Reviews for Class: 939896255"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6532927,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjUzMjkyNyJ9",
+            "username": 8783071,
+            "first_name": "Kristi",
+            "last_name": "Westberg",
+            "full_name": "Kristi Westberg",
+            "vanity_username": null,
+            "headline": "Artist at At the Dot Design",
+            "pic": "https://static.skillshare.com/uploads/users/8783071/user-image-medium.jpg?1056557468",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8783071/user-image-small.jpg?1004339067",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8783071/user-image-large.jpg?860622632",
+            "_links": {
+              "self": {
+                "href": "/users/8783071",
+                "title": "Kristi Westberg - Artist at At the Dot Design"
+              },
+              "my_classes": {
+                "href": "/users/8783071/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8783071/completions",
+                "title": "Completions for User: 8783071"
+              },
+              "discussions": {
+                "href": "/users/8783071/discussions",
+                "title": "Discussions for User: 8783071"
+              },
+              "followers": {
+                "href": "/users/8783071/followers",
+                "title": "Followers for User: 8783071"
+              },
+              "following": {
+                "href": "/users/8783071/following",
+                "title": "Following for User: 8783071"
+              },
+              "notifications": {
+                "href": "/users/8783071/notifications",
+                "title": "Notifications for User: 8783071"
+              },
+              "projects": {
+                "href": "/users/8783071/projects",
+                "title": "Projects for User: 8783071"
+              },
+              "rosters": {
+                "href": "/users/8783071/rosters",
+                "title": "Rosters for User: 8783071"
+              },
+              "userTags": {
+                "href": "/users/8783071/userTags",
+                "title": "UserTags for User: 8783071"
+              },
+              "votes": {
+                "href": "/users/8783071/votes",
+                "title": "Votes for User: 8783071"
+              },
+              "wishlist": {
+                "href": "/users/8783071/wishlist",
+                "title": "Wishlist for User: 8783071"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 626976,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNjk3NiJ9",
+        "sku": 1948881645,
+        "title": "Paisaje marino en acuarela/ watercolor seascape",
+        "project_title": "Proyecto",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/0011dff7d81498a34057cf2f8dd6bee1/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/0011dff7d81498a34057cf2f8dd6bee1/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/0011dff7d81498a34057cf2f8dd6bee1/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Paisaje-marino-en-acuarela-watercolor-seascape/1948881645",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 3m",
+        "total_videos_duration_seconds": 3758,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 8,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "1 month ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1948881645",
+            "title": "Paisaje marino en acuarela/ watercolor seascape"
+          },
+          "teacher": {
+            "href": "/users/727516475",
+            "title": "Juan Gallego - Artista plástico"
+          },
+          "units": {
+            "href": "/classes/1948881645/units",
+            "title": "Units for Class: 1948881645"
+          },
+          "sessions": {
+            "href": "/classes/1948881645/sessions",
+            "title": "Sessions for Class: 1948881645"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1948881645/students",
+            "title": "Students for Class: 1948881645"
+          },
+          "projects": {
+            "href": "/classes/1948881645/projects",
+            "title": "Projects for Class: 1948881645"
+          },
+          "reviews": {
+            "href": "/classes/1948881645/reviews",
+            "title": "Reviews for Class: 1948881645"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26164222,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjYxNjQyMjIifQ==",
+            "username": 727516475,
+            "first_name": "Juan",
+            "last_name": "Gallego",
+            "full_name": "Juan Gallego",
+            "vanity_username": "juangallegoart",
+            "headline": "Artista plástico",
+            "pic": "https://static.skillshare.com/uploads/users/727516475/user-image-medium.png?405945668",
+            "pic_sm": "https://static.skillshare.com/uploads/users/727516475/user-image-small.png?2116080143",
+            "pic_lg": "https://static.skillshare.com/uploads/users/727516475/user-image-large.png?419094078",
+            "_links": {
+              "self": {
+                "href": "/users/727516475",
+                "title": "Juan Gallego - Artista plástico"
+              },
+              "my_classes": {
+                "href": "/users/727516475/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/727516475/completions",
+                "title": "Completions for User: 727516475"
+              },
+              "discussions": {
+                "href": "/users/727516475/discussions",
+                "title": "Discussions for User: 727516475"
+              },
+              "followers": {
+                "href": "/users/727516475/followers",
+                "title": "Followers for User: 727516475"
+              },
+              "following": {
+                "href": "/users/727516475/following",
+                "title": "Following for User: 727516475"
+              },
+              "notifications": {
+                "href": "/users/727516475/notifications",
+                "title": "Notifications for User: 727516475"
+              },
+              "projects": {
+                "href": "/users/727516475/projects",
+                "title": "Projects for User: 727516475"
+              },
+              "rosters": {
+                "href": "/users/727516475/rosters",
+                "title": "Rosters for User: 727516475"
+              },
+              "userTags": {
+                "href": "/users/727516475/userTags",
+                "title": "UserTags for User: 727516475"
+              },
+              "votes": {
+                "href": "/users/727516475/votes",
+                "title": "Votes for User: 727516475"
+              },
+              "wishlist": {
+                "href": "/users/727516475/wishlist",
+                "title": "Wishlist for User: 727516475"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 626980,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNjk4MCJ9",
+        "sku": 1514054140,
+        "title": "Surface Pattern Workflow: Adobe Fresco to Adobe Illustrator",
+        "project_title": "In this class, I will show you how to create beautiful patterns in Adobe Illustrator using the Repeat Tool.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/0926abee4dd0a6aab3ae36729a8085a2/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/0926abee4dd0a6aab3ae36729a8085a2/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/0926abee4dd0a6aab3ae36729a8085a2/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Surface-Pattern-Workflow-Adobe-Fresco-to-Adobe-Illustrator/1514054140",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 20,
+        "total_videos_duration": "2h 56m",
+        "total_videos_duration_seconds": 10578,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 182,
+        "num_projects": 1,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "1 month ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1514054140",
+            "title": "Surface Pattern Workflow: Adobe Fresco to Adobe Illustrator"
+          },
+          "teacher": {
+            "href": "/users/8153559",
+            "title": "Amy Bradley - Surface Pattern Designer & Artist"
+          },
+          "units": {
+            "href": "/classes/1514054140/units",
+            "title": "Units for Class: 1514054140"
+          },
+          "sessions": {
+            "href": "/classes/1514054140/sessions",
+            "title": "Sessions for Class: 1514054140"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1514054140/students",
+            "title": "Students for Class: 1514054140"
+          },
+          "projects": {
+            "href": "/classes/1514054140/projects",
+            "title": "Projects for Class: 1514054140"
+          },
+          "reviews": {
+            "href": "/classes/1514054140/reviews",
+            "title": "Reviews for Class: 1514054140"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 996272,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTk2MjcyIn0=",
+            "username": 8153559,
+            "first_name": "Amy",
+            "last_name": "Bradley",
+            "full_name": "Amy Bradley",
+            "vanity_username": "amybradley",
+            "headline": "Surface Pattern Designer & Artist",
+            "pic": "https://static.skillshare.com/uploads/users/8153559/user-image-medium.jpg?951326211",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8153559/user-image-small.jpg?587066190",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8153559/user-image-large.jpg?599361197",
+            "_links": {
+              "self": {
+                "href": "/users/8153559",
+                "title": "Amy Bradley - Surface Pattern Designer & Artist"
+              },
+              "my_classes": {
+                "href": "/users/8153559/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8153559/completions",
+                "title": "Completions for User: 8153559"
+              },
+              "discussions": {
+                "href": "/users/8153559/discussions",
+                "title": "Discussions for User: 8153559"
+              },
+              "followers": {
+                "href": "/users/8153559/followers",
+                "title": "Followers for User: 8153559"
+              },
+              "following": {
+                "href": "/users/8153559/following",
+                "title": "Following for User: 8153559"
+              },
+              "notifications": {
+                "href": "/users/8153559/notifications",
+                "title": "Notifications for User: 8153559"
+              },
+              "projects": {
+                "href": "/users/8153559/projects",
+                "title": "Projects for User: 8153559"
+              },
+              "rosters": {
+                "href": "/users/8153559/rosters",
+                "title": "Rosters for User: 8153559"
+              },
+              "userTags": {
+                "href": "/users/8153559/userTags",
+                "title": "UserTags for User: 8153559"
+              },
+              "votes": {
+                "href": "/users/8153559/votes",
+                "title": "Votes for User: 8153559"
+              },
+              "wishlist": {
+                "href": "/users/8153559/wishlist",
+                "title": "Wishlist for User: 8153559"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 626983,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjYyNjk4MyJ9",
+        "sku": 1740716772,
+        "title": "Create a Digital Business Card with Adobe Express",
+        "project_title": "Your class project is to create a digital business card using Adobe Express.   ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/9f6b2a695d2c986ac7bf74eb56f5420f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/9f6b2a695d2c986ac7bf74eb56f5420f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/9f6b2a695d2c986ac7bf74eb56f5420f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Create-a-Digital-Business-Card-with-Adobe-Express/1740716772",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "48m",
+        "total_videos_duration_seconds": 2852,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 114,
+        "num_projects": 4,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "1 month ago",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1740716772",
+            "title": "Create a Digital Business Card with Adobe Express"
+          },
+          "teacher": {
+            "href": "/users/9923169",
+            "title": "Tammy De Zilva - Surface Designer | Illustrator | Maker"
+          },
+          "units": {
+            "href": "/classes/1740716772/units",
+            "title": "Units for Class: 1740716772"
+          },
+          "sessions": {
+            "href": "/classes/1740716772/sessions",
+            "title": "Sessions for Class: 1740716772"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1740716772/students",
+            "title": "Students for Class: 1740716772"
+          },
+          "projects": {
+            "href": "/classes/1740716772/projects",
+            "title": "Projects for Class: 1740716772"
+          },
+          "reviews": {
+            "href": "/classes/1740716772/reviews",
+            "title": "Reviews for Class: 1740716772"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 720573,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzIwNTczIn0=",
+            "username": 9923169,
+            "first_name": "Tammy",
+            "last_name": "De Zilva",
+            "full_name": "Tammy De Zilva",
+            "vanity_username": null,
+            "headline": "Surface Designer | Illustrator | Maker",
+            "pic": "https://static.skillshare.com/uploads/users/9923169/user-image-medium.png?1243184641",
+            "pic_sm": "https://static.skillshare.com/uploads/users/9923169/user-image-small.png?1905375607",
+            "pic_lg": "https://static.skillshare.com/uploads/users/9923169/user-image-large.png?1223666576",
+            "_links": {
+              "self": {
+                "href": "/users/9923169",
+                "title": "Tammy De Zilva - Surface Designer | Illustrator | Maker"
+              },
+              "my_classes": {
+                "href": "/users/9923169/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/9923169/completions",
+                "title": "Completions for User: 9923169"
+              },
+              "discussions": {
+                "href": "/users/9923169/discussions",
+                "title": "Discussions for User: 9923169"
+              },
+              "followers": {
+                "href": "/users/9923169/followers",
+                "title": "Followers for User: 9923169"
+              },
+              "following": {
+                "href": "/users/9923169/following",
+                "title": "Following for User: 9923169"
+              },
+              "notifications": {
+                "href": "/users/9923169/notifications",
+                "title": "Notifications for User: 9923169"
+              },
+              "projects": {
+                "href": "/users/9923169/projects",
+                "title": "Projects for User: 9923169"
+              },
+              "rosters": {
+                "href": "/users/9923169/rosters",
+                "title": "Rosters for User: 9923169"
+              },
+              "userTags": {
+                "href": "/users/9923169/userTags",
+                "title": "UserTags for User: 9923169"
+              },
+              "votes": {
+                "href": "/users/9923169/votes",
+                "title": "Votes for User: 9923169"
+              },
+              "wishlist": {
+                "href": "/users/9923169/wishlist",
+                "title": "Wishlist for User: 9923169"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

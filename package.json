@@ -1,0 +1,62 @@
+{
+  "name": "node-typescript-app-template",
+  "version": "0.0.1",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "node-options": "./scripts/setNodeOptions.sh",
+    "start": "./scripts/start.sh",
+    "dev": "./scripts/dev.sh",
+    "lint": "./scripts/lint.sh",
+    "check-types": "tsc --project tsconfig.dev.json --noEmit",
+    "lint:yaml": "yamllint .",
+    "build": "rimraf dist && tsc",
+    "dc": "docker compose -f docker/docker-compose.yml",
+    "dcr": "yarn dc run --rm",
+    "test": "NODE_OPTIONS='--loader ts-node/esm' jest",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.22.20",
+    "@babel/preset-typescript": "^7.23.0",
+    "@tsconfig/node20": "^20.1.2",
+    "@tsconfig/strictest": "^2.0.2",
+    "@types/eslint": "^8.44.3",
+    "@types/jest": "^29.5.5",
+    "@types/node": "^18.18.0",
+    "@types/rimraf": "^4.0.5",
+    "@typescript-eslint/eslint-plugin": "^6.7.3",
+    "@typescript-eslint/parser": "^6.7.3",
+    "babel-jest": "^29.7.0",
+    "dotenv": "^16.3.1",
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-import-resolver-typescript": "^3.6.1",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-jest": "^27.4.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-unicorn": "^48.0.1",
+    "eslint-plugin-unused-imports": "^3.0.0",
+    "husky": "^8.0.3",
+    "jest": "^29.7.0",
+    "lint-staged": "^14.0.1",
+    "prettier": "^3.0.3",
+    "rimraf": "^5.0.4",
+    "ts-jest": "^29.1.1",
+    "ts-loader": "^9.4.4",
+    "ts-node": "github:TypeStrong/ts-node#branch=main",
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "packageManager": "yarn@3.6.3",
+  "engines": {
+    "node": "^20.7.0",
+    "yarn": "3.6.3"
+  },
+  "dependencies": {
+    "got": "^13.0.0",
+    "zod": "^3.22.2"
+  }
+}

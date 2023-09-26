@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=2649",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=2648",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=2650",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2766",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 523550,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMzU1MCJ9",
+        "sku": 936883996,
+        "title": "Learning Proper Formatting & Beginner Tips for Aspiring Screenwriting",
+        "project_title": "The project for this lesson is I challenge my students to write a single page (with proper formatting like we learned in class) script of a short film. Students should follow the instructions from cla",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/2146aa7193a46302d287bb3a08afd68e/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/2146aa7193a46302d287bb3a08afd68e/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/2146aa7193a46302d287bb3a08afd68e/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learning-Proper-Formatting-Beginner-Tips-for-Aspiring-Screenwriting/936883996",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "25m",
+        "total_videos_duration_seconds": 1492,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 112,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 14, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/936883996",
+            "title": "Learning Proper Formatting & Beginner Tips for Aspiring Screenwriting"
+          },
+          "teacher": {
+            "href": "/users/888561283",
+            "title": "Skye Buehler"
+          },
+          "units": {
+            "href": "/classes/936883996/units",
+            "title": "Units for Class: 936883996"
+          },
+          "sessions": {
+            "href": "/classes/936883996/sessions",
+            "title": "Sessions for Class: 936883996"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/936883996/students",
+            "title": "Students for Class: 936883996"
+          },
+          "projects": {
+            "href": "/classes/936883996/projects",
+            "title": "Projects for Class: 936883996"
+          },
+          "reviews": {
+            "href": "/classes/936883996/reviews",
+            "title": "Reviews for Class: 936883996"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 19121621,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTkxMjE2MjEifQ==",
+            "username": 888561283,
+            "first_name": "Skye",
+            "last_name": "Buehler",
+            "full_name": "Skye Buehler",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/888561283/user-image-medium.png?993589871",
+            "pic_sm": "https://static.skillshare.com/uploads/users/888561283/user-image-small.png?1102534186",
+            "pic_lg": "https://static.skillshare.com/uploads/users/888561283/user-image-large.png?164644545",
+            "_links": {
+              "self": {
+                "href": "/users/888561283",
+                "title": "Skye Buehler"
+              },
+              "my_classes": {
+                "href": "/users/888561283/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/888561283/completions",
+                "title": "Completions for User: 888561283"
+              },
+              "discussions": {
+                "href": "/users/888561283/discussions",
+                "title": "Discussions for User: 888561283"
+              },
+              "followers": {
+                "href": "/users/888561283/followers",
+                "title": "Followers for User: 888561283"
+              },
+              "following": {
+                "href": "/users/888561283/following",
+                "title": "Following for User: 888561283"
+              },
+              "notifications": {
+                "href": "/users/888561283/notifications",
+                "title": "Notifications for User: 888561283"
+              },
+              "projects": {
+                "href": "/users/888561283/projects",
+                "title": "Projects for User: 888561283"
+              },
+              "rosters": {
+                "href": "/users/888561283/rosters",
+                "title": "Rosters for User: 888561283"
+              },
+              "userTags": {
+                "href": "/users/888561283/userTags",
+                "title": "UserTags for User: 888561283"
+              },
+              "votes": {
+                "href": "/users/888561283/votes",
+                "title": "Votes for User: 888561283"
+              },
+              "wishlist": {
+                "href": "/users/888561283/wishlist",
+                "title": "Wishlist for User: 888561283"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 523571,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMzU3MSJ9",
+        "sku": 2061568217,
+        "title": "How to 3D Design a Dinosaur - Fusion 360 for Beginners",
+        "project_title": "You will be creating a 3D Model of your Dinosaur by creating a form and sculpting the shell of your model.\nYou will be learning how to use a variety of tools and functions within the Autodesk Fusion 3",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/83a893b6aa6a73c774a169fb34e2180f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/83a893b6aa6a73c774a169fb34e2180f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/83a893b6aa6a73c774a169fb34e2180f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-3D-Design-a-Dinosaur-Fusion-360-for-Beginners/2061568217",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 13,
+        "total_videos_duration": "44m",
+        "total_videos_duration_seconds": 2619,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 86,
+        "num_projects": 4,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 16, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2061568217",
+            "title": "How to 3D Design a Dinosaur - Fusion 360 for Beginners"
+          },
+          "teacher": {
+            "href": "/users/542352449",
+            "title": "Hendrien Horn - 3D Potter"
+          },
+          "units": {
+            "href": "/classes/2061568217/units",
+            "title": "Units for Class: 2061568217"
+          },
+          "sessions": {
+            "href": "/classes/2061568217/sessions",
+            "title": "Sessions for Class: 2061568217"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2061568217/students",
+            "title": "Students for Class: 2061568217"
+          },
+          "projects": {
+            "href": "/classes/2061568217/projects",
+            "title": "Projects for Class: 2061568217"
+          },
+          "reviews": {
+            "href": "/classes/2061568217/reviews",
+            "title": "Reviews for Class: 2061568217"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 17309785,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTczMDk3ODUifQ==",
+            "username": 542352449,
+            "first_name": "Hendrien",
+            "last_name": "Horn",
+            "full_name": "Hendrien Horn",
+            "vanity_username": "hendrienhorn",
+            "headline": "3D Potter",
+            "pic": "https://static.skillshare.com/uploads/users/542352449/user-image-medium.png?513401099",
+            "pic_sm": "https://static.skillshare.com/uploads/users/542352449/user-image-small.png?1074846509",
+            "pic_lg": "https://static.skillshare.com/uploads/users/542352449/user-image-large.png?1133261038",
+            "_links": {
+              "self": {
+                "href": "/users/542352449",
+                "title": "Hendrien Horn - 3D Potter"
+              },
+              "my_classes": {
+                "href": "/users/542352449/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/542352449/completions",
+                "title": "Completions for User: 542352449"
+              },
+              "discussions": {
+                "href": "/users/542352449/discussions",
+                "title": "Discussions for User: 542352449"
+              },
+              "followers": {
+                "href": "/users/542352449/followers",
+                "title": "Followers for User: 542352449"
+              },
+              "following": {
+                "href": "/users/542352449/following",
+                "title": "Following for User: 542352449"
+              },
+              "notifications": {
+                "href": "/users/542352449/notifications",
+                "title": "Notifications for User: 542352449"
+              },
+              "projects": {
+                "href": "/users/542352449/projects",
+                "title": "Projects for User: 542352449"
+              },
+              "rosters": {
+                "href": "/users/542352449/rosters",
+                "title": "Rosters for User: 542352449"
+              },
+              "userTags": {
+                "href": "/users/542352449/userTags",
+                "title": "UserTags for User: 542352449"
+              },
+              "votes": {
+                "href": "/users/542352449/votes",
+                "title": "Votes for User: 542352449"
+              },
+              "wishlist": {
+                "href": "/users/542352449/wishlist",
+                "title": "Wishlist for User: 542352449"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 523596,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMzU5NiJ9",
+        "sku": 1245162150,
+        "title": "Unleash your Creative Self with Procreate | illustration for beginners",
+        "project_title": "for the project of this class all what you need to do is to create your own stylised illustration&nbsp;\njust choose a theme or a topic to doodle about :)&nbsp;\nand then create it and share it with us ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/95388c792a22629c5259227edfbd8637/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/95388c792a22629c5259227edfbd8637/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/95388c792a22629c5259227edfbd8637/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Unleash-your-Creative-Self-with-Procreate-illustration-for-beginners/1245162150",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "41m",
+        "total_videos_duration_seconds": 2484,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 697,
+        "num_projects": 5,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 23, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1245162150",
+            "title": "Unleash your Creative Self with Procreate | illustration for beginners"
+          },
+          "teacher": {
+            "href": "/users/2157923",
+            "title": "Omnia Ali amer - Character Artist, Illustrator"
+          },
+          "units": {
+            "href": "/classes/1245162150/units",
+            "title": "Units for Class: 1245162150"
+          },
+          "sessions": {
+            "href": "/classes/1245162150/sessions",
+            "title": "Sessions for Class: 1245162150"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1245162150/students",
+            "title": "Students for Class: 1245162150"
+          },
+          "projects": {
+            "href": "/classes/1245162150/projects",
+            "title": "Projects for Class: 1245162150"
+          },
+          "reviews": {
+            "href": "/classes/1245162150/reviews",
+            "title": "Reviews for Class: 1245162150"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 724792,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzI0NzkyIn0=",
+            "username": 2157923,
+            "first_name": "Omnia",
+            "last_name": "Ali amer",
+            "full_name": "Omnia Ali amer",
+            "vanity_username": "omniaamer",
+            "headline": "Character Artist, Illustrator",
+            "pic": "https://static.skillshare.com/uploads/users/2157923/user-image-medium.jpg?1892815079",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2157923/user-image-small.jpg?407153805",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2157923/user-image-large.jpg?1459036825",
+            "_links": {
+              "self": {
+                "href": "/users/2157923",
+                "title": "Omnia Ali amer - Character Artist, Illustrator"
+              },
+              "my_classes": {
+                "href": "/users/2157923/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2157923/completions",
+                "title": "Completions for User: 2157923"
+              },
+              "discussions": {
+                "href": "/users/2157923/discussions",
+                "title": "Discussions for User: 2157923"
+              },
+              "followers": {
+                "href": "/users/2157923/followers",
+                "title": "Followers for User: 2157923"
+              },
+              "following": {
+                "href": "/users/2157923/following",
+                "title": "Following for User: 2157923"
+              },
+              "notifications": {
+                "href": "/users/2157923/notifications",
+                "title": "Notifications for User: 2157923"
+              },
+              "projects": {
+                "href": "/users/2157923/projects",
+                "title": "Projects for User: 2157923"
+              },
+              "rosters": {
+                "href": "/users/2157923/rosters",
+                "title": "Rosters for User: 2157923"
+              },
+              "userTags": {
+                "href": "/users/2157923/userTags",
+                "title": "UserTags for User: 2157923"
+              },
+              "votes": {
+                "href": "/users/2157923/votes",
+                "title": "Votes for User: 2157923"
+              },
+              "wishlist": {
+                "href": "/users/2157923/wishlist",
+                "title": "Wishlist for User: 2157923"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 523639,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMzYzOSJ9",
+        "sku": 768132361,
+        "title": "The TOP-MOP-BOP Model. Achieve More Clarity and Intention in Your Life.",
+        "project_title": "I think it is a bit too personal to ask you to publish your own version of the TOP - MOP - BOP model for everyone to see on Skillshare.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/50458184f57636302424a6d783e5f420/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/50458184f57636302424a6d783e5f420/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/50458184f57636302424a6d783e5f420/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-TOP-MOP-BOP-Model-Achieve-More-Clarity-and-Intention-in-Your-Life/768132361",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "53m",
+        "total_videos_duration_seconds": 3184,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 26,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 15, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/768132361",
+            "title": "The TOP-MOP-BOP Model. Achieve More Clarity and Intention in Your Life."
+          },
+          "teacher": {
+            "href": "/users/5951922",
+            "title": "David Bourne - Courses for Success"
+          },
+          "units": {
+            "href": "/classes/768132361/units",
+            "title": "Units for Class: 768132361"
+          },
+          "sessions": {
+            "href": "/classes/768132361/sessions",
+            "title": "Sessions for Class: 768132361"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/768132361/students",
+            "title": "Students for Class: 768132361"
+          },
+          "projects": {
+            "href": "/classes/768132361/projects",
+            "title": "Projects for Class: 768132361"
+          },
+          "reviews": {
+            "href": "/classes/768132361/reviews",
+            "title": "Reviews for Class: 768132361"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6090090,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjA5MDA5MCJ9",
+            "username": 5951922,
+            "first_name": "David",
+            "last_name": "Bourne",
+            "full_name": "David Bourne",
+            "vanity_username": null,
+            "headline": "Courses for Success",
+            "pic": "https://static.skillshare.com/uploads/users/5951922/user-image-medium.jpg?1837178642",
+            "pic_sm": "https://static.skillshare.com/uploads/users/5951922/user-image-small.jpg?485725894",
+            "pic_lg": "https://static.skillshare.com/uploads/users/5951922/user-image-large.jpg?1507730999",
+            "_links": {
+              "self": {
+                "href": "/users/5951922",
+                "title": "David Bourne - Courses for Success"
+              },
+              "my_classes": {
+                "href": "/users/5951922/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/5951922/completions",
+                "title": "Completions for User: 5951922"
+              },
+              "discussions": {
+                "href": "/users/5951922/discussions",
+                "title": "Discussions for User: 5951922"
+              },
+              "followers": {
+                "href": "/users/5951922/followers",
+                "title": "Followers for User: 5951922"
+              },
+              "following": {
+                "href": "/users/5951922/following",
+                "title": "Following for User: 5951922"
+              },
+              "notifications": {
+                "href": "/users/5951922/notifications",
+                "title": "Notifications for User: 5951922"
+              },
+              "projects": {
+                "href": "/users/5951922/projects",
+                "title": "Projects for User: 5951922"
+              },
+              "rosters": {
+                "href": "/users/5951922/rosters",
+                "title": "Rosters for User: 5951922"
+              },
+              "userTags": {
+                "href": "/users/5951922/userTags",
+                "title": "UserTags for User: 5951922"
+              },
+              "votes": {
+                "href": "/users/5951922/votes",
+                "title": "Votes for User: 5951922"
+              },
+              "wishlist": {
+                "href": "/users/5951922/wishlist",
+                "title": "Wishlist for User: 5951922"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 523642,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMzY0MiJ9",
+        "sku": 2081725213,
+        "title": "Watercolour Florals In Jars",
+        "project_title": "There are 6 demonstration classes which I show you how to paint the flowers in the jars.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/ea96e2cd8c88fd8211d22d0e68e926da/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/ea96e2cd8c88fd8211d22d0e68e926da/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/ea96e2cd8c88fd8211d22d0e68e926da/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Watercolour-Florals-In-Jars/2081725213",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 20m",
+        "total_videos_duration_seconds": 4801,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 639,
+        "num_projects": 9,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 15, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2081725213",
+            "title": "Watercolour Florals In Jars"
+          },
+          "teacher": {
+            "href": "/users/3245309",
+            "title": "Esther Peck - Educator, Author"
+          },
+          "units": {
+            "href": "/classes/2081725213/units",
+            "title": "Units for Class: 2081725213"
+          },
+          "sessions": {
+            "href": "/classes/2081725213/sessions",
+            "title": "Sessions for Class: 2081725213"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2081725213/students",
+            "title": "Students for Class: 2081725213"
+          },
+          "projects": {
+            "href": "/classes/2081725213/projects",
+            "title": "Projects for Class: 2081725213"
+          },
+          "reviews": {
+            "href": "/classes/2081725213/reviews",
+            "title": "Reviews for Class: 2081725213"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 6939996,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNjkzOTk5NiJ9",
+            "username": 3245309,
+            "first_name": "Esther",
+            "last_name": "Peck",
+            "full_name": "Esther Peck",
+            "vanity_username": "estherpeck",
+            "headline": "Educator, Author",
+            "pic": "https://static.skillshare.com/uploads/users/3245309/user-image-medium.jpg?346985890",
+            "pic_sm": "https://static.skillshare.com/uploads/users/3245309/user-image-small.jpg?1563129581",
+            "pic_lg": "https://static.skillshare.com/uploads/users/3245309/user-image-large.jpg?1971000002",
+            "_links": {
+              "self": {
+                "href": "/users/3245309",
+                "title": "Esther Peck - Educator, Author"
+              },
+              "my_classes": {
+                "href": "/users/3245309/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/3245309/completions",
+                "title": "Completions for User: 3245309"
+              },
+              "discussions": {
+                "href": "/users/3245309/discussions",
+                "title": "Discussions for User: 3245309"
+              },
+              "followers": {
+                "href": "/users/3245309/followers",
+                "title": "Followers for User: 3245309"
+              },
+              "following": {
+                "href": "/users/3245309/following",
+                "title": "Following for User: 3245309"
+              },
+              "notifications": {
+                "href": "/users/3245309/notifications",
+                "title": "Notifications for User: 3245309"
+              },
+              "projects": {
+                "href": "/users/3245309/projects",
+                "title": "Projects for User: 3245309"
+              },
+              "rosters": {
+                "href": "/users/3245309/rosters",
+                "title": "Rosters for User: 3245309"
+              },
+              "userTags": {
+                "href": "/users/3245309/userTags",
+                "title": "UserTags for User: 3245309"
+              },
+              "votes": {
+                "href": "/users/3245309/votes",
+                "title": "Votes for User: 3245309"
+              },
+              "wishlist": {
+                "href": "/users/3245309/wishlist",
+                "title": "Wishlist for User: 3245309"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 523658,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMzY1OCJ9",
+        "sku": 591308800,
+        "title": "The Ultimate guide to Sketching People from Life",
+        "project_title": "- Draw the proportions of a male, female and a child.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/295055b959d483b14f7807ddf03e8e2b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/295055b959d483b14f7807ddf03e8e2b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/295055b959d483b14f7807ddf03e8e2b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/The-Ultimate-guide-to-Sketching-People-from-Life/591308800",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 16,
+        "total_videos_duration": "2h 3m",
+        "total_videos_duration_seconds": 7387,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 861,
+        "num_projects": 5,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 16, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/591308800",
+            "title": "The Ultimate guide to Sketching People from Life"
+          },
+          "teacher": {
+            "href": "/users/2045303",
+            "title": "Maria Avramova - Illustrator/Animator/Filmmaker"
+          },
+          "units": {
+            "href": "/classes/591308800/units",
+            "title": "Units for Class: 591308800"
+          },
+          "sessions": {
+            "href": "/classes/591308800/sessions",
+            "title": "Sessions for Class: 591308800"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/591308800/students",
+            "title": "Students for Class: 591308800"
+          },
+          "projects": {
+            "href": "/classes/591308800/projects",
+            "title": "Projects for Class: 591308800"
+          },
+          "reviews": {
+            "href": "/classes/591308800/reviews",
+            "title": "Reviews for Class: 591308800"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 4464352,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDQ2NDM1MiJ9",
+            "username": 2045303,
+            "first_name": "Maria",
+            "last_name": "Avramova",
+            "full_name": "Maria Avramova",
+            "vanity_username": null,
+            "headline": "Illustrator/Animator/Filmmaker",
+            "pic": "https://static.skillshare.com/uploads/users/4464352/1613715324_pic.jpg",
+            "pic_sm": "https://graph.facebook.com/10155516991723481/picture",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4464352/1613463751_pic_lg.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/2045303",
+                "title": "Maria Avramova - Illustrator/Animator/Filmmaker"
+              },
+              "my_classes": {
+                "href": "/users/2045303/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2045303/completions",
+                "title": "Completions for User: 2045303"
+              },
+              "discussions": {
+                "href": "/users/2045303/discussions",
+                "title": "Discussions for User: 2045303"
+              },
+              "followers": {
+                "href": "/users/2045303/followers",
+                "title": "Followers for User: 2045303"
+              },
+              "following": {
+                "href": "/users/2045303/following",
+                "title": "Following for User: 2045303"
+              },
+              "notifications": {
+                "href": "/users/2045303/notifications",
+                "title": "Notifications for User: 2045303"
+              },
+              "projects": {
+                "href": "/users/2045303/projects",
+                "title": "Projects for User: 2045303"
+              },
+              "rosters": {
+                "href": "/users/2045303/rosters",
+                "title": "Rosters for User: 2045303"
+              },
+              "userTags": {
+                "href": "/users/2045303/userTags",
+                "title": "UserTags for User: 2045303"
+              },
+              "votes": {
+                "href": "/users/2045303/votes",
+                "title": "Votes for User: 2045303"
+              },
+              "wishlist": {
+                "href": "/users/2045303/wishlist",
+                "title": "Wishlist for User: 2045303"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 523682,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMzY4MiJ9",
+        "sku": 869558015,
+        "title": "Learn Game Logo Art Design in Photoshop With UI buttons and Design theory",
+        "project_title": "Hey",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/e9214dd09f000adde85b3d53ae0134e5/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/e9214dd09f000adde85b3d53ae0134e5/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/e9214dd09f000adde85b3d53ae0134e5/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Learn-Game-Logo-Art-Design-in-Photoshop-With-UI-buttons-and-Design-theory/869558015",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 45,
+        "total_videos_duration": "6h 26m",
+        "total_videos_duration_seconds": 23179,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 160,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 30, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/869558015",
+            "title": "Learn Game Logo Art Design in Photoshop With UI buttons and Design theory"
+          },
+          "teacher": {
+            "href": "/users/6014315",
+            "title": "Akshat Soni - Game art designer & Graphic designer"
+          },
+          "units": {
+            "href": "/classes/869558015/units",
+            "title": "Units for Class: 869558015"
+          },
+          "sessions": {
+            "href": "/classes/869558015/sessions",
+            "title": "Sessions for Class: 869558015"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/869558015/students",
+            "title": "Students for Class: 869558015"
+          },
+          "projects": {
+            "href": "/classes/869558015/projects",
+            "title": "Projects for Class: 869558015"
+          },
+          "reviews": {
+            "href": "/classes/869558015/reviews",
+            "title": "Reviews for Class: 869558015"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8675686,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODY3NTY4NiJ9",
+            "username": 6014315,
+            "first_name": "Akshat",
+            "last_name": "Soni",
+            "full_name": "Akshat Soni",
+            "vanity_username": null,
+            "headline": "Game art designer & Graphic designer",
+            "pic": "https://static.skillshare.com/uploads/users/6014315/user-image-medium.png?1187961344",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6014315/user-image-small.png?496001835",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6014315/user-image-large.png?1792239143",
+            "_links": {
+              "self": {
+                "href": "/users/6014315",
+                "title": "Akshat Soni - Game art designer & Graphic designer"
+              },
+              "my_classes": {
+                "href": "/users/6014315/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6014315/completions",
+                "title": "Completions for User: 6014315"
+              },
+              "discussions": {
+                "href": "/users/6014315/discussions",
+                "title": "Discussions for User: 6014315"
+              },
+              "followers": {
+                "href": "/users/6014315/followers",
+                "title": "Followers for User: 6014315"
+              },
+              "following": {
+                "href": "/users/6014315/following",
+                "title": "Following for User: 6014315"
+              },
+              "notifications": {
+                "href": "/users/6014315/notifications",
+                "title": "Notifications for User: 6014315"
+              },
+              "projects": {
+                "href": "/users/6014315/projects",
+                "title": "Projects for User: 6014315"
+              },
+              "rosters": {
+                "href": "/users/6014315/rosters",
+                "title": "Rosters for User: 6014315"
+              },
+              "userTags": {
+                "href": "/users/6014315/userTags",
+                "title": "UserTags for User: 6014315"
+              },
+              "votes": {
+                "href": "/users/6014315/votes",
+                "title": "Votes for User: 6014315"
+              },
+              "wishlist": {
+                "href": "/users/6014315/wishlist",
+                "title": "Wishlist for User: 6014315"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 523715,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMzcxNSJ9",
+        "sku": 1788608508,
+        "title": "Maya For beginners - Model a Treasure Chest Step by step",
+        "project_title": "Congratulations on completing the whole course",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/a8807355d0c4ede90dd03e1c1bdbeb2f/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/a8807355d0c4ede90dd03e1c1bdbeb2f/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a8807355d0c4ede90dd03e1c1bdbeb2f/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Maya-For-beginners-Model-a-Treasure-Chest-Step-by-step/1788608508",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 11,
+        "total_videos_duration": "2h 3m",
+        "total_videos_duration_seconds": 7397,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 157,
+        "num_projects": 1,
+        "num_discussions": 2,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Sep 17, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1788608508",
+            "title": "Maya For beginners - Model a Treasure Chest Step by step"
+          },
+          "teacher": {
+            "href": "/users/6014315",
+            "title": "Akshat Soni - Game art designer & Graphic designer"
+          },
+          "units": {
+            "href": "/classes/1788608508/units",
+            "title": "Units for Class: 1788608508"
+          },
+          "sessions": {
+            "href": "/classes/1788608508/sessions",
+            "title": "Sessions for Class: 1788608508"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1788608508/students",
+            "title": "Students for Class: 1788608508"
+          },
+          "projects": {
+            "href": "/classes/1788608508/projects",
+            "title": "Projects for Class: 1788608508"
+          },
+          "reviews": {
+            "href": "/classes/1788608508/reviews",
+            "title": "Reviews for Class: 1788608508"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8675686,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODY3NTY4NiJ9",
+            "username": 6014315,
+            "first_name": "Akshat",
+            "last_name": "Soni",
+            "full_name": "Akshat Soni",
+            "vanity_username": null,
+            "headline": "Game art designer & Graphic designer",
+            "pic": "https://static.skillshare.com/uploads/users/6014315/user-image-medium.png?1187961344",
+            "pic_sm": "https://static.skillshare.com/uploads/users/6014315/user-image-small.png?496001835",
+            "pic_lg": "https://static.skillshare.com/uploads/users/6014315/user-image-large.png?1792239143",
+            "_links": {
+              "self": {
+                "href": "/users/6014315",
+                "title": "Akshat Soni - Game art designer & Graphic designer"
+              },
+              "my_classes": {
+                "href": "/users/6014315/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/6014315/completions",
+                "title": "Completions for User: 6014315"
+              },
+              "discussions": {
+                "href": "/users/6014315/discussions",
+                "title": "Discussions for User: 6014315"
+              },
+              "followers": {
+                "href": "/users/6014315/followers",
+                "title": "Followers for User: 6014315"
+              },
+              "following": {
+                "href": "/users/6014315/following",
+                "title": "Following for User: 6014315"
+              },
+              "notifications": {
+                "href": "/users/6014315/notifications",
+                "title": "Notifications for User: 6014315"
+              },
+              "projects": {
+                "href": "/users/6014315/projects",
+                "title": "Projects for User: 6014315"
+              },
+              "rosters": {
+                "href": "/users/6014315/rosters",
+                "title": "Rosters for User: 6014315"
+              },
+              "userTags": {
+                "href": "/users/6014315/userTags",
+                "title": "UserTags for User: 6014315"
+              },
+              "votes": {
+                "href": "/users/6014315/votes",
+                "title": "Votes for User: 6014315"
+              },
+              "wishlist": {
+                "href": "/users/6014315/wishlist",
+                "title": "Wishlist for User: 6014315"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 523722,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMzcyMiJ9",
+        "sku": 452416664,
+        "title": "How To Draw Creative People: Art With Your Kids",
+        "project_title": "We hope you follow along with us and post your drawings (parents and kids) in the projects section so we can celebrate and enjoy all the creativity your whole family has to offer.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d6e90963bba97976cbe9df550d8a97f9/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d6e90963bba97976cbe9df550d8a97f9/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d6e90963bba97976cbe9df550d8a97f9/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Draw-Creative-People-Art-With-Your-Kids/452416664",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "56m",
+        "total_videos_duration_seconds": 3360,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 41,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 16, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/452416664",
+            "title": "How To Draw Creative People: Art With Your Kids"
+          },
+          "teacher": {
+            "href": "/users/7593781",
+            "title": "Margaret Joyner - Making Life Simple & Fun"
+          },
+          "units": {
+            "href": "/classes/452416664/units",
+            "title": "Units for Class: 452416664"
+          },
+          "sessions": {
+            "href": "/classes/452416664/sessions",
+            "title": "Sessions for Class: 452416664"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/452416664/students",
+            "title": "Students for Class: 452416664"
+          },
+          "projects": {
+            "href": "/classes/452416664/projects",
+            "title": "Projects for Class: 452416664"
+          },
+          "reviews": {
+            "href": "/classes/452416664/reviews",
+            "title": "Reviews for Class: 452416664"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 1538412,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTUzODQxMiJ9",
+            "username": 7593781,
+            "first_name": "Margaret",
+            "last_name": "Joyner",
+            "full_name": "Margaret Joyner",
+            "vanity_username": "margaretjoyner",
+            "headline": "Making Life Simple & Fun",
+            "pic": "https://static.skillshare.com/uploads/users/7593781/user-image-medium.jpg?1149008897",
+            "pic_sm": "https://static.skillshare.com/uploads/users/7593781/user-image-small.jpg?749403029",
+            "pic_lg": "https://static.skillshare.com/uploads/users/7593781/user-image-large.jpg?204579928",
+            "_links": {
+              "self": {
+                "href": "/users/7593781",
+                "title": "Margaret Joyner - Making Life Simple & Fun"
+              },
+              "my_classes": {
+                "href": "/users/7593781/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/7593781/completions",
+                "title": "Completions for User: 7593781"
+              },
+              "discussions": {
+                "href": "/users/7593781/discussions",
+                "title": "Discussions for User: 7593781"
+              },
+              "followers": {
+                "href": "/users/7593781/followers",
+                "title": "Followers for User: 7593781"
+              },
+              "following": {
+                "href": "/users/7593781/following",
+                "title": "Following for User: 7593781"
+              },
+              "notifications": {
+                "href": "/users/7593781/notifications",
+                "title": "Notifications for User: 7593781"
+              },
+              "projects": {
+                "href": "/users/7593781/projects",
+                "title": "Projects for User: 7593781"
+              },
+              "rosters": {
+                "href": "/users/7593781/rosters",
+                "title": "Rosters for User: 7593781"
+              },
+              "userTags": {
+                "href": "/users/7593781/userTags",
+                "title": "UserTags for User: 7593781"
+              },
+              "votes": {
+                "href": "/users/7593781/votes",
+                "title": "Votes for User: 7593781"
+              },
+              "wishlist": {
+                "href": "/users/7593781/wishlist",
+                "title": "Wishlist for User: 7593781"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 523747,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjUyMzc0NyJ9",
+        "sku": 1019942835,
+        "title": "Banish Fear and Make a Plan to Pursue Your Creative Dreams",
+        "project_title": "Create a book to work through your creative dreams and address the fears that are holding you back. Your book can function as a notebook, a sketchbook, a journal or a workbook. Use any papers that ins",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/b9e2803b8467828ef924c3b70a937360/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/b9e2803b8467828ef924c3b70a937360/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/b9e2803b8467828ef924c3b70a937360/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Banish-Fear-and-Make-a-Plan-to-Pursue-Your-Creative-Dreams/1019942835",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 10,
+        "total_videos_duration": "1h 17m",
+        "total_videos_duration_seconds": 4595,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 915,
+        "num_projects": 18,
+        "num_discussions": 6,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 23, 2021",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1019942835",
+            "title": "Banish Fear and Make a Plan to Pursue Your Creative Dreams"
+          },
+          "teacher": {
+            "href": "/users/4454891",
+            "title": "Anne Butera - watercolor artist, pattern designer"
+          },
+          "units": {
+            "href": "/classes/1019942835/units",
+            "title": "Units for Class: 1019942835"
+          },
+          "sessions": {
+            "href": "/classes/1019942835/sessions",
+            "title": "Sessions for Class: 1019942835"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1019942835/students",
+            "title": "Students for Class: 1019942835"
+          },
+          "projects": {
+            "href": "/classes/1019942835/projects",
+            "title": "Projects for Class: 1019942835"
+          },
+          "reviews": {
+            "href": "/classes/1019942835/reviews",
+            "title": "Reviews for Class: 1019942835"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 952208,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiOTUyMjA4In0=",
+            "username": 4454891,
+            "first_name": "Anne",
+            "last_name": "Butera",
+            "full_name": "Anne Butera",
+            "vanity_username": "mygiantstrawberry",
+            "headline": "watercolor artist, pattern designer",
+            "pic": "https://static.skillshare.com/uploads/users/4454891/user-image-medium.jpg?1194359471",
+            "pic_sm": "https://static.skillshare.com/uploads/users/4454891/user-image-small.jpg?1698682045",
+            "pic_lg": "https://static.skillshare.com/uploads/users/4454891/user-image-large.jpg?1289585839",
+            "_links": {
+              "self": {
+                "href": "/users/4454891",
+                "title": "Anne Butera - watercolor artist, pattern designer"
+              },
+              "my_classes": {
+                "href": "/users/4454891/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/4454891/completions",
+                "title": "Completions for User: 4454891"
+              },
+              "discussions": {
+                "href": "/users/4454891/discussions",
+                "title": "Discussions for User: 4454891"
+              },
+              "followers": {
+                "href": "/users/4454891/followers",
+                "title": "Followers for User: 4454891"
+              },
+              "following": {
+                "href": "/users/4454891/following",
+                "title": "Following for User: 4454891"
+              },
+              "notifications": {
+                "href": "/users/4454891/notifications",
+                "title": "Notifications for User: 4454891"
+              },
+              "projects": {
+                "href": "/users/4454891/projects",
+                "title": "Projects for User: 4454891"
+              },
+              "rosters": {
+                "href": "/users/4454891/rosters",
+                "title": "Rosters for User: 4454891"
+              },
+              "userTags": {
+                "href": "/users/4454891/userTags",
+                "title": "UserTags for User: 4454891"
+              },
+              "votes": {
+                "href": "/users/4454891/votes",
+                "title": "Votes for User: 4454891"
+              },
+              "wishlist": {
+                "href": "/users/4454891/wishlist",
+                "title": "Wishlist for User: 4454891"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1288 @@
+{
+  "_links": {
+    "self": {
+      "href": "/classes?page=1625",
+      "title": "Classes"
+    },
+    "first_page": {
+      "href": "/classes",
+      "title": "First Page"
+    },
+    "previous_page": {
+      "href": "/classes?page=1624",
+      "title": "Previous Page"
+    },
+    "next_page": {
+      "href": "/classes?page=1626",
+      "title": "Next Page"
+    },
+    "last_page": {
+      "href": "/classes?page=2767",
+      "title": "Last Page"
+    }
+  },
+  "_embedded": {
+    "classes": [
+      {
+        "id": 588932,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODkzMiJ9",
+        "sku": 1841652441,
+        "title": "Artificial Intelligence 101: A Beginner's Guide",
+        "project_title": "For your class project, I want you to:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/c08cf7e7d50d5f40b5bd2b195b337c05/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/c08cf7e7d50d5f40b5bd2b195b337c05/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/c08cf7e7d50d5f40b5bd2b195b337c05/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Artificial-Intelligence-101-A-Beginners-Guide/1841652441",
+        "enrollment_type": 2,
+        "category": "Technology",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "14m",
+        "total_videos_duration_seconds": 868,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 216,
+        "num_projects": 6,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1841652441",
+            "title": "Artificial Intelligence 101: A Beginner's Guide"
+          },
+          "teacher": {
+            "href": "/users/266657953",
+            "title": "Robin"
+          },
+          "units": {
+            "href": "/classes/1841652441/units",
+            "title": "Units for Class: 1841652441"
+          },
+          "sessions": {
+            "href": "/classes/1841652441/sessions",
+            "title": "Sessions for Class: 1841652441"
+          },
+          "category": {
+            "href": "/tags/technology",
+            "title": "Technology"
+          },
+          "students": {
+            "href": "/classes/1841652441/students",
+            "title": "Students for Class: 1841652441"
+          },
+          "projects": {
+            "href": "/classes/1841652441/projects",
+            "title": "Projects for Class: 1841652441"
+          },
+          "reviews": {
+            "href": "/classes/1841652441/reviews",
+            "title": "Reviews for Class: 1841652441"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26601865,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjY2MDE4NjUifQ==",
+            "username": 266657953,
+            "first_name": "Robin",
+            "last_name": null,
+            "full_name": "Robin",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/266657953/user-image-medium.jpg?513455610",
+            "pic_sm": "https://static.skillshare.com/uploads/users/266657953/user-image-small.jpg?2007603690",
+            "pic_lg": "https://static.skillshare.com/uploads/users/266657953/user-image-large.jpg?734192783",
+            "_links": {
+              "self": {
+                "href": "/users/266657953",
+                "title": "Robin"
+              },
+              "my_classes": {
+                "href": "/users/266657953/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/266657953/completions",
+                "title": "Completions for User: 266657953"
+              },
+              "discussions": {
+                "href": "/users/266657953/discussions",
+                "title": "Discussions for User: 266657953"
+              },
+              "followers": {
+                "href": "/users/266657953/followers",
+                "title": "Followers for User: 266657953"
+              },
+              "following": {
+                "href": "/users/266657953/following",
+                "title": "Following for User: 266657953"
+              },
+              "notifications": {
+                "href": "/users/266657953/notifications",
+                "title": "Notifications for User: 266657953"
+              },
+              "projects": {
+                "href": "/users/266657953/projects",
+                "title": "Projects for User: 266657953"
+              },
+              "rosters": {
+                "href": "/users/266657953/rosters",
+                "title": "Rosters for User: 266657953"
+              },
+              "userTags": {
+                "href": "/users/266657953/userTags",
+                "title": "UserTags for User: 266657953"
+              },
+              "votes": {
+                "href": "/users/266657953/votes",
+                "title": "Votes for User: 266657953"
+              },
+              "wishlist": {
+                "href": "/users/266657953/wishlist",
+                "title": "Wishlist for User: 266657953"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588938,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODkzOCJ9",
+        "sku": 1600281126,
+        "title": "How to Keep a Simple and Useful Bullet Journal",
+        "project_title": "Your class project is to start a bullet journal using the four basic icons and the monthly calendar.   ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6311967139112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6311967139112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6311967139112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Keep-a-Simple-and-Useful-Bullet-Journal/1600281126",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 6,
+        "total_videos_duration": "3m",
+        "total_videos_duration_seconds": 150,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 83,
+        "num_projects": 1,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 12, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1600281126",
+            "title": "How to Keep a Simple and Useful Bullet Journal"
+          },
+          "teacher": {
+            "href": "/users/2265365",
+            "title": "B.A. Burgess - Writer | Writing Facilitator"
+          },
+          "units": {
+            "href": "/classes/1600281126/units",
+            "title": "Units for Class: 1600281126"
+          },
+          "sessions": {
+            "href": "/classes/1600281126/sessions",
+            "title": "Sessions for Class: 1600281126"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/1600281126/students",
+            "title": "Students for Class: 1600281126"
+          },
+          "projects": {
+            "href": "/classes/1600281126/projects",
+            "title": "Projects for Class: 1600281126"
+          },
+          "reviews": {
+            "href": "/classes/1600281126/reviews",
+            "title": "Reviews for Class: 1600281126"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 445111,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNDQ1MTExIn0=",
+            "username": 2265365,
+            "first_name": "B.A.",
+            "last_name": "Burgess",
+            "full_name": "B.A. Burgess",
+            "vanity_username": "hellothisisbarbara",
+            "headline": "Writer | Writing Facilitator",
+            "pic": "https://static.skillshare.com/uploads/users/2265365/user-image-medium.jpg?1320887448",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2265365/user-image-small.jpg?750114788",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2265365/user-image-large.jpg?2115267407",
+            "_links": {
+              "self": {
+                "href": "/users/2265365",
+                "title": "B.A. Burgess - Writer | Writing Facilitator"
+              },
+              "my_classes": {
+                "href": "/users/2265365/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2265365/completions",
+                "title": "Completions for User: 2265365"
+              },
+              "discussions": {
+                "href": "/users/2265365/discussions",
+                "title": "Discussions for User: 2265365"
+              },
+              "followers": {
+                "href": "/users/2265365/followers",
+                "title": "Followers for User: 2265365"
+              },
+              "following": {
+                "href": "/users/2265365/following",
+                "title": "Following for User: 2265365"
+              },
+              "notifications": {
+                "href": "/users/2265365/notifications",
+                "title": "Notifications for User: 2265365"
+              },
+              "projects": {
+                "href": "/users/2265365/projects",
+                "title": "Projects for User: 2265365"
+              },
+              "rosters": {
+                "href": "/users/2265365/rosters",
+                "title": "Rosters for User: 2265365"
+              },
+              "userTags": {
+                "href": "/users/2265365/userTags",
+                "title": "UserTags for User: 2265365"
+              },
+              "votes": {
+                "href": "/users/2265365/votes",
+                "title": "Votes for User: 2265365"
+              },
+              "wishlist": {
+                "href": "/users/2265365/wishlist",
+                "title": "Wishlist for User: 2265365"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588946,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODk0NiJ9",
+        "sku": 2099316932,
+        "title": "How To Draw Horses - A Beginner's Guide",
+        "project_title": "Your class assignment is to first watch the lecture portion of the video, follow along with the draw-along demonstrations, and then finish off by doing the 20 minute timed drawing exercise.  You will ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/3ad7d3643e1f9cc16125c28042548191/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/3ad7d3643e1f9cc16125c28042548191/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/3ad7d3643e1f9cc16125c28042548191/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-To-Draw-Horses-A-Beginners-Guide/2099316932",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 23,
+        "total_videos_duration": "2h 7m",
+        "total_videos_duration_seconds": 7630,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 202,
+        "num_projects": 3,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 15, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/2099316932",
+            "title": "How To Draw Horses - A Beginner's Guide"
+          },
+          "teacher": {
+            "href": "/users/7947917",
+            "title": "JW Learning - Drawing the Body, Head and Hands"
+          },
+          "units": {
+            "href": "/classes/2099316932/units",
+            "title": "Units for Class: 2099316932"
+          },
+          "sessions": {
+            "href": "/classes/2099316932/sessions",
+            "title": "Sessions for Class: 2099316932"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/2099316932/students",
+            "title": "Students for Class: 2099316932"
+          },
+          "projects": {
+            "href": "/classes/2099316932/projects",
+            "title": "Projects for Class: 2099316932"
+          },
+          "reviews": {
+            "href": "/classes/2099316932/reviews",
+            "title": "Reviews for Class: 2099316932"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 7237290,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNzIzNzI5MCJ9",
+            "username": 7947917,
+            "first_name": "JW",
+            "last_name": "Learning",
+            "full_name": "JW Learning",
+            "vanity_username": "jwlearning",
+            "headline": "Drawing the Body, Head and Hands",
+            "pic": "https://static.skillshare.com/uploads/users/7947917/user-image-medium.jpg?369129469",
+            "pic_sm": "https://static.skillshare.com/uploads/users/7947917/user-image-small.jpg?1146750236",
+            "pic_lg": "https://static.skillshare.com/uploads/users/7947917/user-image-large.jpg?1153980292",
+            "_links": {
+              "self": {
+                "href": "/users/7947917",
+                "title": "JW Learning - Drawing the Body, Head and Hands"
+              },
+              "my_classes": {
+                "href": "/users/7947917/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/7947917/completions",
+                "title": "Completions for User: 7947917"
+              },
+              "discussions": {
+                "href": "/users/7947917/discussions",
+                "title": "Discussions for User: 7947917"
+              },
+              "followers": {
+                "href": "/users/7947917/followers",
+                "title": "Followers for User: 7947917"
+              },
+              "following": {
+                "href": "/users/7947917/following",
+                "title": "Following for User: 7947917"
+              },
+              "notifications": {
+                "href": "/users/7947917/notifications",
+                "title": "Notifications for User: 7947917"
+              },
+              "projects": {
+                "href": "/users/7947917/projects",
+                "title": "Projects for User: 7947917"
+              },
+              "rosters": {
+                "href": "/users/7947917/rosters",
+                "title": "Rosters for User: 7947917"
+              },
+              "userTags": {
+                "href": "/users/7947917/userTags",
+                "title": "UserTags for User: 7947917"
+              },
+              "votes": {
+                "href": "/users/7947917/votes",
+                "title": "Votes for User: 7947917"
+              },
+              "wishlist": {
+                "href": "/users/7947917/wishlist",
+                "title": "Wishlist for User: 7947917"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588947,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODk0NyJ9",
+        "sku": 427714569,
+        "title": "Productivity Tips to Make Your Life Easier",
+        "project_title": "Now that you've heard these hacks, share your top productivity tips with everyone.",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/81ecda201ac71782765ffaa218ab7d65/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/81ecda201ac71782765ffaa218ab7d65/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/81ecda201ac71782765ffaa218ab7d65/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Productivity-Tips-to-Make-Your-Life-Easier/427714569",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 3,
+        "total_videos_duration": "22m",
+        "total_videos_duration_seconds": 1341,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 37,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/427714569",
+            "title": "Productivity Tips to Make Your Life Easier"
+          },
+          "teacher": {
+            "href": "/users/164642187",
+            "title": "Michaela Curry - Digital content creator"
+          },
+          "units": {
+            "href": "/classes/427714569/units",
+            "title": "Units for Class: 427714569"
+          },
+          "sessions": {
+            "href": "/classes/427714569/sessions",
+            "title": "Sessions for Class: 427714569"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/427714569/students",
+            "title": "Students for Class: 427714569"
+          },
+          "projects": {
+            "href": "/classes/427714569/projects",
+            "title": "Projects for Class: 427714569"
+          },
+          "reviews": {
+            "href": "/classes/427714569/reviews",
+            "title": "Reviews for Class: 427714569"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 14778435,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMTQ3Nzg0MzUifQ==",
+            "username": 164642187,
+            "first_name": "Michaela",
+            "last_name": "Curry",
+            "full_name": "Michaela Curry",
+            "vanity_username": null,
+            "headline": "Digital content creator",
+            "pic": "https://static.skillshare.com/uploads/users/164642187/user-image-medium.jpg?95627469",
+            "pic_sm": "https://static.skillshare.com/uploads/users/164642187/user-image-small.jpg?1227214504",
+            "pic_lg": "https://static.skillshare.com/uploads/users/164642187/user-image-large.jpg?1158477810",
+            "_links": {
+              "self": {
+                "href": "/users/164642187",
+                "title": "Michaela Curry - Digital content creator"
+              },
+              "my_classes": {
+                "href": "/users/164642187/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/164642187/completions",
+                "title": "Completions for User: 164642187"
+              },
+              "discussions": {
+                "href": "/users/164642187/discussions",
+                "title": "Discussions for User: 164642187"
+              },
+              "followers": {
+                "href": "/users/164642187/followers",
+                "title": "Followers for User: 164642187"
+              },
+              "following": {
+                "href": "/users/164642187/following",
+                "title": "Following for User: 164642187"
+              },
+              "notifications": {
+                "href": "/users/164642187/notifications",
+                "title": "Notifications for User: 164642187"
+              },
+              "projects": {
+                "href": "/users/164642187/projects",
+                "title": "Projects for User: 164642187"
+              },
+              "rosters": {
+                "href": "/users/164642187/rosters",
+                "title": "Rosters for User: 164642187"
+              },
+              "userTags": {
+                "href": "/users/164642187/userTags",
+                "title": "UserTags for User: 164642187"
+              },
+              "votes": {
+                "href": "/users/164642187/votes",
+                "title": "Votes for User: 164642187"
+              },
+              "wishlist": {
+                "href": "/users/164642187/wishlist",
+                "title": "Wishlist for User: 164642187"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588949,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODk0OSJ9",
+        "sku": 1886349962,
+        "title": "Get Things Done: How To Organize Your Life And Take Action",
+        "project_title": "The point of our course is to be able to apply concepts in a practical manner - I want you to walk away from each video lesson with real, actionable skills (and not just dull theory).",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/7a664c2da835498144594a085f550c1b/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/7a664c2da835498144594a085f550c1b/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/7a664c2da835498144594a085f550c1b/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Get-Things-Done-How-To-Organize-Your-Life-And-Take-Action/1886349962",
+        "enrollment_type": 2,
+        "category": "Business",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "17m",
+        "total_videos_duration_seconds": 1008,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 136,
+        "num_projects": 2,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 12, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1886349962",
+            "title": "Get Things Done: How To Organize Your Life And Take Action"
+          },
+          "teacher": {
+            "href": "/users/266962301",
+            "title": "Abhijit Pramanik"
+          },
+          "units": {
+            "href": "/classes/1886349962/units",
+            "title": "Units for Class: 1886349962"
+          },
+          "sessions": {
+            "href": "/classes/1886349962/sessions",
+            "title": "Sessions for Class: 1886349962"
+          },
+          "category": {
+            "href": "/tags/business",
+            "title": "Business"
+          },
+          "students": {
+            "href": "/classes/1886349962/students",
+            "title": "Students for Class: 1886349962"
+          },
+          "projects": {
+            "href": "/classes/1886349962/projects",
+            "title": "Projects for Class: 1886349962"
+          },
+          "reviews": {
+            "href": "/classes/1886349962/reviews",
+            "title": "Reviews for Class: 1886349962"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27296907,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjcyOTY5MDcifQ==",
+            "username": 266962301,
+            "first_name": "Abhijit",
+            "last_name": "Pramanik",
+            "full_name": "Abhijit Pramanik",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_sm": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "pic_lg": "https://static.skillshare.com/assets/images/default-profile-2020.jpg",
+            "_links": {
+              "self": {
+                "href": "/users/266962301",
+                "title": "Abhijit Pramanik"
+              },
+              "my_classes": {
+                "href": "/users/266962301/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/266962301/completions",
+                "title": "Completions for User: 266962301"
+              },
+              "discussions": {
+                "href": "/users/266962301/discussions",
+                "title": "Discussions for User: 266962301"
+              },
+              "followers": {
+                "href": "/users/266962301/followers",
+                "title": "Followers for User: 266962301"
+              },
+              "following": {
+                "href": "/users/266962301/following",
+                "title": "Following for User: 266962301"
+              },
+              "notifications": {
+                "href": "/users/266962301/notifications",
+                "title": "Notifications for User: 266962301"
+              },
+              "projects": {
+                "href": "/users/266962301/projects",
+                "title": "Projects for User: 266962301"
+              },
+              "rosters": {
+                "href": "/users/266962301/rosters",
+                "title": "Rosters for User: 266962301"
+              },
+              "userTags": {
+                "href": "/users/266962301/userTags",
+                "title": "UserTags for User: 266962301"
+              },
+              "votes": {
+                "href": "/users/266962301/votes",
+                "title": "Votes for User: 266962301"
+              },
+              "wishlist": {
+                "href": "/users/266962301/wishlist",
+                "title": "Wishlist for User: 266962301"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588956,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODk1NiJ9",
+        "sku": 1073929388,
+        "title": "Mal mit mir in Procreate! - 'Retro Granny Squares'",
+        "project_title": "Lernt, wie man echt aussehende Granny Squares MALT (nicht häkelt! ;-) ) anhand von diesen Projekten:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6f064498e9a7b3f0553ff979c89f239a/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6f064498e9a7b3f0553ff979c89f239a/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6f064498e9a7b3f0553ff979c89f239a/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Mal-mit-mir-in-Procreate-Retro-Granny-Squares/1073929388",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 14,
+        "total_videos_duration": "1h 33m",
+        "total_videos_duration_seconds": 5570,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 43,
+        "num_projects": 1,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 28, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1073929388",
+            "title": "Mal mit mir in Procreate! - 'Retro Granny Squares'"
+          },
+          "teacher": {
+            "href": "/users/2806146",
+            "title": "Jutta Schneider - Teacher, Illustrauthor and Designer"
+          },
+          "units": {
+            "href": "/classes/1073929388/units",
+            "title": "Units for Class: 1073929388"
+          },
+          "sessions": {
+            "href": "/classes/1073929388/sessions",
+            "title": "Sessions for Class: 1073929388"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1073929388/students",
+            "title": "Students for Class: 1073929388"
+          },
+          "projects": {
+            "href": "/classes/1073929388/projects",
+            "title": "Projects for Class: 1073929388"
+          },
+          "reviews": {
+            "href": "/classes/1073929388/reviews",
+            "title": "Reviews for Class: 1073929388"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 8434017,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiODQzNDAxNyJ9",
+            "username": 2806146,
+            "first_name": "Jutta",
+            "last_name": "Schneider",
+            "full_name": "Jutta Schneider",
+            "vanity_username": "jutta_schneider",
+            "headline": "Teacher, Illustrauthor and Designer",
+            "pic": "https://static.skillshare.com/uploads/users/2806146/user-image-medium.jpg?283874198",
+            "pic_sm": "https://static.skillshare.com/uploads/users/2806146/user-image-small.jpg?1309798735",
+            "pic_lg": "https://static.skillshare.com/uploads/users/2806146/user-image-large.jpg?1886682087",
+            "_links": {
+              "self": {
+                "href": "/users/2806146",
+                "title": "Jutta Schneider - Teacher, Illustrauthor and Designer"
+              },
+              "my_classes": {
+                "href": "/users/2806146/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/2806146/completions",
+                "title": "Completions for User: 2806146"
+              },
+              "discussions": {
+                "href": "/users/2806146/discussions",
+                "title": "Discussions for User: 2806146"
+              },
+              "followers": {
+                "href": "/users/2806146/followers",
+                "title": "Followers for User: 2806146"
+              },
+              "following": {
+                "href": "/users/2806146/following",
+                "title": "Following for User: 2806146"
+              },
+              "notifications": {
+                "href": "/users/2806146/notifications",
+                "title": "Notifications for User: 2806146"
+              },
+              "projects": {
+                "href": "/users/2806146/projects",
+                "title": "Projects for User: 2806146"
+              },
+              "rosters": {
+                "href": "/users/2806146/rosters",
+                "title": "Rosters for User: 2806146"
+              },
+              "userTags": {
+                "href": "/users/2806146/userTags",
+                "title": "UserTags for User: 2806146"
+              },
+              "votes": {
+                "href": "/users/2806146/votes",
+                "title": "Votes for User: 2806146"
+              },
+              "wishlist": {
+                "href": "/users/2806146/wishlist",
+                "title": "Wishlist for User: 2806146"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588960,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODk2MCJ9",
+        "sku": 1066248252,
+        "title": "Arte botánico en acuarela: Ilustrando el movimiento y fluidez de las hojas",
+        "project_title": "El proyecto final de este curso será dibujar hojas de diferentes especies y formas de manera muy fluida y natural en una composición circular (tipo corona) y, finalmente, darle vida con acuarela. Esta",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/88ab303c33762153340a34a7ece0ffd3/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/88ab303c33762153340a34a7ece0ffd3/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/88ab303c33762153340a34a7ece0ffd3/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Arte-bot%C3%A1nico-en-acuarela-Ilustrando-el-movimiento-y-fluidez-de-las-hojas/1066248252",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 15,
+        "total_videos_duration": "2h 11m",
+        "total_videos_duration_seconds": 7839,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 145,
+        "num_projects": 1,
+        "num_discussions": 3,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 31, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1066248252",
+            "title": "Arte botánico en acuarela: Ilustrando el movimiento y fluidez de las hojas"
+          },
+          "teacher": {
+            "href": "/users/8310257",
+            "title": "Leslie Osterhage - ilustradora y artista"
+          },
+          "units": {
+            "href": "/classes/1066248252/units",
+            "title": "Units for Class: 1066248252"
+          },
+          "sessions": {
+            "href": "/classes/1066248252/sessions",
+            "title": "Sessions for Class: 1066248252"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1066248252/students",
+            "title": "Students for Class: 1066248252"
+          },
+          "projects": {
+            "href": "/classes/1066248252/projects",
+            "title": "Projects for Class: 1066248252"
+          },
+          "reviews": {
+            "href": "/classes/1066248252/reviews",
+            "title": "Reviews for Class: 1066248252"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 5553277,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiNTU1MzI3NyJ9",
+            "username": 8310257,
+            "first_name": "Leslie",
+            "last_name": "Osterhage",
+            "full_name": "Leslie Osterhage",
+            "vanity_username": "osterhage",
+            "headline": "ilustradora y artista",
+            "pic": "https://static.skillshare.com/uploads/users/8310257/user-image-medium.jpg?2123132534",
+            "pic_sm": "https://static.skillshare.com/uploads/users/8310257/user-image-small.jpg?29345837",
+            "pic_lg": "https://static.skillshare.com/uploads/users/8310257/user-image-large.jpg?1556238000",
+            "_links": {
+              "self": {
+                "href": "/users/8310257",
+                "title": "Leslie Osterhage - ilustradora y artista"
+              },
+              "my_classes": {
+                "href": "/users/8310257/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/8310257/completions",
+                "title": "Completions for User: 8310257"
+              },
+              "discussions": {
+                "href": "/users/8310257/discussions",
+                "title": "Discussions for User: 8310257"
+              },
+              "followers": {
+                "href": "/users/8310257/followers",
+                "title": "Followers for User: 8310257"
+              },
+              "following": {
+                "href": "/users/8310257/following",
+                "title": "Following for User: 8310257"
+              },
+              "notifications": {
+                "href": "/users/8310257/notifications",
+                "title": "Notifications for User: 8310257"
+              },
+              "projects": {
+                "href": "/users/8310257/projects",
+                "title": "Projects for User: 8310257"
+              },
+              "rosters": {
+                "href": "/users/8310257/rosters",
+                "title": "Rosters for User: 8310257"
+              },
+              "userTags": {
+                "href": "/users/8310257/userTags",
+                "title": "UserTags for User: 8310257"
+              },
+              "votes": {
+                "href": "/users/8310257/votes",
+                "title": "Votes for User: 8310257"
+              },
+              "wishlist": {
+                "href": "/users/8310257/wishlist",
+                "title": "Wishlist for User: 8310257"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588961,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODk2MSJ9",
+        "sku": 735755639,
+        "title": "Discovering Your Best Self",
+        "project_title": "For your Class Project, I want you guys to:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/6310726541112/1280-720",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/6310726541112/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/6310726541112/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Discovering-Your-Best-Self/735755639",
+        "enrollment_type": 2,
+        "category": "Lifestyle",
+        "price": null,
+        "num_videos": 9,
+        "total_videos_duration": "1h 39m",
+        "total_videos_duration_seconds": 5967,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 28,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/735755639",
+            "title": "Discovering Your Best Self"
+          },
+          "teacher": {
+            "href": "/users/646019045",
+            "title": "Limpho Pebane - Engineer"
+          },
+          "units": {
+            "href": "/classes/735755639/units",
+            "title": "Units for Class: 735755639"
+          },
+          "sessions": {
+            "href": "/classes/735755639/sessions",
+            "title": "Sessions for Class: 735755639"
+          },
+          "category": {
+            "href": "/tags/lifestyle",
+            "title": "Lifestyle"
+          },
+          "students": {
+            "href": "/classes/735755639/students",
+            "title": "Students for Class: 735755639"
+          },
+          "projects": {
+            "href": "/classes/735755639/projects",
+            "title": "Projects for Class: 735755639"
+          },
+          "reviews": {
+            "href": "/classes/735755639/reviews",
+            "title": "Reviews for Class: 735755639"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26585510,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjY1ODU1MTAifQ==",
+            "username": 646019045,
+            "first_name": "Limpho",
+            "last_name": "Pebane",
+            "full_name": "Limpho Pebane",
+            "vanity_username": null,
+            "headline": "Engineer",
+            "pic": "https://static.skillshare.com/uploads/users/646019045/user-image-medium.png?874634960",
+            "pic_sm": "https://static.skillshare.com/uploads/users/646019045/user-image-small.png?626867210",
+            "pic_lg": "https://static.skillshare.com/uploads/users/646019045/user-image-large.png?282277853",
+            "_links": {
+              "self": {
+                "href": "/users/646019045",
+                "title": "Limpho Pebane - Engineer"
+              },
+              "my_classes": {
+                "href": "/users/646019045/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/646019045/completions",
+                "title": "Completions for User: 646019045"
+              },
+              "discussions": {
+                "href": "/users/646019045/discussions",
+                "title": "Discussions for User: 646019045"
+              },
+              "followers": {
+                "href": "/users/646019045/followers",
+                "title": "Followers for User: 646019045"
+              },
+              "following": {
+                "href": "/users/646019045/following",
+                "title": "Following for User: 646019045"
+              },
+              "notifications": {
+                "href": "/users/646019045/notifications",
+                "title": "Notifications for User: 646019045"
+              },
+              "projects": {
+                "href": "/users/646019045/projects",
+                "title": "Projects for User: 646019045"
+              },
+              "rosters": {
+                "href": "/users/646019045/rosters",
+                "title": "Rosters for User: 646019045"
+              },
+              "userTags": {
+                "href": "/users/646019045/userTags",
+                "title": "UserTags for User: 646019045"
+              },
+              "votes": {
+                "href": "/users/646019045/votes",
+                "title": "Votes for User: 646019045"
+              },
+              "wishlist": {
+                "href": "/users/646019045/wishlist",
+                "title": "Wishlist for User: 646019045"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588966,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODk2NiJ9",
+        "sku": 1982097909,
+        "title": "Understanding JavaScript/ES modules",
+        "project_title": "For the project here, please create a web app with at least two modules and use at least:",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/d5c1ace7258d19439e08e7d40e520af8/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/d5c1ace7258d19439e08e7d40e520af8/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/d5c1ace7258d19439e08e7d40e520af8/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/Understanding-JavaScriptES-modules/1982097909",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 4,
+        "total_videos_duration": "45m",
+        "total_videos_duration_seconds": 2711,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 20,
+        "num_projects": 0,
+        "num_discussions": 1,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1982097909",
+            "title": "Understanding JavaScript/ES modules"
+          },
+          "teacher": {
+            "href": "/users/432458703",
+            "title": "Stephan Haewß"
+          },
+          "units": {
+            "href": "/classes/1982097909/units",
+            "title": "Units for Class: 1982097909"
+          },
+          "sessions": {
+            "href": "/classes/1982097909/sessions",
+            "title": "Sessions for Class: 1982097909"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1982097909/students",
+            "title": "Students for Class: 1982097909"
+          },
+          "projects": {
+            "href": "/classes/1982097909/projects",
+            "title": "Projects for Class: 1982097909"
+          },
+          "reviews": {
+            "href": "/classes/1982097909/reviews",
+            "title": "Reviews for Class: 1982097909"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 26647918,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjY2NDc5MTgifQ==",
+            "username": 432458703,
+            "first_name": "Stephan",
+            "last_name": "Haewß",
+            "full_name": "Stephan Haewß",
+            "vanity_username": null,
+            "headline": null,
+            "pic": "https://static.skillshare.com/uploads/users/432458703/user-image-medium.jpg?1235792837",
+            "pic_sm": "https://static.skillshare.com/uploads/users/432458703/user-image-small.jpg?506819743",
+            "pic_lg": "https://static.skillshare.com/uploads/users/432458703/user-image-large.jpg?1205435976",
+            "_links": {
+              "self": {
+                "href": "/users/432458703",
+                "title": "Stephan Haewß"
+              },
+              "my_classes": {
+                "href": "/users/432458703/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/432458703/completions",
+                "title": "Completions for User: 432458703"
+              },
+              "discussions": {
+                "href": "/users/432458703/discussions",
+                "title": "Discussions for User: 432458703"
+              },
+              "followers": {
+                "href": "/users/432458703/followers",
+                "title": "Followers for User: 432458703"
+              },
+              "following": {
+                "href": "/users/432458703/following",
+                "title": "Following for User: 432458703"
+              },
+              "notifications": {
+                "href": "/users/432458703/notifications",
+                "title": "Notifications for User: 432458703"
+              },
+              "projects": {
+                "href": "/users/432458703/projects",
+                "title": "Projects for User: 432458703"
+              },
+              "rosters": {
+                "href": "/users/432458703/rosters",
+                "title": "Rosters for User: 432458703"
+              },
+              "userTags": {
+                "href": "/users/432458703/userTags",
+                "title": "UserTags for User: 432458703"
+              },
+              "votes": {
+                "href": "/users/432458703/votes",
+                "title": "Votes for User: 432458703"
+              },
+              "wishlist": {
+                "href": "/users/432458703/wishlist",
+                "title": "Wishlist for User: 432458703"
+              }
+            }
+          },
+          "units": []
+        }
+      },
+      {
+        "id": 588969,
+        "gid": "eyJ0eXBlIjoiQ2xhc3MiLCJpZCI6IjU4ODk2OSJ9",
+        "sku": 1584348846,
+        "title": "How to Make Photo Cutout",
+        "project_title": "For your class project Use Pidio's lesson to inform a project of your own, or create an artwork based on an animal of your choice and animate it as I did in the class. Share your thoughts, questions, ",
+        "image_huge": "https://static.skillshare.com/uploads/video/thumbnails/686525897cf0b2e472408505c31f26ae/original",
+        "image_small": "https://static.skillshare.com/uploads/video/thumbnails/686525897cf0b2e472408505c31f26ae/448-252",
+        "image_thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/686525897cf0b2e472408505c31f26ae/220-124",
+        "web_url": "https://www.skillshare.com/en/classes/How-to-Make-Photo-Cutout/1584348846",
+        "enrollment_type": 2,
+        "category": "Creative",
+        "price": null,
+        "num_videos": 7,
+        "total_videos_duration": "2h 46m",
+        "total_videos_duration_seconds": 9940,
+        "num_reviews": 0,
+        "num_positive_reviews": 0,
+        "num_students": 685,
+        "num_projects": 0,
+        "num_discussions": 0,
+        "is_staff_pick": false,
+        "is_skillshare_produced": false,
+        "relative_publish_time": "Aug 11, 2022",
+        "actions": [],
+        "_links": {
+          "self": {
+            "href": "/classes/1584348846",
+            "title": "How to Make Photo Cutout"
+          },
+          "teacher": {
+            "href": "/users/140198927",
+            "title": "Mogamat Rikhotso - Animator"
+          },
+          "units": {
+            "href": "/classes/1584348846/units",
+            "title": "Units for Class: 1584348846"
+          },
+          "sessions": {
+            "href": "/classes/1584348846/sessions",
+            "title": "Sessions for Class: 1584348846"
+          },
+          "category": {
+            "href": "/tags/creative",
+            "title": "Creative"
+          },
+          "students": {
+            "href": "/classes/1584348846/students",
+            "title": "Students for Class: 1584348846"
+          },
+          "projects": {
+            "href": "/classes/1584348846/projects",
+            "title": "Projects for Class: 1584348846"
+          },
+          "reviews": {
+            "href": "/classes/1584348846/reviews",
+            "title": "Reviews for Class: 1584348846"
+          }
+        },
+        "_embedded": {
+          "teacher": {
+            "id": 27299096,
+            "gid": "eyJ0eXBlIjoiVXNlciIsImlkIjoiMjcyOTkwOTYifQ==",
+            "username": 140198927,
+            "first_name": "Mogamat",
+            "last_name": "Rikhotso",
+            "full_name": "Mogamat Rikhotso",
+            "vanity_username": null,
+            "headline": "Animator",
+            "pic": "https://static.skillshare.com/uploads/users/140198927/user-image-medium.jpg?205907283",
+            "pic_sm": "https://static.skillshare.com/uploads/users/140198927/user-image-small.jpg?1091390685",
+            "pic_lg": "https://static.skillshare.com/uploads/users/140198927/user-image-large.jpg?2033808610",
+            "_links": {
+              "self": {
+                "href": "/users/140198927",
+                "title": "Mogamat Rikhotso - Animator"
+              },
+              "my_classes": {
+                "href": "/users/140198927/classes",
+                "title": "My Classes"
+              },
+              "completions": {
+                "href": "/users/140198927/completions",
+                "title": "Completions for User: 140198927"
+              },
+              "discussions": {
+                "href": "/users/140198927/discussions",
+                "title": "Discussions for User: 140198927"
+              },
+              "followers": {
+                "href": "/users/140198927/followers",
+                "title": "Followers for User: 140198927"
+              },
+              "following": {
+                "href": "/users/140198927/following",
+                "title": "Following for User: 140198927"
+              },
+              "notifications": {
+                "href": "/users/140198927/notifications",
+                "title": "Notifications for User: 140198927"
+              },
+              "projects": {
+                "href": "/users/140198927/projects",
+                "title": "Projects for User: 140198927"
+              },
+              "rosters": {
+                "href": "/users/140198927/rosters",
+                "title": "Rosters for User: 140198927"
+              },
+              "userTags": {
+                "href": "/users/140198927/userTags",
+                "title": "UserTags for User: 140198927"
+              },
+              "votes": {
+                "href": "/users/140198927/votes",
+                "title": "Votes for User: 140198927"
+              },
+              "wishlist": {
+                "href": "/users/140198927/wishlist",
+                "title": "Wishlist for User: 140198927"
+              }
+            }
+          },
+          "units": []
+        }
+      }
+    ]
+  }
+}
