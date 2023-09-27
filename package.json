@@ -26,6 +26,7 @@
     "@types/jest": "^29.5.5",
     "@types/node": "^18.18.0",
     "@types/rimraf": "^4.0.5",
+    "@types/tough-cookie": "^4",
     "@typescript-eslint/eslint-plugin": "^6.7.3",
     "@typescript-eslint/parser": "^6.7.3",
     "babel-jest": "^29.7.0",
@@ -56,7 +57,9 @@
     "yarn": "3.6.3"
   },
   "dependencies": {
+    "cookies.txt": "^0.1.2",
     "got": "^13.0.0",
+    "tough-cookie": "^4.1.3",
     "zod": "^3.22.2"
   }
 }
