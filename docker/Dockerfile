@@ -1,4 +1,4 @@
-FROM node:18.18.0-alpine3.17
+FROM node:18.18.1-alpine3.17
 
 # OS packages
 RUN apk add --no-cache --upgrade \
