@@ -5956,7 +5956,7 @@ __metadata:
     rimraf: ^5.0.0
     ts-loader: ^9.4.2
     ts-node: ^10.9.1
-    typescript: ^4.9.4
+    typescript: ^5.0.0
     webpack: ^5.75.0
     webpack-cli: ^5.0.1
   languageName: unknown
@@ -7395,23 +7395,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.9.4":
-  version: 4.9.5
-  resolution: "typescript@npm:4.9.5"
+"typescript@npm:^5.0.0":
+  version: 5.2.2
+  resolution: "typescript@npm:5.2.2"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 73642308e93a7d7912683a219db657156775cc1a20a3df487ac08424dc762e3f4ae4163ff961ab49be703a0d66b5037bf04e7362b42a37054ec1f7a3d8ae0969
+  checksum: ea985e94d7fc5c70b55d842c9c1886159daa84f134f4420361caa066fb992538561177a6fa2772013df5aef4cd438d7ffe9869677aa1e9ab32895f5cdc9bf670
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.9.4#~builtin<compat/typescript>":
-  version: 4.9.5
-  resolution: "typescript@patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=289587"
+"typescript@patch:typescript@^5.0.0#~builtin<compat/typescript>":
+  version: 5.2.2
+  resolution: "typescript@patch:typescript@npm%3A5.2.2#~builtin<compat/typescript>::version=5.2.2&hash=f3b441"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 783a5fe0043b899b1203649032d7ee790c8242595378debfb15cf1ffd617a4542e16c8b2464b3811bfb5cca495b7c8b2d584be450b580954c950d4098a192987
+  checksum: 6b19056a0b718aafd6878fb59d0948c86f9269d2ef05785bd4f7a5a36b8c0eebd4058ce1561aab53d888350046eaf441371ce215d69fd261f2d580df1d1fea15
   languageName: node
   linkType: hard
 
