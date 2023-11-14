@@ -1,13 +1,11 @@
 {
+  "$schema": "https://json.schemastore.org/tsconfig",
   "extends": [
     "@tsconfig/node20/tsconfig.json",
-    "@tsconfig/strictest/tsconfig.json"
+    "@tsconfig/strictest/tsconfig.json",
   ],
   "compilerOptions": {
-    "module": "NodeNext",
-    "outDir": "dist",
-    "rootDir": "src"
-  },
-  "include": ["src/**/*"],
-  "exclude": ["src/**/*.spec.ts"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+  }
 }
