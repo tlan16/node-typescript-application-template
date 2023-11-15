@@ -4,7 +4,7 @@
   "scripts": {
     "start": "node --no-warnings=ExperimentalWarning --loader @swc-node/register/esm src/main.ts",
     "dev": "node --no-warnings=ExperimentalWarning --loader @swc-node/register/esm --watch src/main.ts",
-    "build": "tsc --project tsconfig.build.json",
+    "build": "del dist && tsc --project tsconfig.build.json",
     "test": "node --no-warnings=ExperimentalWarning --loader @swc-node/register/esm --test **/*.spec.ts",
     "lint": "eslint --ext .ts src/"
   },
@@ -24,6 +24,7 @@
     "@types/node": "^20.9.0",
     "@typescript-eslint/eslint-plugin": "^6.11.0",
     "@typescript-eslint/parser": "^6.11.0",
+    "del-cli": "^5.1.0",
     "eslint": "^8.53.0",
     "typescript": "^5.2.2"
   }

@@ -3,6 +3,10 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "incremental": false,
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "pretty": true,
   },
   "exclude": ["node_modules", "dist", "src/**/__tests__/*", "src/**/*.spec.ts"],
 }

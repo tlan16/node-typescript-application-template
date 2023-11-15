@@ -1,4 +1,4 @@
-# Yarn
+# node packages
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
@@ -14,3 +14,12 @@ node_modules
 
 # OS
 .DS_Store
+
+# Build
+dist
+
+# Coverage
+coverages
+
+# Logs
+*.log
