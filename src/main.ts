@@ -1,3 +1,3 @@
-import {getWelcomeMessage} from "./getWelcomeMessage";
+import {getWelcomeMessage} from "./getWelcomeMessage.js";
 
 console.log(getWelcomeMessage());

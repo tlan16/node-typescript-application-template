@@ -5,7 +5,10 @@
     "@tsconfig/strictest/tsconfig.json",
   ],
   "compilerOptions": {
-    "module": "ESNext",
-    "moduleResolution": "bundler",
-  }
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "outDir": "dist",
+  },
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules"],
 }
