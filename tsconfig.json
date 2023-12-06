@@ -11,4 +11,10 @@
   },
   "include": ["**/*.ts"],
   "exclude": ["node_modules"],
+  "ts-node": {
+    "esm": true,
+    "swc": true,
+    "transpileOnly": true,
+    "files": true,
+  },
 }
