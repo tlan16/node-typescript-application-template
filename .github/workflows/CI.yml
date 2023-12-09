@@ -25,6 +25,6 @@ jobs:
         id: app_lint_app
         run: docker compose -f docker/docker-compose.yml run --rm app lint
 
-#      - name: Run app tests
-#        id: app_test
-#        run: docker compose -f docker/docker-compose.yml run --rm app test
+      - name: Run app tests
+        id: app_test
+        run: docker compose -f docker/docker-compose.yml run --rm app test
