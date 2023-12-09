@@ -735,9 +735,9 @@ __metadata:
   linkType: hard
 
 "acorn-walk@npm:^8.1.1":
-  version: 8.3.0
-  resolution: "acorn-walk@npm:8.3.0"
-  checksum: 24346e595f507b6e704a60d35f3c5e1aa9891d4fb6a3fc3d856503ab718cc26cabb5e3e1ff0ff8da6ec03d60a8226ebdb602805a94f970e7f797ea3b8b09437f
+  version: 8.3.1
+  resolution: "acorn-walk@npm:8.3.1"
+  checksum: a23d2f7c6b6cad617f4c77f14dfeb062a239208d61753e9ba808d916c550add92b39535467d2e6028280761ac4f5a904cc9df21530b84d3f834e3edef74ddde5
   languageName: node
   linkType: hard
 
@@ -1961,7 +1961,7 @@ __metadata:
     eslint: "npm:^8.53.0"
     sinon: "npm:^17.0.1"
     swc_mut_cjs_exports: "npm:^0.86.17"
-    ts-node: "git@github.com:TypeStrong/ts-node.git"
+    ts-node: "npm:@tlan16/ts-node@11.0.0"
     typescript: "npm:^5.2.2"
   languageName: unknown
   linkType: soft
@@ -2860,9 +2860,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-node@git@github.com:TypeStrong/ts-node.git":
-  version: 11.0.0-beta.1
-  resolution: "ts-node@git@github.com:TypeStrong/ts-node.git#commit=c06cbe7d83b5585bb24f9963c42ce13eadd2202f"
+"ts-node@npm:@tlan16/ts-node@11.0.0":
+  version: 11.0.0
+  resolution: "@tlan16/ts-node@npm:11.0.0"
   dependencies:
     "@cspotcode/source-map-support": "npm:^0.8.0"
     "@tsconfig/node14": "npm:*"
@@ -2891,7 +2891,7 @@ __metadata:
     ts-node-esm: dist/bin-esm.js
     ts-node-script: dist/bin-script.js
     ts-node-transpile-only: dist/bin-transpile.js
-  checksum: 53a4ebfa60e0b1f1870d5aabf4d82f2329b85ac0d9d67ba2253ecf5457012c16d6216d92ec12371af9c8304edf09220d3cc00cd4ac8a942ef454eebfe18e3e20
+  checksum: 20ff15018fa61061e135539da9303e8bd77c59b7e059b0a6c2d8f9bd5dba74c9560d6dca1810a1e0b045d9d86d9ad2802fe761d382116e4e3121daf5b5e15e8a
   languageName: node
   linkType: hard
 

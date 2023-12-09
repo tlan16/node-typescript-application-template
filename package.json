@@ -30,7 +30,7 @@
     "eslint": "^8.53.0",
     "sinon": "^17.0.1",
     "swc_mut_cjs_exports": "^0.86.17",
-    "ts-node": "git@github.com:TypeStrong/ts-node.git",
+    "ts-node": "npm:@tlan16/ts-node@11.0.0",
     "typescript": "^5.2.2"
   },
   "dependencies": {
