@@ -2,10 +2,10 @@
   "name": "learn-node-esm",
   "type": "module",
   "scripts": {
-    "start": "node --no-warnings=ExperimentalWarning --loader @swc-node/register/esm src/main.ts",
-    "dev": "node --no-warnings=ExperimentalWarning --loader @swc-node/register/esm --watch src/main.ts",
+    "start": "node --env-file=.env --loader @swc-node/register/esm src/main.ts",
+    "dev": "node --env-file=.env --loader @swc-node/register/esm --watch src/main.ts",
     "build": "del dist && tsc --project tsconfig.build.json",
-    "test": "node --no-warnings=ExperimentalWarning --loader @swc-node/register/esm --test **/*.spec.ts",
+    "test": "node --env-file=.env --loader @swc-node/register/esm --test **/*.spec.ts",
     "lint": "eslint --ext .ts src/"
   },
   "main": "src/main.ts",
@@ -34,6 +34,7 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "@sindresorhus/is": "^6.1.0"
+    "@sindresorhus/is": "^6.1.0",
+    "zod": "^3.22.4"
   }
 }
