@@ -4,6 +4,7 @@
   "scripts": {
     "start": "node --env-file=.env --loader @swc-node/register/esm src/main.ts",
     "dev": "node --env-file=.env --loader @swc-node/register/esm --watch src/main.ts",
+    "check-types": "tsc --project tsconfig.build.json --noEmit",
     "build": "del dist && tsc --project tsconfig.build.json",
     "test": "node --env-file=.env --loader @swc-node/register/esm --test **/*.spec.ts",
     "lint": "eslint --ext .ts src/"
