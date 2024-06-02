@@ -1,12 +1,5 @@
 # node packages
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
 node_modules
-.pnp.*
 
 # Editors
 .idea
@@ -16,7 +9,7 @@ node_modules
 .DS_Store
 
 # Build
-dist
+/dist
 
 # Coverage
 coverages

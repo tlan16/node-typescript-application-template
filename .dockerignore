@@ -3,6 +3,7 @@ node_modules
 
 # Editors
 .idea
+.vscode
 
 # OS
 .DS_Store
@@ -19,6 +20,3 @@ coverages
 # docker
 Dockerfile
 docker-compose.yml
-
-# Data files
-src/database/sqlite.db

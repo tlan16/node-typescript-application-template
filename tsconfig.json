@@ -11,6 +11,12 @@
     "incremental": true,
     "noUnusedLocals": false, // Do this at lint level
   },
-  "include": ["**/*.ts"],
-  "exclude": ["node_modules"],
+  "include": [
+    "src/*.ts",
+    "src/**/*.ts",
+    "test/**/*.ts",
+  ],
+  "exclude": [
+    "node_modules",
+  ],
 }
