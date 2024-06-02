@@ -1,3 +1,6 @@
-import {getWelcomeMessage} from "./getWelcomeMessage.js";
+import {logger} from './utilities/logger'
+import {environmentVariables} from './utilities/environmentVariables'
 
-console.log(getWelcomeMessage());
+logger.debug(`App started.`, {environmentVariables})
+logger.debug({environmentVariables})
+logger.info('Hello, world!')
