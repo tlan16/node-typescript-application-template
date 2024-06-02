@@ -5,19 +5,53 @@ on:
 concurrency:
   group: "${{github.repository}}-${{ github.ref_name }}"
   cancel-in-progress: true
+
+permissions:
+  contents: write
+
 jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/bake-action@v4
+        with:
+          set: |
+            *.cache-from=type=gha
+            *.cache-to=type=gha,mode=max
+      - run: docker compose run --rm app lint
       - run: docker compose run --rm --build app lint
   test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/bake-action@v4
+        with:
+          set: |
+            *.cache-from=type=gha
+            *.cache-to=type=gha,mode=max
+      - run: docker compose run --rm app lint
       - run: docker compose run --rm --build app test
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/bake-action@v4
+        with:
+          set: |
+            *.cache-from=type=gha
+            *.cache-to=type=gha,mode=max
+      - run: docker compose run --rm app lint
       - run: docker compose run --rm --build app build
+  keep-alive:
+    needs:
+      - lint
+      - test
+      - build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/keepalive-workflow@v1
