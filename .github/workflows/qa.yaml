@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: docker compose run --rm app lint
+      - run: docker compose run --rm --build app lint
   test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: docker compose run --rm app test
+      - run: docker compose run --rm --build app test
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: docker compose run --rm app build
+      - run: docker compose run --rm --build app build
