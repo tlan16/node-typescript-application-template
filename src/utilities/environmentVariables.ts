@@ -1,6 +1,6 @@
-import {z} from "zod";
-import {levels, LevelWithSilent} from "pino";
-import {assert} from "@sindresorhus/is";
+import { z } from "zod";
+import { levels, LevelWithSilent } from "pino";
+import { assert } from "@sindresorhus/is";
 
 const levelName = Object.keys(levels.values) as LevelWithSilent[];
 assert.nonEmptyArray(levelName);

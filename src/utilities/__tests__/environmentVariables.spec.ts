@@ -1,5 +1,5 @@
-import {describe, it} from 'node:test'
-import {environmentVariables} from '../environmentVariables'
+import { describe, it } from 'node:test'
+import { environmentVariables } from '../environmentVariables'
 import assert from 'node:assert'
 
 describe('environmentVariables', () => {

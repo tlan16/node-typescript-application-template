@@ -1,6 +1,6 @@
-import {describe, it} from 'node:test'
+import { describe, it } from 'node:test'
 import assert from 'node:assert'
-import {logger} from '../logger'
+import { logger } from '../logger'
 
 describe('logger', () => {
   it('SHOULD have callable methods', () => {
