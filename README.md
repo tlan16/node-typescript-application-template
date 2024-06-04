@@ -9,3 +9,7 @@ It uses:
 5. pnpm and corepack for package management.
 6. latest eslint with flat config.
 7. Used eslint stylistic instead prettier.
+
+Sister project:
+
+1. https://github.com/tlan16/node-typescript-library-template
