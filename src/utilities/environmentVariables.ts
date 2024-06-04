@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { levels, LevelWithSilent } from "pino";
+import { levels, type LevelWithSilent } from "pino";
 
 const levelName = Object.keys(levels.values) as [LevelWithSilent, ...LevelWithSilent[]];
 
