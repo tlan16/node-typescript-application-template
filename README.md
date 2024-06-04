@@ -13,3 +13,7 @@ It uses:
 Sister project:
 
 1. https://github.com/tlan16/node-typescript-library-template
+
+Dev dependencies:
+
+1. [pipx](https://pipx.pypa.io/stable/installation/)
