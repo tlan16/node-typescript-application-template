@@ -1,7 +1,7 @@
-import js from '@eslint/js'
-import unusedImports from 'eslint-plugin-unused-imports'
-import stylisticTs from '@stylistic/eslint-plugin-ts'
-import stylisticJs from '@stylistic/eslint-plugin-js'
+import js from '@eslint/js';
+import unusedImports from 'eslint-plugin-unused-imports';
+import stylisticTs from '@stylistic/eslint-plugin-ts';
+import stylisticJs from '@stylistic/eslint-plugin-js';
 import eslint from '@eslint/js';
 import tseslint from 'typescript-eslint';
 
@@ -12,7 +12,7 @@ const globalIgnoreConfig = {
   ignores: [
     'examples/',
   ],
-}
+};
 
 /**
  * @type {import('eslint').Linter.FlatConfig}
@@ -22,7 +22,7 @@ const testFilesConfig = {
   rules: {
     '@typescript-eslint/no-floating-promises': 'off',
   },
-}
+};
 
 /**
  * @type {import('eslint').Linter.FlatConfig}
@@ -45,7 +45,7 @@ const unusedImportConfig = {
       },
     ],
   },
-}
+};
 
 const typescriptConfigs = tseslint.config(
   eslint.configs.recommended,
@@ -84,9 +84,10 @@ const stylingConfigs = [
       '@stylistic/ts/block-spacing': 'error',
       '@stylistic/ts/comma-dangle': ['error', 'always-multiline'],
       '@stylistic/ts/indent': ['error', 2],
+      '@stylistic/ts/semi': ['error'],
     },
   },
-]
+];
 
 export default [
   globalIgnoreConfig,
@@ -95,4 +96,4 @@ export default [
   ...typescriptConfigs,
   ...stylingConfigs,
   testFilesConfig,
-]
+];
