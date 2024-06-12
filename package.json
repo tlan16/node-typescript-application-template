@@ -2,10 +2,10 @@
   "name": "nodejs-application",
   "type": "module",
   "scripts": {
-    "start": "node --env-file=.env --no-warnings=ExperimentalWarning --loader @swc-node/register/esm src/main.ts",
-    "dev": "node  --env-file=.env --no-warnings=ExperimentalWarning --loader @swc-node/register/esm --watch src/main.ts",
+    "start": "node --env-file=.env --no-warnings=ExperimentalWarning --import @swc-node/register/esm-register src/main.ts",
+    "dev": "node  --env-file=.env --no-warnings=ExperimentalWarning --import @swc-node/register/esm-register --watch src/main.ts",
     "build": "del dist && tsc --project tsconfig.build.json",
-    "test": "node --env-file=.env --no-warnings=ExperimentalWarning --loader @swc-node/register/esm --test **/*.spec.ts",
+    "test": "node --env-file=.env --no-warnings=ExperimentalWarning --import @swc-node/register/esm-register --test **/*.spec.ts",
     "lint": "eslint",
     "check-types": "tsc --noEmit",
     "prepare": "husky"
