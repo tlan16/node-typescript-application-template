@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: docker/setup-buildx-action@v3
-      - uses: docker/bake-action@v4
+      - uses: docker/bake-action@v5
         with:
           set: |
             *.cache-from=type=gha
@@ -26,7 +26,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: docker/setup-buildx-action@v3
-      - uses: docker/bake-action@v4
+      - uses: docker/bake-action@v5
         with:
           set: |
             *.cache-from=type=gha
@@ -37,7 +37,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: docker/setup-buildx-action@v3
-      - uses: docker/bake-action@v4
+      - uses: docker/bake-action@v5
         with:
           set: |
             *.cache-from=type=gha
@@ -48,7 +48,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: docker/setup-buildx-action@v3
-      - uses: docker/bake-action@v4
+      - uses: docker/bake-action@v5
         with:
           set: |
             *.cache-from=type=gha
