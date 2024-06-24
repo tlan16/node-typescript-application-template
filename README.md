@@ -21,4 +21,4 @@ Dev dependencies:
 
 Known Issues:
 
-1. `@swc-node/register` is locked to version `1.9.1` due to esm related issues.
+1. Dev dependency `@swc-node/register` is locked to version `1.9.1` due to esm related issues.
