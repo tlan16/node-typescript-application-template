@@ -5,7 +5,6 @@ It uses:
 1. EcmaScript Modules (ESM)
 2. Native file watcher for dev server. No need for nodemon.
 3. Native .env file handler. No need for dotenv.
-4. Native testing and assertions. No need for jest.
 5. swc (written in Rust) as dev ts to js compiler for better performance.
 6. pnpm and corepack for package management.
 7. latest eslint with flat config.
