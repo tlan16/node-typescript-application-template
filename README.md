@@ -10,6 +10,7 @@ It uses:
 6. pnpm and corepack for package management.
 7. latest eslint with flat config.
 8. Used eslint stylistic instead prettier.
+9. ESM named export mocking with vitest. 
 
 Sister project:
 
