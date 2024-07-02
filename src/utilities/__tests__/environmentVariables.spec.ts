@@ -1,9 +1,8 @@
-import { describe, it } from 'node:test';
+import { describe, expect, it } from 'vitest';
 import { environmentVariables } from '../environmentVariables';
-import assert from 'node:assert';
 
 describe('environmentVariables', () => {
-  it('SHOULD have LOG_LEVEL', () => {
-    assert.ok(environmentVariables.LOG_LEVEL);
+  it.concurrent('SHOULD have LOG_LEVEL', () => {
+    expect(environmentVariables.LOG_LEVEL).toBeTruthy();
   });
 });

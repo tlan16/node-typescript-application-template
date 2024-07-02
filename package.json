@@ -2,10 +2,10 @@
   "name": "nodejs-application",
   "type": "module",
   "scripts": {
-    "start": "node --env-file=.env --no-warnings=ExperimentalWarning --import @swc-node/register/esm-register src/main.ts",
-    "dev": "node  --env-file=.env --no-warnings=ExperimentalWarning --import @swc-node/register/esm-register --watch src/main.ts",
+    "start": "node --env-file=.env --no-warnings=ExperimentalWarning --experimental-specifier-resolution=node --import @swc-node/register/esm-register src/main.ts",
+    "dev": "node  --env-file=.env --no-warnings=ExperimentalWarning --experimental-specifier-resolution=node --import @swc-node/register/esm-register --watch src/main.ts",
     "build": "del dist && tsc --incremental false",
-    "test": "node --env-file=.env --no-warnings=ExperimentalWarning --import @swc-node/register/esm-register --test **/*.spec.ts",
+    "test": "node --env-file=.env --no-warnings=ExperimentalWarning --experimental-specifier-resolution=node ./node_modules/vitest/vitest.mjs --run",
     "lint": "eslint",
     "check-types": "tsc --noEmit",
     "prepare": "husky"
@@ -32,7 +32,8 @@
     "lint-staged": "^15.2.7",
     "pino-pretty": "^11.2.1",
     "typescript": "^5.5.2",
-    "typescript-eslint": "^7.13.1"
+    "typescript-eslint": "^7.13.1",
+    "vitest": "^1.6.0"
   },
   "dependencies": {
     "pino": "^9.2.0",
