@@ -10,7 +10,8 @@ It uses:
 6. pnpm and corepack for package management.
 7. latest eslint with flat config.
 8. Used eslint stylistic instead prettier.
-9. ESM named export mocking with vitest. 
+9. ESM named export mocking with vitest.
+10. Dockerized CI steps that build CI docker image once and use for all following CI steps
 
 Sister project:
 
