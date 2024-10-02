@@ -1,0 +1,25 @@
+# node packages
+node_modules
+
+# Editors
+.idea
+.vscode
+
+# OS
+.DS_Store
+
+# Build
+/dist
+
+# Coverage
+coverages
+
+# Logs
+*.log
+
+# docker
+Dockerfile
+docker-compose.yml
+
+# git
+.git/

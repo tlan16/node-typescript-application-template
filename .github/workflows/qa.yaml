@@ -1,0 +1,64 @@
+---
+on:
+  push:
+  workflow_dispatch:
+concurrency:
+  group: "${{github.repository}}-${{ github.ref_name }}"
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/bake-action@v5
+        with:
+          set: |
+            *.cache-from=type=gha
+            *.cache-to=type=gha,mode=max
+  lint:
+    needs: prepare
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/bake-action@v5
+        with:
+          set: |
+            *.cache-from=type=gha
+      - run: docker compose run --rm app lint
+  test:
+    needs: prepare
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/bake-action@v5
+        with:
+          set: |
+            *.cache-from=type=gha
+      - run: docker compose run --rm app test
+  build:
+    needs: prepare
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/bake-action@v5
+        with:
+          set: |
+            *.cache-from=type=gha
+      - run: docker compose run --rm app build
+  keep-alive:
+    needs:
+      - lint
+      - test
+      - build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/keepalive-workflow@v2

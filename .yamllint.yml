@@ -1,0 +1,13 @@
+# @see https://yamllint.readthedocs.io/en/stable/rules.html
+---
+extends: default
+ignore: |
+  node_modules
+  pnpm-lock.yaml
+rules:
+  document-start:
+    level: error
+  line-length:
+    level: warning
+    max: 120
+  truthy: disable

@@ -1,0 +1,46 @@
+{
+  "name": "nodejs-application",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env --no-warnings=ExperimentalWarning --experimental-specifier-resolution=node --import @swc-node/register/esm-register src/main.ts",
+    "dev": "node  --env-file=.env --no-warnings=ExperimentalWarning --experimental-specifier-resolution=node --import @swc-node/register/esm-register --watch src/main.ts",
+    "build": "del dist && tsc --incremental false",
+    "test": "node --env-file=.env --no-warnings=ExperimentalWarning --experimental-specifier-resolution=node ./node_modules/vitest/vitest.mjs --run",
+    "lint": "eslint",
+    "check-types": "tsc --noEmit",
+    "prepare": "husky"
+  },
+  "main": "src/main.ts",
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "@stylistic/eslint-plugin-js": "^2.2.2",
+    "@stylistic/eslint-plugin-ts": "^2.2.2",
+    "@swc-node/register": "1.9.1",
+    "@swc/cli": "^0.4.0",
+    "@swc/core": "^1.6.5",
+    "@total-typescript/ts-reset": "^0.6.0",
+    "@tsconfig/node22": "^22.0.0",
+    "@tsconfig/strictest": "^2.0.5",
+    "@types/eslint__js": "^8.42.3",
+    "@types/lint-staged": "^13.3.0",
+    "@types/node": "^20.14.8",
+    "@types/user-agents": "^1.0.4",
+    "del-cli": "^5.1.0",
+    "eslint": "^9.5.0",
+    "eslint-plugin-unused-imports": "^4.0.0",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.7",
+    "pino-pretty": "^11.2.1",
+    "typescript": "^5.5.2",
+    "typescript-eslint": "^8.0.0",
+    "vitest": "^2.0.0"
+  },
+  "dependencies": {
+    "pino": "^9.2.0",
+    "zod": "^3.23.8"
+  },
+  "engines": {
+    "node": "^22.2.0"
+  },
+  "packageManager": "pnpm@9.12.0"
+}
