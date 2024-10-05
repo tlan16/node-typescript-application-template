@@ -3,14 +3,12 @@
 It uses:
 
 1. EcmaScript Modules (ESM)
-2. Native file watcher for dev server. No need for nodemon.
-3. Native .env file handler. No need for dotenv.
-5. swc (written in Rust) as dev ts to js compiler for better performance.
-6. pnpm and corepack for package management.
-7. latest eslint with flat config.
-8. Used eslint stylistic instead prettier.
-9. ESM named export mocking with vitest.
-10. Dockerized CI steps that build CI docker image once and use for all following CI steps
+2. Uses [tsx](https://github.com/privatenumber/tsx) as typescript executor for dev environment.
+3. pnpm and corepack for package management.
+4. latest eslint with flat config.
+5. Used eslint stylistic instead prettier.
+6. ESM named export mocking with vitest.
+7. Dockerized CI steps that build CI docker image once and use for all following CI steps
 
 Sister project:
 

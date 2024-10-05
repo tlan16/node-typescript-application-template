@@ -5,3 +5,4 @@ services:
     environment:
       - LOG_LEVEL
       - NODE_ENV
+      - CI

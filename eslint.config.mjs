@@ -92,8 +92,8 @@ const stylingConfigs = [
 export default [
   globalIgnoreConfig,
   js.configs.recommended,
-  unusedImportConfig,
   ...typescriptConfigs,
   ...stylingConfigs,
+  unusedImportConfig,
   testFilesConfig,
 ];
