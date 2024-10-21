@@ -6,7 +6,7 @@
     "dev": "tsx watch --env-file=.env src/main.ts",
     "build": "del dist && tsc --incremental false",
     "test": "vitest",
-    "lint": "eslint",
+    "lint": "eslint --fix",
     "check-types": "tsc --noEmit",
     "prepare": "husky"
   },

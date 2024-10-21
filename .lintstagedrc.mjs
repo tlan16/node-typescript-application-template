@@ -9,6 +9,6 @@ const config = {
   "*.yaml": "pipx run yamllint",
   "*.yml": "pipx run yamllint",
   ".husky/pre-commit": "pnpm dlx shellcheck",
-};
+}
 
-export default config;
+export default config

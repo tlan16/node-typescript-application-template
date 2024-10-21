@@ -1,5 +1,5 @@
-import { defineConfig } from 'vitest/config';
-import { join } from 'path';
+import { defineConfig } from 'vitest/config'
+import { join } from 'path'
 
 export default defineConfig({
   root: import.meta.dirname,
@@ -10,4 +10,4 @@ export default defineConfig({
       join(import.meta.dirname, 'vitest.setup.ts'),
     ],
   },
-});
+})
